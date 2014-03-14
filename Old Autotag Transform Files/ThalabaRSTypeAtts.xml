@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell>Distinct Values of type attribute on rs</cell>
+               <cell>Matching subtypes</cell>
+            </row>
+            <row>
+               <cell n="1">Distinct Values of type attribute on rs</cell>
+            </row>
+            <row>
+               <cell n="2">Matching subtypes</cell>
+            </row>
+            <row>
+               <cell n="3">religion</cell>
+            </row>
+            <row>
+               <cell n="4">script</cell>
+            </row>
+            <row>
+               <cell n="5">building</cell>
+            </row>
+            <row>
+               <cell n="6">bibl</cell>
+            </row>
+            <row>
+               <cell n="7">person</cell>
+            </row>
+            <row>
+               <cell n="8">earthworks</cell>
+            </row>
+            <row>
+               <cell n="9">miracle</cell>
+            </row>
+            <row>
+               <cell n="10">cosmopolitan</cell>
+            </row>
+            <row>
+               <cell n="11">wealth</cell>
+            </row>
+            <row>
+               <cell n="12">metaplace</cell>
+            </row>
+            <row>
+               <cell n="13">husbandry</cell>
+            </row>
+            <row>
+               <cell n="14">hunt</cell>
+            </row>
+            <row>
+               <cell n="15">place</cell>
+            </row>
+            <row>
+               <cell n="16">science</cell>
+            </row>
+            <row>
+               <cell n="17">imp</cell>
+            </row>
+            <row>
+               <cell n="18">image</cell>
+            </row>
+            <row>
+               <cell n="19">devastation</cell>
+            </row>
+            <row>
+               <cell n="20">song</cell>
+            </row>
+            <row>
+               <cell n="21">dream</cell>
+            </row>
+            <row>
+               <cell n="22">machine</cell>
+            </row>
+            <row>
+               <cell n="23">myth</cell>
+            </row>
+            <row>
+               <cell n="24">liberty</cell>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>
