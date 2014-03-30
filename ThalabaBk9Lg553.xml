@@ -1,224 +1,250 @@
-Mohareb_City	main: B9_lg553	Ragusa	               
-            Mohareb_City	main: B9_lg553	Constantinople	               
-            Mohareb_City	main: B9_lg553	Constantinople	               
-            Mohareb_City	main: B9_lg553	Christendom	               
-            Mohareb_City	main: B9_lg553	Islands of Barlovento	               
-            Mohareb_City	main: B9_lg553	Brazil	               
-            Mohareb_City	main: B9_lg553	Santa Marta	               
-            Mohareb_City	main: B9_lg553	Peru	               
-            Mohareb_City	main: B9_lg553	Arabia	               
-            Mohareb_City	main: B9_lg553	Brazil	               
-            Mohareb_City	main: B9_lg553	Java	               
-            Mohareb_City	main: B9_lg553	East Indies	               
-            Mohareb_City	main: B9_lg553	Java	               
-            Mohareb_City	main: B9_lg553	the world	               
-                           
-            Ragusa	note: B9_lg553	Mohareb_City	               
-            Ragusa	note: B9_lg553	Constantinople	               
-            Ragusa	note: B9_lg553	Constantinople	               
-            Ragusa	note: B9_lg553	Christendom	               
-            Ragusa	note: B9_lg553	Islands of Barlovento	               
-            Ragusa	note: B9_lg553	Brazil	               
-            Ragusa	note: B9_lg553	Santa Marta	               
-            Ragusa	note: B9_lg553	Peru	               
-            Ragusa	note: B9_lg553	Arabia	               
-            Ragusa	note: B9_lg553	Brazil	               
-            Ragusa	note: B9_lg553	Java	               
-            Ragusa	note: B9_lg553	East Indies	               
-            Ragusa	note: B9_lg553	Java	               
-            Ragusa	note: B9_lg553	the world	               
-                           
-            Constantinople	note: B9_lg553	Mohareb_City	               
-            Constantinople	note: B9_lg553	Ragusa	               
-            Constantinople	note: B9_lg553	Christendom	               
-            Constantinople	note: B9_lg553	Islands of Barlovento	               
-            Constantinople	note: B9_lg553	Brazil	               
-            Constantinople	note: B9_lg553	Santa Marta	               
-            Constantinople	note: B9_lg553	Peru	               
-            Constantinople	note: B9_lg553	Arabia	               
-            Constantinople	note: B9_lg553	Brazil	               
-            Constantinople	note: B9_lg553	Java	               
-            Constantinople	note: B9_lg553	East Indies	               
-            Constantinople	note: B9_lg553	Java	               
-            Constantinople	note: B9_lg553	the world	               
-                           
-            Constantinople	note: B9_lg553	Mohareb_City	               
-            Constantinople	note: B9_lg553	Ragusa	               
-            Constantinople	note: B9_lg553	Christendom	               
-            Constantinople	note: B9_lg553	Islands of Barlovento	               
-            Constantinople	note: B9_lg553	Brazil	               
-            Constantinople	note: B9_lg553	Santa Marta	               
-            Constantinople	note: B9_lg553	Peru	               
-            Constantinople	note: B9_lg553	Arabia	               
-            Constantinople	note: B9_lg553	Brazil	               
-            Constantinople	note: B9_lg553	Java	               
-            Constantinople	note: B9_lg553	East Indies	               
-            Constantinople	note: B9_lg553	Java	               
-            Constantinople	note: B9_lg553	the world	               
-                           
-            Christendom	note: B9_lg553	Mohareb_City	               
-            Christendom	note: B9_lg553	Ragusa	               
-            Christendom	note: B9_lg553	Constantinople	               
-            Christendom	note: B9_lg553	Constantinople	               
-            Christendom	note: B9_lg553	Islands of Barlovento	               
-            Christendom	note: B9_lg553	Brazil	               
-            Christendom	note: B9_lg553	Santa Marta	               
-            Christendom	note: B9_lg553	Peru	               
-            Christendom	note: B9_lg553	Arabia	               
-            Christendom	note: B9_lg553	Brazil	               
-            Christendom	note: B9_lg553	Java	               
-            Christendom	note: B9_lg553	East Indies	               
-            Christendom	note: B9_lg553	Java	               
-            Christendom	note: B9_lg553	the world	               
-                           
-            Islands of Barlovento	note: B9_lg553	Mohareb_City	               
-            Islands of Barlovento	note: B9_lg553	Ragusa	               
-            Islands of Barlovento	note: B9_lg553	Constantinople	               
-            Islands of Barlovento	note: B9_lg553	Constantinople	               
-            Islands of Barlovento	note: B9_lg553	Christendom	               
-            Islands of Barlovento	note: B9_lg553	Brazil	               
-            Islands of Barlovento	note: B9_lg553	Santa Marta	               
-            Islands of Barlovento	note: B9_lg553	Peru	               
-            Islands of Barlovento	note: B9_lg553	Arabia	               
-            Islands of Barlovento	note: B9_lg553	Brazil	               
-            Islands of Barlovento	note: B9_lg553	Java	               
-            Islands of Barlovento	note: B9_lg553	East Indies	               
-            Islands of Barlovento	note: B9_lg553	Java	               
-            Islands of Barlovento	note: B9_lg553	the world	               
-                           
-            Brazil	note: B9_lg553	Mohareb_City	               
-            Brazil	note: B9_lg553	Ragusa	               
-            Brazil	note: B9_lg553	Constantinople	               
-            Brazil	note: B9_lg553	Constantinople	               
-            Brazil	note: B9_lg553	Christendom	               
-            Brazil	note: B9_lg553	Islands of Barlovento	               
-            Brazil	note: B9_lg553	Santa Marta	               
-            Brazil	note: B9_lg553	Peru	               
-            Brazil	note: B9_lg553	Arabia	               
-            Brazil	note: B9_lg553	Brazil	               
-            Brazil	note: B9_lg553	Java	               
-            Brazil	note: B9_lg553	East Indies	               
-            Brazil	note: B9_lg553	Java	               
-            Brazil	note: B9_lg553	the world	               
-                           
-            Santa Marta	note: B9_lg553	Mohareb_City	               
-            Santa Marta	note: B9_lg553	Ragusa	               
-            Santa Marta	note: B9_lg553	Constantinople	               
-            Santa Marta	note: B9_lg553	Constantinople	               
-            Santa Marta	note: B9_lg553	Christendom	               
-            Santa Marta	note: B9_lg553	Islands of Barlovento	               
-            Santa Marta	note: B9_lg553	Brazil	               
-            Santa Marta	note: B9_lg553	Peru	               
-            Santa Marta	note: B9_lg553	Arabia	               
-            Santa Marta	note: B9_lg553	Brazil	               
-            Santa Marta	note: B9_lg553	Java	               
-            Santa Marta	note: B9_lg553	East Indies	               
-            Santa Marta	note: B9_lg553	Java	               
-            Santa Marta	note: B9_lg553	the world	               
-                           
-            Peru	note: B9_lg553	Mohareb_City	               
-            Peru	note: B9_lg553	Ragusa	               
-            Peru	note: B9_lg553	Constantinople	               
-            Peru	note: B9_lg553	Constantinople	               
-            Peru	note: B9_lg553	Christendom	               
-            Peru	note: B9_lg553	Islands of Barlovento	               
-            Peru	note: B9_lg553	Brazil	               
-            Peru	note: B9_lg553	Santa Marta	               
-            Peru	note: B9_lg553	Arabia	               
-            Peru	note: B9_lg553	Brazil	               
-            Peru	note: B9_lg553	Java	               
-            Peru	note: B9_lg553	East Indies	               
-            Peru	note: B9_lg553	Java	               
-            Peru	note: B9_lg553	the world	               
-                           
-            Arabia	note: B9_lg553	Mohareb_City	               
-            Arabia	note: B9_lg553	Ragusa	               
-            Arabia	note: B9_lg553	Constantinople	               
-            Arabia	note: B9_lg553	Constantinople	               
-            Arabia	note: B9_lg553	Christendom	               
-            Arabia	note: B9_lg553	Islands of Barlovento	               
-            Arabia	note: B9_lg553	Brazil	               
-            Arabia	note: B9_lg553	Santa Marta	               
-            Arabia	note: B9_lg553	Peru	               
-            Arabia	note: B9_lg553	Brazil	               
-            Arabia	note: B9_lg553	Java	               
-            Arabia	note: B9_lg553	East Indies	               
-            Arabia	note: B9_lg553	Java	               
-            Arabia	note: B9_lg553	the world	               
-                           
-            Brazil	note: B9_lg553	Mohareb_City	               
-            Brazil	note: B9_lg553	Ragusa	               
-            Brazil	note: B9_lg553	Constantinople	               
-            Brazil	note: B9_lg553	Constantinople	               
-            Brazil	note: B9_lg553	Christendom	               
-            Brazil	note: B9_lg553	Islands of Barlovento	               
-            Brazil	note: B9_lg553	Brazil	               
-            Brazil	note: B9_lg553	Santa Marta	               
-            Brazil	note: B9_lg553	Peru	               
-            Brazil	note: B9_lg553	Arabia	               
-            Brazil	note: B9_lg553	Java	               
-            Brazil	note: B9_lg553	East Indies	               
-            Brazil	note: B9_lg553	Java	               
-            Brazil	note: B9_lg553	the world	               
-                           
-            Java	note: B9_lg553	Mohareb_City	               
-            Java	note: B9_lg553	Ragusa	               
-            Java	note: B9_lg553	Constantinople	               
-            Java	note: B9_lg553	Constantinople	               
-            Java	note: B9_lg553	Christendom	               
-            Java	note: B9_lg553	Islands of Barlovento	               
-            Java	note: B9_lg553	Brazil	               
-            Java	note: B9_lg553	Santa Marta	               
-            Java	note: B9_lg553	Peru	               
-            Java	note: B9_lg553	Arabia	               
-            Java	note: B9_lg553	Brazil	               
-            Java	note: B9_lg553	East Indies	               
-            Java	note: B9_lg553	Java	               
-            Java	note: B9_lg553	the world	               
-                           
-            East Indies	note: B9_lg553	Mohareb_City	               
-            East Indies	note: B9_lg553	Ragusa	               
-            East Indies	note: B9_lg553	Constantinople	               
-            East Indies	note: B9_lg553	Constantinople	               
-            East Indies	note: B9_lg553	Christendom	               
-            East Indies	note: B9_lg553	Islands of Barlovento	               
-            East Indies	note: B9_lg553	Brazil	               
-            East Indies	note: B9_lg553	Santa Marta	               
-            East Indies	note: B9_lg553	Peru	               
-            East Indies	note: B9_lg553	Arabia	               
-            East Indies	note: B9_lg553	Brazil	               
-            East Indies	note: B9_lg553	Java	               
-            East Indies	note: B9_lg553	Java	               
-            East Indies	note: B9_lg553	the world	               
-                           
-            Java	note: B9_lg553	Mohareb_City	               
-            Java	note: B9_lg553	Ragusa	               
-            Java	note: B9_lg553	Constantinople	               
-            Java	note: B9_lg553	Constantinople	               
-            Java	note: B9_lg553	Christendom	               
-            Java	note: B9_lg553	Islands of Barlovento	               
-            Java	note: B9_lg553	Brazil	               
-            Java	note: B9_lg553	Santa Marta	               
-            Java	note: B9_lg553	Peru	               
-            Java	note: B9_lg553	Arabia	               
-            Java	note: B9_lg553	Brazil	               
-            Java	note: B9_lg553	Java	               
-            Java	note: B9_lg553	East Indies	               
-            Java	note: B9_lg553	the world	               
-                           
-            the world	note: B9_lg553	Mohareb_City	               
-            the world	note: B9_lg553	Ragusa	               
-            the world	note: B9_lg553	Constantinople	               
-            the world	note: B9_lg553	Constantinople	               
-            the world	note: B9_lg553	Christendom	               
-            the world	note: B9_lg553	Islands of Barlovento	               
-            the world	note: B9_lg553	Brazil	               
-            the world	note: B9_lg553	Santa Marta	               
-            the world	note: B9_lg553	Peru	               
-            the world	note: B9_lg553	Arabia	               
-            the world	note: B9_lg553	Brazil	               
-            the world	note: B9_lg553	Java	               
-            the world	note: B9_lg553	East Indies	               
-            the world	note: B9_lg553	Java	               
-                           
-            
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801)</title>
+            <author>Robert Southey</author>
+
+            <editor>Elisa E. Beshero-Bondar</editor>
+
+
+            <sponsor>
+               <orgName>Integrated Digital Humanities</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+            </respStmt>
+
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 27 June 2013. P5.</edition>
+
+         </editionStmt>
+
+         <publicationStmt>
+            <authority>Integrated Digital Humanities at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date instant="false">2013</date>
+            <availability default="false" status="unknown">
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+
+         <notesStmt>
+            <note anchored="true">Any special notes on this text? (optional)</note>
+            <note anchored="true">You can have multiple notes here.</note>
+         </notesStmt>
+
+         <sourceDesc default="false">
+            <p part="N">This text is based on the Project Gutenberg eBook of <bibl default="false"
+                  status="draft">
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date instant="false">1801</date>. </bibl> Release
+               date: <date instant="false"/> [Ebook #39804] Public domain in the USA. </p>
+            <p part="N">This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl default="false">
+            <p part="N">Describes our editorial practice.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <head>
+               <bibl default="false" status="draft">
+                  <title>Thalaba the Destroyer</title> (<date instant="false">1801</date>) by
+                  <author>Robert Southey</author>
+               </bibl>
+            </head>
+            <div type="volume">
+               <head>THE SECOND VOLUME.</head>
+               <div type="book" xml:id="Book_9">
+                  
+                  <head>THE NINTH BOOK.</head>
+                
+               <lg xml:id="B9_lg553">
+                  <l rend="i0" n="4922">Then Maimuna grew pale, as <placeName ref="Mohareb_City">thro the bars</placeName></l>
+                  <l rend="i0" n="4923">She saw the Martyr pendant by the feet,</l>
+                  <l rend="i0" n="4924">His gold locks hanging downwards, and she cried,</l>
+                  <l rend="i4" n="4925">"This is <rs type="person" ref="Khawla">my Sister</rs>'s deed!</l>
+                  <l rend="i4" n="4926">"O Thalaba, for us,</l>
+                  <l rend="i0" n="4927"><rs type="religion" subtype="Christian">"Not for his faith the red-haired Christian dies.</rs></l>
+                  
+                     <l rend="i0" n="4928">"She wants the foam<ref target="#N_160">
+                        <note type="author" anchored="true" xml:id="N_160">
+                           <p part="N"><rs type="science" subtype="chem"> A Physician of <placeName>Ragusa</placeName>
+                            was deputed by <rs type="place" ref="Ragusa">that little Republic</rs>
+                              to negotiate with the Emperor of the Turks. Before he embarked on
+                              this voyage he took into his service a boy of a red complection,
+                              the only son of a widow, a poor woman, but a woman of honour and
+                                 virtuous. This Envoy on his arrival at <placeName>Constantinople</placeName> immediately
+                              addressed himself to the first Physician of his imperial highness,
+                              that thro' his favour he might have more access to negociate for
+                              his country. he Mahometan had no sooner set eyes on the young
+                              Ragusan, than he employed every artifice to induce his master to
+                              leave him. The boy himself, at last, wishing to remain at
+                              <placeName>Constantinople</placeName>, flattered by the fair prospects that were held out
+                              to him, and touched with a tender and heroic compassion for her who
+                              had given him birth, prayed his protector to leave him with the
+                              Barbarian, and carry to his mother the money which on that account
+                              he would receive: So that the Ragusan physician left his servant to
+                             the Byzantian, and received from him a purse of a thousand sequins.
+                              After some days the Italian went to take leave of the Mohammedan
+                                 Physician, and to thank him for his favours; and he requested
+                              earnestly to see the red-headed boy before his departure. The Turk
+                              was obliged to own he had made poison of him, and led him into a
+                              chamber where the naked body of the boy was still suspended by the
+                              feet. The first master of the red-headed boy was greatly surprized
+                              at the sight and still more so when he heard that the boy had been
+                              beaten upon the belly for six hours, by slaves who relieved one
+                              another, till he died: and that a poison was made of the last foam
+                              that came from his mouth, so penetrating, that if the stirrup of a
+                              horse were touched with the point of a pin that had been dipt in
+                              it, he who should mount would immediately die.</rs> <bibl default="false" status="draft">Plaidoyers Historiques par M.
+                                 Tristan.</bibl> 1650. </p>
+                           <p part="N"> In this volume the pleadings of the Mother against the
+                              Ragusan physician, and his defence are given. The Mother says, it
+                              is impossible that he, being a Physician himself, should not have
+                              known for what the Infidel Physician wanted to purchase a
+                              red-headed boy, as he himself would have made the same use of him
+                              had he not been afraid of the laws, the rest is in the usual stile
+                              of <bibl>Tristan's rhetoric</bibl>. </p>
+                           <p part="N"> As 
+                              <rs type="religion" subtype="Islam">the Moslem</rs>
+                            employed a red-headed <rs type="religion" subtype="Christian">Christian</rs>
+                            in this manufactory, it should seem that a Turk ought to be used in
+                              <placeName>Christendom</placeName>. But as Turks are not easily caught, a <rs type="religion" subtype="Judaism">Jew</rs> might do. </p>
+                           <p part="N"> In the <placeName>Islands of Barlovento</placeName> and in all the country of
+                              <placeName>Brazil</placeName>, in <placeName>Santa Marta</placeName> and in <rs type="place">the new kingdom</rs>, and in other
+                              countries, where a cruel sort of Indians inhabited, they used
+                              another sort of poison; for they would take the leg of an Indian
+                                 whom they had killed, and hang it up in the air against the sun,
+                              and fill it with many barbs of poisoned arrows, which were taken
+                              out of the flesh of an Indian, which after some days they took out,
+                              and without cleansing of them, they dried them in the air where the
+                              sun did not come, and then they headed their arrows with them; and
+                              that became the most malevolent poison, and the most hard to be
+                              cured in the world. After the Spaniards came into that country and
+                              waged war upon the Indians, they then made it with the flesh of
+                              Spaniards, whom they killed or took; but more particularly they
+                              desired the flesh of some red-headed Spaniard, whose hairs were of
+                              a deep saffron colour; for they were of opinion that there was more
+                              heat in that flesh, and consequently more virulency in the poison
+                              which it produced: but perhaps they may have heard it often said
+                              amongst the Spaniards themselves, that red-headed men are fit to
+                              make a composition of poison. <bibl default="false" status="draft">Garcilasso's Royal Commentaries of <placeName>Peru</placeName>.</bibl>
+                           </p>
+                           <p part="N">
+                              <q>"Three ounces of a red-haired wench"</q> were among the
+                              ingredients of the witch-caldron in <bibl default="false" status="draft">
+                                 <title>Macbeth</title>
+                              </bibl>. <rs type="science" subtype="diag">Why red-hair was supposed to be a symptom of leprosy, was
+                                 one of the questions proposed by Michaelis to Niebuhr and his
+                                 fellow-travellers for investigation.</rs> It is singular that at the
+                              time when these opinions prevailed universally, golden locks should
+                              enter into almost every description of female beauty. If the word
+                              of a poet may he taken (and the rhymer now quoted cannot be
+                              suspected of invention enough for a lie,) the ladies even wore red
+                              wigs, for he says of Absalom 
+                           </p>
+                           <q>
+                              <lg xml:lang="es">
+                                 <l rend="i0" part="N">Hasta los hombros pende su cabello</l>
+                                 <l rend="i0" part="N">Mas que el oro de <placeName>Arabia</placeName> roxo y bello.</l>
+                              </lg>
+                              <lg xml:lang="es">
+                                 <l rend="i0" part="N">Cada año qual renuevo lo cortava</l>
+                                 <l rend="i1" part="N">A damas se vendia para ornato.</l>
+                                 <l rend="i8" part="N">
+                                    <hi rend="italic"><bibl>
+                                       David, del <author>Doctor Jacobo Uziel</author>.
+                                    </bibl></hi>
+                                 </l>
+                              </lg>
+                           </q>
+                           <q>
+                              <lg>
+                                 <l rend="i0" part="N">Adown his shoulders his long tresses
+                                    roll'd,</l>
+                                 <l rend="i0" part="N">More beautiful and red than Eastern
+                                    gold,</l>
+                                 <l rend="i0" part="N">And annual as he cropt, the envied
+                                    hair</l>
+                                 <l rend="i0" part="N">Was yearly sold to ornament the fair.</l>
+                              </lg>
+                           </q>
+                           <p part="N"> The Javanese had a method of procuring poison similar to
+                              the Turkish receipt which I have employed. </p>
+                           <p part="N"> The Cameleon, or Indian Salamander, otherwise called
+                              Gekko. </p>
+                           <p part="N"> This creature, which is not only found in <placeName ref="Brazil">Brasil</placeName>, but
+                              also in the <placeName ref="Java">Isle of Java</placeName>, belonging to the <placeName>East Indies</placeName>, and which
+                              by our people is called Gekko, from its constant cry, (like among
+                              us that of the Cuckoe) is properly an Indian Salamander. It is
+                              about a foot long, its skin of of a pale or sea green colour, with
+                              red spots. The head is not unlike that of a tortoise, with a
+                              streight mouth. The eyes are very large, starting out of the head,
+                              with long and small eye-apples. The tail is distinguished by
+                              several white rings; its teeth are so sharp as to make an
+                              impression even upon steel. Each of its four legs had five crooked
+                              claws aimed on the end with nails. Its gait is very slow, but
+                              wherever it fastens it is not easily removed. It dwells commonly
+                              upon rotten trees, or among the ruines of old houses and churches;
+                              it oftentimes settles near the bedsteads, which makes sometimes the
+                              moors pull down their huts. </p>
+                           <p part="N"> Its constant cry is <hi rend="italic">gekko</hi>, but
+                              before it begins it makes a kind of hissing noise. The sting of
+                              this creature is so venomous, that the wound proves mortal, unless
+                              it be immediately burnt with a red hot iron, or cut off. The blood
+                              is of a palish colour, resembling poison itself. </p>
+                           <p part="N"> The Javanese use to dip their arrows in the blood of this
+                              creature; and those who deal in poisons among them, (an art much
+                              esteemed in the <geogFeat>island</geogFeat> of <placeName>Java</placeName>, by both sexes) hang it up with a
+                              string tied to the tail on the cieling, by which means it being
+                              exasperated to the highest pitch sends forth a yellow liquor out of
+                              its mouth, which they gather in small pots set underneath, and
+                              afterwards coagulate into a body in the sun. This they continue for
+                              several months together, by giving daily food to the creature. It
+                              is unquestionably the strongest poison in <placeName>the world</placeName>; its urine
+                              being of so corrosive a quality, that it not only raises blisters,
+                              wherever it touches the skin, but turns the flesh black, and causes
+                              a gangrene. <bibl default="false" status="draft">Nieuhoff.</bibl>
+                           </p>
+                           <p part="N"> Is there any analogy between a foam thus procured and the
+                              saliva of a mad dog?</p>
+                        </note>
+                     </ref> that in his agony,</l>
+                     <l rend="i4" n="4938">"Last from his lips shall fall,</l>
+                     <l rend="i0" n="4939">"The deadliest poison that <name type="divin">the Devils</name> know.</l>
+                     <l rend="i2" n="4940">"Son of Hodeirah, thou and I</l>
+                     <l rend="i4" n="4941">"Shall prove its deadly force!"</l>
+                  
+               </lg>
+               
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
