@@ -10,7 +10,7 @@
           
                  <xsl:apply-templates select="//body" mode="places"/>
                        
-               <!-- <xsl:apply-templates select="//body" mode="metaplaces"/>-->
+             <xsl:apply-templates select="//body" mode="metaplaces"/>
  
         
                        
@@ -44,7 +44,7 @@
                 <xsl:text>&#x9;</xsl:text>
                 </xsl:variable> 
                 
-                <xsl:for-each select="ancestor::lg//placeName[not(. = current())] | ancestor::lg//rs[@type='place'][not (@subtype='language')][not(. = current())]">
+                <xsl:for-each select="ancestor::lg//placeName[not(. = current())] | ancestor::lg//rs[@type='place'][not (@subtype='language')][not(. = current())] | ancestor::lg//rs[@type='metaplace'][not(@subtype='simil')][not(. = current())]">
                     <xsl:value-of select="$Node1Edge"/>
                     
                     <xsl:choose>
@@ -100,7 +100,7 @@
             <xsl:text>&#x9;</xsl:text>
      </xsl:variable>
      
-     <xsl:for-each select="ancestor::lg//placeName[not(. = current())] | ancestor::lg//rs[@type='place'][not (@subtype='language')][not(. = current())]">
+     <xsl:for-each select="ancestor::lg//placeName[not(. = current())] | ancestor::lg//rs[@type='place'][not (@subtype='language')][not(. = current())] | ancestor::lg//rs[@type='metaplace'][not(@subtype='simil')][not(. = current())]">
          <xsl:value-of select="$NodeRSEdge"/>
          
          <xsl:choose>
@@ -122,12 +122,13 @@
         
     </xsl:template>
     
-   <!-- <xsl:template match="body" mode="metaplaces">
+<xsl:template match="body" mode="metaplaces">
         
         <xsl:for-each select="//rs[@type='metaplace'][not(@subtype='simil')]">
+            <xsl:variable name="MetaNodeEdge">
             <xsl:choose>
-            <xsl:when test="./@ref">
-            <xsl:apply-templates select="./@ref"/>
+            <xsl:when test="@ref">
+            <xsl:apply-templates select="@ref"/>
                 <xsl:text>&#x9;</xsl:text>
             </xsl:when>
            <xsl:otherwise>
@@ -135,7 +136,7 @@
            </xsl:otherwise>
             </xsl:choose>
             
-            <xsl:choose><xsl:when test="./ancestor::note">
+            <xsl:choose><xsl:when test="ancestor::note">
                 <xsl:text>note: </xsl:text>
             </xsl:when>
                 <xsl:otherwise>
@@ -145,17 +146,35 @@
             <xsl:choose>
                 <xsl:when test=".[ancestor::lg]">
                 
-            <xsl:apply-templates select="./ancestor::lg/@xml:id"/>
+            <xsl:apply-templates select="ancestor::lg/@xml:id"/>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:apply-templates select=".//lg/@xml:id"/>
                 </xsl:otherwise>
             </xsl:choose>
             <xsl:text>&#x9;</xsl:text>
+            </xsl:variable>
+            
+            <xsl:for-each select="ancestor::lg//placeName[not(. = current())] | ancestor::lg//rs[@type='place'][not (@subtype='language')][not(. = current())] | ancestor::lg//rs[@type='metaplace'][not(@subtype='simil')][not(. = current())]">
+                <xsl:value-of select="$MetaNodeEdge"/>
+                
+                <xsl:choose>
+                    <xsl:when test="@ref">
+                        <xsl:value-of select="@ref"/>
+                        <xsl:text>&#x9;</xsl:text> 
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select='.'/><xsl:text>&#x9;</xsl:text>
+                    </xsl:otherwise>
+                </xsl:choose>  
+                <xsl:text>               
+            </xsl:text>
+            </xsl:for-each>
             <xsl:text>               
             </xsl:text>
+           
         </xsl:for-each>
-    </xsl:template>-->
+    </xsl:template>
     
 
 </xsl:stylesheet>

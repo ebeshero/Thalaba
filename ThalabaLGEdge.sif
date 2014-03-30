@@ -194,14 +194,17 @@
             Hirah	main: B1_lg14	the East	               
                            
                            
+            Universe	main: B1_lg19	Irem_removed	               
             Universe	main: B1_lg19	the_world	               
                            
+            the_world	main: B1_lg19	Irem_removed	               
             the_world	main: B1_lg19	Universe	               
                            
             The Paradise of Irem	main: B1_lg20	Al_Ahkaf	               
             The Paradise of Irem	main: B1_lg20	Hadramaut	               
             The Paradise of Irem	main: B1_lg20	garden of Irem	               
             The Paradise of Irem	main: B1_lg20	the desarts of Aden	               
+            The Paradise of Irem	main: B1_lg20	sky	               
             The Paradise of Irem	main: B1_lg20	Arabia	               
             The Paradise of Irem	main: B1_lg20	province of Hegiaz	               
             The Paradise of Irem	main: B1_lg20	province of Hegiaz	               
@@ -216,6 +219,7 @@
             Al_Ahkaf	note: B1_lg20	Hadramaut	               
             Al_Ahkaf	note: B1_lg20	garden of Irem	               
             Al_Ahkaf	note: B1_lg20	the desarts of Aden	               
+            Al_Ahkaf	note: B1_lg20	sky	               
             Al_Ahkaf	note: B1_lg20	Arabia	               
             Al_Ahkaf	note: B1_lg20	province of Hegiaz	               
             Al_Ahkaf	note: B1_lg20	province of Hegiaz	               
@@ -230,6 +234,7 @@
             Hadramaut	note: B1_lg20	Al_Ahkaf	               
             Hadramaut	note: B1_lg20	garden of Irem	               
             Hadramaut	note: B1_lg20	the desarts of Aden	               
+            Hadramaut	note: B1_lg20	sky	               
             Hadramaut	note: B1_lg20	Arabia	               
             Hadramaut	note: B1_lg20	province of Hegiaz	               
             Hadramaut	note: B1_lg20	province of Hegiaz	               
@@ -244,6 +249,7 @@
             garden of Irem	note: B1_lg20	Al_Ahkaf	               
             garden of Irem	note: B1_lg20	Hadramaut	               
             garden of Irem	note: B1_lg20	the desarts of Aden	               
+            garden of Irem	note: B1_lg20	sky	               
             garden of Irem	note: B1_lg20	Arabia	               
             garden of Irem	note: B1_lg20	province of Hegiaz	               
             garden of Irem	note: B1_lg20	province of Hegiaz	               
@@ -258,6 +264,7 @@
             the desarts of Aden	note: B1_lg20	Al_Ahkaf	               
             the desarts of Aden	note: B1_lg20	Hadramaut	               
             the desarts of Aden	note: B1_lg20	garden of Irem	               
+            the desarts of Aden	note: B1_lg20	sky	               
             the desarts of Aden	note: B1_lg20	Arabia	               
             the desarts of Aden	note: B1_lg20	province of Hegiaz	               
             the desarts of Aden	note: B1_lg20	province of Hegiaz	               
@@ -273,6 +280,7 @@
             Arabia	note: B1_lg20	Hadramaut	               
             Arabia	note: B1_lg20	garden of Irem	               
             Arabia	note: B1_lg20	the desarts of Aden	               
+            Arabia	note: B1_lg20	sky	               
             Arabia	note: B1_lg20	province of Hegiaz	               
             Arabia	note: B1_lg20	province of Hegiaz	               
             Arabia	note: B1_lg20	Red Hillock	               
@@ -287,6 +295,7 @@
             province of Hegiaz	note: B1_lg20	Hadramaut	               
             province of Hegiaz	note: B1_lg20	garden of Irem	               
             province of Hegiaz	note: B1_lg20	the desarts of Aden	               
+            province of Hegiaz	note: B1_lg20	sky	               
             province of Hegiaz	note: B1_lg20	Arabia	               
             province of Hegiaz	note: B1_lg20	Red Hillock	               
             province of Hegiaz	note: B1_lg20	Red_Hillock	               
@@ -300,6 +309,7 @@
             province of Hegiaz	note: B1_lg20	Hadramaut	               
             province of Hegiaz	note: B1_lg20	garden of Irem	               
             province of Hegiaz	note: B1_lg20	the desarts of Aden	               
+            province of Hegiaz	note: B1_lg20	sky	               
             province of Hegiaz	note: B1_lg20	Arabia	               
             province of Hegiaz	note: B1_lg20	Red Hillock	               
             province of Hegiaz	note: B1_lg20	Red_Hillock	               
@@ -313,6 +323,7 @@
             Red Hillock	note: B1_lg20	Hadramaut	               
             Red Hillock	note: B1_lg20	garden of Irem	               
             Red Hillock	note: B1_lg20	the desarts of Aden	               
+            Red Hillock	note: B1_lg20	sky	               
             Red Hillock	note: B1_lg20	Arabia	               
             Red Hillock	note: B1_lg20	province of Hegiaz	               
             Red Hillock	note: B1_lg20	province of Hegiaz	               
@@ -327,6 +338,7 @@
             Red_Hillock	note: B1_lg20	Hadramaut	               
             Red_Hillock	note: B1_lg20	garden of Irem	               
             Red_Hillock	note: B1_lg20	the desarts of Aden	               
+            Red_Hillock	note: B1_lg20	sky	               
             Red_Hillock	note: B1_lg20	Arabia	               
             Red_Hillock	note: B1_lg20	province of Hegiaz	               
             Red_Hillock	note: B1_lg20	province of Hegiaz	               
@@ -341,6 +353,7 @@
             the valley of Magaith	note: B1_lg20	Hadramaut	               
             the valley of Magaith	note: B1_lg20	garden of Irem	               
             the valley of Magaith	note: B1_lg20	the desarts of Aden	               
+            the valley of Magaith	note: B1_lg20	sky	               
             the valley of Magaith	note: B1_lg20	Arabia	               
             the valley of Magaith	note: B1_lg20	province of Hegiaz	               
             the valley of Magaith	note: B1_lg20	province of Hegiaz	               
@@ -355,6 +368,7 @@
             the_world	main: B1_lg20	Hadramaut	               
             the_world	main: B1_lg20	garden of Irem	               
             the_world	main: B1_lg20	the desarts of Aden	               
+            the_world	main: B1_lg20	sky	               
             the_world	main: B1_lg20	Arabia	               
             the_world	main: B1_lg20	province of Hegiaz	               
             the_world	main: B1_lg20	province of Hegiaz	               
@@ -369,6 +383,7 @@
             Al_Ahkaf	note: B1_lg20	Hadramaut	               
             Al_Ahkaf	note: B1_lg20	garden of Irem	               
             Al_Ahkaf	note: B1_lg20	the desarts of Aden	               
+            Al_Ahkaf	note: B1_lg20	sky	               
             Al_Ahkaf	note: B1_lg20	Arabia	               
             Al_Ahkaf	note: B1_lg20	province of Hegiaz	               
             Al_Ahkaf	note: B1_lg20	province of Hegiaz	               
@@ -382,6 +397,7 @@
             Al_Ahkaf	main: B1_lg20	Hadramaut	               
             Al_Ahkaf	main: B1_lg20	garden of Irem	               
             Al_Ahkaf	main: B1_lg20	the desarts of Aden	               
+            Al_Ahkaf	main: B1_lg20	sky	               
             Al_Ahkaf	main: B1_lg20	Arabia	               
             Al_Ahkaf	main: B1_lg20	province of Hegiaz	               
             Al_Ahkaf	main: B1_lg20	province of Hegiaz	               
@@ -390,6 +406,7 @@
             Al_Ahkaf	main: B1_lg20	the valley of Magaith	               
             Al_Ahkaf	main: B1_lg20	the_world	               
                            
+            the East	main: B1_lg23	Eden	               
             the East	main: B1_lg23	Africa	               
             the East	main: B1_lg23	Africa	               
             the East	main: B1_lg23	Ethiopia	               
@@ -429,12 +446,18 @@
             Egypt	note: B1_lg35	Abulfeda	               
             Egypt	note: B1_lg35	Ægypt	               
             Egypt	note: B1_lg35	the_world	               
+            Egypt	note: B1_lg35	sky	               
+            Egypt	note: B1_lg35	the subterranean palaces of Romance	               
             Egypt	note: B1_lg35	Bologna	               
             Egypt	note: B1_lg35	East Indies	               
+            Egypt	note: B1_lg35	Eden	               
+            Egypt	note: B1_lg35	Eden	               
+            Egypt	note: B1_lg35	Eden	               
             Egypt	note: B1_lg35	Ad	               
             Egypt	note: B1_lg35	Syria	               
             Egypt	note: B1_lg35	Ormus	               
             Egypt	note: B1_lg35	Damascus	               
+            Egypt	note: B1_lg35	Irem_removed	               
             Egypt	note: B1_lg35	Irem	               
             Egypt	note: B1_lg35	the East	               
                            
@@ -448,13 +471,19 @@
             the whole earth	note: B1_lg35	Abulfeda	               
             the whole earth	note: B1_lg35	Ægypt	               
             the whole earth	note: B1_lg35	the_world	               
+            the whole earth	note: B1_lg35	sky	               
+            the whole earth	note: B1_lg35	the subterranean palaces of Romance	               
             the whole earth	note: B1_lg35	Bologna	               
             the whole earth	note: B1_lg35	East Indies	               
+            the whole earth	note: B1_lg35	Eden	               
+            the whole earth	note: B1_lg35	Eden	               
+            the whole earth	note: B1_lg35	Eden	               
             the whole earth	note: B1_lg35	Egypt	               
             the whole earth	note: B1_lg35	Ad	               
             the whole earth	note: B1_lg35	Syria	               
             the whole earth	note: B1_lg35	Ormus	               
             the whole earth	note: B1_lg35	Damascus	               
+            the whole earth	note: B1_lg35	Irem_removed	               
             the whole earth	note: B1_lg35	Irem	               
             the whole earth	note: B1_lg35	the East	               
                            
@@ -467,12 +496,18 @@
             Egypt	note: B1_lg35	Abulfeda	               
             Egypt	note: B1_lg35	Ægypt	               
             Egypt	note: B1_lg35	the_world	               
+            Egypt	note: B1_lg35	sky	               
+            Egypt	note: B1_lg35	the subterranean palaces of Romance	               
             Egypt	note: B1_lg35	Bologna	               
             Egypt	note: B1_lg35	East Indies	               
+            Egypt	note: B1_lg35	Eden	               
+            Egypt	note: B1_lg35	Eden	               
+            Egypt	note: B1_lg35	Eden	               
             Egypt	note: B1_lg35	Ad	               
             Egypt	note: B1_lg35	Syria	               
             Egypt	note: B1_lg35	Ormus	               
             Egypt	note: B1_lg35	Damascus	               
+            Egypt	note: B1_lg35	Irem_removed	               
             Egypt	note: B1_lg35	Irem	               
             Egypt	note: B1_lg35	the East	               
                            
@@ -486,13 +521,19 @@
             the river Nilus	note: B1_lg35	Abulfeda	               
             the river Nilus	note: B1_lg35	Ægypt	               
             the river Nilus	note: B1_lg35	the_world	               
+            the river Nilus	note: B1_lg35	sky	               
+            the river Nilus	note: B1_lg35	the subterranean palaces of Romance	               
             the river Nilus	note: B1_lg35	Bologna	               
             the river Nilus	note: B1_lg35	East Indies	               
+            the river Nilus	note: B1_lg35	Eden	               
+            the river Nilus	note: B1_lg35	Eden	               
+            the river Nilus	note: B1_lg35	Eden	               
             the river Nilus	note: B1_lg35	Egypt	               
             the river Nilus	note: B1_lg35	Ad	               
             the river Nilus	note: B1_lg35	Syria	               
             the river Nilus	note: B1_lg35	Ormus	               
             the river Nilus	note: B1_lg35	Damascus	               
+            the river Nilus	note: B1_lg35	Irem_removed	               
             the river Nilus	note: B1_lg35	Irem	               
             the river Nilus	note: B1_lg35	the East	               
                            
@@ -506,13 +547,19 @@
             the land Al-Said	note: B1_lg35	Abulfeda	               
             the land Al-Said	note: B1_lg35	Ægypt	               
             the land Al-Said	note: B1_lg35	the_world	               
+            the land Al-Said	note: B1_lg35	sky	               
+            the land Al-Said	note: B1_lg35	the subterranean palaces of Romance	               
             the land Al-Said	note: B1_lg35	Bologna	               
             the land Al-Said	note: B1_lg35	East Indies	               
+            the land Al-Said	note: B1_lg35	Eden	               
+            the land Al-Said	note: B1_lg35	Eden	               
+            the land Al-Said	note: B1_lg35	Eden	               
             the land Al-Said	note: B1_lg35	Egypt	               
             the land Al-Said	note: B1_lg35	Ad	               
             the land Al-Said	note: B1_lg35	Syria	               
             the land Al-Said	note: B1_lg35	Ormus	               
             the land Al-Said	note: B1_lg35	Damascus	               
+            the land Al-Said	note: B1_lg35	Irem_removed	               
             the land Al-Said	note: B1_lg35	Irem	               
             the land Al-Said	note: B1_lg35	the East	               
                            
@@ -526,13 +573,19 @@
             Abulfeda	note: B1_lg35	the land Al-Said	               
             Abulfeda	note: B1_lg35	Ægypt	               
             Abulfeda	note: B1_lg35	the_world	               
+            Abulfeda	note: B1_lg35	sky	               
+            Abulfeda	note: B1_lg35	the subterranean palaces of Romance	               
             Abulfeda	note: B1_lg35	Bologna	               
             Abulfeda	note: B1_lg35	East Indies	               
+            Abulfeda	note: B1_lg35	Eden	               
+            Abulfeda	note: B1_lg35	Eden	               
+            Abulfeda	note: B1_lg35	Eden	               
             Abulfeda	note: B1_lg35	Egypt	               
             Abulfeda	note: B1_lg35	Ad	               
             Abulfeda	note: B1_lg35	Syria	               
             Abulfeda	note: B1_lg35	Ormus	               
             Abulfeda	note: B1_lg35	Damascus	               
+            Abulfeda	note: B1_lg35	Irem_removed	               
             Abulfeda	note: B1_lg35	Irem	               
             Abulfeda	note: B1_lg35	the East	               
                            
@@ -546,13 +599,19 @@
             Ægypt	note: B1_lg35	the land Al-Said	               
             Ægypt	note: B1_lg35	Abulfeda	               
             Ægypt	note: B1_lg35	the_world	               
+            Ægypt	note: B1_lg35	sky	               
+            Ægypt	note: B1_lg35	the subterranean palaces of Romance	               
             Ægypt	note: B1_lg35	Bologna	               
             Ægypt	note: B1_lg35	East Indies	               
+            Ægypt	note: B1_lg35	Eden	               
+            Ægypt	note: B1_lg35	Eden	               
+            Ægypt	note: B1_lg35	Eden	               
             Ægypt	note: B1_lg35	Egypt	               
             Ægypt	note: B1_lg35	Ad	               
             Ægypt	note: B1_lg35	Syria	               
             Ægypt	note: B1_lg35	Ormus	               
             Ægypt	note: B1_lg35	Damascus	               
+            Ægypt	note: B1_lg35	Irem_removed	               
             Ægypt	note: B1_lg35	Irem	               
             Ægypt	note: B1_lg35	the East	               
                            
@@ -566,13 +625,19 @@
             the_world	main: B1_lg35	the land Al-Said	               
             the_world	main: B1_lg35	Abulfeda	               
             the_world	main: B1_lg35	Ægypt	               
+            the_world	main: B1_lg35	sky	               
+            the_world	main: B1_lg35	the subterranean palaces of Romance	               
             the_world	main: B1_lg35	Bologna	               
             the_world	main: B1_lg35	East Indies	               
+            the_world	main: B1_lg35	Eden	               
+            the_world	main: B1_lg35	Eden	               
+            the_world	main: B1_lg35	Eden	               
             the_world	main: B1_lg35	Egypt	               
             the_world	main: B1_lg35	Ad	               
             the_world	main: B1_lg35	Syria	               
             the_world	main: B1_lg35	Ormus	               
             the_world	main: B1_lg35	Damascus	               
+            the_world	main: B1_lg35	Irem_removed	               
             the_world	main: B1_lg35	Irem	               
             the_world	main: B1_lg35	the East	               
                            
@@ -587,12 +652,18 @@
             Bologna	note: B1_lg35	Abulfeda	               
             Bologna	note: B1_lg35	Ægypt	               
             Bologna	note: B1_lg35	the_world	               
+            Bologna	note: B1_lg35	sky	               
+            Bologna	note: B1_lg35	the subterranean palaces of Romance	               
             Bologna	note: B1_lg35	East Indies	               
+            Bologna	note: B1_lg35	Eden	               
+            Bologna	note: B1_lg35	Eden	               
+            Bologna	note: B1_lg35	Eden	               
             Bologna	note: B1_lg35	Egypt	               
             Bologna	note: B1_lg35	Ad	               
             Bologna	note: B1_lg35	Syria	               
             Bologna	note: B1_lg35	Ormus	               
             Bologna	note: B1_lg35	Damascus	               
+            Bologna	note: B1_lg35	Irem_removed	               
             Bologna	note: B1_lg35	Irem	               
             Bologna	note: B1_lg35	the East	               
                            
@@ -607,12 +678,18 @@
             East Indies	note: B1_lg35	Abulfeda	               
             East Indies	note: B1_lg35	Ægypt	               
             East Indies	note: B1_lg35	the_world	               
+            East Indies	note: B1_lg35	sky	               
+            East Indies	note: B1_lg35	the subterranean palaces of Romance	               
             East Indies	note: B1_lg35	Bologna	               
+            East Indies	note: B1_lg35	Eden	               
+            East Indies	note: B1_lg35	Eden	               
+            East Indies	note: B1_lg35	Eden	               
             East Indies	note: B1_lg35	Egypt	               
             East Indies	note: B1_lg35	Ad	               
             East Indies	note: B1_lg35	Syria	               
             East Indies	note: B1_lg35	Ormus	               
             East Indies	note: B1_lg35	Damascus	               
+            East Indies	note: B1_lg35	Irem_removed	               
             East Indies	note: B1_lg35	Irem	               
             East Indies	note: B1_lg35	the East	               
                            
@@ -625,12 +702,18 @@
             Egypt	note: B1_lg35	Abulfeda	               
             Egypt	note: B1_lg35	Ægypt	               
             Egypt	note: B1_lg35	the_world	               
+            Egypt	note: B1_lg35	sky	               
+            Egypt	note: B1_lg35	the subterranean palaces of Romance	               
             Egypt	note: B1_lg35	Bologna	               
             Egypt	note: B1_lg35	East Indies	               
+            Egypt	note: B1_lg35	Eden	               
+            Egypt	note: B1_lg35	Eden	               
+            Egypt	note: B1_lg35	Eden	               
             Egypt	note: B1_lg35	Ad	               
             Egypt	note: B1_lg35	Syria	               
             Egypt	note: B1_lg35	Ormus	               
             Egypt	note: B1_lg35	Damascus	               
+            Egypt	note: B1_lg35	Irem_removed	               
             Egypt	note: B1_lg35	Irem	               
             Egypt	note: B1_lg35	the East	               
                            
@@ -645,12 +728,18 @@
             Ad	main: B1_lg35	Abulfeda	               
             Ad	main: B1_lg35	Ægypt	               
             Ad	main: B1_lg35	the_world	               
+            Ad	main: B1_lg35	sky	               
+            Ad	main: B1_lg35	the subterranean palaces of Romance	               
             Ad	main: B1_lg35	Bologna	               
             Ad	main: B1_lg35	East Indies	               
+            Ad	main: B1_lg35	Eden	               
+            Ad	main: B1_lg35	Eden	               
+            Ad	main: B1_lg35	Eden	               
             Ad	main: B1_lg35	Egypt	               
             Ad	main: B1_lg35	Syria	               
             Ad	main: B1_lg35	Ormus	               
             Ad	main: B1_lg35	Damascus	               
+            Ad	main: B1_lg35	Irem_removed	               
             Ad	main: B1_lg35	Irem	               
             Ad	main: B1_lg35	the East	               
                            
@@ -665,12 +754,18 @@
             Syria	note: B1_lg35	Abulfeda	               
             Syria	note: B1_lg35	Ægypt	               
             Syria	note: B1_lg35	the_world	               
+            Syria	note: B1_lg35	sky	               
+            Syria	note: B1_lg35	the subterranean palaces of Romance	               
             Syria	note: B1_lg35	Bologna	               
             Syria	note: B1_lg35	East Indies	               
+            Syria	note: B1_lg35	Eden	               
+            Syria	note: B1_lg35	Eden	               
+            Syria	note: B1_lg35	Eden	               
             Syria	note: B1_lg35	Egypt	               
             Syria	note: B1_lg35	Ad	               
             Syria	note: B1_lg35	Ormus	               
             Syria	note: B1_lg35	Damascus	               
+            Syria	note: B1_lg35	Irem_removed	               
             Syria	note: B1_lg35	Irem	               
             Syria	note: B1_lg35	the East	               
                            
@@ -685,12 +780,18 @@
             Ormus	note: B1_lg35	Abulfeda	               
             Ormus	note: B1_lg35	Ægypt	               
             Ormus	note: B1_lg35	the_world	               
+            Ormus	note: B1_lg35	sky	               
+            Ormus	note: B1_lg35	the subterranean palaces of Romance	               
             Ormus	note: B1_lg35	Bologna	               
             Ormus	note: B1_lg35	East Indies	               
+            Ormus	note: B1_lg35	Eden	               
+            Ormus	note: B1_lg35	Eden	               
+            Ormus	note: B1_lg35	Eden	               
             Ormus	note: B1_lg35	Egypt	               
             Ormus	note: B1_lg35	Ad	               
             Ormus	note: B1_lg35	Syria	               
             Ormus	note: B1_lg35	Damascus	               
+            Ormus	note: B1_lg35	Irem_removed	               
             Ormus	note: B1_lg35	Irem	               
             Ormus	note: B1_lg35	the East	               
                            
@@ -705,12 +806,18 @@
             Damascus	note: B1_lg35	Abulfeda	               
             Damascus	note: B1_lg35	Ægypt	               
             Damascus	note: B1_lg35	the_world	               
+            Damascus	note: B1_lg35	sky	               
+            Damascus	note: B1_lg35	the subterranean palaces of Romance	               
             Damascus	note: B1_lg35	Bologna	               
             Damascus	note: B1_lg35	East Indies	               
+            Damascus	note: B1_lg35	Eden	               
+            Damascus	note: B1_lg35	Eden	               
+            Damascus	note: B1_lg35	Eden	               
             Damascus	note: B1_lg35	Egypt	               
             Damascus	note: B1_lg35	Ad	               
             Damascus	note: B1_lg35	Syria	               
             Damascus	note: B1_lg35	Ormus	               
+            Damascus	note: B1_lg35	Irem_removed	               
             Damascus	note: B1_lg35	Irem	               
             Damascus	note: B1_lg35	the East	               
                            
@@ -725,13 +832,19 @@
             Irem	note: B1_lg35	Abulfeda	               
             Irem	note: B1_lg35	Ægypt	               
             Irem	note: B1_lg35	the_world	               
+            Irem	note: B1_lg35	sky	               
+            Irem	note: B1_lg35	the subterranean palaces of Romance	               
             Irem	note: B1_lg35	Bologna	               
             Irem	note: B1_lg35	East Indies	               
+            Irem	note: B1_lg35	Eden	               
+            Irem	note: B1_lg35	Eden	               
+            Irem	note: B1_lg35	Eden	               
             Irem	note: B1_lg35	Egypt	               
             Irem	note: B1_lg35	Ad	               
             Irem	note: B1_lg35	Syria	               
             Irem	note: B1_lg35	Ormus	               
             Irem	note: B1_lg35	Damascus	               
+            Irem	note: B1_lg35	Irem_removed	               
             Irem	note: B1_lg35	the East	               
                            
             the East	main: B1_lg35	Egypt	               
@@ -745,20 +858,33 @@
             the East	main: B1_lg35	Abulfeda	               
             the East	main: B1_lg35	Ægypt	               
             the East	main: B1_lg35	the_world	               
+            the East	main: B1_lg35	sky	               
+            the East	main: B1_lg35	the subterranean palaces of Romance	               
             the East	main: B1_lg35	Bologna	               
             the East	main: B1_lg35	East Indies	               
+            the East	main: B1_lg35	Eden	               
+            the East	main: B1_lg35	Eden	               
+            the East	main: B1_lg35	Eden	               
             the East	main: B1_lg35	Egypt	               
             the East	main: B1_lg35	Ad	               
             the East	main: B1_lg35	Syria	               
             the East	main: B1_lg35	Ormus	               
             the East	main: B1_lg35	Damascus	               
+            the East	main: B1_lg35	Irem_removed	               
             the East	main: B1_lg35	Irem	               
                            
+            Ad	main: B1_lg36	Of Paradise	               
+            Ad	main: B1_lg36	Eden	               
+            Ad	main: B1_lg36	Eden	               
                            
                            
             Mecca	main: B1_lg43	Red Hillock	               
+            Mecca	main: B1_lg43	sky	               
+            Mecca	main: B1_lg43	Heaven	               
                            
             Red Hillock	main: B1_lg43	Mecca	               
+            Red Hillock	main: B1_lg43	sky	               
+            Red Hillock	main: B1_lg43	Heaven	               
                            
             Irem	main: B1_lg44	Ad	               
             Irem	main: B1_lg44	Ad	               
@@ -784,24 +910,36 @@
             the_world	note: B1_lg44	Ad	               
                            
             Ocean	main: B2_lg68	Earth	               
+            Ocean	main: B2_lg68	Irem_removed	               
             Ocean	main: B2_lg68	Ocean	               
             Ocean	main: B2_lg68	Earth	               
                            
             Earth	main: B2_lg68	Ocean	               
+            Earth	main: B2_lg68	Irem_removed	               
             Earth	main: B2_lg68	Ocean	               
             Earth	main: B2_lg68	Earth	               
                            
             Ocean	main: B2_lg68	Ocean	               
             Ocean	main: B2_lg68	Earth	               
+            Ocean	main: B2_lg68	Irem_removed	               
             Ocean	main: B2_lg68	Earth	               
                            
             Earth	main: B2_lg68	Ocean	               
             Earth	main: B2_lg68	Earth	               
+            Earth	main: B2_lg68	Irem_removed	               
             Earth	main: B2_lg68	Ocean	               
                            
+            Ocean	main: B2_lg72	Heaven	               
+            Ocean	main: B2_lg72	Irem_removed	               
             Ocean	main: B2_lg72	Earth	               
+            Ocean	main: B2_lg72	Allah's glory throne	               
+            Ocean	main: B2_lg72	Irem_removed	               
                            
+            Earth	main: B2_lg72	Heaven	               
+            Earth	main: B2_lg72	Irem_removed	               
             Earth	main: B2_lg72	Ocean	               
+            Earth	main: B2_lg72	Allah's glory throne	               
+            Earth	main: B2_lg72	Irem_removed	               
                            
                            
             Monaco	note: B2_lg84	Caucasus	               
@@ -813,8 +951,10 @@
             Ocean	main: B2_lg84	Monaco	               
             Ocean	main: B2_lg84	Caucasus	               
                            
+            the Abyss	main: B2_lg85	the inner den	               
             the Abyss	main: B2_lg85	the_world	               
                            
+            the_world	main: B2_lg85	the inner den	               
             the_world	main: B2_lg85	the Abyss	               
                            
             Arabia	main: B2_lg87	Tchama	               
@@ -888,24 +1028,34 @@
             Babylon	main: B4_lg206	Bagdad	               
                            
                            
+            Bagdad	note: B4_lg218	the planet Venus	               
+            Bagdad	note: B4_lg218	what passes in distant countries	               
             Bagdad	note: B4_lg218	Yemen	               
             Bagdad	note: B4_lg218	Mecca	               
             Bagdad	note: B4_lg218	Mecca	               
             Bagdad	note: B4_lg218	Bombay	               
                            
+            Yemen	note: B4_lg218	the planet Venus	               
+            Yemen	note: B4_lg218	what passes in distant countries	               
             Yemen	note: B4_lg218	Bagdad	               
             Yemen	note: B4_lg218	Mecca	               
             Yemen	note: B4_lg218	Mecca	               
             Yemen	note: B4_lg218	Bombay	               
                            
+            Mecca	note: B4_lg218	the planet Venus	               
+            Mecca	note: B4_lg218	what passes in distant countries	               
             Mecca	note: B4_lg218	Bagdad	               
             Mecca	note: B4_lg218	Yemen	               
             Mecca	note: B4_lg218	Bombay	               
                            
+            Mecca	note: B4_lg218	the planet Venus	               
+            Mecca	note: B4_lg218	what passes in distant countries	               
             Mecca	note: B4_lg218	Bagdad	               
             Mecca	note: B4_lg218	Yemen	               
             Mecca	note: B4_lg218	Bombay	               
                            
+            Bombay	note: B4_lg218	the planet Venus	               
+            Bombay	note: B4_lg218	what passes in distant countries	               
             Bombay	note: B4_lg218	Bagdad	               
             Bombay	note: B4_lg218	Yemen	               
             Bombay	note: B4_lg218	Mecca	               
@@ -915,27 +1065,56 @@
                            
                            
                            
+            the_world	note: B4_lg276	sky	               
             the_world	note: B4_lg276	river
                                  Aldea	               
             the_world	note: B4_lg276	Lisboa	               
+            the_world	note: B4_lg276	a nation of one
+                                 legged men	               
+            the_world	note: B4_lg276	sky	               
             the_world	note: B4_lg276	the_world	               
+            the_world	note: B4_lg276	the viewless Element	               
+            the_world	note: B4_lg276	air_transport	               
                            
+            river
+                                 Aldea	note: B4_lg276	sky	               
             river
                                  Aldea	note: B4_lg276	the_world	               
             river
                                  Aldea	note: B4_lg276	Lisboa	               
             river
+                                 Aldea	note: B4_lg276	a nation of one
+                                 legged men	               
+            river
+                                 Aldea	note: B4_lg276	sky	               
+            river
                                  Aldea	note: B4_lg276	the_world	               
+            river
+                                 Aldea	note: B4_lg276	the viewless Element	               
+            river
+                                 Aldea	note: B4_lg276	air_transport	               
                            
+            Lisboa	note: B4_lg276	sky	               
             Lisboa	note: B4_lg276	the_world	               
             Lisboa	note: B4_lg276	river
                                  Aldea	               
+            Lisboa	note: B4_lg276	a nation of one
+                                 legged men	               
+            Lisboa	note: B4_lg276	sky	               
             Lisboa	note: B4_lg276	the_world	               
+            Lisboa	note: B4_lg276	the viewless Element	               
+            Lisboa	note: B4_lg276	air_transport	               
                            
+            the_world	note: B4_lg276	sky	               
             the_world	note: B4_lg276	the_world	               
             the_world	note: B4_lg276	river
                                  Aldea	               
             the_world	note: B4_lg276	Lisboa	               
+            the_world	note: B4_lg276	a nation of one
+                                 legged men	               
+            the_world	note: B4_lg276	sky	               
+            the_world	note: B4_lg276	the viewless Element	               
+            the_world	note: B4_lg276	air_transport	               
                            
                            
             Bagdad	main: B5_lg315	Bagdad	               
@@ -946,6 +1125,8 @@
             Bagdad	main: B5_lg315	Paris	               
             Bagdad	main: B5_lg315	Ispahan	               
             Bagdad	main: B5_lg315	Alexandria	               
+            Bagdad	main: B5_lg315	another
+                                 world	               
                            
             an Oriental city	note: B5_lg315	Bagdad	               
             an Oriental city	note: B5_lg315	Bagdad	               
@@ -955,6 +1136,8 @@
             an Oriental city	note: B5_lg315	Paris	               
             an Oriental city	note: B5_lg315	Ispahan	               
             an Oriental city	note: B5_lg315	Alexandria	               
+            an Oriental city	note: B5_lg315	another
+                                 world	               
                            
             Aleppo	note: B5_lg315	Bagdad	               
             Aleppo	note: B5_lg315	Bagdad	               
@@ -964,6 +1147,8 @@
             Aleppo	note: B5_lg315	Paris	               
             Aleppo	note: B5_lg315	Ispahan	               
             Aleppo	note: B5_lg315	Alexandria	               
+            Aleppo	note: B5_lg315	another
+                                 world	               
                            
             Ispahan	note: B5_lg315	Bagdad	               
             Ispahan	note: B5_lg315	Bagdad	               
@@ -972,6 +1157,8 @@
             Ispahan	note: B5_lg315	Paris	               
             Ispahan	note: B5_lg315	Paris	               
             Ispahan	note: B5_lg315	Alexandria	               
+            Ispahan	note: B5_lg315	another
+                                 world	               
                            
             Paris	note: B5_lg315	Bagdad	               
             Paris	note: B5_lg315	Bagdad	               
@@ -980,6 +1167,8 @@
             Paris	note: B5_lg315	Ispahan	               
             Paris	note: B5_lg315	Ispahan	               
             Paris	note: B5_lg315	Alexandria	               
+            Paris	note: B5_lg315	another
+                                 world	               
                            
             Paris	note: B5_lg315	Bagdad	               
             Paris	note: B5_lg315	Bagdad	               
@@ -988,6 +1177,8 @@
             Paris	note: B5_lg315	Ispahan	               
             Paris	note: B5_lg315	Ispahan	               
             Paris	note: B5_lg315	Alexandria	               
+            Paris	note: B5_lg315	another
+                                 world	               
                            
             Ispahan	note: B5_lg315	Bagdad	               
             Ispahan	note: B5_lg315	Bagdad	               
@@ -996,6 +1187,8 @@
             Ispahan	note: B5_lg315	Paris	               
             Ispahan	note: B5_lg315	Paris	               
             Ispahan	note: B5_lg315	Alexandria	               
+            Ispahan	note: B5_lg315	another
+                                 world	               
                            
             Alexandria	note: B5_lg315	Bagdad	               
             Alexandria	note: B5_lg315	Bagdad	               
@@ -1005,6 +1198,8 @@
             Alexandria	note: B5_lg315	Paris	               
             Alexandria	note: B5_lg315	Paris	               
             Alexandria	note: B5_lg315	Ispahan	               
+            Alexandria	note: B5_lg315	another
+                                 world	               
                            
             Bagdad	main: B5_lg316	the Tigris	               
             Bagdad	main: B5_lg316	Seleucia	               
@@ -1508,6 +1703,7 @@
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Naples	               
+            Euphrates	note: B5_lg320	Heaven	               
             Euphrates	note: B5_lg320	Tower_of_Babel	               
             Euphrates	note: B5_lg320	Assyria	               
             Euphrates	note: B5_lg320	Babylon	               
@@ -1535,6 +1731,7 @@
             Judah	note: B5_lg320	Babylon	               
             Judah	note: B5_lg320	Babylon	               
             Judah	note: B5_lg320	Naples	               
+            Judah	note: B5_lg320	Heaven	               
             Judah	note: B5_lg320	Tower_of_Babel	               
             Judah	note: B5_lg320	Assyria	               
             Judah	note: B5_lg320	Babylon	               
@@ -1562,6 +1759,7 @@
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Naples	               
+            Euphrates	main: B5_lg320	Heaven	               
             Euphrates	main: B5_lg320	Tower_of_Babel	               
             Euphrates	main: B5_lg320	Assyria	               
             Euphrates	main: B5_lg320	Babylon	               
@@ -1585,6 +1783,7 @@
             Babylon	main: B5_lg320	Euphrates	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Naples	               
+            Babylon	main: B5_lg320	Heaven	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Assyria	               
             Babylon	main: B5_lg320	Sodom	               
@@ -1607,6 +1806,7 @@
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Naples	               
+            Babylon	note: B5_lg320	Heaven	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
             Babylon	note: B5_lg320	Sodom	               
@@ -1633,6 +1833,7 @@
             Media	note: B5_lg320	Babylon	               
             Media	note: B5_lg320	Babylon	               
             Media	note: B5_lg320	Naples	               
+            Media	note: B5_lg320	Heaven	               
             Media	note: B5_lg320	Tower_of_Babel	               
             Media	note: B5_lg320	Assyria	               
             Media	note: B5_lg320	Babylon	               
@@ -1661,6 +1862,7 @@
             Judah	note: B5_lg320	Babylon	               
             Judah	note: B5_lg320	Babylon	               
             Judah	note: B5_lg320	Naples	               
+            Judah	note: B5_lg320	Heaven	               
             Judah	note: B5_lg320	Tower_of_Babel	               
             Judah	note: B5_lg320	Assyria	               
             Judah	note: B5_lg320	Babylon	               
@@ -1689,6 +1891,7 @@
             Media	main: B5_lg320	Babylon	               
             Media	main: B5_lg320	Babylon	               
             Media	main: B5_lg320	Naples	               
+            Media	main: B5_lg320	Heaven	               
             Media	main: B5_lg320	Tower_of_Babel	               
             Media	main: B5_lg320	Assyria	               
             Media	main: B5_lg320	Babylon	               
@@ -1718,6 +1921,7 @@
             Temple of Belus	note: B5_lg320	Babylon	               
             Temple of Belus	note: B5_lg320	Babylon	               
             Temple of Belus	note: B5_lg320	Naples	               
+            Temple of Belus	note: B5_lg320	Heaven	               
             Temple of Belus	note: B5_lg320	Tower_of_Babel	               
             Temple of Belus	note: B5_lg320	Assyria	               
             Temple of Belus	note: B5_lg320	Babylon	               
@@ -1747,6 +1951,7 @@
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Naples	               
+            Tower_of_Babel	note: B5_lg320	Heaven	               
             Tower_of_Babel	note: B5_lg320	Tower_of_Babel	               
             Tower_of_Babel	note: B5_lg320	Assyria	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
@@ -1776,6 +1981,7 @@
             Tigris	note: B5_lg320	Babylon	               
             Tigris	note: B5_lg320	Babylon	               
             Tigris	note: B5_lg320	Naples	               
+            Tigris	note: B5_lg320	Heaven	               
             Tigris	note: B5_lg320	Tower_of_Babel	               
             Tigris	note: B5_lg320	Assyria	               
             Tigris	note: B5_lg320	Babylon	               
@@ -1805,6 +2011,7 @@
             Arabia	note: B5_lg320	Babylon	               
             Arabia	note: B5_lg320	Babylon	               
             Arabia	note: B5_lg320	Naples	               
+            Arabia	note: B5_lg320	Heaven	               
             Arabia	note: B5_lg320	Tower_of_Babel	               
             Arabia	note: B5_lg320	Assyria	               
             Arabia	note: B5_lg320	Babylon	               
@@ -1829,6 +2036,7 @@
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Naples	               
+            Babylon	note: B5_lg320	Heaven	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
             Babylon	note: B5_lg320	Sodom	               
@@ -1856,6 +2064,7 @@
             St. Paul's steeple	note: B5_lg320	Babylon	               
             St. Paul's steeple	note: B5_lg320	Babylon	               
             St. Paul's steeple	note: B5_lg320	Naples	               
+            St. Paul's steeple	note: B5_lg320	Heaven	               
             St. Paul's steeple	note: B5_lg320	Tower_of_Babel	               
             St. Paul's steeple	note: B5_lg320	Assyria	               
             St. Paul's steeple	note: B5_lg320	Babylon	               
@@ -1885,6 +2094,7 @@
             London	note: B5_lg320	Babylon	               
             London	note: B5_lg320	Babylon	               
             London	note: B5_lg320	Naples	               
+            London	note: B5_lg320	Heaven	               
             London	note: B5_lg320	Tower_of_Babel	               
             London	note: B5_lg320	Assyria	               
             London	note: B5_lg320	Babylon	               
@@ -1912,6 +2122,7 @@
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Naples	               
+            Euphrates	note: B5_lg320	Heaven	               
             Euphrates	note: B5_lg320	Tower_of_Babel	               
             Euphrates	note: B5_lg320	Assyria	               
             Euphrates	note: B5_lg320	Babylon	               
@@ -1940,6 +2151,7 @@
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Naples	               
+            Tower_of_Babel	note: B5_lg320	Heaven	               
             Tower_of_Babel	note: B5_lg320	Tower_of_Babel	               
             Tower_of_Babel	note: B5_lg320	Assyria	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
@@ -1964,6 +2176,7 @@
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Naples	               
+            Babylon	note: B5_lg320	Heaven	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
             Babylon	note: B5_lg320	Sodom	               
@@ -1986,6 +2199,7 @@
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Naples	               
+            Babylon	note: B5_lg320	Heaven	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
             Babylon	note: B5_lg320	Sodom	               
@@ -2008,6 +2222,7 @@
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Naples	               
+            Babylon	note: B5_lg320	Heaven	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
             Babylon	note: B5_lg320	Sodom	               
@@ -2035,6 +2250,7 @@
             Naples	note: B5_lg320	Babylon	               
             Naples	note: B5_lg320	Babylon	               
             Naples	note: B5_lg320	Babylon	               
+            Naples	note: B5_lg320	Heaven	               
             Naples	note: B5_lg320	Tower_of_Babel	               
             Naples	note: B5_lg320	Assyria	               
             Naples	note: B5_lg320	Babylon	               
@@ -2065,6 +2281,7 @@
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Naples	               
+            Tower_of_Babel	note: B5_lg320	Heaven	               
             Tower_of_Babel	note: B5_lg320	Assyria	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
@@ -2094,6 +2311,7 @@
             Assyria	main: B5_lg320	Babylon	               
             Assyria	main: B5_lg320	Babylon	               
             Assyria	main: B5_lg320	Naples	               
+            Assyria	main: B5_lg320	Heaven	               
             Assyria	main: B5_lg320	Tower_of_Babel	               
             Assyria	main: B5_lg320	Babylon	               
             Assyria	main: B5_lg320	Babylon	               
@@ -2117,6 +2335,7 @@
             Babylon	main: B5_lg320	Euphrates	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Naples	               
+            Babylon	main: B5_lg320	Heaven	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Assyria	               
             Babylon	main: B5_lg320	Sodom	               
@@ -2139,6 +2358,7 @@
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Naples	               
+            Babylon	note: B5_lg320	Heaven	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
             Babylon	note: B5_lg320	Sodom	               
@@ -2167,6 +2387,7 @@
             Sodom	note: B5_lg320	Babylon	               
             Sodom	note: B5_lg320	Babylon	               
             Sodom	note: B5_lg320	Naples	               
+            Sodom	note: B5_lg320	Heaven	               
             Sodom	note: B5_lg320	Tower_of_Babel	               
             Sodom	note: B5_lg320	Assyria	               
             Sodom	note: B5_lg320	Babylon	               
@@ -2196,6 +2417,7 @@
             Gomorrah	note: B5_lg320	Babylon	               
             Gomorrah	note: B5_lg320	Babylon	               
             Gomorrah	note: B5_lg320	Naples	               
+            Gomorrah	note: B5_lg320	Heaven	               
             Gomorrah	note: B5_lg320	Tower_of_Babel	               
             Gomorrah	note: B5_lg320	Assyria	               
             Gomorrah	note: B5_lg320	Babylon	               
@@ -2222,6 +2444,7 @@
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Naples	               
+            Euphrates	main: B5_lg320	Heaven	               
             Euphrates	main: B5_lg320	Tower_of_Babel	               
             Euphrates	main: B5_lg320	Assyria	               
             Euphrates	main: B5_lg320	Babylon	               
@@ -2230,29 +2453,40 @@
             Euphrates	main: B5_lg320	Gomorrah	               
                            
             Persia	note: B7_lg413	Paradise	               
+            Persia	note: B7_lg413	Mahumetical Paradise	               
             Persia	note: B7_lg413	Paradise	               
+            Persia	note: B7_lg413	walled_mountain_Paradise	               
             Persia	note: B7_lg413	Melistorte	               
             Persia	note: B7_lg413	Yle of Pentexoire	               
                            
             Paradise	note: B7_lg413	Persia	               
+            Paradise	note: B7_lg413	Mahumetical Paradise	               
+            Paradise	note: B7_lg413	walled_mountain_Paradise	               
             Paradise	note: B7_lg413	Melistorte	               
             Paradise	note: B7_lg413	Yle of Pentexoire	               
                            
             Paradise	note: B7_lg413	Persia	               
+            Paradise	note: B7_lg413	Mahumetical Paradise	               
+            Paradise	note: B7_lg413	walled_mountain_Paradise	               
             Paradise	note: B7_lg413	Melistorte	               
             Paradise	note: B7_lg413	Yle of Pentexoire	               
                            
             Melistorte	note: B7_lg413	Persia	               
             Melistorte	note: B7_lg413	Paradise	               
+            Melistorte	note: B7_lg413	Mahumetical Paradise	               
             Melistorte	note: B7_lg413	Paradise	               
+            Melistorte	note: B7_lg413	walled_mountain_Paradise	               
             Melistorte	note: B7_lg413	Yle of Pentexoire	               
                            
             Yle of Pentexoire	note: B7_lg413	Persia	               
             Yle of Pentexoire	note: B7_lg413	Paradise	               
+            Yle of Pentexoire	note: B7_lg413	Mahumetical Paradise	               
             Yle of Pentexoire	note: B7_lg413	Paradise	               
+            Yle of Pentexoire	note: B7_lg413	walled_mountain_Paradise	               
             Yle of Pentexoire	note: B7_lg413	Melistorte	               
                            
                            
+            the Sepulchre	main: B8_lg466	Tombs	               
                            
             Medina	note: B8_lg470	Namaz	               
             Medina	note: B8_lg470	in the prophet's
@@ -2282,10 +2516,15 @@
             Meidan	main: B8_lg471	city of Tauris	               
             Meidan	main: B8_lg471	Persia	               
                            
+            Mylasa	note: B8_lg472	Greek_Tombs	               
+            Mylasa	note: B8_lg472	Tombs	               
             Mylasa	note: B8_lg472	Tombs	               
                            
+            Tombs	main: B8_lg472	Greek_Tombs	               
+            Tombs	main: B8_lg472	Tombs	               
             Tombs	main: B8_lg472	Mylasa	               
                            
+            Belgrade	note: B8_lg475	Vampire	               
             Belgrade	note: B8_lg475	Gradisch	               
             Belgrade	note: B8_lg475	Sclavonia	               
             Belgrade	note: B8_lg475	Kisilova	               
@@ -2302,6 +2541,7 @@
             Belgrade	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Belgrade	note: B8_lg475	Servia	               
+            Belgrade	note: B8_lg475	Vampire	               
             Belgrade	note: B8_lg475	Saave	               
             Belgrade	note: B8_lg475	Vienna	               
             Belgrade	note: B8_lg475	Wirtemberg	               
@@ -2315,6 +2555,7 @@
             Belgrade	note: B8_lg475	St. George	               
             Belgrade	note: B8_lg475	Delos	               
                            
+            Gradisch	note: B8_lg475	Vampire	               
             Gradisch	note: B8_lg475	Belgrade	               
             Gradisch	note: B8_lg475	Sclavonia	               
             Gradisch	note: B8_lg475	Kisilova	               
@@ -2330,6 +2571,7 @@
             Gradisch	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Gradisch	note: B8_lg475	Servia	               
+            Gradisch	note: B8_lg475	Vampire	               
             Gradisch	note: B8_lg475	Saave	               
             Gradisch	note: B8_lg475	Vienna	               
             Gradisch	note: B8_lg475	Wirtemberg	               
@@ -2343,6 +2585,7 @@
             Gradisch	note: B8_lg475	St. George	               
             Gradisch	note: B8_lg475	Delos	               
                            
+            Sclavonia	note: B8_lg475	Vampire	               
             Sclavonia	note: B8_lg475	Belgrade	               
             Sclavonia	note: B8_lg475	Gradisch	               
             Sclavonia	note: B8_lg475	Kisilova	               
@@ -2360,6 +2603,7 @@
             Sclavonia	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Sclavonia	note: B8_lg475	Servia	               
+            Sclavonia	note: B8_lg475	Vampire	               
             Sclavonia	note: B8_lg475	Saave	               
             Sclavonia	note: B8_lg475	Vienna	               
             Sclavonia	note: B8_lg475	Wirtemberg	               
@@ -2373,6 +2617,7 @@
             Sclavonia	note: B8_lg475	St. George	               
             Sclavonia	note: B8_lg475	Delos	               
                            
+            Kisilova	note: B8_lg475	Vampire	               
             Kisilova	note: B8_lg475	Belgrade	               
             Kisilova	note: B8_lg475	Gradisch	               
             Kisilova	note: B8_lg475	Sclavonia	               
@@ -2390,6 +2635,7 @@
             Kisilova	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Kisilova	note: B8_lg475	Servia	               
+            Kisilova	note: B8_lg475	Vampire	               
             Kisilova	note: B8_lg475	Saave	               
             Kisilova	note: B8_lg475	Vienna	               
             Kisilova	note: B8_lg475	Wirtemberg	               
@@ -2403,6 +2649,7 @@
             Kisilova	note: B8_lg475	St. George	               
             Kisilova	note: B8_lg475	Delos	               
                            
+            Gradisch	note: B8_lg475	Vampire	               
             Gradisch	note: B8_lg475	Belgrade	               
             Gradisch	note: B8_lg475	Sclavonia	               
             Gradisch	note: B8_lg475	Kisilova	               
@@ -2418,6 +2665,7 @@
             Gradisch	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Gradisch	note: B8_lg475	Servia	               
+            Gradisch	note: B8_lg475	Vampire	               
             Gradisch	note: B8_lg475	Saave	               
             Gradisch	note: B8_lg475	Vienna	               
             Gradisch	note: B8_lg475	Wirtemberg	               
@@ -2431,6 +2679,7 @@
             Gradisch	note: B8_lg475	St. George	               
             Gradisch	note: B8_lg475	Delos	               
                            
+            Belgrade	note: B8_lg475	Vampire	               
             Belgrade	note: B8_lg475	Gradisch	               
             Belgrade	note: B8_lg475	Sclavonia	               
             Belgrade	note: B8_lg475	Kisilova	               
@@ -2447,6 +2696,7 @@
             Belgrade	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Belgrade	note: B8_lg475	Servia	               
+            Belgrade	note: B8_lg475	Vampire	               
             Belgrade	note: B8_lg475	Saave	               
             Belgrade	note: B8_lg475	Vienna	               
             Belgrade	note: B8_lg475	Wirtemberg	               
@@ -2460,6 +2710,7 @@
             Belgrade	note: B8_lg475	St. George	               
             Belgrade	note: B8_lg475	Delos	               
                            
+            Gradisch	note: B8_lg475	Vampire	               
             Gradisch	note: B8_lg475	Belgrade	               
             Gradisch	note: B8_lg475	Sclavonia	               
             Gradisch	note: B8_lg475	Kisilova	               
@@ -2475,6 +2726,7 @@
             Gradisch	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Gradisch	note: B8_lg475	Servia	               
+            Gradisch	note: B8_lg475	Vampire	               
             Gradisch	note: B8_lg475	Saave	               
             Gradisch	note: B8_lg475	Vienna	               
             Gradisch	note: B8_lg475	Wirtemberg	               
@@ -2488,6 +2740,7 @@
             Gradisch	note: B8_lg475	St. George	               
             Gradisch	note: B8_lg475	Delos	               
                            
+            Hungary	note: B8_lg475	Vampire	               
             Hungary	note: B8_lg475	Belgrade	               
             Hungary	note: B8_lg475	Gradisch	               
             Hungary	note: B8_lg475	Sclavonia	               
@@ -2505,6 +2758,7 @@
             Hungary	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Hungary	note: B8_lg475	Servia	               
+            Hungary	note: B8_lg475	Vampire	               
             Hungary	note: B8_lg475	Saave	               
             Hungary	note: B8_lg475	Vienna	               
             Hungary	note: B8_lg475	Wirtemberg	               
@@ -2518,6 +2772,7 @@
             Hungary	note: B8_lg475	St. George	               
             Hungary	note: B8_lg475	Delos	               
                            
+            Oppida Heidonum	note: B8_lg475	Vampire	               
             Oppida Heidonum	note: B8_lg475	Belgrade	               
             Oppida Heidonum	note: B8_lg475	Gradisch	               
             Oppida Heidonum	note: B8_lg475	Sclavonia	               
@@ -2535,6 +2790,7 @@
             Oppida Heidonum	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Oppida Heidonum	note: B8_lg475	Servia	               
+            Oppida Heidonum	note: B8_lg475	Vampire	               
             Oppida Heidonum	note: B8_lg475	Saave	               
             Oppida Heidonum	note: B8_lg475	Vienna	               
             Oppida Heidonum	note: B8_lg475	Wirtemberg	               
@@ -2548,6 +2804,7 @@
             Oppida Heidonum	note: B8_lg475	St. George	               
             Oppida Heidonum	note: B8_lg475	Delos	               
                            
+            Tibiscus	note: B8_lg475	Vampire	               
             Tibiscus	note: B8_lg475	Belgrade	               
             Tibiscus	note: B8_lg475	Gradisch	               
             Tibiscus	note: B8_lg475	Sclavonia	               
@@ -2565,6 +2822,7 @@
             Tibiscus	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Tibiscus	note: B8_lg475	Servia	               
+            Tibiscus	note: B8_lg475	Vampire	               
             Tibiscus	note: B8_lg475	Saave	               
             Tibiscus	note: B8_lg475	Vienna	               
             Tibiscus	note: B8_lg475	Wirtemberg	               
@@ -2578,6 +2836,7 @@
             Tibiscus	note: B8_lg475	St. George	               
             Tibiscus	note: B8_lg475	Delos	               
                            
+            Teysse	note: B8_lg475	Vampire	               
             Teysse	note: B8_lg475	Belgrade	               
             Teysse	note: B8_lg475	Gradisch	               
             Teysse	note: B8_lg475	Sclavonia	               
@@ -2595,6 +2854,7 @@
             Teysse	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Teysse	note: B8_lg475	Servia	               
+            Teysse	note: B8_lg475	Vampire	               
             Teysse	note: B8_lg475	Saave	               
             Teysse	note: B8_lg475	Vienna	               
             Teysse	note: B8_lg475	Wirtemberg	               
@@ -2608,6 +2868,7 @@
             Teysse	note: B8_lg475	St. George	               
             Teysse	note: B8_lg475	Delos	               
                            
+            Tokay	note: B8_lg475	Vampire	               
             Tokay	note: B8_lg475	Belgrade	               
             Tokay	note: B8_lg475	Gradisch	               
             Tokay	note: B8_lg475	Sclavonia	               
@@ -2625,6 +2886,7 @@
             Tokay	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Tokay	note: B8_lg475	Servia	               
+            Tokay	note: B8_lg475	Vampire	               
             Tokay	note: B8_lg475	Saave	               
             Tokay	note: B8_lg475	Vienna	               
             Tokay	note: B8_lg475	Wirtemberg	               
@@ -2638,6 +2900,7 @@
             Tokay	note: B8_lg475	St. George	               
             Tokay	note: B8_lg475	Delos	               
                            
+            Transilvania	note: B8_lg475	Vampire	               
             Transilvania	note: B8_lg475	Belgrade	               
             Transilvania	note: B8_lg475	Gradisch	               
             Transilvania	note: B8_lg475	Sclavonia	               
@@ -2655,6 +2918,7 @@
             Transilvania	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Transilvania	note: B8_lg475	Servia	               
+            Transilvania	note: B8_lg475	Vampire	               
             Transilvania	note: B8_lg475	Saave	               
             Transilvania	note: B8_lg475	Vienna	               
             Transilvania	note: B8_lg475	Wirtemberg	               
@@ -2668,6 +2932,7 @@
             Transilvania	note: B8_lg475	St. George	               
             Transilvania	note: B8_lg475	Delos	               
                            
+            Medreiga	note: B8_lg475	Vampire	               
             Medreiga	note: B8_lg475	Belgrade	               
             Medreiga	note: B8_lg475	Gradisch	               
             Medreiga	note: B8_lg475	Sclavonia	               
@@ -2685,6 +2950,7 @@
             Medreiga	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Medreiga	note: B8_lg475	Servia	               
+            Medreiga	note: B8_lg475	Vampire	               
             Medreiga	note: B8_lg475	Saave	               
             Medreiga	note: B8_lg475	Vienna	               
             Medreiga	note: B8_lg475	Wirtemberg	               
@@ -2698,6 +2964,7 @@
             Medreiga	note: B8_lg475	St. George	               
             Medreiga	note: B8_lg475	Delos	               
                            
+            Cossova	note: B8_lg475	Vampire	               
             Cossova	note: B8_lg475	Belgrade	               
             Cossova	note: B8_lg475	Gradisch	               
             Cossova	note: B8_lg475	Sclavonia	               
@@ -2715,6 +2982,7 @@
             Cossova	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Cossova	note: B8_lg475	Servia	               
+            Cossova	note: B8_lg475	Vampire	               
             Cossova	note: B8_lg475	Saave	               
             Cossova	note: B8_lg475	Vienna	               
             Cossova	note: B8_lg475	Wirtemberg	               
@@ -2728,6 +2996,8 @@
             Cossova	note: B8_lg475	St. George	               
             Cossova	note: B8_lg475	Delos	               
                            
+            Frontiers of the Turkish Servia
+                                    	note: B8_lg475	Vampire	               
             Frontiers of the Turkish Servia
                                     	note: B8_lg475	Belgrade	               
             Frontiers of the Turkish Servia
@@ -2761,6 +3031,8 @@
             Frontiers of the Turkish Servia
                                     	note: B8_lg475	Servia	               
             Frontiers of the Turkish Servia
+                                    	note: B8_lg475	Vampire	               
+            Frontiers of the Turkish Servia
                                     	note: B8_lg475	Saave	               
             Frontiers of the Turkish Servia
                                     	note: B8_lg475	Vienna	               
@@ -2785,6 +3057,7 @@
             Frontiers of the Turkish Servia
                                     	note: B8_lg475	Delos	               
                            
+            Servia	note: B8_lg475	Vampire	               
             Servia	note: B8_lg475	Belgrade	               
             Servia	note: B8_lg475	Gradisch	               
             Servia	note: B8_lg475	Sclavonia	               
@@ -2802,6 +3075,7 @@
             Servia	note: B8_lg475	Cossova	               
             Servia	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
+            Servia	note: B8_lg475	Vampire	               
             Servia	note: B8_lg475	Saave	               
             Servia	note: B8_lg475	Vienna	               
             Servia	note: B8_lg475	Wirtemberg	               
@@ -2815,6 +3089,7 @@
             Servia	note: B8_lg475	St. George	               
             Servia	note: B8_lg475	Delos	               
                            
+            Saave	note: B8_lg475	Vampire	               
             Saave	note: B8_lg475	Belgrade	               
             Saave	note: B8_lg475	Gradisch	               
             Saave	note: B8_lg475	Sclavonia	               
@@ -2833,6 +3108,7 @@
             Saave	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Saave	note: B8_lg475	Servia	               
+            Saave	note: B8_lg475	Vampire	               
             Saave	note: B8_lg475	Vienna	               
             Saave	note: B8_lg475	Wirtemberg	               
             Saave	note: B8_lg475	Furstemberg	               
@@ -2845,6 +3121,7 @@
             Saave	note: B8_lg475	St. George	               
             Saave	note: B8_lg475	Delos	               
                            
+            Vienna	note: B8_lg475	Vampire	               
             Vienna	note: B8_lg475	Belgrade	               
             Vienna	note: B8_lg475	Gradisch	               
             Vienna	note: B8_lg475	Sclavonia	               
@@ -2863,6 +3140,7 @@
             Vienna	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Vienna	note: B8_lg475	Servia	               
+            Vienna	note: B8_lg475	Vampire	               
             Vienna	note: B8_lg475	Saave	               
             Vienna	note: B8_lg475	Wirtemberg	               
             Vienna	note: B8_lg475	Furstemberg	               
@@ -2875,6 +3153,7 @@
             Vienna	note: B8_lg475	St. George	               
             Vienna	note: B8_lg475	Delos	               
                            
+            Wirtemberg	note: B8_lg475	Vampire	               
             Wirtemberg	note: B8_lg475	Belgrade	               
             Wirtemberg	note: B8_lg475	Gradisch	               
             Wirtemberg	note: B8_lg475	Sclavonia	               
@@ -2893,6 +3172,7 @@
             Wirtemberg	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Wirtemberg	note: B8_lg475	Servia	               
+            Wirtemberg	note: B8_lg475	Vampire	               
             Wirtemberg	note: B8_lg475	Saave	               
             Wirtemberg	note: B8_lg475	Vienna	               
             Wirtemberg	note: B8_lg475	Furstemberg	               
@@ -2905,6 +3185,7 @@
             Wirtemberg	note: B8_lg475	St. George	               
             Wirtemberg	note: B8_lg475	Delos	               
                            
+            Furstemberg	note: B8_lg475	Vampire	               
             Furstemberg	note: B8_lg475	Belgrade	               
             Furstemberg	note: B8_lg475	Gradisch	               
             Furstemberg	note: B8_lg475	Sclavonia	               
@@ -2923,6 +3204,7 @@
             Furstemberg	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Furstemberg	note: B8_lg475	Servia	               
+            Furstemberg	note: B8_lg475	Vampire	               
             Furstemberg	note: B8_lg475	Saave	               
             Furstemberg	note: B8_lg475	Vienna	               
             Furstemberg	note: B8_lg475	Wirtemberg	               
@@ -2935,6 +3217,7 @@
             Furstemberg	note: B8_lg475	St. George	               
             Furstemberg	note: B8_lg475	Delos	               
                            
+            Greece	note: B8_lg475	Vampire	               
             Greece	note: B8_lg475	Belgrade	               
             Greece	note: B8_lg475	Gradisch	               
             Greece	note: B8_lg475	Sclavonia	               
@@ -2953,6 +3236,7 @@
             Greece	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Greece	note: B8_lg475	Servia	               
+            Greece	note: B8_lg475	Vampire	               
             Greece	note: B8_lg475	Saave	               
             Greece	note: B8_lg475	Vienna	               
             Greece	note: B8_lg475	Wirtemberg	               
@@ -2965,6 +3249,7 @@
             Greece	note: B8_lg475	St. George	               
             Greece	note: B8_lg475	Delos	               
                            
+            Mycone	note: B8_lg475	Vampire	               
             Mycone	note: B8_lg475	Belgrade	               
             Mycone	note: B8_lg475	Gradisch	               
             Mycone	note: B8_lg475	Sclavonia	               
@@ -2983,6 +3268,7 @@
             Mycone	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Mycone	note: B8_lg475	Servia	               
+            Mycone	note: B8_lg475	Vampire	               
             Mycone	note: B8_lg475	Saave	               
             Mycone	note: B8_lg475	Vienna	               
             Mycone	note: B8_lg475	Wirtemberg	               
@@ -2994,6 +3280,7 @@
             Mycone	note: B8_lg475	St. George	               
             Mycone	note: B8_lg475	Delos	               
                            
+            Christendom	note: B8_lg475	Vampire	               
             Christendom	note: B8_lg475	Belgrade	               
             Christendom	note: B8_lg475	Gradisch	               
             Christendom	note: B8_lg475	Sclavonia	               
@@ -3012,6 +3299,7 @@
             Christendom	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Christendom	note: B8_lg475	Servia	               
+            Christendom	note: B8_lg475	Vampire	               
             Christendom	note: B8_lg475	Saave	               
             Christendom	note: B8_lg475	Vienna	               
             Christendom	note: B8_lg475	Wirtemberg	               
@@ -3024,6 +3312,7 @@
             Christendom	note: B8_lg475	St. George	               
             Christendom	note: B8_lg475	Delos	               
                            
+            Mycone	note: B8_lg475	Vampire	               
             Mycone	note: B8_lg475	Belgrade	               
             Mycone	note: B8_lg475	Gradisch	               
             Mycone	note: B8_lg475	Sclavonia	               
@@ -3042,6 +3331,7 @@
             Mycone	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Mycone	note: B8_lg475	Servia	               
+            Mycone	note: B8_lg475	Vampire	               
             Mycone	note: B8_lg475	Saave	               
             Mycone	note: B8_lg475	Vienna	               
             Mycone	note: B8_lg475	Wirtemberg	               
@@ -3053,6 +3343,7 @@
             Mycone	note: B8_lg475	St. George	               
             Mycone	note: B8_lg475	Delos	               
                            
+            Syre	note: B8_lg475	Vampire	               
             Syre	note: B8_lg475	Belgrade	               
             Syre	note: B8_lg475	Gradisch	               
             Syre	note: B8_lg475	Sclavonia	               
@@ -3071,6 +3362,7 @@
             Syre	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Syre	note: B8_lg475	Servia	               
+            Syre	note: B8_lg475	Vampire	               
             Syre	note: B8_lg475	Saave	               
             Syre	note: B8_lg475	Vienna	               
             Syre	note: B8_lg475	Wirtemberg	               
@@ -3083,6 +3375,7 @@
             Syre	note: B8_lg475	St. George	               
             Syre	note: B8_lg475	Delos	               
                            
+            Tinos	note: B8_lg475	Vampire	               
             Tinos	note: B8_lg475	Belgrade	               
             Tinos	note: B8_lg475	Gradisch	               
             Tinos	note: B8_lg475	Sclavonia	               
@@ -3101,6 +3394,7 @@
             Tinos	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Tinos	note: B8_lg475	Servia	               
+            Tinos	note: B8_lg475	Vampire	               
             Tinos	note: B8_lg475	Saave	               
             Tinos	note: B8_lg475	Vienna	               
             Tinos	note: B8_lg475	Wirtemberg	               
@@ -3113,6 +3407,7 @@
             Tinos	note: B8_lg475	St. George	               
             Tinos	note: B8_lg475	Delos	               
                            
+            St. George	note: B8_lg475	Vampire	               
             St. George	note: B8_lg475	Belgrade	               
             St. George	note: B8_lg475	Gradisch	               
             St. George	note: B8_lg475	Sclavonia	               
@@ -3131,6 +3426,7 @@
             St. George	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             St. George	note: B8_lg475	Servia	               
+            St. George	note: B8_lg475	Vampire	               
             St. George	note: B8_lg475	Saave	               
             St. George	note: B8_lg475	Vienna	               
             St. George	note: B8_lg475	Wirtemberg	               
@@ -3143,6 +3439,7 @@
             St. George	note: B8_lg475	Tinos	               
             St. George	note: B8_lg475	Delos	               
                            
+            Delos	note: B8_lg475	Vampire	               
             Delos	note: B8_lg475	Belgrade	               
             Delos	note: B8_lg475	Gradisch	               
             Delos	note: B8_lg475	Sclavonia	               
@@ -3161,6 +3458,7 @@
             Delos	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Delos	note: B8_lg475	Servia	               
+            Delos	note: B8_lg475	Vampire	               
             Delos	note: B8_lg475	Saave	               
             Delos	note: B8_lg475	Vienna	               
             Delos	note: B8_lg475	Wirtemberg	               
@@ -3173,27 +3471,49 @@
             Delos	note: B8_lg475	Tinos	               
             Delos	note: B8_lg475	St. George	               
                            
+            Araby	main: B8_lg476	Heaven	               
+            Araby	main: B8_lg476	Heaven	               
                            
+            Tombs	main: B8_lg477	Heaven	               
                            
             Kaf	main: B8_lg480	the_world	               
                            
             the_world	main: B8_lg480	Kaf	               
                            
                            
+            Arabia	main: B8_lg482	sky	               
                            
             Earth	main: B9_lg517	the_world	               
+            Earth	main: B9_lg517	their final seat	               
+            Earth	main: B9_lg517	Of bliss, or bale	               
+            Earth	main: B9_lg517	in the sepulchre	               
+            Earth	main: B9_lg517	in central fires	               
             Earth	main: B9_lg517	the_world	               
             Earth	main: B9_lg517	the_world	               
             Earth	main: B9_lg517	Babylon	               
                            
             Babylon	main: B9_lg517	the_world	               
+            Babylon	main: B9_lg517	their final seat	               
+            Babylon	main: B9_lg517	Of bliss, or bale	               
+            Babylon	main: B9_lg517	in the sepulchre	               
+            Babylon	main: B9_lg517	in central fires	               
             Babylon	main: B9_lg517	the_world	               
             Babylon	main: B9_lg517	the_world	               
             Babylon	main: B9_lg517	Earth	               
                            
+            Earth	main: B9_lg518	the Sun and Moon and Stars	               
+            Earth	main: B9_lg518	Heaven	               
             Earth	main: B9_lg518	the World	               
+            Earth	main: B9_lg518	Heaven	               
+            Earth	main: B9_lg518	Heaven	               
+            Earth	main: B9_lg518	Heaven	               
                            
+            the World	main: B9_lg518	the Sun and Moon and Stars	               
             the World	main: B9_lg518	Earth	               
+            the World	main: B9_lg518	Heaven	               
+            the World	main: B9_lg518	Heaven	               
+            the World	main: B9_lg518	Heaven	               
+            the World	main: B9_lg518	Heaven	               
                            
             Aleppo	note: B9_lg522	England	               
             Aleppo	note: B9_lg522	Persia	               
@@ -3291,100 +3611,150 @@
             Dunne	note: B9_lg528	Ulster	               
             Dunne	note: B9_lg528	Couffah	               
             Dunne	note: B9_lg528	Molucca Islands	               
+            Dunne	note: B9_lg528	Hell	               
+            Dunne	note: B9_lg528	burning_grave	               
                            
             Ulster	note: B9_lg528	England	               
             Ulster	note: B9_lg528	Dunne	               
             Ulster	note: B9_lg528	Couffah	               
             Ulster	note: B9_lg528	Molucca Islands	               
+            Ulster	note: B9_lg528	Hell	               
+            Ulster	note: B9_lg528	burning_grave	               
                            
             Couffah	note: B9_lg528	England	               
             Couffah	note: B9_lg528	Dunne	               
             Couffah	note: B9_lg528	Ulster	               
             Couffah	note: B9_lg528	Molucca Islands	               
+            Couffah	note: B9_lg528	Hell	               
+            Couffah	note: B9_lg528	burning_grave	               
                            
             Molucca Islands	note: B9_lg528	England	               
             Molucca Islands	note: B9_lg528	Dunne	               
             Molucca Islands	note: B9_lg528	Ulster	               
             Molucca Islands	note: B9_lg528	Couffah	               
+            Molucca Islands	note: B9_lg528	Hell	               
+            Molucca Islands	note: B9_lg528	burning_grave	               
                            
+            Mount_Ararat	main: B9_lg534	Hell	               
             Mount_Ararat	main: B9_lg534	Mount_Ararat	               
             Mount_Ararat	main: B9_lg534	Lubar	               
             Mount_Ararat	main: B9_lg534	Abbey of St. Gregorie's Monks	               
+            Mount_Ararat	main: B9_lg534	Ark_transport	               
             Mount_Ararat	main: B9_lg534	Arabia	               
             Mount_Ararat	main: B9_lg534	Helicon	               
             Mount_Ararat	main: B9_lg534	Psylli	               
             Mount_Ararat	main: B9_lg534	England	               
                            
+            Mount_Ararat	note: B9_lg534	Hell	               
             Mount_Ararat	note: B9_lg534	Mount_Ararat	               
             Mount_Ararat	note: B9_lg534	Lubar	               
             Mount_Ararat	note: B9_lg534	Abbey of St. Gregorie's Monks	               
+            Mount_Ararat	note: B9_lg534	Ark_transport	               
             Mount_Ararat	note: B9_lg534	Arabia	               
             Mount_Ararat	note: B9_lg534	Helicon	               
             Mount_Ararat	note: B9_lg534	Psylli	               
             Mount_Ararat	note: B9_lg534	England	               
                            
+            Lubar	note: B9_lg534	Hell	               
             Lubar	note: B9_lg534	Mount_Ararat	               
             Lubar	note: B9_lg534	Mount_Ararat	               
             Lubar	note: B9_lg534	Abbey of St. Gregorie's Monks	               
+            Lubar	note: B9_lg534	Ark_transport	               
             Lubar	note: B9_lg534	Arabia	               
             Lubar	note: B9_lg534	Helicon	               
             Lubar	note: B9_lg534	Psylli	               
             Lubar	note: B9_lg534	England	               
                            
+            Abbey of St. Gregorie's Monks	note: B9_lg534	Hell	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Mount_Ararat	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Mount_Ararat	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Lubar	               
+            Abbey of St. Gregorie's Monks	note: B9_lg534	Ark_transport	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Arabia	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Helicon	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Psylli	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	England	               
                            
+            Arabia	note: B9_lg534	Hell	               
             Arabia	note: B9_lg534	Mount_Ararat	               
             Arabia	note: B9_lg534	Mount_Ararat	               
             Arabia	note: B9_lg534	Lubar	               
             Arabia	note: B9_lg534	Abbey of St. Gregorie's Monks	               
+            Arabia	note: B9_lg534	Ark_transport	               
             Arabia	note: B9_lg534	Helicon	               
             Arabia	note: B9_lg534	Psylli	               
             Arabia	note: B9_lg534	England	               
                            
+            Helicon	note: B9_lg534	Hell	               
             Helicon	note: B9_lg534	Mount_Ararat	               
             Helicon	note: B9_lg534	Mount_Ararat	               
             Helicon	note: B9_lg534	Lubar	               
             Helicon	note: B9_lg534	Abbey of St. Gregorie's Monks	               
+            Helicon	note: B9_lg534	Ark_transport	               
             Helicon	note: B9_lg534	Arabia	               
             Helicon	note: B9_lg534	Psylli	               
             Helicon	note: B9_lg534	England	               
                            
+            Psylli	note: B9_lg534	Hell	               
             Psylli	note: B9_lg534	Mount_Ararat	               
             Psylli	note: B9_lg534	Mount_Ararat	               
             Psylli	note: B9_lg534	Lubar	               
             Psylli	note: B9_lg534	Abbey of St. Gregorie's Monks	               
+            Psylli	note: B9_lg534	Ark_transport	               
             Psylli	note: B9_lg534	Arabia	               
             Psylli	note: B9_lg534	Helicon	               
             Psylli	note: B9_lg534	England	               
                            
+            England	note: B9_lg534	Hell	               
             England	note: B9_lg534	Mount_Ararat	               
             England	note: B9_lg534	Mount_Ararat	               
             England	note: B9_lg534	Lubar	               
             England	note: B9_lg534	Abbey of St. Gregorie's Monks	               
+            England	note: B9_lg534	Ark_transport	               
             England	note: B9_lg534	Arabia	               
             England	note: B9_lg534	Helicon	               
             England	note: B9_lg534	Psylli	               
                            
+            Earth	main: B9_lg535	blessed Sun	               
+            Earth	main: B9_lg535	sky	               
+            Earth	main: B9_lg535	sky	               
+            Earth	main: B9_lg535	Khawla_breath	               
+            Earth	main: B9_lg535	Khawla_breath	               
+            Earth	main: B9_lg535	Khawla_breath	               
+            Earth	main: B9_lg535	Khawla_breath	               
+            Earth	main: B9_lg535	Khawla_breath	               
                            
+            Ardevil	note: B9_lg536	Tombs	               
+            Ardevil	note: B9_lg536	Tombs	               
+            Ardevil	note: B9_lg536	Tombs	               
             Ardevil	note: B9_lg536	Persia	               
             Ardevil	note: B9_lg536	city of Kom	               
             Ardevil	note: B9_lg536	Spain Portugal	               
+            Ardevil	note: B9_lg536	to_next_world	               
+            Ardevil	note: B9_lg536	Tombs	               
+            Ardevil	note: B9_lg536	Tombs	               
                            
+            city of Kom	note: B9_lg536	Tombs	               
+            city of Kom	note: B9_lg536	Tombs	               
+            city of Kom	note: B9_lg536	Tombs	               
             city of Kom	note: B9_lg536	Persia	               
             city of Kom	note: B9_lg536	Ardevil	               
             city of Kom	note: B9_lg536	Spain Portugal	               
+            city of Kom	note: B9_lg536	to_next_world	               
+            city of Kom	note: B9_lg536	Tombs	               
+            city of Kom	note: B9_lg536	Tombs	               
                            
+            Earth	main: B9_lg542	Tombs	               
             Earth	main: B9_lg542	the earth	               
             Earth	main: B9_lg542	Ocean	               
+            Earth	main: B9_lg542	Universe	               
+            Earth	main: B9_lg542	Universe	               
                            
+            Ocean	main: B9_lg542	Tombs	               
             Ocean	main: B9_lg542	the earth	               
             Ocean	main: B9_lg542	Earth	               
+            Ocean	main: B9_lg542	Universe	               
+            Ocean	main: B9_lg542	Universe	               
                            
                            
                            
@@ -3641,33 +4011,43 @@
             the world	note: B9_lg553	East Indies	               
             the world	note: B9_lg553	Java	               
                            
+            Ocean-Vault	main: B12_lg738	Domdaniel_Cave	               
+            Ocean-Vault	main: B12_lg738	Paradise	               
+            Ocean-Vault	main: B12_lg738	Paradise	               
+            Ocean-Vault	main: B12_lg738	Paradise	               
+                           
+            ocean	main: B1_lg2	sky	               
                            
                            
-                           
+            Africa	main: B1_lg23	Eden	               
             Africa	main: B1_lg23	the East	               
             Africa	main: B1_lg23	Africa	               
             Africa	main: B1_lg23	Ethiopia	               
             Africa	main: B1_lg23	Ethiopia	               
             Africa	main: B1_lg23	Ethiopia	               
                            
+            Africa	main: B1_lg23	Eden	               
             Africa	main: B1_lg23	the East	               
             Africa	main: B1_lg23	Africa	               
             Africa	main: B1_lg23	Ethiopia	               
             Africa	main: B1_lg23	Ethiopia	               
             Africa	main: B1_lg23	Ethiopia	               
                            
+            Ethiopia	main: B1_lg23	Eden	               
             Ethiopia	main: B1_lg23	the East	               
             Ethiopia	main: B1_lg23	Africa	               
             Ethiopia	main: B1_lg23	Africa	               
             Ethiopia	main: B1_lg23	Ethiopia	               
             Ethiopia	main: B1_lg23	Ethiopia	               
                            
+            Ethiopia	main: B1_lg23	Eden	               
             Ethiopia	main: B1_lg23	the East	               
             Ethiopia	main: B1_lg23	Africa	               
             Ethiopia	main: B1_lg23	Africa	               
             Ethiopia	main: B1_lg23	Ethiopia	               
             Ethiopia	main: B1_lg23	Ethiopia	               
                            
+            Ethiopia	note: B1_lg23	Eden	               
             Ethiopia	note: B1_lg23	the East	               
             Ethiopia	note: B1_lg23	Africa	               
             Ethiopia	note: B1_lg23	Africa	               
@@ -3690,13 +4070,19 @@
             Egypt	main: B1_lg35	Abulfeda	               
             Egypt	main: B1_lg35	Ægypt	               
             Egypt	main: B1_lg35	the_world	               
+            Egypt	main: B1_lg35	sky	               
+            Egypt	main: B1_lg35	the subterranean palaces of Romance	               
             Egypt	main: B1_lg35	Bologna	               
             Egypt	main: B1_lg35	East Indies	               
+            Egypt	main: B1_lg35	Eden	               
+            Egypt	main: B1_lg35	Eden	               
+            Egypt	main: B1_lg35	Eden	               
             Egypt	main: B1_lg35	Egypt	               
             Egypt	main: B1_lg35	Ad	               
             Egypt	main: B1_lg35	Syria	               
             Egypt	main: B1_lg35	Ormus	               
             Egypt	main: B1_lg35	Damascus	               
+            Egypt	main: B1_lg35	Irem_removed	               
             Egypt	main: B1_lg35	Irem	               
             Egypt	main: B1_lg35	the East	               
                            
@@ -3710,13 +4096,19 @@
             Egypt	note: B1_lg35	Abulfeda	               
             Egypt	note: B1_lg35	Ægypt	               
             Egypt	note: B1_lg35	the_world	               
+            Egypt	note: B1_lg35	sky	               
+            Egypt	note: B1_lg35	the subterranean palaces of Romance	               
             Egypt	note: B1_lg35	Bologna	               
             Egypt	note: B1_lg35	East Indies	               
+            Egypt	note: B1_lg35	Eden	               
+            Egypt	note: B1_lg35	Eden	               
+            Egypt	note: B1_lg35	Eden	               
             Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	Ad	               
             Egypt	note: B1_lg35	Syria	               
             Egypt	note: B1_lg35	Ormus	               
             Egypt	note: B1_lg35	Damascus	               
+            Egypt	note: B1_lg35	Irem_removed	               
             Egypt	note: B1_lg35	Irem	               
             Egypt	note: B1_lg35	the East	               
                            
@@ -3730,16 +4122,23 @@
             the countries of the west	note: B1_lg35	Abulfeda	               
             the countries of the west	note: B1_lg35	Ægypt	               
             the countries of the west	note: B1_lg35	the_world	               
+            the countries of the west	note: B1_lg35	sky	               
+            the countries of the west	note: B1_lg35	the subterranean palaces of Romance	               
             the countries of the west	note: B1_lg35	Bologna	               
             the countries of the west	note: B1_lg35	East Indies	               
+            the countries of the west	note: B1_lg35	Eden	               
+            the countries of the west	note: B1_lg35	Eden	               
+            the countries of the west	note: B1_lg35	Eden	               
             the countries of the west	note: B1_lg35	Egypt	               
             the countries of the west	note: B1_lg35	Ad	               
             the countries of the west	note: B1_lg35	Syria	               
             the countries of the west	note: B1_lg35	Ormus	               
             the countries of the west	note: B1_lg35	Damascus	               
+            the countries of the west	note: B1_lg35	Irem_removed	               
             the countries of the west	note: B1_lg35	Irem	               
             the countries of the west	note: B1_lg35	the East	               
                            
+            the desert	main: B2_lg60	Domdaniel_Cave	               
                            
             Bagdad	main: B4_lg204	the_world	               
             Bagdad	main: B4_lg204	the_world	               
@@ -3752,6 +4151,8 @@
             Bagdad	main: B5_lg315	Paris	               
             Bagdad	main: B5_lg315	Ispahan	               
             Bagdad	main: B5_lg315	Alexandria	               
+            Bagdad	main: B5_lg315	another
+                                 world	               
                            
             Bagdad	note: B5_lg316	Bagdad	               
             Bagdad	note: B5_lg316	the Tigris	               
@@ -3830,6 +4231,7 @@
             Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	Naples	               
+            Babylon	main: B5_lg320	Heaven	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Assyria	               
             Babylon	main: B5_lg320	Babylon	               
@@ -3863,25 +4265,43 @@
                            
                            
             polar	main: B8_lg504	polar	               
+            polar	main: B8_lg504	Mohareb_Island	               
+            polar	main: B8_lg504	Mohareb_Island	               
             polar	main: B8_lg504	bitumen_pit	               
                            
             polar	main: B8_lg504	polar	               
+            polar	main: B8_lg504	Mohareb_Island	               
+            polar	main: B8_lg504	Mohareb_Island	               
             polar	main: B8_lg504	bitumen_pit	               
                            
             bitumen_pit	main: B8_lg504	polar	               
             bitumen_pit	main: B8_lg504	polar	               
+            bitumen_pit	main: B8_lg504	Mohareb_Island	               
+            bitumen_pit	main: B8_lg504	Mohareb_Island	               
                            
                            
                            
+            the_world	main: B9_lg517	their final seat	               
+            the_world	main: B9_lg517	Of bliss, or bale	               
+            the_world	main: B9_lg517	in the sepulchre	               
+            the_world	main: B9_lg517	in central fires	               
+            the_world	main: B9_lg517	the_world	               
+            the_world	main: B9_lg517	Earth	               
+            the_world	main: B9_lg517	Babylon	               
+                           
+            the_world	main: B9_lg517	their final seat	               
+            the_world	main: B9_lg517	Of bliss, or bale	               
+            the_world	main: B9_lg517	in the sepulchre	               
+            the_world	main: B9_lg517	in central fires	               
             the_world	main: B9_lg517	the_world	               
             the_world	main: B9_lg517	Earth	               
             the_world	main: B9_lg517	Babylon	               
                            
             the_world	main: B9_lg517	the_world	               
-            the_world	main: B9_lg517	Earth	               
-            the_world	main: B9_lg517	Babylon	               
-                           
-            the_world	main: B9_lg517	the_world	               
+            the_world	main: B9_lg517	their final seat	               
+            the_world	main: B9_lg517	Of bliss, or bale	               
+            the_world	main: B9_lg517	in the sepulchre	               
+            the_world	main: B9_lg517	in central fires	               
             the_world	main: B9_lg517	the_world	               
             the_world	main: B9_lg517	Earth	               
             the_world	main: B9_lg517	Babylon	               
@@ -3916,17 +4336,34 @@
             England	note: B9_lg528	Ulster	               
             England	note: B9_lg528	Couffah	               
             England	note: B9_lg528	Molucca Islands	               
+            England	note: B9_lg528	Hell	               
+            England	note: B9_lg528	burning_grave	               
                            
+            Persia	note: B9_lg536	Tombs	               
+            Persia	note: B9_lg536	Tombs	               
+            Persia	note: B9_lg536	Tombs	               
             Persia	note: B9_lg536	Ardevil	               
             Persia	note: B9_lg536	city of Kom	               
             Persia	note: B9_lg536	Spain Portugal	               
+            Persia	note: B9_lg536	to_next_world	               
+            Persia	note: B9_lg536	Tombs	               
+            Persia	note: B9_lg536	Tombs	               
                            
+            Spain Portugal	note: B9_lg536	Tombs	               
+            Spain Portugal	note: B9_lg536	Tombs	               
+            Spain Portugal	note: B9_lg536	Tombs	               
             Spain Portugal	note: B9_lg536	Persia	               
             Spain Portugal	note: B9_lg536	Ardevil	               
             Spain Portugal	note: B9_lg536	city of Kom	               
+            Spain Portugal	note: B9_lg536	to_next_world	               
+            Spain Portugal	note: B9_lg536	Tombs	               
+            Spain Portugal	note: B9_lg536	Tombs	               
                            
+            the earth	main: B9_lg542	Tombs	               
             the earth	main: B9_lg542	Earth	               
             the earth	main: B9_lg542	Ocean	               
+            the earth	main: B9_lg542	Universe	               
+            the earth	main: B9_lg542	Universe	               
                            
                            
                            
@@ -3967,5 +4404,910 @@
             the new kingdom	note: B9_lg553	Java	               
             the new kingdom	note: B9_lg553	the world	               
                            
+            Mohareb_Island	main: B9_lg559	Heaven	               
+            Mohareb_Island	main: B9_lg559	air_transport	               
+            Mohareb_Island	main: B9_lg559	The Upas Tree of Death	               
+                           
+            sky	main: B1_lg2	ocean	               
+                           
+                           
+                           
+                           
+                           
+            Irem_removed	main: B1_lg19	Universe	               
+            Irem_removed	main: B1_lg19	the_world	               
+                           
+            sky	note: B1_lg20	The Paradise of Irem	               
+            sky	note: B1_lg20	Al_Ahkaf	               
+            sky	note: B1_lg20	Hadramaut	               
+            sky	note: B1_lg20	garden of Irem	               
+            sky	note: B1_lg20	the desarts of Aden	               
+            sky	note: B1_lg20	Arabia	               
+            sky	note: B1_lg20	province of Hegiaz	               
+            sky	note: B1_lg20	province of Hegiaz	               
+            sky	note: B1_lg20	Red Hillock	               
+            sky	note: B1_lg20	Red_Hillock	               
+            sky	note: B1_lg20	the valley of Magaith	               
+            sky	note: B1_lg20	the_world	               
+            sky	note: B1_lg20	Al_Ahkaf	               
+            sky	note: B1_lg20	Al_Ahkaf	               
+                           
+            Eden	main: B1_lg23	the East	               
+            Eden	main: B1_lg23	Africa	               
+            Eden	main: B1_lg23	Africa	               
+            Eden	main: B1_lg23	Ethiopia	               
+            Eden	main: B1_lg23	Ethiopia	               
+            Eden	main: B1_lg23	Ethiopia	               
+                           
+                           
+                           
+                           
+            sky	main: B1_lg35	Egypt	               
+            sky	main: B1_lg35	Egypt	               
+            sky	main: B1_lg35	the whole earth	               
+            sky	main: B1_lg35	Egypt	               
+            sky	main: B1_lg35	Egypt	               
+            sky	main: B1_lg35	the river Nilus	               
+            sky	main: B1_lg35	the countries of the west	               
+            sky	main: B1_lg35	the land Al-Said	               
+            sky	main: B1_lg35	Abulfeda	               
+            sky	main: B1_lg35	Ægypt	               
+            sky	main: B1_lg35	the_world	               
+            sky	main: B1_lg35	the subterranean palaces of Romance	               
+            sky	main: B1_lg35	Bologna	               
+            sky	main: B1_lg35	East Indies	               
+            sky	main: B1_lg35	Eden	               
+            sky	main: B1_lg35	Eden	               
+            sky	main: B1_lg35	Eden	               
+            sky	main: B1_lg35	Egypt	               
+            sky	main: B1_lg35	Ad	               
+            sky	main: B1_lg35	Syria	               
+            sky	main: B1_lg35	Ormus	               
+            sky	main: B1_lg35	Damascus	               
+            sky	main: B1_lg35	Irem_removed	               
+            sky	main: B1_lg35	Irem	               
+            sky	main: B1_lg35	the East	               
+                           
+            the subterranean palaces of Romance	note: B1_lg35	Egypt	               
+            the subterranean palaces of Romance	note: B1_lg35	Egypt	               
+            the subterranean palaces of Romance	note: B1_lg35	the whole earth	               
+            the subterranean palaces of Romance	note: B1_lg35	Egypt	               
+            the subterranean palaces of Romance	note: B1_lg35	Egypt	               
+            the subterranean palaces of Romance	note: B1_lg35	the river Nilus	               
+            the subterranean palaces of Romance	note: B1_lg35	the countries of the west	               
+            the subterranean palaces of Romance	note: B1_lg35	the land Al-Said	               
+            the subterranean palaces of Romance	note: B1_lg35	Abulfeda	               
+            the subterranean palaces of Romance	note: B1_lg35	Ægypt	               
+            the subterranean palaces of Romance	note: B1_lg35	the_world	               
+            the subterranean palaces of Romance	note: B1_lg35	sky	               
+            the subterranean palaces of Romance	note: B1_lg35	Bologna	               
+            the subterranean palaces of Romance	note: B1_lg35	East Indies	               
+            the subterranean palaces of Romance	note: B1_lg35	Eden	               
+            the subterranean palaces of Romance	note: B1_lg35	Eden	               
+            the subterranean palaces of Romance	note: B1_lg35	Eden	               
+            the subterranean palaces of Romance	note: B1_lg35	Egypt	               
+            the subterranean palaces of Romance	note: B1_lg35	Ad	               
+            the subterranean palaces of Romance	note: B1_lg35	Syria	               
+            the subterranean palaces of Romance	note: B1_lg35	Ormus	               
+            the subterranean palaces of Romance	note: B1_lg35	Damascus	               
+            the subterranean palaces of Romance	note: B1_lg35	Irem_removed	               
+            the subterranean palaces of Romance	note: B1_lg35	Irem	               
+            the subterranean palaces of Romance	note: B1_lg35	the East	               
+                           
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	the whole earth	               
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	the river Nilus	               
+            Eden	main: B1_lg35	the countries of the west	               
+            Eden	main: B1_lg35	the land Al-Said	               
+            Eden	main: B1_lg35	Abulfeda	               
+            Eden	main: B1_lg35	Ægypt	               
+            Eden	main: B1_lg35	the_world	               
+            Eden	main: B1_lg35	sky	               
+            Eden	main: B1_lg35	the subterranean palaces of Romance	               
+            Eden	main: B1_lg35	Bologna	               
+            Eden	main: B1_lg35	East Indies	               
+            Eden	main: B1_lg35	Eden	               
+            Eden	main: B1_lg35	Eden	               
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	Ad	               
+            Eden	main: B1_lg35	Syria	               
+            Eden	main: B1_lg35	Ormus	               
+            Eden	main: B1_lg35	Damascus	               
+            Eden	main: B1_lg35	Irem_removed	               
+            Eden	main: B1_lg35	Irem	               
+            Eden	main: B1_lg35	the East	               
+                           
+            Eden	note: B1_lg35	Egypt	               
+            Eden	note: B1_lg35	Egypt	               
+            Eden	note: B1_lg35	the whole earth	               
+            Eden	note: B1_lg35	Egypt	               
+            Eden	note: B1_lg35	Egypt	               
+            Eden	note: B1_lg35	the river Nilus	               
+            Eden	note: B1_lg35	the countries of the west	               
+            Eden	note: B1_lg35	the land Al-Said	               
+            Eden	note: B1_lg35	Abulfeda	               
+            Eden	note: B1_lg35	Ægypt	               
+            Eden	note: B1_lg35	the_world	               
+            Eden	note: B1_lg35	sky	               
+            Eden	note: B1_lg35	the subterranean palaces of Romance	               
+            Eden	note: B1_lg35	Bologna	               
+            Eden	note: B1_lg35	East Indies	               
+            Eden	note: B1_lg35	Eden	               
+            Eden	note: B1_lg35	Eden	               
+            Eden	note: B1_lg35	Egypt	               
+            Eden	note: B1_lg35	Ad	               
+            Eden	note: B1_lg35	Syria	               
+            Eden	note: B1_lg35	Ormus	               
+            Eden	note: B1_lg35	Damascus	               
+            Eden	note: B1_lg35	Irem_removed	               
+            Eden	note: B1_lg35	Irem	               
+            Eden	note: B1_lg35	the East	               
+                           
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	the whole earth	               
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	the river Nilus	               
+            Eden	main: B1_lg35	the countries of the west	               
+            Eden	main: B1_lg35	the land Al-Said	               
+            Eden	main: B1_lg35	Abulfeda	               
+            Eden	main: B1_lg35	Ægypt	               
+            Eden	main: B1_lg35	the_world	               
+            Eden	main: B1_lg35	sky	               
+            Eden	main: B1_lg35	the subterranean palaces of Romance	               
+            Eden	main: B1_lg35	Bologna	               
+            Eden	main: B1_lg35	East Indies	               
+            Eden	main: B1_lg35	Eden	               
+            Eden	main: B1_lg35	Eden	               
+            Eden	main: B1_lg35	Egypt	               
+            Eden	main: B1_lg35	Ad	               
+            Eden	main: B1_lg35	Syria	               
+            Eden	main: B1_lg35	Ormus	               
+            Eden	main: B1_lg35	Damascus	               
+            Eden	main: B1_lg35	Irem_removed	               
+            Eden	main: B1_lg35	Irem	               
+            Eden	main: B1_lg35	the East	               
+                           
+            Irem_removed	note: B1_lg35	Egypt	               
+            Irem_removed	note: B1_lg35	Egypt	               
+            Irem_removed	note: B1_lg35	the whole earth	               
+            Irem_removed	note: B1_lg35	Egypt	               
+            Irem_removed	note: B1_lg35	Egypt	               
+            Irem_removed	note: B1_lg35	the river Nilus	               
+            Irem_removed	note: B1_lg35	the countries of the west	               
+            Irem_removed	note: B1_lg35	the land Al-Said	               
+            Irem_removed	note: B1_lg35	Abulfeda	               
+            Irem_removed	note: B1_lg35	Ægypt	               
+            Irem_removed	note: B1_lg35	the_world	               
+            Irem_removed	note: B1_lg35	sky	               
+            Irem_removed	note: B1_lg35	the subterranean palaces of Romance	               
+            Irem_removed	note: B1_lg35	Bologna	               
+            Irem_removed	note: B1_lg35	East Indies	               
+            Irem_removed	note: B1_lg35	Eden	               
+            Irem_removed	note: B1_lg35	Eden	               
+            Irem_removed	note: B1_lg35	Eden	               
+            Irem_removed	note: B1_lg35	Egypt	               
+            Irem_removed	note: B1_lg35	Ad	               
+            Irem_removed	note: B1_lg35	Syria	               
+            Irem_removed	note: B1_lg35	Ormus	               
+            Irem_removed	note: B1_lg35	Damascus	               
+            Irem_removed	note: B1_lg35	Irem	               
+            Irem_removed	note: B1_lg35	the East	               
+                           
+            Of Paradise	main: B1_lg36	Ad	               
+            Of Paradise	main: B1_lg36	Eden	               
+            Of Paradise	main: B1_lg36	Eden	               
+                           
+            Eden	main: B1_lg36	Ad	               
+            Eden	main: B1_lg36	Of Paradise	               
+            Eden	main: B1_lg36	Eden	               
+                           
+            Eden	main: B1_lg36	Ad	               
+            Eden	main: B1_lg36	Of Paradise	               
+            Eden	main: B1_lg36	Eden	               
+                           
+            sky	main: B1_lg43	Mecca	               
+            sky	main: B1_lg43	Red Hillock	               
+            sky	main: B1_lg43	Heaven	               
+                           
+            Heaven	main: B1_lg43	Mecca	               
+            Heaven	main: B1_lg43	Red Hillock	               
+            Heaven	main: B1_lg43	sky	               
+                           
+                           
+                           
+                           
+                           
+                           
+            Domdaniel_Cave	main: B2_lg60	the desert	               
+                           
+            Domdaniel_Cave	main: B2_lg61	Under the Roots of the Ocean,	               
+            Domdaniel_Cave	main: B2_lg61	Domdaniel_Cave	               
+                           
+            Under the Roots of the Ocean,	main: B2_lg61	Domdaniel_Cave	               
+            Under the Roots of the Ocean,	main: B2_lg61	Domdaniel_Cave	               
+                           
+            Domdaniel_Cave	main: B2_lg61	Domdaniel_Cave	               
+            Domdaniel_Cave	main: B2_lg61	Under the Roots of the Ocean,	               
+                           
+                           
+            Irem_removed	main: B2_lg68	Ocean	               
+            Irem_removed	main: B2_lg68	Earth	               
+            Irem_removed	main: B2_lg68	Ocean	               
+            Irem_removed	main: B2_lg68	Earth	               
+                           
+                           
+            Heaven	main: B2_lg72	Irem_removed	               
+            Heaven	main: B2_lg72	Ocean	               
+            Heaven	main: B2_lg72	Earth	               
+            Heaven	main: B2_lg72	Allah's glory throne	               
+            Heaven	main: B2_lg72	Irem_removed	               
+                           
+            Irem_removed	main: B2_lg72	Heaven	               
+            Irem_removed	main: B2_lg72	Ocean	               
+            Irem_removed	main: B2_lg72	Earth	               
+            Irem_removed	main: B2_lg72	Allah's glory throne	               
+            Irem_removed	main: B2_lg72	Irem_removed	               
+                           
+            Allah's glory throne	main: B2_lg72	Heaven	               
+            Allah's glory throne	main: B2_lg72	Irem_removed	               
+            Allah's glory throne	main: B2_lg72	Ocean	               
+            Allah's glory throne	main: B2_lg72	Earth	               
+            Allah's glory throne	main: B2_lg72	Irem_removed	               
+                           
+            Irem_removed	main: B2_lg72	Heaven	               
+            Irem_removed	main: B2_lg72	Irem_removed	               
+            Irem_removed	main: B2_lg72	Ocean	               
+            Irem_removed	main: B2_lg72	Earth	               
+            Irem_removed	main: B2_lg72	Allah's glory throne	               
+                           
+            Eden	main: B2_lg74	the throne of God	               
+                           
+            the throne of God	main: B2_lg74	Eden	               
+                           
+            Hell	main: B2_lg75	Heaven	               
+                           
+            Heaven	main: B2_lg75	Hell	               
+                           
+                           
+            the inner den	main: B2_lg85	the Abyss	               
+            the inner den	main: B2_lg85	the_world	               
+                           
+                           
+                           
+            the planet Venus	note: B4_lg218	what passes in distant countries	               
+            the planet Venus	note: B4_lg218	Bagdad	               
+            the planet Venus	note: B4_lg218	Yemen	               
+            the planet Venus	note: B4_lg218	Mecca	               
+            the planet Venus	note: B4_lg218	Mecca	               
+            the planet Venus	note: B4_lg218	Bombay	               
+                           
+            what passes in distant countries	note: B4_lg218	the planet Venus	               
+            what passes in distant countries	note: B4_lg218	Bagdad	               
+            what passes in distant countries	note: B4_lg218	Yemen	               
+            what passes in distant countries	note: B4_lg218	Mecca	               
+            what passes in distant countries	note: B4_lg218	Mecca	               
+            what passes in distant countries	note: B4_lg218	Bombay	               
+                           
+                           
+            sky	main: B4_lg276	the_world	               
+            sky	main: B4_lg276	river
+                                 Aldea	               
+            sky	main: B4_lg276	Lisboa	               
+            sky	main: B4_lg276	a nation of one
+                                 legged men	               
+            sky	main: B4_lg276	sky	               
+            sky	main: B4_lg276	the_world	               
+            sky	main: B4_lg276	the viewless Element	               
+            sky	main: B4_lg276	air_transport	               
+                           
+            a nation of one
+                                 legged men	note: B4_lg276	sky	               
+            a nation of one
+                                 legged men	note: B4_lg276	the_world	               
+            a nation of one
+                                 legged men	note: B4_lg276	river
+                                 Aldea	               
+            a nation of one
+                                 legged men	note: B4_lg276	Lisboa	               
+            a nation of one
+                                 legged men	note: B4_lg276	sky	               
+            a nation of one
+                                 legged men	note: B4_lg276	the_world	               
+            a nation of one
+                                 legged men	note: B4_lg276	the viewless Element	               
+            a nation of one
+                                 legged men	note: B4_lg276	air_transport	               
+                           
+            sky	note: B4_lg276	sky	               
+            sky	note: B4_lg276	the_world	               
+            sky	note: B4_lg276	river
+                                 Aldea	               
+            sky	note: B4_lg276	Lisboa	               
+            sky	note: B4_lg276	a nation of one
+                                 legged men	               
+            sky	note: B4_lg276	the_world	               
+            sky	note: B4_lg276	the viewless Element	               
+            sky	note: B4_lg276	air_transport	               
+                           
+            the viewless Element	main: B4_lg276	sky	               
+            the viewless Element	main: B4_lg276	the_world	               
+            the viewless Element	main: B4_lg276	river
+                                 Aldea	               
+            the viewless Element	main: B4_lg276	Lisboa	               
+            the viewless Element	main: B4_lg276	a nation of one
+                                 legged men	               
+            the viewless Element	main: B4_lg276	sky	               
+            the viewless Element	main: B4_lg276	the_world	               
+            the viewless Element	main: B4_lg276	air_transport	               
+                           
+            air_transport	main: B4_lg276	sky	               
+            air_transport	main: B4_lg276	the_world	               
+            air_transport	main: B4_lg276	river
+                                 Aldea	               
+            air_transport	main: B4_lg276	Lisboa	               
+            air_transport	main: B4_lg276	a nation of one
+                                 legged men	               
+            air_transport	main: B4_lg276	sky	               
+            air_transport	main: B4_lg276	the_world	               
+            air_transport	main: B4_lg276	the viewless Element	               
+                           
+            another
+                                 world	note: B5_lg315	Bagdad	               
+            another
+                                 world	note: B5_lg315	Bagdad	               
+            another
+                                 world	note: B5_lg315	an Oriental city	               
+            another
+                                 world	note: B5_lg315	Aleppo	               
+            another
+                                 world	note: B5_lg315	Ispahan	               
+            another
+                                 world	note: B5_lg315	Paris	               
+            another
+                                 world	note: B5_lg315	Paris	               
+            another
+                                 world	note: B5_lg315	Ispahan	               
+            another
+                                 world	note: B5_lg315	Alexandria	               
+                           
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	Euphrates	               
+            Heaven	note: B5_lg320	Judah	               
+            Heaven	note: B5_lg320	Euphrates	               
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	Media	               
+            Heaven	note: B5_lg320	Judah	               
+            Heaven	note: B5_lg320	Media	               
+            Heaven	note: B5_lg320	Temple of Belus	               
+            Heaven	note: B5_lg320	Tower_of_Babel	               
+            Heaven	note: B5_lg320	Tigris	               
+            Heaven	note: B5_lg320	Arabia	               
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	St. Paul's steeple	               
+            Heaven	note: B5_lg320	London	               
+            Heaven	note: B5_lg320	Euphrates	               
+            Heaven	note: B5_lg320	Tower_of_Babel	               
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	Naples	               
+            Heaven	note: B5_lg320	Tower_of_Babel	               
+            Heaven	note: B5_lg320	Assyria	               
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	Babylon	               
+            Heaven	note: B5_lg320	Sodom	               
+            Heaven	note: B5_lg320	Gomorrah	               
+            Heaven	note: B5_lg320	Euphrates	               
+                           
+            Mahumetical Paradise	note: B7_lg413	Persia	               
+            Mahumetical Paradise	note: B7_lg413	Paradise	               
+            Mahumetical Paradise	note: B7_lg413	Paradise	               
+            Mahumetical Paradise	note: B7_lg413	walled_mountain_Paradise	               
+            Mahumetical Paradise	note: B7_lg413	Melistorte	               
+            Mahumetical Paradise	note: B7_lg413	Yle of Pentexoire	               
+                           
+            walled_mountain_Paradise	note: B7_lg413	Persia	               
+            walled_mountain_Paradise	note: B7_lg413	Paradise	               
+            walled_mountain_Paradise	note: B7_lg413	Mahumetical Paradise	               
+            walled_mountain_Paradise	note: B7_lg413	Paradise	               
+            walled_mountain_Paradise	note: B7_lg413	Melistorte	               
+            walled_mountain_Paradise	note: B7_lg413	Yle of Pentexoire	               
+                           
+                           
+                           
+            Tombs	main: B8_lg466	the Sepulchre	               
+                           
+                           
+            Greek_Tombs	note: B8_lg472	Tombs	               
+            Greek_Tombs	note: B8_lg472	Mylasa	               
+            Greek_Tombs	note: B8_lg472	Tombs	               
+                           
+            Tombs	note: B8_lg472	Greek_Tombs	               
+            Tombs	note: B8_lg472	Mylasa	               
+            Tombs	note: B8_lg472	Tombs	               
+                           
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+                           
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+                           
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+                           
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+                           
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+                           
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+            Tombs	main: B8_lg474	Tombs	               
+                           
+            Vampire	note: B8_lg475	Belgrade	               
+            Vampire	note: B8_lg475	Gradisch	               
+            Vampire	note: B8_lg475	Sclavonia	               
+            Vampire	note: B8_lg475	Kisilova	               
+            Vampire	note: B8_lg475	Gradisch	               
+            Vampire	note: B8_lg475	Belgrade	               
+            Vampire	note: B8_lg475	Gradisch	               
+            Vampire	note: B8_lg475	Hungary	               
+            Vampire	note: B8_lg475	Oppida Heidonum	               
+            Vampire	note: B8_lg475	Tibiscus	               
+            Vampire	note: B8_lg475	Teysse	               
+            Vampire	note: B8_lg475	Tokay	               
+            Vampire	note: B8_lg475	Transilvania	               
+            Vampire	note: B8_lg475	Medreiga	               
+            Vampire	note: B8_lg475	Cossova	               
+            Vampire	note: B8_lg475	Frontiers of the Turkish Servia
+                                    	               
+            Vampire	note: B8_lg475	Servia	               
+            Vampire	note: B8_lg475	Vampire	               
+            Vampire	note: B8_lg475	Saave	               
+            Vampire	note: B8_lg475	Vienna	               
+            Vampire	note: B8_lg475	Wirtemberg	               
+            Vampire	note: B8_lg475	Furstemberg	               
+            Vampire	note: B8_lg475	Greece	               
+            Vampire	note: B8_lg475	Mycone	               
+            Vampire	note: B8_lg475	Christendom	               
+            Vampire	note: B8_lg475	Mycone	               
+            Vampire	note: B8_lg475	Syre	               
+            Vampire	note: B8_lg475	Tinos	               
+            Vampire	note: B8_lg475	St. George	               
+            Vampire	note: B8_lg475	Delos	               
+                           
+            Vampire	note: B8_lg475	Vampire	               
+            Vampire	note: B8_lg475	Belgrade	               
+            Vampire	note: B8_lg475	Gradisch	               
+            Vampire	note: B8_lg475	Sclavonia	               
+            Vampire	note: B8_lg475	Kisilova	               
+            Vampire	note: B8_lg475	Gradisch	               
+            Vampire	note: B8_lg475	Belgrade	               
+            Vampire	note: B8_lg475	Gradisch	               
+            Vampire	note: B8_lg475	Hungary	               
+            Vampire	note: B8_lg475	Oppida Heidonum	               
+            Vampire	note: B8_lg475	Tibiscus	               
+            Vampire	note: B8_lg475	Teysse	               
+            Vampire	note: B8_lg475	Tokay	               
+            Vampire	note: B8_lg475	Transilvania	               
+            Vampire	note: B8_lg475	Medreiga	               
+            Vampire	note: B8_lg475	Cossova	               
+            Vampire	note: B8_lg475	Frontiers of the Turkish Servia
+                                    	               
+            Vampire	note: B8_lg475	Servia	               
+            Vampire	note: B8_lg475	Saave	               
+            Vampire	note: B8_lg475	Vienna	               
+            Vampire	note: B8_lg475	Wirtemberg	               
+            Vampire	note: B8_lg475	Furstemberg	               
+            Vampire	note: B8_lg475	Greece	               
+            Vampire	note: B8_lg475	Mycone	               
+            Vampire	note: B8_lg475	Christendom	               
+            Vampire	note: B8_lg475	Mycone	               
+            Vampire	note: B8_lg475	Syre	               
+            Vampire	note: B8_lg475	Tinos	               
+            Vampire	note: B8_lg475	St. George	               
+            Vampire	note: B8_lg475	Delos	               
+                           
+            Heaven	main: B8_lg476	Heaven	               
+            Heaven	main: B8_lg476	Araby	               
+                           
+            Heaven	main: B8_lg476	Heaven	               
+            Heaven	main: B8_lg476	Araby	               
+                           
+            Heaven	main: B8_lg477	Tombs	               
+                           
+            sky	main: B8_lg482	Arabia	               
+                           
+                           
+                           
+                           
+            Mohareb_Island	main: B8_lg504	polar	               
+            Mohareb_Island	main: B8_lg504	polar	               
+            Mohareb_Island	main: B8_lg504	Mohareb_Island	               
+            Mohareb_Island	main: B8_lg504	bitumen_pit	               
+                           
+            Mohareb_Island	note: B8_lg504	polar	               
+            Mohareb_Island	note: B8_lg504	polar	               
+            Mohareb_Island	note: B8_lg504	Mohareb_Island	               
+            Mohareb_Island	note: B8_lg504	bitumen_pit	               
+                           
+                           
+                           
+            their final seat	main: B9_lg517	the_world	               
+            their final seat	main: B9_lg517	Of bliss, or bale	               
+            their final seat	main: B9_lg517	in the sepulchre	               
+            their final seat	main: B9_lg517	in central fires	               
+            their final seat	main: B9_lg517	the_world	               
+            their final seat	main: B9_lg517	the_world	               
+            their final seat	main: B9_lg517	Earth	               
+            their final seat	main: B9_lg517	Babylon	               
+                           
+            Of bliss, or bale	main: B9_lg517	the_world	               
+            Of bliss, or bale	main: B9_lg517	their final seat	               
+            Of bliss, or bale	main: B9_lg517	in the sepulchre	               
+            Of bliss, or bale	main: B9_lg517	in central fires	               
+            Of bliss, or bale	main: B9_lg517	the_world	               
+            Of bliss, or bale	main: B9_lg517	the_world	               
+            Of bliss, or bale	main: B9_lg517	Earth	               
+            Of bliss, or bale	main: B9_lg517	Babylon	               
+                           
+            in the sepulchre	main: B9_lg517	the_world	               
+            in the sepulchre	main: B9_lg517	their final seat	               
+            in the sepulchre	main: B9_lg517	Of bliss, or bale	               
+            in the sepulchre	main: B9_lg517	in central fires	               
+            in the sepulchre	main: B9_lg517	the_world	               
+            in the sepulchre	main: B9_lg517	the_world	               
+            in the sepulchre	main: B9_lg517	Earth	               
+            in the sepulchre	main: B9_lg517	Babylon	               
+                           
+            in central fires	main: B9_lg517	the_world	               
+            in central fires	main: B9_lg517	their final seat	               
+            in central fires	main: B9_lg517	Of bliss, or bale	               
+            in central fires	main: B9_lg517	in the sepulchre	               
+            in central fires	main: B9_lg517	the_world	               
+            in central fires	main: B9_lg517	the_world	               
+            in central fires	main: B9_lg517	Earth	               
+            in central fires	main: B9_lg517	Babylon	               
+                           
+            the Sun and Moon and Stars	main: B9_lg518	Earth	               
+            the Sun and Moon and Stars	main: B9_lg518	Heaven	               
+            the Sun and Moon and Stars	main: B9_lg518	the World	               
+            the Sun and Moon and Stars	main: B9_lg518	Heaven	               
+            the Sun and Moon and Stars	main: B9_lg518	Heaven	               
+            the Sun and Moon and Stars	main: B9_lg518	Heaven	               
+                           
+            Heaven	main: B9_lg518	the Sun and Moon and Stars	               
+            Heaven	main: B9_lg518	Earth	               
+            Heaven	main: B9_lg518	the World	               
+            Heaven	main: B9_lg518	Heaven	               
+            Heaven	main: B9_lg518	Heaven	               
+                           
+            Heaven	main: B9_lg518	the Sun and Moon and Stars	               
+            Heaven	main: B9_lg518	Earth	               
+            Heaven	main: B9_lg518	Heaven	               
+            Heaven	main: B9_lg518	the World	               
+            Heaven	main: B9_lg518	Heaven	               
+            Heaven	main: B9_lg518	Heaven	               
+                           
+            Heaven	main: B9_lg518	the Sun and Moon and Stars	               
+            Heaven	main: B9_lg518	Earth	               
+            Heaven	main: B9_lg518	Heaven	               
+            Heaven	main: B9_lg518	the World	               
+            Heaven	main: B9_lg518	Heaven	               
+            Heaven	main: B9_lg518	Heaven	               
+                           
+            Heaven	main: B9_lg518	the Sun and Moon and Stars	               
+            Heaven	main: B9_lg518	Earth	               
+            Heaven	main: B9_lg518	the World	               
+            Heaven	main: B9_lg518	Heaven	               
+            Heaven	main: B9_lg518	Heaven	               
+                           
+            Hell	note: B9_lg528	England	               
+            Hell	note: B9_lg528	Dunne	               
+            Hell	note: B9_lg528	Ulster	               
+            Hell	note: B9_lg528	Couffah	               
+            Hell	note: B9_lg528	Molucca Islands	               
+            Hell	note: B9_lg528	burning_grave	               
+                           
+            burning_grave	note: B9_lg528	England	               
+            burning_grave	note: B9_lg528	Dunne	               
+            burning_grave	note: B9_lg528	Ulster	               
+            burning_grave	note: B9_lg528	Couffah	               
+            burning_grave	note: B9_lg528	Molucca Islands	               
+            burning_grave	note: B9_lg528	Hell	               
+                           
+            Hell	main: B9_lg534	Mount_Ararat	               
+            Hell	main: B9_lg534	Mount_Ararat	               
+            Hell	main: B9_lg534	Lubar	               
+            Hell	main: B9_lg534	Abbey of St. Gregorie's Monks	               
+            Hell	main: B9_lg534	Ark_transport	               
+            Hell	main: B9_lg534	Arabia	               
+            Hell	main: B9_lg534	Helicon	               
+            Hell	main: B9_lg534	Psylli	               
+            Hell	main: B9_lg534	England	               
+                           
+            Ark_transport	note: B9_lg534	Hell	               
+            Ark_transport	note: B9_lg534	Mount_Ararat	               
+            Ark_transport	note: B9_lg534	Mount_Ararat	               
+            Ark_transport	note: B9_lg534	Lubar	               
+            Ark_transport	note: B9_lg534	Abbey of St. Gregorie's Monks	               
+            Ark_transport	note: B9_lg534	Arabia	               
+            Ark_transport	note: B9_lg534	Helicon	               
+            Ark_transport	note: B9_lg534	Psylli	               
+            Ark_transport	note: B9_lg534	England	               
+                           
+            blessed Sun	main: B9_lg535	sky	               
+            blessed Sun	main: B9_lg535	Earth	               
+            blessed Sun	main: B9_lg535	sky	               
+            blessed Sun	main: B9_lg535	Khawla_breath	               
+            blessed Sun	main: B9_lg535	Khawla_breath	               
+            blessed Sun	main: B9_lg535	Khawla_breath	               
+            blessed Sun	main: B9_lg535	Khawla_breath	               
+            blessed Sun	main: B9_lg535	Khawla_breath	               
+                           
+            sky	main: B9_lg535	blessed Sun	               
+            sky	main: B9_lg535	Earth	               
+            sky	main: B9_lg535	sky	               
+            sky	main: B9_lg535	Khawla_breath	               
+            sky	main: B9_lg535	Khawla_breath	               
+            sky	main: B9_lg535	Khawla_breath	               
+            sky	main: B9_lg535	Khawla_breath	               
+            sky	main: B9_lg535	Khawla_breath	               
+                           
+            sky	main: B9_lg535	blessed Sun	               
+            sky	main: B9_lg535	sky	               
+            sky	main: B9_lg535	Earth	               
+            sky	main: B9_lg535	Khawla_breath	               
+            sky	main: B9_lg535	Khawla_breath	               
+            sky	main: B9_lg535	Khawla_breath	               
+            sky	main: B9_lg535	Khawla_breath	               
+            sky	main: B9_lg535	Khawla_breath	               
+                           
+            Khawla_breath	main: B9_lg535	blessed Sun	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Earth	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+                           
+            Khawla_breath	main: B9_lg535	blessed Sun	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Earth	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+                           
+            Khawla_breath	main: B9_lg535	blessed Sun	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Earth	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+                           
+            Khawla_breath	main: B9_lg535	blessed Sun	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Earth	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+                           
+            Khawla_breath	main: B9_lg535	blessed Sun	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Earth	               
+            Khawla_breath	main: B9_lg535	sky	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+            Khawla_breath	main: B9_lg535	Khawla_breath	               
+                           
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Persia	               
+            Tombs	main: B9_lg536	Ardevil	               
+            Tombs	main: B9_lg536	city of Kom	               
+            Tombs	main: B9_lg536	Spain Portugal	               
+            Tombs	main: B9_lg536	to_next_world	               
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Tombs	               
+                           
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Persia	               
+            Tombs	main: B9_lg536	Ardevil	               
+            Tombs	main: B9_lg536	city of Kom	               
+            Tombs	main: B9_lg536	Spain Portugal	               
+            Tombs	main: B9_lg536	to_next_world	               
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Tombs	               
+                           
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Persia	               
+            Tombs	main: B9_lg536	Ardevil	               
+            Tombs	main: B9_lg536	city of Kom	               
+            Tombs	main: B9_lg536	Spain Portugal	               
+            Tombs	main: B9_lg536	to_next_world	               
+            Tombs	main: B9_lg536	Tombs	               
+            Tombs	main: B9_lg536	Tombs	               
+                           
+            to_next_world	note: B9_lg536	Tombs	               
+            to_next_world	note: B9_lg536	Tombs	               
+            to_next_world	note: B9_lg536	Tombs	               
+            to_next_world	note: B9_lg536	Persia	               
+            to_next_world	note: B9_lg536	Ardevil	               
+            to_next_world	note: B9_lg536	city of Kom	               
+            to_next_world	note: B9_lg536	Spain Portugal	               
+            to_next_world	note: B9_lg536	Tombs	               
+            to_next_world	note: B9_lg536	Tombs	               
+                           
+            Tombs	note: B9_lg536	Tombs	               
+            Tombs	note: B9_lg536	Tombs	               
+            Tombs	note: B9_lg536	Tombs	               
+            Tombs	note: B9_lg536	Persia	               
+            Tombs	note: B9_lg536	Ardevil	               
+            Tombs	note: B9_lg536	city of Kom	               
+            Tombs	note: B9_lg536	Spain Portugal	               
+            Tombs	note: B9_lg536	to_next_world	               
+            Tombs	note: B9_lg536	Tombs	               
+                           
+            Tombs	note: B9_lg536	Tombs	               
+            Tombs	note: B9_lg536	Tombs	               
+            Tombs	note: B9_lg536	Tombs	               
+            Tombs	note: B9_lg536	Persia	               
+            Tombs	note: B9_lg536	Ardevil	               
+            Tombs	note: B9_lg536	city of Kom	               
+            Tombs	note: B9_lg536	Spain Portugal	               
+            Tombs	note: B9_lg536	to_next_world	               
+            Tombs	note: B9_lg536	Tombs	               
+                           
+            sky	main: B9_lg537	sky	               
+            sky	main: B9_lg537	sky	               
+                           
+            sky	main: B9_lg537	sky	               
+            sky	main: B9_lg537	sky	               
+                           
+            sky	main: B9_lg537	sky	               
+            sky	main: B9_lg537	sky	               
+                           
+                           
+                           
+            Tombs	main: B9_lg542	the earth	               
+            Tombs	main: B9_lg542	Earth	               
+            Tombs	main: B9_lg542	Ocean	               
+            Tombs	main: B9_lg542	Universe	               
+            Tombs	main: B9_lg542	Universe	               
+                           
+            Universe	main: B9_lg542	Tombs	               
+            Universe	main: B9_lg542	the earth	               
+            Universe	main: B9_lg542	Earth	               
+            Universe	main: B9_lg542	Ocean	               
+            Universe	main: B9_lg542	Universe	               
+                           
+            Universe	main: B9_lg542	Tombs	               
+            Universe	main: B9_lg542	the earth	               
+            Universe	main: B9_lg542	Earth	               
+            Universe	main: B9_lg542	Ocean	               
+            Universe	main: B9_lg542	Universe	               
+                           
+            air_transport	main: B9_lg544	air_transport	               
+                           
+            air_transport	main: B9_lg544	air_transport	               
+                           
+                           
+                           
+                           
+            Heaven	main: B9_lg559	Mohareb_Island	               
+            Heaven	main: B9_lg559	air_transport	               
+            Heaven	main: B9_lg559	The Upas Tree of Death	               
+                           
+            air_transport	main: B9_lg559	Mohareb_Island	               
+            air_transport	main: B9_lg559	Heaven	               
+            air_transport	main: B9_lg559	The Upas Tree of Death	               
+                           
+            The Upas Tree of Death	main: B9_lg559	Mohareb_Island	               
+            The Upas Tree of Death	main: B9_lg559	Heaven	               
+            The Upas Tree of Death	main: B9_lg559	air_transport	               
+                           
+            Al-Araf	main: B12_lg732	Al-Araf	               
+            Al-Araf	main: B12_lg732	Paradise	               
+            Al-Araf	main: B12_lg732	Hell	               
+            Al-Araf	main: B12_lg732	Purgatory	               
+            Al-Araf	main: B12_lg732	Al-Araf	               
+            Al-Araf	main: B12_lg732	Heaven	               
+                           
+            Al-Araf	note: B12_lg732	Al-Araf	               
+            Al-Araf	note: B12_lg732	Paradise	               
+            Al-Araf	note: B12_lg732	Hell	               
+            Al-Araf	note: B12_lg732	Purgatory	               
+            Al-Araf	note: B12_lg732	Al-Araf	               
+            Al-Araf	note: B12_lg732	Heaven	               
+                           
+            Paradise	note: B12_lg732	Al-Araf	               
+            Paradise	note: B12_lg732	Al-Araf	               
+            Paradise	note: B12_lg732	Hell	               
+            Paradise	note: B12_lg732	Purgatory	               
+            Paradise	note: B12_lg732	Al-Araf	               
+            Paradise	note: B12_lg732	Heaven	               
+                           
+            Hell	note: B12_lg732	Al-Araf	               
+            Hell	note: B12_lg732	Al-Araf	               
+            Hell	note: B12_lg732	Paradise	               
+            Hell	note: B12_lg732	Purgatory	               
+            Hell	note: B12_lg732	Al-Araf	               
+            Hell	note: B12_lg732	Heaven	               
+                           
+            Purgatory	note: B12_lg732	Al-Araf	               
+            Purgatory	note: B12_lg732	Al-Araf	               
+            Purgatory	note: B12_lg732	Paradise	               
+            Purgatory	note: B12_lg732	Hell	               
+            Purgatory	note: B12_lg732	Al-Araf	               
+            Purgatory	note: B12_lg732	Heaven	               
+                           
+            Al-Araf	note: B12_lg732	Al-Araf	               
+            Al-Araf	note: B12_lg732	Al-Araf	               
+            Al-Araf	note: B12_lg732	Paradise	               
+            Al-Araf	note: B12_lg732	Hell	               
+            Al-Araf	note: B12_lg732	Purgatory	               
+            Al-Araf	note: B12_lg732	Heaven	               
+                           
+            Heaven	main: B12_lg732	Al-Araf	               
+            Heaven	main: B12_lg732	Al-Araf	               
+            Heaven	main: B12_lg732	Paradise	               
+            Heaven	main: B12_lg732	Hell	               
+            Heaven	main: B12_lg732	Purgatory	               
+            Heaven	main: B12_lg732	Al-Araf	               
+                           
+                           
+            Domdaniel_Cave	main: B12_lg738	Ocean-Vault	               
+            Domdaniel_Cave	main: B12_lg738	Paradise	               
+            Domdaniel_Cave	main: B12_lg738	Paradise	               
+            Domdaniel_Cave	main: B12_lg738	Paradise	               
+                           
+            Paradise	main: B12_lg738	Domdaniel_Cave	               
+            Paradise	main: B12_lg738	Ocean-Vault	               
+            Paradise	main: B12_lg738	Paradise	               
+            Paradise	main: B12_lg738	Paradise	               
+                           
+            Paradise	main: B12_lg738	Domdaniel_Cave	               
+            Paradise	main: B12_lg738	Ocean-Vault	               
+            Paradise	main: B12_lg738	Paradise	               
+            Paradise	main: B12_lg738	Paradise	               
+                           
+            Paradise	main: B12_lg738	Domdaniel_Cave	               
+            Paradise	main: B12_lg738	Ocean-Vault	               
+            Paradise	main: B12_lg738	Paradise	               
+            Paradise	main: B12_lg738	Paradise	               
                            
             
