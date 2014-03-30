@@ -4,9 +4,10 @@
     <xsl:output method="text"/>
     <xsl:strip-space elements="placeName rs"/>
     
+  <!--ebb 30 March: I think I've repaired this so it's no longer generating duplicate nodes!~-->  
     <xsl:template match="/">
                        
-           
+          
                  <xsl:apply-templates select="//body" mode="places"/>
                        
       <!--  <xsl:apply-templates select="//body" mode="metaplaces"/>-->
@@ -47,16 +48,16 @@
                 <xsl:text>&#x9;</xsl:text>
                 </xsl:variable> 
                 
-                <xsl:for-each select="ancestor::lg//placeName">
+                <xsl:for-each select="ancestor::lg//placeName[not(. = current())]">
                     <xsl:value-of select="$Node1Edge"/>
                     
                     <xsl:choose>
                         <xsl:when test="@ref">
-                            <xsl:value-of select="@ref"/><!--ebb: here’s where I’m generating duplicates to the original node. -->
-                            <xsl:text>&#x9;</xsl:text> <!--This should be a tab character-->
+                            <xsl:value-of select="@ref"/>
+                            <xsl:text>&#x9;</xsl:text> 
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:value-of select='.'/><!--ebb: And here, of course, too, I’m generating duplicates to the original node. --><xsl:text>&#x9;</xsl:text>
+                            <xsl:value-of select='.'/><xsl:text>&#x9;</xsl:text>
                         </xsl:otherwise>
                     </xsl:choose>    
                     <xsl:text>               

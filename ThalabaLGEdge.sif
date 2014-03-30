@@ -1,6 +1,4 @@
-Arabia	main: B1_lg4	Arabia	               
-                           
-            Yemen	main: B1_lg14	Yemen	               
+               
             Yemen	main: B1_lg14	Lebanon	               
             Yemen	main: B1_lg14	Rome	               
             Yemen	main: B1_lg14	Babylon	               
@@ -16,7 +14,6 @@ Arabia	main: B1_lg4	Arabia
             Yemen	main: B1_lg14	Hirah	               
                            
             Lebanon	main: B1_lg14	Yemen	               
-            Lebanon	main: B1_lg14	Lebanon	               
             Lebanon	main: B1_lg14	Rome	               
             Lebanon	main: B1_lg14	Babylon	               
             Lebanon	main: B1_lg14	Persepolis	               
@@ -32,7 +29,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Rome	main: B1_lg14	Yemen	               
             Rome	main: B1_lg14	Lebanon	               
-            Rome	main: B1_lg14	Rome	               
             Rome	main: B1_lg14	Babylon	               
             Rome	main: B1_lg14	Persepolis	               
             Rome	main: B1_lg14	Greece	               
@@ -48,7 +44,6 @@ Arabia	main: B1_lg4	Arabia
             Babylon	main: B1_lg14	Yemen	               
             Babylon	main: B1_lg14	Lebanon	               
             Babylon	main: B1_lg14	Rome	               
-            Babylon	main: B1_lg14	Babylon	               
             Babylon	main: B1_lg14	Persepolis	               
             Babylon	main: B1_lg14	Greece	               
             Babylon	main: B1_lg14	Mosque Tauris	               
@@ -64,7 +59,6 @@ Arabia	main: B1_lg4	Arabia
             Persepolis	main: B1_lg14	Lebanon	               
             Persepolis	main: B1_lg14	Rome	               
             Persepolis	main: B1_lg14	Babylon	               
-            Persepolis	main: B1_lg14	Persepolis	               
             Persepolis	main: B1_lg14	Greece	               
             Persepolis	main: B1_lg14	Mosque Tauris	               
             Persepolis	main: B1_lg14	Persia	               
@@ -80,7 +74,6 @@ Arabia	main: B1_lg4	Arabia
             Greece	main: B1_lg14	Rome	               
             Greece	main: B1_lg14	Babylon	               
             Greece	main: B1_lg14	Persepolis	               
-            Greece	main: B1_lg14	Greece	               
             Greece	main: B1_lg14	Mosque Tauris	               
             Greece	main: B1_lg14	Persia	               
             Greece	main: B1_lg14	Boghar	               
@@ -96,7 +89,6 @@ Arabia	main: B1_lg4	Arabia
             Mosque Tauris	note: B1_lg14	Babylon	               
             Mosque Tauris	note: B1_lg14	Persepolis	               
             Mosque Tauris	note: B1_lg14	Greece	               
-            Mosque Tauris	note: B1_lg14	Mosque Tauris	               
             Mosque Tauris	note: B1_lg14	Persia	               
             Mosque Tauris	note: B1_lg14	Boghar	               
             Mosque Tauris	note: B1_lg14	Bactria	               
@@ -112,7 +104,6 @@ Arabia	main: B1_lg4	Arabia
             Persia	note: B1_lg14	Persepolis	               
             Persia	note: B1_lg14	Greece	               
             Persia	note: B1_lg14	Mosque Tauris	               
-            Persia	note: B1_lg14	Persia	               
             Persia	note: B1_lg14	Boghar	               
             Persia	note: B1_lg14	Bactria	               
             Persia	note: B1_lg14	Pegu	               
@@ -128,7 +119,6 @@ Arabia	main: B1_lg4	Arabia
             Boghar	note: B1_lg14	Greece	               
             Boghar	note: B1_lg14	Mosque Tauris	               
             Boghar	note: B1_lg14	Persia	               
-            Boghar	note: B1_lg14	Boghar	               
             Boghar	note: B1_lg14	Bactria	               
             Boghar	note: B1_lg14	Pegu	               
             Boghar	note: B1_lg14	the East	               
@@ -144,7 +134,6 @@ Arabia	main: B1_lg4	Arabia
             Bactria	note: B1_lg14	Mosque Tauris	               
             Bactria	note: B1_lg14	Persia	               
             Bactria	note: B1_lg14	Boghar	               
-            Bactria	note: B1_lg14	Bactria	               
             Bactria	note: B1_lg14	Pegu	               
             Bactria	note: B1_lg14	the East	               
             Bactria	note: B1_lg14	Hirah	               
@@ -160,7 +149,6 @@ Arabia	main: B1_lg4	Arabia
             Pegu	note: B1_lg14	Persia	               
             Pegu	note: B1_lg14	Boghar	               
             Pegu	note: B1_lg14	Bactria	               
-            Pegu	note: B1_lg14	Pegu	               
             Pegu	note: B1_lg14	the East	               
             Pegu	note: B1_lg14	Hirah	               
             Pegu	note: B1_lg14	Hirah	               
@@ -176,7 +164,6 @@ Arabia	main: B1_lg4	Arabia
             the East	note: B1_lg14	Boghar	               
             the East	note: B1_lg14	Bactria	               
             the East	note: B1_lg14	Pegu	               
-            the East	note: B1_lg14	the East	               
             the East	note: B1_lg14	Hirah	               
             the East	note: B1_lg14	Hirah	               
                            
@@ -192,8 +179,6 @@ Arabia	main: B1_lg4	Arabia
             Hirah	note: B1_lg14	Bactria	               
             Hirah	note: B1_lg14	Pegu	               
             Hirah	note: B1_lg14	the East	               
-            Hirah	note: B1_lg14	Hirah	               
-            Hirah	note: B1_lg14	Hirah	               
                            
             Hirah	main: B1_lg14	Yemen	               
             Hirah	main: B1_lg14	Lebanon	               
@@ -207,18 +192,12 @@ Arabia	main: B1_lg4	Arabia
             Hirah	main: B1_lg14	Bactria	               
             Hirah	main: B1_lg14	Pegu	               
             Hirah	main: B1_lg14	the East	               
-            Hirah	main: B1_lg14	Hirah	               
-            Hirah	main: B1_lg14	Hirah	               
                            
-            bowers of Irem	main: B1_lg17	bowers of Irem	               
                            
-            Universe	main: B1_lg19	Universe	               
             Universe	main: B1_lg19	the_world	               
                            
             the_world	main: B1_lg19	Universe	               
-            the_world	main: B1_lg19	the_world	               
                            
-            The Paradise of Irem	main: B1_lg20	The Paradise of Irem	               
             The Paradise of Irem	main: B1_lg20	Al_Ahkaf	               
             The Paradise of Irem	main: B1_lg20	Hadramaut	               
             The Paradise of Irem	main: B1_lg20	garden of Irem	               
@@ -234,7 +213,6 @@ Arabia	main: B1_lg4	Arabia
             The Paradise of Irem	main: B1_lg20	Al_Ahkaf	               
                            
             Al_Ahkaf	note: B1_lg20	The Paradise of Irem	               
-            Al_Ahkaf	note: B1_lg20	Al_Ahkaf	               
             Al_Ahkaf	note: B1_lg20	Hadramaut	               
             Al_Ahkaf	note: B1_lg20	garden of Irem	               
             Al_Ahkaf	note: B1_lg20	the desarts of Aden	               
@@ -250,7 +228,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Hadramaut	note: B1_lg20	The Paradise of Irem	               
             Hadramaut	note: B1_lg20	Al_Ahkaf	               
-            Hadramaut	note: B1_lg20	Hadramaut	               
             Hadramaut	note: B1_lg20	garden of Irem	               
             Hadramaut	note: B1_lg20	the desarts of Aden	               
             Hadramaut	note: B1_lg20	Arabia	               
@@ -266,7 +243,6 @@ Arabia	main: B1_lg4	Arabia
             garden of Irem	note: B1_lg20	The Paradise of Irem	               
             garden of Irem	note: B1_lg20	Al_Ahkaf	               
             garden of Irem	note: B1_lg20	Hadramaut	               
-            garden of Irem	note: B1_lg20	garden of Irem	               
             garden of Irem	note: B1_lg20	the desarts of Aden	               
             garden of Irem	note: B1_lg20	Arabia	               
             garden of Irem	note: B1_lg20	province of Hegiaz	               
@@ -282,7 +258,6 @@ Arabia	main: B1_lg4	Arabia
             the desarts of Aden	note: B1_lg20	Al_Ahkaf	               
             the desarts of Aden	note: B1_lg20	Hadramaut	               
             the desarts of Aden	note: B1_lg20	garden of Irem	               
-            the desarts of Aden	note: B1_lg20	the desarts of Aden	               
             the desarts of Aden	note: B1_lg20	Arabia	               
             the desarts of Aden	note: B1_lg20	province of Hegiaz	               
             the desarts of Aden	note: B1_lg20	province of Hegiaz	               
@@ -298,7 +273,6 @@ Arabia	main: B1_lg4	Arabia
             Arabia	note: B1_lg20	Hadramaut	               
             Arabia	note: B1_lg20	garden of Irem	               
             Arabia	note: B1_lg20	the desarts of Aden	               
-            Arabia	note: B1_lg20	Arabia	               
             Arabia	note: B1_lg20	province of Hegiaz	               
             Arabia	note: B1_lg20	province of Hegiaz	               
             Arabia	note: B1_lg20	Red Hillock	               
@@ -314,8 +288,6 @@ Arabia	main: B1_lg4	Arabia
             province of Hegiaz	note: B1_lg20	garden of Irem	               
             province of Hegiaz	note: B1_lg20	the desarts of Aden	               
             province of Hegiaz	note: B1_lg20	Arabia	               
-            province of Hegiaz	note: B1_lg20	province of Hegiaz	               
-            province of Hegiaz	note: B1_lg20	province of Hegiaz	               
             province of Hegiaz	note: B1_lg20	Red Hillock	               
             province of Hegiaz	note: B1_lg20	Red_Hillock	               
             province of Hegiaz	note: B1_lg20	the valley of Magaith	               
@@ -329,8 +301,6 @@ Arabia	main: B1_lg4	Arabia
             province of Hegiaz	note: B1_lg20	garden of Irem	               
             province of Hegiaz	note: B1_lg20	the desarts of Aden	               
             province of Hegiaz	note: B1_lg20	Arabia	               
-            province of Hegiaz	note: B1_lg20	province of Hegiaz	               
-            province of Hegiaz	note: B1_lg20	province of Hegiaz	               
             province of Hegiaz	note: B1_lg20	Red Hillock	               
             province of Hegiaz	note: B1_lg20	Red_Hillock	               
             province of Hegiaz	note: B1_lg20	the valley of Magaith	               
@@ -346,7 +316,6 @@ Arabia	main: B1_lg4	Arabia
             Red Hillock	note: B1_lg20	Arabia	               
             Red Hillock	note: B1_lg20	province of Hegiaz	               
             Red Hillock	note: B1_lg20	province of Hegiaz	               
-            Red Hillock	note: B1_lg20	Red Hillock	               
             Red Hillock	note: B1_lg20	Red_Hillock	               
             Red Hillock	note: B1_lg20	the valley of Magaith	               
             Red Hillock	note: B1_lg20	the_world	               
@@ -362,7 +331,6 @@ Arabia	main: B1_lg4	Arabia
             Red_Hillock	note: B1_lg20	province of Hegiaz	               
             Red_Hillock	note: B1_lg20	province of Hegiaz	               
             Red_Hillock	note: B1_lg20	Red Hillock	               
-            Red_Hillock	note: B1_lg20	Red_Hillock	               
             Red_Hillock	note: B1_lg20	the valley of Magaith	               
             Red_Hillock	note: B1_lg20	the_world	               
             Red_Hillock	note: B1_lg20	Al_Ahkaf	               
@@ -378,7 +346,6 @@ Arabia	main: B1_lg4	Arabia
             the valley of Magaith	note: B1_lg20	province of Hegiaz	               
             the valley of Magaith	note: B1_lg20	Red Hillock	               
             the valley of Magaith	note: B1_lg20	Red_Hillock	               
-            the valley of Magaith	note: B1_lg20	the valley of Magaith	               
             the valley of Magaith	note: B1_lg20	the_world	               
             the valley of Magaith	note: B1_lg20	Al_Ahkaf	               
             the valley of Magaith	note: B1_lg20	Al_Ahkaf	               
@@ -394,7 +361,6 @@ Arabia	main: B1_lg4	Arabia
             the_world	main: B1_lg20	Red Hillock	               
             the_world	main: B1_lg20	Red_Hillock	               
             the_world	main: B1_lg20	the valley of Magaith	               
-            the_world	main: B1_lg20	the_world	               
             the_world	main: B1_lg20	Al_Ahkaf	               
             the_world	main: B1_lg20	Al_Ahkaf	               
                            
@@ -410,8 +376,6 @@ Arabia	main: B1_lg4	Arabia
             Al_Ahkaf	note: B1_lg20	Red_Hillock	               
             Al_Ahkaf	note: B1_lg20	the valley of Magaith	               
             Al_Ahkaf	note: B1_lg20	the_world	               
-            Al_Ahkaf	note: B1_lg20	Al_Ahkaf	               
-            Al_Ahkaf	note: B1_lg20	Al_Ahkaf	               
                            
             Al_Ahkaf	main: B1_lg20	The Paradise of Irem	               
             Al_Ahkaf	main: B1_lg20	Al_Ahkaf	               
@@ -425,44 +389,28 @@ Arabia	main: B1_lg4	Arabia
             Al_Ahkaf	main: B1_lg20	Red_Hillock	               
             Al_Ahkaf	main: B1_lg20	the valley of Magaith	               
             Al_Ahkaf	main: B1_lg20	the_world	               
-            Al_Ahkaf	main: B1_lg20	Al_Ahkaf	               
-            Al_Ahkaf	main: B1_lg20	Al_Ahkaf	               
                            
-            the East	main: B1_lg23	the East	               
                            
-            Mecca	note: B1_lg26	Mecca	               
-            Mecca	note: B1_lg26	Mecca	               
             Mecca	note: B1_lg26	Jerusalem	               
-            Mecca	note: B1_lg26	Mecca	               
             Mecca	note: B1_lg26	Red Hillock	               
                            
-            Mecca	note: B1_lg26	Mecca	               
-            Mecca	note: B1_lg26	Mecca	               
             Mecca	note: B1_lg26	Jerusalem	               
-            Mecca	note: B1_lg26	Mecca	               
             Mecca	note: B1_lg26	Red Hillock	               
                            
             Jerusalem	note: B1_lg26	Mecca	               
             Jerusalem	note: B1_lg26	Mecca	               
-            Jerusalem	note: B1_lg26	Jerusalem	               
             Jerusalem	note: B1_lg26	Mecca	               
             Jerusalem	note: B1_lg26	Red Hillock	               
                            
-            Mecca	main: B1_lg26	Mecca	               
-            Mecca	main: B1_lg26	Mecca	               
             Mecca	main: B1_lg26	Jerusalem	               
-            Mecca	main: B1_lg26	Mecca	               
             Mecca	main: B1_lg26	Red Hillock	               
                            
             Red Hillock	main: B1_lg26	Mecca	               
             Red Hillock	main: B1_lg26	Mecca	               
             Red Hillock	main: B1_lg26	Jerusalem	               
             Red Hillock	main: B1_lg26	Mecca	               
-            Red Hillock	main: B1_lg26	Red Hillock	               
                            
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	the whole earth	               
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	the river Nilus	               
             Egypt	note: B1_lg35	the land Al-Said	               
             Egypt	note: B1_lg35	Abulfeda	               
@@ -470,7 +418,6 @@ Arabia	main: B1_lg4	Arabia
             Egypt	note: B1_lg35	the_world	               
             Egypt	note: B1_lg35	Bologna	               
             Egypt	note: B1_lg35	East Indies	               
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	Ad	               
             Egypt	note: B1_lg35	Syria	               
             Egypt	note: B1_lg35	Ormus	               
@@ -479,7 +426,6 @@ Arabia	main: B1_lg4	Arabia
             Egypt	note: B1_lg35	the East	               
                            
             the whole earth	note: B1_lg35	Egypt	               
-            the whole earth	note: B1_lg35	the whole earth	               
             the whole earth	note: B1_lg35	Egypt	               
             the whole earth	note: B1_lg35	the river Nilus	               
             the whole earth	note: B1_lg35	the land Al-Said	               
@@ -496,9 +442,7 @@ Arabia	main: B1_lg4	Arabia
             the whole earth	note: B1_lg35	Irem	               
             the whole earth	note: B1_lg35	the East	               
                            
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	the whole earth	               
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	the river Nilus	               
             Egypt	note: B1_lg35	the land Al-Said	               
             Egypt	note: B1_lg35	Abulfeda	               
@@ -506,7 +450,6 @@ Arabia	main: B1_lg4	Arabia
             Egypt	note: B1_lg35	the_world	               
             Egypt	note: B1_lg35	Bologna	               
             Egypt	note: B1_lg35	East Indies	               
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	Ad	               
             Egypt	note: B1_lg35	Syria	               
             Egypt	note: B1_lg35	Ormus	               
@@ -517,7 +460,6 @@ Arabia	main: B1_lg4	Arabia
             the river Nilus	note: B1_lg35	Egypt	               
             the river Nilus	note: B1_lg35	the whole earth	               
             the river Nilus	note: B1_lg35	Egypt	               
-            the river Nilus	note: B1_lg35	the river Nilus	               
             the river Nilus	note: B1_lg35	the land Al-Said	               
             the river Nilus	note: B1_lg35	Abulfeda	               
             the river Nilus	note: B1_lg35	Ægypt	               
@@ -536,7 +478,6 @@ Arabia	main: B1_lg4	Arabia
             the land Al-Said	note: B1_lg35	the whole earth	               
             the land Al-Said	note: B1_lg35	Egypt	               
             the land Al-Said	note: B1_lg35	the river Nilus	               
-            the land Al-Said	note: B1_lg35	the land Al-Said	               
             the land Al-Said	note: B1_lg35	Abulfeda	               
             the land Al-Said	note: B1_lg35	Ægypt	               
             the land Al-Said	note: B1_lg35	the_world	               
@@ -555,7 +496,6 @@ Arabia	main: B1_lg4	Arabia
             Abulfeda	note: B1_lg35	Egypt	               
             Abulfeda	note: B1_lg35	the river Nilus	               
             Abulfeda	note: B1_lg35	the land Al-Said	               
-            Abulfeda	note: B1_lg35	Abulfeda	               
             Abulfeda	note: B1_lg35	Ægypt	               
             Abulfeda	note: B1_lg35	the_world	               
             Abulfeda	note: B1_lg35	Bologna	               
@@ -574,7 +514,6 @@ Arabia	main: B1_lg4	Arabia
             Ægypt	note: B1_lg35	the river Nilus	               
             Ægypt	note: B1_lg35	the land Al-Said	               
             Ægypt	note: B1_lg35	Abulfeda	               
-            Ægypt	note: B1_lg35	Ægypt	               
             Ægypt	note: B1_lg35	the_world	               
             Ægypt	note: B1_lg35	Bologna	               
             Ægypt	note: B1_lg35	East Indies	               
@@ -593,7 +532,6 @@ Arabia	main: B1_lg4	Arabia
             the_world	main: B1_lg35	the land Al-Said	               
             the_world	main: B1_lg35	Abulfeda	               
             the_world	main: B1_lg35	Ægypt	               
-            the_world	main: B1_lg35	the_world	               
             the_world	main: B1_lg35	Bologna	               
             the_world	main: B1_lg35	East Indies	               
             the_world	main: B1_lg35	Egypt	               
@@ -612,7 +550,6 @@ Arabia	main: B1_lg4	Arabia
             Bologna	note: B1_lg35	Abulfeda	               
             Bologna	note: B1_lg35	Ægypt	               
             Bologna	note: B1_lg35	the_world	               
-            Bologna	note: B1_lg35	Bologna	               
             Bologna	note: B1_lg35	East Indies	               
             Bologna	note: B1_lg35	Egypt	               
             Bologna	note: B1_lg35	Ad	               
@@ -631,7 +568,6 @@ Arabia	main: B1_lg4	Arabia
             East Indies	note: B1_lg35	Ægypt	               
             East Indies	note: B1_lg35	the_world	               
             East Indies	note: B1_lg35	Bologna	               
-            East Indies	note: B1_lg35	East Indies	               
             East Indies	note: B1_lg35	Egypt	               
             East Indies	note: B1_lg35	Ad	               
             East Indies	note: B1_lg35	Syria	               
@@ -640,9 +576,7 @@ Arabia	main: B1_lg4	Arabia
             East Indies	note: B1_lg35	Irem	               
             East Indies	note: B1_lg35	the East	               
                            
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	the whole earth	               
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	the river Nilus	               
             Egypt	note: B1_lg35	the land Al-Said	               
             Egypt	note: B1_lg35	Abulfeda	               
@@ -650,7 +584,6 @@ Arabia	main: B1_lg4	Arabia
             Egypt	note: B1_lg35	the_world	               
             Egypt	note: B1_lg35	Bologna	               
             Egypt	note: B1_lg35	East Indies	               
-            Egypt	note: B1_lg35	Egypt	               
             Egypt	note: B1_lg35	Ad	               
             Egypt	note: B1_lg35	Syria	               
             Egypt	note: B1_lg35	Ormus	               
@@ -669,7 +602,6 @@ Arabia	main: B1_lg4	Arabia
             Ad	main: B1_lg35	Bologna	               
             Ad	main: B1_lg35	East Indies	               
             Ad	main: B1_lg35	Egypt	               
-            Ad	main: B1_lg35	Ad	               
             Ad	main: B1_lg35	Syria	               
             Ad	main: B1_lg35	Ormus	               
             Ad	main: B1_lg35	Damascus	               
@@ -688,7 +620,6 @@ Arabia	main: B1_lg4	Arabia
             Syria	note: B1_lg35	East Indies	               
             Syria	note: B1_lg35	Egypt	               
             Syria	note: B1_lg35	Ad	               
-            Syria	note: B1_lg35	Syria	               
             Syria	note: B1_lg35	Ormus	               
             Syria	note: B1_lg35	Damascus	               
             Syria	note: B1_lg35	Irem	               
@@ -707,7 +638,6 @@ Arabia	main: B1_lg4	Arabia
             Ormus	note: B1_lg35	Egypt	               
             Ormus	note: B1_lg35	Ad	               
             Ormus	note: B1_lg35	Syria	               
-            Ormus	note: B1_lg35	Ormus	               
             Ormus	note: B1_lg35	Damascus	               
             Ormus	note: B1_lg35	Irem	               
             Ormus	note: B1_lg35	the East	               
@@ -726,7 +656,6 @@ Arabia	main: B1_lg4	Arabia
             Damascus	note: B1_lg35	Ad	               
             Damascus	note: B1_lg35	Syria	               
             Damascus	note: B1_lg35	Ormus	               
-            Damascus	note: B1_lg35	Damascus	               
             Damascus	note: B1_lg35	Irem	               
             Damascus	note: B1_lg35	the East	               
                            
@@ -745,7 +674,6 @@ Arabia	main: B1_lg4	Arabia
             Irem	note: B1_lg35	Syria	               
             Irem	note: B1_lg35	Ormus	               
             Irem	note: B1_lg35	Damascus	               
-            Irem	note: B1_lg35	Irem	               
             Irem	note: B1_lg35	the East	               
                            
             the East	main: B1_lg35	Egypt	               
@@ -764,19 +692,13 @@ Arabia	main: B1_lg4	Arabia
             the East	main: B1_lg35	Ormus	               
             the East	main: B1_lg35	Damascus	               
             the East	main: B1_lg35	Irem	               
-            the East	main: B1_lg35	the East	               
                            
-            Ad	main: B1_lg36	Ad	               
                            
-            Mecca	main: B1_lg41	Mecca	               
                            
-            Mecca	main: B1_lg43	Mecca	               
             Mecca	main: B1_lg43	Red Hillock	               
                            
             Red Hillock	main: B1_lg43	Mecca	               
-            Red Hillock	main: B1_lg43	Red Hillock	               
                            
-            Irem	main: B1_lg44	Irem	               
             Irem	main: B1_lg44	Ad	               
             Irem	main: B1_lg44	Ad	               
             Irem	main: B1_lg44	Ad	               
@@ -784,18 +706,13 @@ Arabia	main: B1_lg4	Arabia
                            
             Ad	main: B1_lg44	Irem	               
             Ad	main: B1_lg44	Ad	               
-            Ad	main: B1_lg44	Ad	               
-            Ad	main: B1_lg44	Ad	               
             Ad	main: B1_lg44	the_world	               
                            
             Ad	main: B1_lg44	Irem	               
             Ad	main: B1_lg44	Ad	               
-            Ad	main: B1_lg44	Ad	               
-            Ad	main: B1_lg44	Ad	               
             Ad	main: B1_lg44	the_world	               
                            
             Ad	main: B1_lg44	Irem	               
-            Ad	main: B1_lg44	Ad	               
             Ad	main: B1_lg44	Ad	               
             Ad	main: B1_lg44	Ad	               
             Ad	main: B1_lg44	the_world	               
@@ -804,64 +721,48 @@ Arabia	main: B1_lg4	Arabia
             the_world	note: B1_lg44	Ad	               
             the_world	note: B1_lg44	Ad	               
             the_world	note: B1_lg44	Ad	               
-            the_world	note: B1_lg44	the_world	               
                            
-            Ocean	main: B2_lg68	Ocean	               
             Ocean	main: B2_lg68	Earth	               
             Ocean	main: B2_lg68	Ocean	               
             Ocean	main: B2_lg68	Earth	               
                            
             Earth	main: B2_lg68	Ocean	               
-            Earth	main: B2_lg68	Earth	               
             Earth	main: B2_lg68	Ocean	               
             Earth	main: B2_lg68	Earth	               
                            
             Ocean	main: B2_lg68	Ocean	               
             Ocean	main: B2_lg68	Earth	               
-            Ocean	main: B2_lg68	Ocean	               
             Ocean	main: B2_lg68	Earth	               
                            
             Earth	main: B2_lg68	Ocean	               
             Earth	main: B2_lg68	Earth	               
             Earth	main: B2_lg68	Ocean	               
-            Earth	main: B2_lg68	Earth	               
                            
-            Ocean	main: B2_lg72	Ocean	               
             Ocean	main: B2_lg72	Earth	               
                            
             Earth	main: B2_lg72	Ocean	               
-            Earth	main: B2_lg72	Earth	               
                            
-            Araby	main: B2_lg83	Araby	               
                            
-            Monaco	note: B2_lg84	Monaco	               
             Monaco	note: B2_lg84	Caucasus	               
             Monaco	note: B2_lg84	Ocean	               
                            
             Caucasus	main: B2_lg84	Monaco	               
-            Caucasus	main: B2_lg84	Caucasus	               
             Caucasus	main: B2_lg84	Ocean	               
                            
             Ocean	main: B2_lg84	Monaco	               
             Ocean	main: B2_lg84	Caucasus	               
-            Ocean	main: B2_lg84	Ocean	               
                            
-            the Abyss	main: B2_lg85	the Abyss	               
             the Abyss	main: B2_lg85	the_world	               
                            
             the_world	main: B2_lg85	the Abyss	               
-            the_world	main: B2_lg85	the_world	               
                            
-            Arabia	main: B2_lg87	Arabia	               
             Arabia	main: B2_lg87	Tchama	               
             Arabia	main: B2_lg87	Naïd	               
             Arabia	main: B2_lg87	Arud	               
             Arabia	main: B2_lg87	Yemen	               
             Arabia	main: B2_lg87	Hejaz	               
-            Arabia	main: B2_lg87	Arabia	               
                            
             Tchama	main: B2_lg87	Arabia	               
-            Tchama	main: B2_lg87	Tchama	               
             Tchama	main: B2_lg87	Naïd	               
             Tchama	main: B2_lg87	Arud	               
             Tchama	main: B2_lg87	Yemen	               
@@ -870,7 +771,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Naïd	main: B2_lg87	Arabia	               
             Naïd	main: B2_lg87	Tchama	               
-            Naïd	main: B2_lg87	Naïd	               
             Naïd	main: B2_lg87	Arud	               
             Naïd	main: B2_lg87	Yemen	               
             Naïd	main: B2_lg87	Hejaz	               
@@ -879,7 +779,6 @@ Arabia	main: B1_lg4	Arabia
             Arud	main: B2_lg87	Arabia	               
             Arud	main: B2_lg87	Tchama	               
             Arud	main: B2_lg87	Naïd	               
-            Arud	main: B2_lg87	Arud	               
             Arud	main: B2_lg87	Yemen	               
             Arud	main: B2_lg87	Hejaz	               
             Arud	main: B2_lg87	Arabia	               
@@ -888,7 +787,6 @@ Arabia	main: B1_lg4	Arabia
             Yemen	main: B2_lg87	Tchama	               
             Yemen	main: B2_lg87	Naïd	               
             Yemen	main: B2_lg87	Arud	               
-            Yemen	main: B2_lg87	Yemen	               
             Yemen	main: B2_lg87	Hejaz	               
             Yemen	main: B2_lg87	Arabia	               
                            
@@ -897,94 +795,63 @@ Arabia	main: B1_lg4	Arabia
             Hejaz	main: B2_lg87	Naïd	               
             Hejaz	main: B2_lg87	Arud	               
             Hejaz	main: B2_lg87	Yemen	               
-            Hejaz	main: B2_lg87	Hejaz	               
             Hejaz	main: B2_lg87	Arabia	               
                            
-            Arabia	main: B2_lg87	Arabia	               
             Arabia	main: B2_lg87	Tchama	               
             Arabia	main: B2_lg87	Naïd	               
             Arabia	main: B2_lg87	Arud	               
             Arabia	main: B2_lg87	Yemen	               
             Arabia	main: B2_lg87	Hejaz	               
-            Arabia	main: B2_lg87	Arabia	               
                            
-            the Tree	main: B2_lg90	the Tree	               
                            
-            Persia	note: B2_lg91	Persia	               
             Persia	note: B2_lg91	Europe	               
-            Persia	note: B2_lg91	Persia	               
                            
             Europe	note: B2_lg91	Persia	               
-            Europe	note: B2_lg91	Europe	               
             Europe	note: B2_lg91	Persia	               
                            
-            Persia	note: B2_lg91	Persia	               
             Persia	note: B2_lg91	Europe	               
-            Persia	note: B2_lg91	Persia	               
                            
-            Spain	note: B2_lg94	Spain	               
                            
-            Syria	note: B2_lg95	Syria	               
                            
-            the_world	main: B3_lg169	the_world	               
                            
-            Babylon	main: B4_lg193	Babylon	               
                            
-            Bagdad	main: B4_lg198	Bagdad	               
                            
-            the_world	main: B4_lg204	the_world	               
             the_world	main: B4_lg204	the_world	               
                            
             the_world	main: B4_lg204	the_world	               
-            the_world	main: B4_lg204	the_world	               
                            
-            Bagdad	main: B4_lg206	Bagdad	               
             Bagdad	main: B4_lg206	Babylon	               
                            
             Babylon	main: B4_lg206	Bagdad	               
-            Babylon	main: B4_lg206	Babylon	               
                            
-            Babylon	main: B4_lg214	Babylon	               
                            
-            Bagdad	note: B4_lg218	Bagdad	               
             Bagdad	note: B4_lg218	Yemen	               
             Bagdad	note: B4_lg218	Mecca	               
             Bagdad	note: B4_lg218	Mecca	               
             Bagdad	note: B4_lg218	Bombay	               
                            
             Yemen	note: B4_lg218	Bagdad	               
-            Yemen	note: B4_lg218	Yemen	               
             Yemen	note: B4_lg218	Mecca	               
             Yemen	note: B4_lg218	Mecca	               
             Yemen	note: B4_lg218	Bombay	               
                            
             Mecca	note: B4_lg218	Bagdad	               
             Mecca	note: B4_lg218	Yemen	               
-            Mecca	note: B4_lg218	Mecca	               
-            Mecca	note: B4_lg218	Mecca	               
             Mecca	note: B4_lg218	Bombay	               
                            
             Mecca	note: B4_lg218	Bagdad	               
             Mecca	note: B4_lg218	Yemen	               
-            Mecca	note: B4_lg218	Mecca	               
-            Mecca	note: B4_lg218	Mecca	               
             Mecca	note: B4_lg218	Bombay	               
                            
             Bombay	note: B4_lg218	Bagdad	               
             Bombay	note: B4_lg218	Yemen	               
             Bombay	note: B4_lg218	Mecca	               
             Bombay	note: B4_lg218	Mecca	               
-            Bombay	note: B4_lg218	Bombay	               
                            
-            Babylon	main: B4_lg220	Babylon	               
                            
-            Babylon	main: B4_lg242	Babylon	               
                            
-            Babylon	main: B4_lg244	Babylon	               
                            
-            Babylon	main: B4_lg254	Babylon	               
                            
-            the_world	note: B4_lg276	the_world	               
             the_world	note: B4_lg276	river
                                  Aldea	               
             the_world	note: B4_lg276	Lisboa	               
@@ -992,9 +859,6 @@ Arabia	main: B1_lg4	Arabia
                            
             river
                                  Aldea	note: B4_lg276	the_world	               
-            river
-                                 Aldea	note: B4_lg276	river
-                                 Aldea	               
             river
                                  Aldea	note: B4_lg276	Lisboa	               
             river
@@ -1003,18 +867,14 @@ Arabia	main: B1_lg4	Arabia
             Lisboa	note: B4_lg276	the_world	               
             Lisboa	note: B4_lg276	river
                                  Aldea	               
-            Lisboa	note: B4_lg276	Lisboa	               
             Lisboa	note: B4_lg276	the_world	               
                            
             the_world	note: B4_lg276	the_world	               
             the_world	note: B4_lg276	river
                                  Aldea	               
             the_world	note: B4_lg276	Lisboa	               
-            the_world	note: B4_lg276	the_world	               
                            
-            Babylon	main: B4_lg286	Babylon	               
                            
-            Bagdad	main: B5_lg315	Bagdad	               
             Bagdad	main: B5_lg315	an Oriental city	               
             Bagdad	main: B5_lg315	Aleppo	               
             Bagdad	main: B5_lg315	Ispahan	               
@@ -1024,7 +884,6 @@ Arabia	main: B1_lg4	Arabia
             Bagdad	main: B5_lg315	Alexandria	               
                            
             an Oriental city	note: B5_lg315	Bagdad	               
-            an Oriental city	note: B5_lg315	an Oriental city	               
             an Oriental city	note: B5_lg315	Aleppo	               
             an Oriental city	note: B5_lg315	Ispahan	               
             an Oriental city	note: B5_lg315	Paris	               
@@ -1034,7 +893,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Aleppo	note: B5_lg315	Bagdad	               
             Aleppo	note: B5_lg315	an Oriental city	               
-            Aleppo	note: B5_lg315	Aleppo	               
             Aleppo	note: B5_lg315	Ispahan	               
             Aleppo	note: B5_lg315	Paris	               
             Aleppo	note: B5_lg315	Paris	               
@@ -1044,18 +902,14 @@ Arabia	main: B1_lg4	Arabia
             Ispahan	note: B5_lg315	Bagdad	               
             Ispahan	note: B5_lg315	an Oriental city	               
             Ispahan	note: B5_lg315	Aleppo	               
-            Ispahan	note: B5_lg315	Ispahan	               
             Ispahan	note: B5_lg315	Paris	               
             Ispahan	note: B5_lg315	Paris	               
-            Ispahan	note: B5_lg315	Ispahan	               
             Ispahan	note: B5_lg315	Alexandria	               
                            
             Paris	note: B5_lg315	Bagdad	               
             Paris	note: B5_lg315	an Oriental city	               
             Paris	note: B5_lg315	Aleppo	               
             Paris	note: B5_lg315	Ispahan	               
-            Paris	note: B5_lg315	Paris	               
-            Paris	note: B5_lg315	Paris	               
             Paris	note: B5_lg315	Ispahan	               
             Paris	note: B5_lg315	Alexandria	               
                            
@@ -1063,18 +917,14 @@ Arabia	main: B1_lg4	Arabia
             Paris	note: B5_lg315	an Oriental city	               
             Paris	note: B5_lg315	Aleppo	               
             Paris	note: B5_lg315	Ispahan	               
-            Paris	note: B5_lg315	Paris	               
-            Paris	note: B5_lg315	Paris	               
             Paris	note: B5_lg315	Ispahan	               
             Paris	note: B5_lg315	Alexandria	               
                            
             Ispahan	note: B5_lg315	Bagdad	               
             Ispahan	note: B5_lg315	an Oriental city	               
             Ispahan	note: B5_lg315	Aleppo	               
-            Ispahan	note: B5_lg315	Ispahan	               
             Ispahan	note: B5_lg315	Paris	               
             Ispahan	note: B5_lg315	Paris	               
-            Ispahan	note: B5_lg315	Ispahan	               
             Ispahan	note: B5_lg315	Alexandria	               
                            
             Alexandria	note: B5_lg315	Bagdad	               
@@ -1084,9 +934,7 @@ Arabia	main: B1_lg4	Arabia
             Alexandria	note: B5_lg315	Paris	               
             Alexandria	note: B5_lg315	Paris	               
             Alexandria	note: B5_lg315	Ispahan	               
-            Alexandria	note: B5_lg315	Alexandria	               
                            
-            Bagdad	main: B5_lg316	Bagdad	               
             Bagdad	main: B5_lg316	the Tigris	               
             Bagdad	main: B5_lg316	Seleucia	               
             Bagdad	main: B5_lg316	Dar-al-Salam the City of
@@ -1102,7 +950,6 @@ Arabia	main: B1_lg4	Arabia
             Bagdad	main: B5_lg316	the East	               
                            
             the Tigris	note: B5_lg316	Bagdad	               
-            the Tigris	note: B5_lg316	the Tigris	               
             the Tigris	note: B5_lg316	Seleucia	               
             the Tigris	note: B5_lg316	Dar-al-Salam the City of
                                  Peace	               
@@ -1118,7 +965,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Seleucia	note: B5_lg316	Bagdad	               
             Seleucia	note: B5_lg316	the Tigris	               
-            Seleucia	note: B5_lg316	Seleucia	               
             Seleucia	note: B5_lg316	Dar-al-Salam the City of
                                  Peace	               
             Seleucia	note: B5_lg316	Bagdad	               
@@ -1137,9 +983,6 @@ Arabia	main: B1_lg4	Arabia
                                  Peace	note: B5_lg316	the Tigris	               
             Dar-al-Salam the City of
                                  Peace	note: B5_lg316	Seleucia	               
-            Dar-al-Salam the City of
-                                 Peace	note: B5_lg316	Dar-al-Salam the City of
-                                 Peace	               
             Dar-al-Salam the City of
                                  Peace	note: B5_lg316	Bagdad	               
             Dar-al-Salam the City of
@@ -1164,13 +1007,10 @@ Arabia	main: B1_lg4	Arabia
             Bagdad	note: B5_lg316	Seleucia	               
             Bagdad	note: B5_lg316	Dar-al-Salam the City of
                                  Peace	               
-            Bagdad	note: B5_lg316	Bagdad	               
-            Bagdad	note: B5_lg316	Bagdad	               
             Bagdad	note: B5_lg316	Haschemia	               
             Bagdad	note: B5_lg316	Mecca	               
             Bagdad	note: B5_lg316	the Temple at Mecca	               
             Bagdad	note: B5_lg316	Mecca	               
-            Bagdad	note: B5_lg316	Bagdad	               
             Bagdad	note: B5_lg316	Europe	               
             Bagdad	note: B5_lg316	the East	               
                            
@@ -1179,13 +1019,10 @@ Arabia	main: B1_lg4	Arabia
             Bagdad	note: B5_lg316	Seleucia	               
             Bagdad	note: B5_lg316	Dar-al-Salam the City of
                                  Peace	               
-            Bagdad	note: B5_lg316	Bagdad	               
-            Bagdad	note: B5_lg316	Bagdad	               
             Bagdad	note: B5_lg316	Haschemia	               
             Bagdad	note: B5_lg316	Mecca	               
             Bagdad	note: B5_lg316	the Temple at Mecca	               
             Bagdad	note: B5_lg316	Mecca	               
-            Bagdad	note: B5_lg316	Bagdad	               
             Bagdad	note: B5_lg316	Europe	               
             Bagdad	note: B5_lg316	the East	               
                            
@@ -1196,7 +1033,6 @@ Arabia	main: B1_lg4	Arabia
                                  Peace	               
             Haschemia	note: B5_lg316	Bagdad	               
             Haschemia	note: B5_lg316	Bagdad	               
-            Haschemia	note: B5_lg316	Haschemia	               
             Haschemia	note: B5_lg316	Mecca	               
             Haschemia	note: B5_lg316	the Temple at Mecca	               
             Haschemia	note: B5_lg316	Mecca	               
@@ -1212,9 +1048,7 @@ Arabia	main: B1_lg4	Arabia
             Mecca	note: B5_lg316	Bagdad	               
             Mecca	note: B5_lg316	Bagdad	               
             Mecca	note: B5_lg316	Haschemia	               
-            Mecca	note: B5_lg316	Mecca	               
             Mecca	note: B5_lg316	the Temple at Mecca	               
-            Mecca	note: B5_lg316	Mecca	               
             Mecca	note: B5_lg316	Bagdad	               
             Mecca	note: B5_lg316	Europe	               
             Mecca	note: B5_lg316	the East	               
@@ -1228,7 +1062,6 @@ Arabia	main: B1_lg4	Arabia
             the Temple at Mecca	note: B5_lg316	Bagdad	               
             the Temple at Mecca	note: B5_lg316	Haschemia	               
             the Temple at Mecca	note: B5_lg316	Mecca	               
-            the Temple at Mecca	note: B5_lg316	the Temple at Mecca	               
             the Temple at Mecca	note: B5_lg316	Mecca	               
             the Temple at Mecca	note: B5_lg316	Bagdad	               
             the Temple at Mecca	note: B5_lg316	Europe	               
@@ -1242,9 +1075,7 @@ Arabia	main: B1_lg4	Arabia
             Mecca	note: B5_lg316	Bagdad	               
             Mecca	note: B5_lg316	Bagdad	               
             Mecca	note: B5_lg316	Haschemia	               
-            Mecca	note: B5_lg316	Mecca	               
             Mecca	note: B5_lg316	the Temple at Mecca	               
-            Mecca	note: B5_lg316	Mecca	               
             Mecca	note: B5_lg316	Bagdad	               
             Mecca	note: B5_lg316	Europe	               
             Mecca	note: B5_lg316	the East	               
@@ -1254,13 +1085,10 @@ Arabia	main: B1_lg4	Arabia
             Bagdad	note: B5_lg316	Seleucia	               
             Bagdad	note: B5_lg316	Dar-al-Salam the City of
                                  Peace	               
-            Bagdad	note: B5_lg316	Bagdad	               
-            Bagdad	note: B5_lg316	Bagdad	               
             Bagdad	note: B5_lg316	Haschemia	               
             Bagdad	note: B5_lg316	Mecca	               
             Bagdad	note: B5_lg316	the Temple at Mecca	               
             Bagdad	note: B5_lg316	Mecca	               
-            Bagdad	note: B5_lg316	Bagdad	               
             Bagdad	note: B5_lg316	Europe	               
             Bagdad	note: B5_lg316	the East	               
                            
@@ -1276,7 +1104,6 @@ Arabia	main: B1_lg4	Arabia
             Europe	main: B5_lg316	the Temple at Mecca	               
             Europe	main: B5_lg316	Mecca	               
             Europe	main: B5_lg316	Bagdad	               
-            Europe	main: B5_lg316	Europe	               
             Europe	main: B5_lg316	the East	               
                            
             the East	main: B5_lg316	Bagdad	               
@@ -1292,9 +1119,7 @@ Arabia	main: B1_lg4	Arabia
             the East	main: B5_lg316	Mecca	               
             the East	main: B5_lg316	Bagdad	               
             the East	main: B5_lg316	Europe	               
-            the East	main: B5_lg316	the East	               
                            
-            the East	main: B5_lg317	the East	               
             the East	main: B5_lg317	the West	               
             the East	main: B5_lg317	Persia	               
             the East	main: B5_lg317	Tauris	               
@@ -1311,7 +1136,6 @@ Arabia	main: B1_lg4	Arabia
             the East	main: B5_lg317	Armenia	               
                            
             the West	main: B5_lg317	the East	               
-            the West	main: B5_lg317	the West	               
             the West	main: B5_lg317	Persia	               
             the West	main: B5_lg317	Tauris	               
             the West	main: B5_lg317	Asia	               
@@ -1328,7 +1152,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Persia	note: B5_lg317	the East	               
             Persia	note: B5_lg317	the West	               
-            Persia	note: B5_lg317	Persia	               
             Persia	note: B5_lg317	Tauris	               
             Persia	note: B5_lg317	Asia	               
             Persia	note: B5_lg317	Bagdad	               
@@ -1345,7 +1168,6 @@ Arabia	main: B1_lg4	Arabia
             Tauris	note: B5_lg317	the East	               
             Tauris	note: B5_lg317	the West	               
             Tauris	note: B5_lg317	Persia	               
-            Tauris	note: B5_lg317	Tauris	               
             Tauris	note: B5_lg317	Asia	               
             Tauris	note: B5_lg317	Bagdad	               
             Tauris	note: B5_lg317	Tigris	               
@@ -1362,7 +1184,6 @@ Arabia	main: B1_lg4	Arabia
             Asia	note: B5_lg317	the West	               
             Asia	note: B5_lg317	Persia	               
             Asia	note: B5_lg317	Tauris	               
-            Asia	note: B5_lg317	Asia	               
             Asia	note: B5_lg317	Bagdad	               
             Asia	note: B5_lg317	Tigris	               
             Asia	note: B5_lg317	Arabia	               
@@ -1379,7 +1200,6 @@ Arabia	main: B1_lg4	Arabia
             Bagdad	note: B5_lg317	Persia	               
             Bagdad	note: B5_lg317	Tauris	               
             Bagdad	note: B5_lg317	Asia	               
-            Bagdad	note: B5_lg317	Bagdad	               
             Bagdad	note: B5_lg317	Tigris	               
             Bagdad	note: B5_lg317	Arabia	               
             Bagdad	note: B5_lg317	Babylon	               
@@ -1396,7 +1216,6 @@ Arabia	main: B1_lg4	Arabia
             Tigris	main: B5_lg317	Tauris	               
             Tigris	main: B5_lg317	Asia	               
             Tigris	main: B5_lg317	Bagdad	               
-            Tigris	main: B5_lg317	Tigris	               
             Tigris	main: B5_lg317	Arabia	               
             Tigris	main: B5_lg317	Babylon	               
             Tigris	main: B5_lg317	Tigris	               
@@ -1413,7 +1232,6 @@ Arabia	main: B1_lg4	Arabia
             Arabia	note: B5_lg317	Asia	               
             Arabia	note: B5_lg317	Bagdad	               
             Arabia	note: B5_lg317	Tigris	               
-            Arabia	note: B5_lg317	Arabia	               
             Arabia	note: B5_lg317	Babylon	               
             Arabia	note: B5_lg317	Tigris	               
             Arabia	note: B5_lg317	Babylon	               
@@ -1430,10 +1248,7 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg317	Bagdad	               
             Babylon	note: B5_lg317	Tigris	               
             Babylon	note: B5_lg317	Arabia	               
-            Babylon	note: B5_lg317	Babylon	               
             Babylon	note: B5_lg317	Tigris	               
-            Babylon	note: B5_lg317	Babylon	               
-            Babylon	note: B5_lg317	Babylon	               
             Babylon	note: B5_lg317	Armenia	               
             Babylon	note: B5_lg317	Tigris	               
             Babylon	note: B5_lg317	Armenia	               
@@ -1447,11 +1262,9 @@ Arabia	main: B1_lg4	Arabia
             Tigris	note: B5_lg317	Tigris	               
             Tigris	note: B5_lg317	Arabia	               
             Tigris	note: B5_lg317	Babylon	               
-            Tigris	note: B5_lg317	Tigris	               
             Tigris	note: B5_lg317	Babylon	               
             Tigris	note: B5_lg317	Babylon	               
             Tigris	note: B5_lg317	Armenia	               
-            Tigris	note: B5_lg317	Tigris	               
             Tigris	note: B5_lg317	Armenia	               
                            
             Babylon	note: B5_lg317	the East	               
@@ -1462,10 +1275,7 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg317	Bagdad	               
             Babylon	note: B5_lg317	Tigris	               
             Babylon	note: B5_lg317	Arabia	               
-            Babylon	note: B5_lg317	Babylon	               
             Babylon	note: B5_lg317	Tigris	               
-            Babylon	note: B5_lg317	Babylon	               
-            Babylon	note: B5_lg317	Babylon	               
             Babylon	note: B5_lg317	Armenia	               
             Babylon	note: B5_lg317	Tigris	               
             Babylon	note: B5_lg317	Armenia	               
@@ -1478,10 +1288,7 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg317	Bagdad	               
             Babylon	note: B5_lg317	Tigris	               
             Babylon	note: B5_lg317	Arabia	               
-            Babylon	note: B5_lg317	Babylon	               
             Babylon	note: B5_lg317	Tigris	               
-            Babylon	note: B5_lg317	Babylon	               
-            Babylon	note: B5_lg317	Babylon	               
             Babylon	note: B5_lg317	Armenia	               
             Babylon	note: B5_lg317	Tigris	               
             Babylon	note: B5_lg317	Armenia	               
@@ -1498,9 +1305,7 @@ Arabia	main: B1_lg4	Arabia
             Armenia	note: B5_lg317	Tigris	               
             Armenia	note: B5_lg317	Babylon	               
             Armenia	note: B5_lg317	Babylon	               
-            Armenia	note: B5_lg317	Armenia	               
             Armenia	note: B5_lg317	Tigris	               
-            Armenia	note: B5_lg317	Armenia	               
                            
             Tigris	note: B5_lg317	the East	               
             Tigris	note: B5_lg317	the West	               
@@ -1511,11 +1316,9 @@ Arabia	main: B1_lg4	Arabia
             Tigris	note: B5_lg317	Tigris	               
             Tigris	note: B5_lg317	Arabia	               
             Tigris	note: B5_lg317	Babylon	               
-            Tigris	note: B5_lg317	Tigris	               
             Tigris	note: B5_lg317	Babylon	               
             Tigris	note: B5_lg317	Babylon	               
             Tigris	note: B5_lg317	Armenia	               
-            Tigris	note: B5_lg317	Tigris	               
             Tigris	note: B5_lg317	Armenia	               
                            
             Armenia	main: B5_lg317	the East	               
@@ -1530,21 +1333,14 @@ Arabia	main: B1_lg4	Arabia
             Armenia	main: B5_lg317	Tigris	               
             Armenia	main: B5_lg317	Babylon	               
             Armenia	main: B5_lg317	Babylon	               
-            Armenia	main: B5_lg317	Armenia	               
             Armenia	main: B5_lg317	Tigris	               
-            Armenia	main: B5_lg317	Armenia	               
                            
-            Babylon	main: B5_lg318	Babylon	               
                            
-            Bagdad	note: B5_lg319	Bagdad	               
-            Bagdad	note: B5_lg319	Bagdad	               
             Bagdad	note: B5_lg319	Adanaqui	               
             Bagdad	note: B5_lg319	Asia Minor	               
             Bagdad	note: B5_lg319	Babylon	               
             Bagdad	note: B5_lg319	Babylon	               
                            
-            Bagdad	note: B5_lg319	Bagdad	               
-            Bagdad	note: B5_lg319	Bagdad	               
             Bagdad	note: B5_lg319	Adanaqui	               
             Bagdad	note: B5_lg319	Asia Minor	               
             Bagdad	note: B5_lg319	Babylon	               
@@ -1552,7 +1348,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Adanaqui	note: B5_lg319	Bagdad	               
             Adanaqui	note: B5_lg319	Bagdad	               
-            Adanaqui	note: B5_lg319	Adanaqui	               
             Adanaqui	note: B5_lg319	Asia Minor	               
             Adanaqui	note: B5_lg319	Babylon	               
             Adanaqui	note: B5_lg319	Babylon	               
@@ -1560,7 +1355,6 @@ Arabia	main: B1_lg4	Arabia
             Asia Minor	note: B5_lg319	Bagdad	               
             Asia Minor	note: B5_lg319	Bagdad	               
             Asia Minor	note: B5_lg319	Adanaqui	               
-            Asia Minor	note: B5_lg319	Asia Minor	               
             Asia Minor	note: B5_lg319	Babylon	               
             Asia Minor	note: B5_lg319	Babylon	               
                            
@@ -1568,19 +1362,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg319	Bagdad	               
             Babylon	note: B5_lg319	Adanaqui	               
             Babylon	note: B5_lg319	Asia Minor	               
-            Babylon	note: B5_lg319	Babylon	               
-            Babylon	note: B5_lg319	Babylon	               
                            
             Babylon	main: B5_lg319	Bagdad	               
             Babylon	main: B5_lg319	Bagdad	               
             Babylon	main: B5_lg319	Adanaqui	               
             Babylon	main: B5_lg319	Asia Minor	               
-            Babylon	main: B5_lg319	Babylon	               
-            Babylon	main: B5_lg319	Babylon	               
                            
-            Euphrates	note: B5_lg320	Euphrates	               
             Euphrates	note: B5_lg320	Judah	               
-            Euphrates	note: B5_lg320	Euphrates	               
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Media	               
@@ -1593,7 +1381,6 @@ Arabia	main: B1_lg4	Arabia
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	St. Paul's steeple	               
             Euphrates	note: B5_lg320	London	               
-            Euphrates	note: B5_lg320	Euphrates	               
             Euphrates	note: B5_lg320	Tower_of_Babel	               
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Babylon	               
@@ -1605,15 +1392,12 @@ Arabia	main: B1_lg4	Arabia
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Sodom	               
             Euphrates	note: B5_lg320	Gomorrah	               
-            Euphrates	note: B5_lg320	Euphrates	               
                            
             Judah	note: B5_lg320	Euphrates	               
-            Judah	note: B5_lg320	Judah	               
             Judah	note: B5_lg320	Euphrates	               
             Judah	note: B5_lg320	Babylon	               
             Judah	note: B5_lg320	Babylon	               
             Judah	note: B5_lg320	Media	               
-            Judah	note: B5_lg320	Judah	               
             Judah	note: B5_lg320	Media	               
             Judah	note: B5_lg320	Temple of Belus	               
             Judah	note: B5_lg320	Tower_of_Babel	               
@@ -1636,9 +1420,7 @@ Arabia	main: B1_lg4	Arabia
             Judah	note: B5_lg320	Gomorrah	               
             Judah	note: B5_lg320	Euphrates	               
                            
-            Euphrates	main: B5_lg320	Euphrates	               
             Euphrates	main: B5_lg320	Judah	               
-            Euphrates	main: B5_lg320	Euphrates	               
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Media	               
@@ -1651,7 +1433,6 @@ Arabia	main: B1_lg4	Arabia
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	St. Paul's steeple	               
             Euphrates	main: B5_lg320	London	               
-            Euphrates	main: B5_lg320	Euphrates	               
             Euphrates	main: B5_lg320	Tower_of_Babel	               
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Babylon	               
@@ -1663,13 +1444,10 @@ Arabia	main: B1_lg4	Arabia
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Sodom	               
             Euphrates	main: B5_lg320	Gomorrah	               
-            Euphrates	main: B5_lg320	Euphrates	               
                            
             Babylon	main: B5_lg320	Euphrates	               
             Babylon	main: B5_lg320	Judah	               
             Babylon	main: B5_lg320	Euphrates	               
-            Babylon	main: B5_lg320	Babylon	               
-            Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	Media	               
             Babylon	main: B5_lg320	Judah	               
             Babylon	main: B5_lg320	Media	               
@@ -1677,19 +1455,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Tigris	               
             Babylon	main: B5_lg320	Arabia	               
-            Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	St. Paul's steeple	               
             Babylon	main: B5_lg320	London	               
             Babylon	main: B5_lg320	Euphrates	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
-            Babylon	main: B5_lg320	Babylon	               
-            Babylon	main: B5_lg320	Babylon	               
-            Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	Naples	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Assyria	               
-            Babylon	main: B5_lg320	Babylon	               
-            Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	Sodom	               
             Babylon	main: B5_lg320	Gomorrah	               
             Babylon	main: B5_lg320	Euphrates	               
@@ -1697,8 +1469,6 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Euphrates	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Media	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Media	               
@@ -1706,19 +1476,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Tigris	               
             Babylon	note: B5_lg320	Arabia	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	St. Paul's steeple	               
             Babylon	note: B5_lg320	London	               
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Naples	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Sodom	               
             Babylon	note: B5_lg320	Gomorrah	               
             Babylon	note: B5_lg320	Euphrates	               
@@ -1728,9 +1492,7 @@ Arabia	main: B1_lg4	Arabia
             Media	note: B5_lg320	Euphrates	               
             Media	note: B5_lg320	Babylon	               
             Media	note: B5_lg320	Babylon	               
-            Media	note: B5_lg320	Media	               
             Media	note: B5_lg320	Judah	               
-            Media	note: B5_lg320	Media	               
             Media	note: B5_lg320	Temple of Belus	               
             Media	note: B5_lg320	Tower_of_Babel	               
             Media	note: B5_lg320	Tigris	               
@@ -1753,12 +1515,10 @@ Arabia	main: B1_lg4	Arabia
             Media	note: B5_lg320	Euphrates	               
                            
             Judah	note: B5_lg320	Euphrates	               
-            Judah	note: B5_lg320	Judah	               
             Judah	note: B5_lg320	Euphrates	               
             Judah	note: B5_lg320	Babylon	               
             Judah	note: B5_lg320	Babylon	               
             Judah	note: B5_lg320	Media	               
-            Judah	note: B5_lg320	Judah	               
             Judah	note: B5_lg320	Media	               
             Judah	note: B5_lg320	Temple of Belus	               
             Judah	note: B5_lg320	Tower_of_Babel	               
@@ -1786,9 +1546,7 @@ Arabia	main: B1_lg4	Arabia
             Media	main: B5_lg320	Euphrates	               
             Media	main: B5_lg320	Babylon	               
             Media	main: B5_lg320	Babylon	               
-            Media	main: B5_lg320	Media	               
             Media	main: B5_lg320	Judah	               
-            Media	main: B5_lg320	Media	               
             Media	main: B5_lg320	Temple of Belus	               
             Media	main: B5_lg320	Tower_of_Babel	               
             Media	main: B5_lg320	Tigris	               
@@ -1818,7 +1576,6 @@ Arabia	main: B1_lg4	Arabia
             Temple of Belus	note: B5_lg320	Media	               
             Temple of Belus	note: B5_lg320	Judah	               
             Temple of Belus	note: B5_lg320	Media	               
-            Temple of Belus	note: B5_lg320	Temple of Belus	               
             Temple of Belus	note: B5_lg320	Tower_of_Babel	               
             Temple of Belus	note: B5_lg320	Tigris	               
             Temple of Belus	note: B5_lg320	Arabia	               
@@ -1848,7 +1605,6 @@ Arabia	main: B1_lg4	Arabia
             Tower_of_Babel	note: B5_lg320	Judah	               
             Tower_of_Babel	note: B5_lg320	Media	               
             Tower_of_Babel	note: B5_lg320	Temple of Belus	               
-            Tower_of_Babel	note: B5_lg320	Tower_of_Babel	               
             Tower_of_Babel	note: B5_lg320	Tigris	               
             Tower_of_Babel	note: B5_lg320	Arabia	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
@@ -1878,7 +1634,6 @@ Arabia	main: B1_lg4	Arabia
             Tigris	note: B5_lg320	Media	               
             Tigris	note: B5_lg320	Temple of Belus	               
             Tigris	note: B5_lg320	Tower_of_Babel	               
-            Tigris	note: B5_lg320	Tigris	               
             Tigris	note: B5_lg320	Arabia	               
             Tigris	note: B5_lg320	Babylon	               
             Tigris	note: B5_lg320	St. Paul's steeple	               
@@ -1908,7 +1663,6 @@ Arabia	main: B1_lg4	Arabia
             Arabia	note: B5_lg320	Temple of Belus	               
             Arabia	note: B5_lg320	Tower_of_Babel	               
             Arabia	note: B5_lg320	Tigris	               
-            Arabia	note: B5_lg320	Arabia	               
             Arabia	note: B5_lg320	Babylon	               
             Arabia	note: B5_lg320	St. Paul's steeple	               
             Arabia	note: B5_lg320	London	               
@@ -1929,8 +1683,6 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Euphrates	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Media	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Media	               
@@ -1938,19 +1690,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Tigris	               
             Babylon	note: B5_lg320	Arabia	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	St. Paul's steeple	               
             Babylon	note: B5_lg320	London	               
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Naples	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Sodom	               
             Babylon	note: B5_lg320	Gomorrah	               
             Babylon	note: B5_lg320	Euphrates	               
@@ -1968,7 +1714,6 @@ Arabia	main: B1_lg4	Arabia
             St. Paul's steeple	note: B5_lg320	Tigris	               
             St. Paul's steeple	note: B5_lg320	Arabia	               
             St. Paul's steeple	note: B5_lg320	Babylon	               
-            St. Paul's steeple	note: B5_lg320	St. Paul's steeple	               
             St. Paul's steeple	note: B5_lg320	London	               
             St. Paul's steeple	note: B5_lg320	Euphrates	               
             St. Paul's steeple	note: B5_lg320	Tower_of_Babel	               
@@ -1998,7 +1743,6 @@ Arabia	main: B1_lg4	Arabia
             London	note: B5_lg320	Arabia	               
             London	note: B5_lg320	Babylon	               
             London	note: B5_lg320	St. Paul's steeple	               
-            London	note: B5_lg320	London	               
             London	note: B5_lg320	Euphrates	               
             London	note: B5_lg320	Tower_of_Babel	               
             London	note: B5_lg320	Babylon	               
@@ -2013,9 +1757,7 @@ Arabia	main: B1_lg4	Arabia
             London	note: B5_lg320	Gomorrah	               
             London	note: B5_lg320	Euphrates	               
                            
-            Euphrates	note: B5_lg320	Euphrates	               
             Euphrates	note: B5_lg320	Judah	               
-            Euphrates	note: B5_lg320	Euphrates	               
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Media	               
@@ -2028,7 +1770,6 @@ Arabia	main: B1_lg4	Arabia
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	St. Paul's steeple	               
             Euphrates	note: B5_lg320	London	               
-            Euphrates	note: B5_lg320	Euphrates	               
             Euphrates	note: B5_lg320	Tower_of_Babel	               
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Babylon	               
@@ -2040,7 +1781,6 @@ Arabia	main: B1_lg4	Arabia
             Euphrates	note: B5_lg320	Babylon	               
             Euphrates	note: B5_lg320	Sodom	               
             Euphrates	note: B5_lg320	Gomorrah	               
-            Euphrates	note: B5_lg320	Euphrates	               
                            
             Tower_of_Babel	note: B5_lg320	Euphrates	               
             Tower_of_Babel	note: B5_lg320	Judah	               
@@ -2058,7 +1798,6 @@ Arabia	main: B1_lg4	Arabia
             Tower_of_Babel	note: B5_lg320	St. Paul's steeple	               
             Tower_of_Babel	note: B5_lg320	London	               
             Tower_of_Babel	note: B5_lg320	Euphrates	               
-            Tower_of_Babel	note: B5_lg320	Tower_of_Babel	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
@@ -2074,8 +1813,6 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Euphrates	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Media	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Media	               
@@ -2083,19 +1820,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Tigris	               
             Babylon	note: B5_lg320	Arabia	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	St. Paul's steeple	               
             Babylon	note: B5_lg320	London	               
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Naples	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Sodom	               
             Babylon	note: B5_lg320	Gomorrah	               
             Babylon	note: B5_lg320	Euphrates	               
@@ -2103,8 +1834,6 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Euphrates	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Media	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Media	               
@@ -2112,19 +1841,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Tigris	               
             Babylon	note: B5_lg320	Arabia	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	St. Paul's steeple	               
             Babylon	note: B5_lg320	London	               
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Naples	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Sodom	               
             Babylon	note: B5_lg320	Gomorrah	               
             Babylon	note: B5_lg320	Euphrates	               
@@ -2132,8 +1855,6 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Euphrates	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Media	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Media	               
@@ -2141,19 +1862,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Tigris	               
             Babylon	note: B5_lg320	Arabia	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	St. Paul's steeple	               
             Babylon	note: B5_lg320	London	               
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Naples	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Sodom	               
             Babylon	note: B5_lg320	Gomorrah	               
             Babylon	note: B5_lg320	Euphrates	               
@@ -2178,7 +1893,6 @@ Arabia	main: B1_lg4	Arabia
             Naples	note: B5_lg320	Babylon	               
             Naples	note: B5_lg320	Babylon	               
             Naples	note: B5_lg320	Babylon	               
-            Naples	note: B5_lg320	Naples	               
             Naples	note: B5_lg320	Tower_of_Babel	               
             Naples	note: B5_lg320	Assyria	               
             Naples	note: B5_lg320	Babylon	               
@@ -2208,7 +1922,6 @@ Arabia	main: B1_lg4	Arabia
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Naples	               
-            Tower_of_Babel	note: B5_lg320	Tower_of_Babel	               
             Tower_of_Babel	note: B5_lg320	Assyria	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
             Tower_of_Babel	note: B5_lg320	Babylon	               
@@ -2238,7 +1951,6 @@ Arabia	main: B1_lg4	Arabia
             Assyria	main: B5_lg320	Babylon	               
             Assyria	main: B5_lg320	Naples	               
             Assyria	main: B5_lg320	Tower_of_Babel	               
-            Assyria	main: B5_lg320	Assyria	               
             Assyria	main: B5_lg320	Babylon	               
             Assyria	main: B5_lg320	Babylon	               
             Assyria	main: B5_lg320	Sodom	               
@@ -2248,8 +1960,6 @@ Arabia	main: B1_lg4	Arabia
             Babylon	main: B5_lg320	Euphrates	               
             Babylon	main: B5_lg320	Judah	               
             Babylon	main: B5_lg320	Euphrates	               
-            Babylon	main: B5_lg320	Babylon	               
-            Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	Media	               
             Babylon	main: B5_lg320	Judah	               
             Babylon	main: B5_lg320	Media	               
@@ -2257,19 +1967,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Tigris	               
             Babylon	main: B5_lg320	Arabia	               
-            Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	St. Paul's steeple	               
             Babylon	main: B5_lg320	London	               
             Babylon	main: B5_lg320	Euphrates	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
-            Babylon	main: B5_lg320	Babylon	               
-            Babylon	main: B5_lg320	Babylon	               
-            Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	Naples	               
             Babylon	main: B5_lg320	Tower_of_Babel	               
             Babylon	main: B5_lg320	Assyria	               
-            Babylon	main: B5_lg320	Babylon	               
-            Babylon	main: B5_lg320	Babylon	               
             Babylon	main: B5_lg320	Sodom	               
             Babylon	main: B5_lg320	Gomorrah	               
             Babylon	main: B5_lg320	Euphrates	               
@@ -2277,8 +1981,6 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Euphrates	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Media	               
             Babylon	note: B5_lg320	Judah	               
             Babylon	note: B5_lg320	Media	               
@@ -2286,19 +1988,13 @@ Arabia	main: B1_lg4	Arabia
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Tigris	               
             Babylon	note: B5_lg320	Arabia	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	St. Paul's steeple	               
             Babylon	note: B5_lg320	London	               
             Babylon	note: B5_lg320	Euphrates	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Naples	               
             Babylon	note: B5_lg320	Tower_of_Babel	               
             Babylon	note: B5_lg320	Assyria	               
-            Babylon	note: B5_lg320	Babylon	               
-            Babylon	note: B5_lg320	Babylon	               
             Babylon	note: B5_lg320	Sodom	               
             Babylon	note: B5_lg320	Gomorrah	               
             Babylon	note: B5_lg320	Euphrates	               
@@ -2328,7 +2024,6 @@ Arabia	main: B1_lg4	Arabia
             Sodom	note: B5_lg320	Assyria	               
             Sodom	note: B5_lg320	Babylon	               
             Sodom	note: B5_lg320	Babylon	               
-            Sodom	note: B5_lg320	Sodom	               
             Sodom	note: B5_lg320	Gomorrah	               
             Sodom	note: B5_lg320	Euphrates	               
                            
@@ -2358,12 +2053,9 @@ Arabia	main: B1_lg4	Arabia
             Gomorrah	note: B5_lg320	Babylon	               
             Gomorrah	note: B5_lg320	Babylon	               
             Gomorrah	note: B5_lg320	Sodom	               
-            Gomorrah	note: B5_lg320	Gomorrah	               
             Gomorrah	note: B5_lg320	Euphrates	               
                            
-            Euphrates	main: B5_lg320	Euphrates	               
             Euphrates	main: B5_lg320	Judah	               
-            Euphrates	main: B5_lg320	Euphrates	               
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Media	               
@@ -2376,7 +2068,6 @@ Arabia	main: B1_lg4	Arabia
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	St. Paul's steeple	               
             Euphrates	main: B5_lg320	London	               
-            Euphrates	main: B5_lg320	Euphrates	               
             Euphrates	main: B5_lg320	Tower_of_Babel	               
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Babylon	               
@@ -2388,80 +2079,60 @@ Arabia	main: B1_lg4	Arabia
             Euphrates	main: B5_lg320	Babylon	               
             Euphrates	main: B5_lg320	Sodom	               
             Euphrates	main: B5_lg320	Gomorrah	               
-            Euphrates	main: B5_lg320	Euphrates	               
                            
-            Persia	note: B7_lg413	Persia	               
             Persia	note: B7_lg413	Paradise	               
             Persia	note: B7_lg413	Paradise	               
             Persia	note: B7_lg413	Melistorte	               
             Persia	note: B7_lg413	Yle of Pentexoire	               
                            
             Paradise	note: B7_lg413	Persia	               
-            Paradise	note: B7_lg413	Paradise	               
-            Paradise	note: B7_lg413	Paradise	               
             Paradise	note: B7_lg413	Melistorte	               
             Paradise	note: B7_lg413	Yle of Pentexoire	               
                            
             Paradise	note: B7_lg413	Persia	               
-            Paradise	note: B7_lg413	Paradise	               
-            Paradise	note: B7_lg413	Paradise	               
             Paradise	note: B7_lg413	Melistorte	               
             Paradise	note: B7_lg413	Yle of Pentexoire	               
                            
             Melistorte	note: B7_lg413	Persia	               
             Melistorte	note: B7_lg413	Paradise	               
             Melistorte	note: B7_lg413	Paradise	               
-            Melistorte	note: B7_lg413	Melistorte	               
             Melistorte	note: B7_lg413	Yle of Pentexoire	               
                            
             Yle of Pentexoire	note: B7_lg413	Persia	               
             Yle of Pentexoire	note: B7_lg413	Paradise	               
             Yle of Pentexoire	note: B7_lg413	Paradise	               
             Yle of Pentexoire	note: B7_lg413	Melistorte	               
-            Yle of Pentexoire	note: B7_lg413	Yle of Pentexoire	               
                            
-            Tombs	main: B8_lg463	Tombs	               
                            
-            the Sepulchre	main: B8_lg466	the Sepulchre	               
                            
-            Medina	note: B8_lg470	Medina	               
             Medina	note: B8_lg470	Namaz	               
                            
             Namaz	note: B8_lg470	Medina	               
-            Namaz	note: B8_lg470	Namaz	               
                            
-            the Meidan, or Great Place of the city of Tauris	note: B8_lg471	the Meidan, or Great Place of the city of Tauris	               
             the Meidan, or Great Place of the city of Tauris	note: B8_lg471	city of Tauris	               
             the Meidan, or Great Place of the city of Tauris	note: B8_lg471	Persia	               
             the Meidan, or Great Place of the city of Tauris	note: B8_lg471	Meidan	               
                            
             city of Tauris	note: B8_lg471	the Meidan, or Great Place of the city of Tauris	               
-            city of Tauris	note: B8_lg471	city of Tauris	               
             city of Tauris	note: B8_lg471	Persia	               
             city of Tauris	note: B8_lg471	Meidan	               
                            
             Persia	note: B8_lg471	the Meidan, or Great Place of the city of Tauris	               
             Persia	note: B8_lg471	city of Tauris	               
-            Persia	note: B8_lg471	Persia	               
             Persia	note: B8_lg471	Meidan	               
                            
             Meidan	main: B8_lg471	the Meidan, or Great Place of the city of Tauris	               
             Meidan	main: B8_lg471	city of Tauris	               
             Meidan	main: B8_lg471	Persia	               
-            Meidan	main: B8_lg471	Meidan	               
                            
-            Mylasa	note: B8_lg472	Mylasa	               
             Mylasa	note: B8_lg472	Tombs	               
                            
             Tombs	main: B8_lg472	Mylasa	               
-            Tombs	main: B8_lg472	Tombs	               
                            
-            Belgrade	note: B8_lg475	Belgrade	               
             Belgrade	note: B8_lg475	Gradisch	               
             Belgrade	note: B8_lg475	Sclavonia	               
             Belgrade	note: B8_lg475	Kisilova	               
             Belgrade	note: B8_lg475	Gradisch	               
-            Belgrade	note: B8_lg475	Belgrade	               
             Belgrade	note: B8_lg475	Gradisch	               
             Belgrade	note: B8_lg475	Hungary	               
             Belgrade	note: B8_lg475	Oppida Heidonum	               
@@ -2488,12 +2159,9 @@ Arabia	main: B1_lg4	Arabia
             Belgrade	note: B8_lg475	Delos	               
                            
             Gradisch	note: B8_lg475	Belgrade	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Sclavonia	               
             Gradisch	note: B8_lg475	Kisilova	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Belgrade	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Hungary	               
             Gradisch	note: B8_lg475	Oppida Heidonum	               
             Gradisch	note: B8_lg475	Tibiscus	               
@@ -2520,7 +2188,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Sclavonia	note: B8_lg475	Belgrade	               
             Sclavonia	note: B8_lg475	Gradisch	               
-            Sclavonia	note: B8_lg475	Sclavonia	               
             Sclavonia	note: B8_lg475	Kisilova	               
             Sclavonia	note: B8_lg475	Gradisch	               
             Sclavonia	note: B8_lg475	Belgrade	               
@@ -2552,7 +2219,6 @@ Arabia	main: B1_lg4	Arabia
             Kisilova	note: B8_lg475	Belgrade	               
             Kisilova	note: B8_lg475	Gradisch	               
             Kisilova	note: B8_lg475	Sclavonia	               
-            Kisilova	note: B8_lg475	Kisilova	               
             Kisilova	note: B8_lg475	Gradisch	               
             Kisilova	note: B8_lg475	Belgrade	               
             Kisilova	note: B8_lg475	Gradisch	               
@@ -2581,12 +2247,9 @@ Arabia	main: B1_lg4	Arabia
             Kisilova	note: B8_lg475	Delos	               
                            
             Gradisch	note: B8_lg475	Belgrade	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Sclavonia	               
             Gradisch	note: B8_lg475	Kisilova	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Belgrade	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Hungary	               
             Gradisch	note: B8_lg475	Oppida Heidonum	               
             Gradisch	note: B8_lg475	Tibiscus	               
@@ -2611,12 +2274,10 @@ Arabia	main: B1_lg4	Arabia
             Gradisch	note: B8_lg475	St. George	               
             Gradisch	note: B8_lg475	Delos	               
                            
-            Belgrade	note: B8_lg475	Belgrade	               
             Belgrade	note: B8_lg475	Gradisch	               
             Belgrade	note: B8_lg475	Sclavonia	               
             Belgrade	note: B8_lg475	Kisilova	               
             Belgrade	note: B8_lg475	Gradisch	               
-            Belgrade	note: B8_lg475	Belgrade	               
             Belgrade	note: B8_lg475	Gradisch	               
             Belgrade	note: B8_lg475	Hungary	               
             Belgrade	note: B8_lg475	Oppida Heidonum	               
@@ -2643,12 +2304,9 @@ Arabia	main: B1_lg4	Arabia
             Belgrade	note: B8_lg475	Delos	               
                            
             Gradisch	note: B8_lg475	Belgrade	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Sclavonia	               
             Gradisch	note: B8_lg475	Kisilova	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Belgrade	               
-            Gradisch	note: B8_lg475	Gradisch	               
             Gradisch	note: B8_lg475	Hungary	               
             Gradisch	note: B8_lg475	Oppida Heidonum	               
             Gradisch	note: B8_lg475	Tibiscus	               
@@ -2680,7 +2338,6 @@ Arabia	main: B1_lg4	Arabia
             Hungary	note: B8_lg475	Gradisch	               
             Hungary	note: B8_lg475	Belgrade	               
             Hungary	note: B8_lg475	Gradisch	               
-            Hungary	note: B8_lg475	Hungary	               
             Hungary	note: B8_lg475	Oppida Heidonum	               
             Hungary	note: B8_lg475	Tibiscus	               
             Hungary	note: B8_lg475	Teysse	               
@@ -2712,7 +2369,6 @@ Arabia	main: B1_lg4	Arabia
             Oppida Heidonum	note: B8_lg475	Belgrade	               
             Oppida Heidonum	note: B8_lg475	Gradisch	               
             Oppida Heidonum	note: B8_lg475	Hungary	               
-            Oppida Heidonum	note: B8_lg475	Oppida Heidonum	               
             Oppida Heidonum	note: B8_lg475	Tibiscus	               
             Oppida Heidonum	note: B8_lg475	Teysse	               
             Oppida Heidonum	note: B8_lg475	Tokay	               
@@ -2744,7 +2400,6 @@ Arabia	main: B1_lg4	Arabia
             Tibiscus	note: B8_lg475	Gradisch	               
             Tibiscus	note: B8_lg475	Hungary	               
             Tibiscus	note: B8_lg475	Oppida Heidonum	               
-            Tibiscus	note: B8_lg475	Tibiscus	               
             Tibiscus	note: B8_lg475	Teysse	               
             Tibiscus	note: B8_lg475	Tokay	               
             Tibiscus	note: B8_lg475	Transilvania	               
@@ -2776,7 +2431,6 @@ Arabia	main: B1_lg4	Arabia
             Teysse	note: B8_lg475	Hungary	               
             Teysse	note: B8_lg475	Oppida Heidonum	               
             Teysse	note: B8_lg475	Tibiscus	               
-            Teysse	note: B8_lg475	Teysse	               
             Teysse	note: B8_lg475	Tokay	               
             Teysse	note: B8_lg475	Transilvania	               
             Teysse	note: B8_lg475	Medreiga	               
@@ -2808,7 +2462,6 @@ Arabia	main: B1_lg4	Arabia
             Tokay	note: B8_lg475	Oppida Heidonum	               
             Tokay	note: B8_lg475	Tibiscus	               
             Tokay	note: B8_lg475	Teysse	               
-            Tokay	note: B8_lg475	Tokay	               
             Tokay	note: B8_lg475	Transilvania	               
             Tokay	note: B8_lg475	Medreiga	               
             Tokay	note: B8_lg475	Cossova	               
@@ -2840,7 +2493,6 @@ Arabia	main: B1_lg4	Arabia
             Transilvania	note: B8_lg475	Tibiscus	               
             Transilvania	note: B8_lg475	Teysse	               
             Transilvania	note: B8_lg475	Tokay	               
-            Transilvania	note: B8_lg475	Transilvania	               
             Transilvania	note: B8_lg475	Medreiga	               
             Transilvania	note: B8_lg475	Cossova	               
             Transilvania	note: B8_lg475	Frontiers of the Turkish Servia
@@ -2872,7 +2524,6 @@ Arabia	main: B1_lg4	Arabia
             Medreiga	note: B8_lg475	Teysse	               
             Medreiga	note: B8_lg475	Tokay	               
             Medreiga	note: B8_lg475	Transilvania	               
-            Medreiga	note: B8_lg475	Medreiga	               
             Medreiga	note: B8_lg475	Cossova	               
             Medreiga	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
@@ -2904,7 +2555,6 @@ Arabia	main: B1_lg4	Arabia
             Cossova	note: B8_lg475	Tokay	               
             Cossova	note: B8_lg475	Transilvania	               
             Cossova	note: B8_lg475	Medreiga	               
-            Cossova	note: B8_lg475	Cossova	               
             Cossova	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Cossova	note: B8_lg475	Servia	               
@@ -2952,9 +2602,6 @@ Arabia	main: B1_lg4	Arabia
             Frontiers of the Turkish Servia
                                     	note: B8_lg475	Cossova	               
             Frontiers of the Turkish Servia
-                                    	note: B8_lg475	Frontiers of the Turkish Servia
-                                    	               
-            Frontiers of the Turkish Servia
                                     	note: B8_lg475	Servia	               
             Frontiers of the Turkish Servia
                                     	note: B8_lg475	Saave	               
@@ -2998,7 +2645,6 @@ Arabia	main: B1_lg4	Arabia
             Servia	note: B8_lg475	Cossova	               
             Servia	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
-            Servia	note: B8_lg475	Servia	               
             Servia	note: B8_lg475	Saave	               
             Servia	note: B8_lg475	Vienna	               
             Servia	note: B8_lg475	Wirtemberg	               
@@ -3030,7 +2676,6 @@ Arabia	main: B1_lg4	Arabia
             Saave	note: B8_lg475	Frontiers of the Turkish Servia
                                     	               
             Saave	note: B8_lg475	Servia	               
-            Saave	note: B8_lg475	Saave	               
             Saave	note: B8_lg475	Vienna	               
             Saave	note: B8_lg475	Wirtemberg	               
             Saave	note: B8_lg475	Furstemberg	               
@@ -3062,7 +2707,6 @@ Arabia	main: B1_lg4	Arabia
                                     	               
             Vienna	note: B8_lg475	Servia	               
             Vienna	note: B8_lg475	Saave	               
-            Vienna	note: B8_lg475	Vienna	               
             Vienna	note: B8_lg475	Wirtemberg	               
             Vienna	note: B8_lg475	Furstemberg	               
             Vienna	note: B8_lg475	Greece	               
@@ -3094,7 +2738,6 @@ Arabia	main: B1_lg4	Arabia
             Wirtemberg	note: B8_lg475	Servia	               
             Wirtemberg	note: B8_lg475	Saave	               
             Wirtemberg	note: B8_lg475	Vienna	               
-            Wirtemberg	note: B8_lg475	Wirtemberg	               
             Wirtemberg	note: B8_lg475	Furstemberg	               
             Wirtemberg	note: B8_lg475	Greece	               
             Wirtemberg	note: B8_lg475	Mycone	               
@@ -3126,7 +2769,6 @@ Arabia	main: B1_lg4	Arabia
             Furstemberg	note: B8_lg475	Saave	               
             Furstemberg	note: B8_lg475	Vienna	               
             Furstemberg	note: B8_lg475	Wirtemberg	               
-            Furstemberg	note: B8_lg475	Furstemberg	               
             Furstemberg	note: B8_lg475	Greece	               
             Furstemberg	note: B8_lg475	Mycone	               
             Furstemberg	note: B8_lg475	Christendom	               
@@ -3158,7 +2800,6 @@ Arabia	main: B1_lg4	Arabia
             Greece	note: B8_lg475	Vienna	               
             Greece	note: B8_lg475	Wirtemberg	               
             Greece	note: B8_lg475	Furstemberg	               
-            Greece	note: B8_lg475	Greece	               
             Greece	note: B8_lg475	Mycone	               
             Greece	note: B8_lg475	Christendom	               
             Greece	note: B8_lg475	Mycone	               
@@ -3190,9 +2831,7 @@ Arabia	main: B1_lg4	Arabia
             Mycone	note: B8_lg475	Wirtemberg	               
             Mycone	note: B8_lg475	Furstemberg	               
             Mycone	note: B8_lg475	Greece	               
-            Mycone	note: B8_lg475	Mycone	               
             Mycone	note: B8_lg475	Christendom	               
-            Mycone	note: B8_lg475	Mycone	               
             Mycone	note: B8_lg475	Syre	               
             Mycone	note: B8_lg475	Tinos	               
             Mycone	note: B8_lg475	St. George	               
@@ -3222,7 +2861,6 @@ Arabia	main: B1_lg4	Arabia
             Christendom	note: B8_lg475	Furstemberg	               
             Christendom	note: B8_lg475	Greece	               
             Christendom	note: B8_lg475	Mycone	               
-            Christendom	note: B8_lg475	Christendom	               
             Christendom	note: B8_lg475	Mycone	               
             Christendom	note: B8_lg475	Syre	               
             Christendom	note: B8_lg475	Tinos	               
@@ -3252,9 +2890,7 @@ Arabia	main: B1_lg4	Arabia
             Mycone	note: B8_lg475	Wirtemberg	               
             Mycone	note: B8_lg475	Furstemberg	               
             Mycone	note: B8_lg475	Greece	               
-            Mycone	note: B8_lg475	Mycone	               
             Mycone	note: B8_lg475	Christendom	               
-            Mycone	note: B8_lg475	Mycone	               
             Mycone	note: B8_lg475	Syre	               
             Mycone	note: B8_lg475	Tinos	               
             Mycone	note: B8_lg475	St. George	               
@@ -3286,7 +2922,6 @@ Arabia	main: B1_lg4	Arabia
             Syre	note: B8_lg475	Mycone	               
             Syre	note: B8_lg475	Christendom	               
             Syre	note: B8_lg475	Mycone	               
-            Syre	note: B8_lg475	Syre	               
             Syre	note: B8_lg475	Tinos	               
             Syre	note: B8_lg475	St. George	               
             Syre	note: B8_lg475	Delos	               
@@ -3318,7 +2953,6 @@ Arabia	main: B1_lg4	Arabia
             Tinos	note: B8_lg475	Christendom	               
             Tinos	note: B8_lg475	Mycone	               
             Tinos	note: B8_lg475	Syre	               
-            Tinos	note: B8_lg475	Tinos	               
             Tinos	note: B8_lg475	St. George	               
             Tinos	note: B8_lg475	Delos	               
                            
@@ -3350,7 +2984,6 @@ Arabia	main: B1_lg4	Arabia
             St. George	note: B8_lg475	Mycone	               
             St. George	note: B8_lg475	Syre	               
             St. George	note: B8_lg475	Tinos	               
-            St. George	note: B8_lg475	St. George	               
             St. George	note: B8_lg475	Delos	               
                            
             Delos	note: B8_lg475	Belgrade	               
@@ -3382,124 +3015,90 @@ Arabia	main: B1_lg4	Arabia
             Delos	note: B8_lg475	Syre	               
             Delos	note: B8_lg475	Tinos	               
             Delos	note: B8_lg475	St. George	               
-            Delos	note: B8_lg475	Delos	               
                            
-            Araby	main: B8_lg476	Araby	               
                            
-            Tombs	main: B8_lg477	Tombs	               
                            
-            Kaf	main: B8_lg480	Kaf	               
             Kaf	main: B8_lg480	the_world	               
                            
             the_world	main: B8_lg480	Kaf	               
-            the_world	main: B8_lg480	the_world	               
                            
-            Kaf	main: B8_lg481	Kaf	               
                            
-            Arabia	main: B8_lg482	Arabia	               
                            
-            Earth	main: B9_lg517	Earth	               
             Earth	main: B9_lg517	Babylon	               
                            
             Babylon	main: B9_lg517	Earth	               
-            Babylon	main: B9_lg517	Babylon	               
                            
-            Earth	main: B9_lg518	Earth	               
             Earth	main: B9_lg518	the World	               
                            
             the World	main: B9_lg518	Earth	               
-            the World	main: B9_lg518	the World	               
                            
-            Aleppo	note: B9_lg522	Aleppo	               
             Aleppo	note: B9_lg522	England	               
             Aleppo	note: B9_lg522	Norway	               
                            
             England	note: B9_lg522	Aleppo	               
-            England	note: B9_lg522	England	               
             England	note: B9_lg522	Norway	               
                            
             Norway	note: B9_lg522	Aleppo	               
             Norway	note: B9_lg522	England	               
-            Norway	note: B9_lg522	Norway	               
                            
-            Persia	note: B9_lg523	Persia	               
             Persia	note: B9_lg523	Tartary	               
             Persia	note: B9_lg523	Muscovy	               
             Persia	note: B9_lg523	India	               
             Persia	note: B9_lg523	Ispahan	               
                            
             Tartary	note: B9_lg523	Persia	               
-            Tartary	note: B9_lg523	Tartary	               
             Tartary	note: B9_lg523	Muscovy	               
             Tartary	note: B9_lg523	India	               
             Tartary	note: B9_lg523	Ispahan	               
                            
             Muscovy	note: B9_lg523	Persia	               
             Muscovy	note: B9_lg523	Tartary	               
-            Muscovy	note: B9_lg523	Muscovy	               
             Muscovy	note: B9_lg523	India	               
             Muscovy	note: B9_lg523	Ispahan	               
                            
             India	note: B9_lg523	Persia	               
             India	note: B9_lg523	Tartary	               
             India	note: B9_lg523	Muscovy	               
-            India	note: B9_lg523	India	               
             India	note: B9_lg523	Ispahan	               
                            
             Ispahan	note: B9_lg523	Persia	               
             Ispahan	note: B9_lg523	Tartary	               
             Ispahan	note: B9_lg523	Muscovy	               
             Ispahan	note: B9_lg523	India	               
-            Ispahan	note: B9_lg523	Ispahan	               
                            
-            Egypt	note: B9_lg525	Egypt	               
                            
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	Xantung	               
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	Europe	               
             Huquam	note: B9_lg527	Xantung	               
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	China	               
                            
             Xantung	note: B9_lg527	Huquam	               
-            Xantung	note: B9_lg527	Xantung	               
             Xantung	note: B9_lg527	Huquam	               
             Xantung	note: B9_lg527	Europe	               
-            Xantung	note: B9_lg527	Xantung	               
             Xantung	note: B9_lg527	Huquam	               
             Xantung	note: B9_lg527	China	               
                            
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	Xantung	               
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	Europe	               
             Huquam	note: B9_lg527	Xantung	               
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	China	               
                            
             Europe	note: B9_lg527	Huquam	               
             Europe	note: B9_lg527	Xantung	               
             Europe	note: B9_lg527	Huquam	               
-            Europe	note: B9_lg527	Europe	               
             Europe	note: B9_lg527	Xantung	               
             Europe	note: B9_lg527	Huquam	               
             Europe	note: B9_lg527	China	               
                            
             Xantung	note: B9_lg527	Huquam	               
-            Xantung	note: B9_lg527	Xantung	               
             Xantung	note: B9_lg527	Huquam	               
             Xantung	note: B9_lg527	Europe	               
-            Xantung	note: B9_lg527	Xantung	               
             Xantung	note: B9_lg527	Huquam	               
             Xantung	note: B9_lg527	China	               
                            
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	Xantung	               
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	Europe	               
             Huquam	note: B9_lg527	Xantung	               
-            Huquam	note: B9_lg527	Huquam	               
             Huquam	note: B9_lg527	China	               
                            
             China	note: B9_lg527	Huquam	               
@@ -3508,29 +3107,23 @@ Arabia	main: B1_lg4	Arabia
             China	note: B9_lg527	Europe	               
             China	note: B9_lg527	Xantung	               
             China	note: B9_lg527	Huquam	               
-            China	note: B9_lg527	China	               
                            
-            Dunne	note: B9_lg528	Dunne	               
             Dunne	note: B9_lg528	Ulster	               
             Dunne	note: B9_lg528	Couffah	               
             Dunne	note: B9_lg528	Molucca Islands	               
                            
             Ulster	note: B9_lg528	Dunne	               
-            Ulster	note: B9_lg528	Ulster	               
             Ulster	note: B9_lg528	Couffah	               
             Ulster	note: B9_lg528	Molucca Islands	               
                            
             Couffah	note: B9_lg528	Dunne	               
             Couffah	note: B9_lg528	Ulster	               
-            Couffah	note: B9_lg528	Couffah	               
             Couffah	note: B9_lg528	Molucca Islands	               
                            
             Molucca Islands	note: B9_lg528	Dunne	               
             Molucca Islands	note: B9_lg528	Ulster	               
             Molucca Islands	note: B9_lg528	Couffah	               
-            Molucca Islands	note: B9_lg528	Molucca Islands	               
                            
-            Mount_Ararat	main: B9_lg534	Mount_Ararat	               
             Mount_Ararat	main: B9_lg534	Mount_Ararat	               
             Mount_Ararat	main: B9_lg534	Lubar	               
             Mount_Ararat	main: B9_lg534	Abbey of St. Gregorie's Monks	               
@@ -3539,7 +3132,6 @@ Arabia	main: B1_lg4	Arabia
             Mount_Ararat	main: B9_lg534	Psylli	               
             Mount_Ararat	main: B9_lg534	England	               
                            
-            Mount_Ararat	note: B9_lg534	Mount_Ararat	               
             Mount_Ararat	note: B9_lg534	Mount_Ararat	               
             Mount_Ararat	note: B9_lg534	Lubar	               
             Mount_Ararat	note: B9_lg534	Abbey of St. Gregorie's Monks	               
@@ -3550,7 +3142,6 @@ Arabia	main: B1_lg4	Arabia
                            
             Lubar	note: B9_lg534	Mount_Ararat	               
             Lubar	note: B9_lg534	Mount_Ararat	               
-            Lubar	note: B9_lg534	Lubar	               
             Lubar	note: B9_lg534	Abbey of St. Gregorie's Monks	               
             Lubar	note: B9_lg534	Arabia	               
             Lubar	note: B9_lg534	Helicon	               
@@ -3560,7 +3151,6 @@ Arabia	main: B1_lg4	Arabia
             Abbey of St. Gregorie's Monks	note: B9_lg534	Mount_Ararat	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Mount_Ararat	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Lubar	               
-            Abbey of St. Gregorie's Monks	note: B9_lg534	Abbey of St. Gregorie's Monks	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Arabia	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Helicon	               
             Abbey of St. Gregorie's Monks	note: B9_lg534	Psylli	               
@@ -3570,7 +3160,6 @@ Arabia	main: B1_lg4	Arabia
             Arabia	note: B9_lg534	Mount_Ararat	               
             Arabia	note: B9_lg534	Lubar	               
             Arabia	note: B9_lg534	Abbey of St. Gregorie's Monks	               
-            Arabia	note: B9_lg534	Arabia	               
             Arabia	note: B9_lg534	Helicon	               
             Arabia	note: B9_lg534	Psylli	               
             Arabia	note: B9_lg534	England	               
@@ -3580,7 +3169,6 @@ Arabia	main: B1_lg4	Arabia
             Helicon	note: B9_lg534	Lubar	               
             Helicon	note: B9_lg534	Abbey of St. Gregorie's Monks	               
             Helicon	note: B9_lg534	Arabia	               
-            Helicon	note: B9_lg534	Helicon	               
             Helicon	note: B9_lg534	Psylli	               
             Helicon	note: B9_lg534	England	               
                            
@@ -3590,7 +3178,6 @@ Arabia	main: B1_lg4	Arabia
             Psylli	note: B9_lg534	Abbey of St. Gregorie's Monks	               
             Psylli	note: B9_lg534	Arabia	               
             Psylli	note: B9_lg534	Helicon	               
-            Psylli	note: B9_lg534	Psylli	               
             Psylli	note: B9_lg534	England	               
                            
             England	note: B9_lg534	Mount_Ararat	               
@@ -3600,27 +3187,34 @@ Arabia	main: B1_lg4	Arabia
             England	note: B9_lg534	Arabia	               
             England	note: B9_lg534	Helicon	               
             England	note: B9_lg534	Psylli	               
-            England	note: B9_lg534	England	               
                            
-            Earth	main: B9_lg535	Earth	               
                            
-            Ardevil	note: B9_lg536	Ardevil	               
             Ardevil	note: B9_lg536	city of Kom	               
                            
             city of Kom	note: B9_lg536	Ardevil	               
-            city of Kom	note: B9_lg536	city of Kom	               
                            
-            Earth	main: B9_lg542	Earth	               
             Earth	main: B9_lg542	Ocean	               
                            
             Ocean	main: B9_lg542	Earth	               
-            Ocean	main: B9_lg542	Ocean	               
                            
-            Mohareb_City	main: B9_lg548	Mohareb_City	               
                            
-            Persia	note: B9_lg551	Persia	               
                            
-            Ragusa	note: B9_lg553	Ragusa	               
+            Mohareb_City	main: B9_lg553	Ragusa	               
+            Mohareb_City	main: B9_lg553	Constantinople	               
+            Mohareb_City	main: B9_lg553	Constantinople	               
+            Mohareb_City	main: B9_lg553	Christendom	               
+            Mohareb_City	main: B9_lg553	Islands of Barlovento	               
+            Mohareb_City	main: B9_lg553	Brazil	               
+            Mohareb_City	main: B9_lg553	Santa Marta	               
+            Mohareb_City	main: B9_lg553	Peru	               
+            Mohareb_City	main: B9_lg553	Arabia	               
+            Mohareb_City	main: B9_lg553	Brazil	               
+            Mohareb_City	main: B9_lg553	Java	               
+            Mohareb_City	main: B9_lg553	East Indies	               
+            Mohareb_City	main: B9_lg553	Java	               
+            Mohareb_City	main: B9_lg553	the world	               
+                           
+            Ragusa	note: B9_lg553	Mohareb_City	               
             Ragusa	note: B9_lg553	Constantinople	               
             Ragusa	note: B9_lg553	Constantinople	               
             Ragusa	note: B9_lg553	Christendom	               
@@ -3628,96 +3222,102 @@ Arabia	main: B1_lg4	Arabia
             Ragusa	note: B9_lg553	Brazil	               
             Ragusa	note: B9_lg553	Santa Marta	               
             Ragusa	note: B9_lg553	Peru	               
+            Ragusa	note: B9_lg553	Arabia	               
             Ragusa	note: B9_lg553	Brazil	               
             Ragusa	note: B9_lg553	Java	               
             Ragusa	note: B9_lg553	East Indies	               
             Ragusa	note: B9_lg553	Java	               
             Ragusa	note: B9_lg553	the world	               
                            
+            Constantinople	note: B9_lg553	Mohareb_City	               
             Constantinople	note: B9_lg553	Ragusa	               
-            Constantinople	note: B9_lg553	Constantinople	               
-            Constantinople	note: B9_lg553	Constantinople	               
             Constantinople	note: B9_lg553	Christendom	               
             Constantinople	note: B9_lg553	Islands of Barlovento	               
             Constantinople	note: B9_lg553	Brazil	               
             Constantinople	note: B9_lg553	Santa Marta	               
             Constantinople	note: B9_lg553	Peru	               
+            Constantinople	note: B9_lg553	Arabia	               
             Constantinople	note: B9_lg553	Brazil	               
             Constantinople	note: B9_lg553	Java	               
             Constantinople	note: B9_lg553	East Indies	               
             Constantinople	note: B9_lg553	Java	               
             Constantinople	note: B9_lg553	the world	               
                            
+            Constantinople	note: B9_lg553	Mohareb_City	               
             Constantinople	note: B9_lg553	Ragusa	               
-            Constantinople	note: B9_lg553	Constantinople	               
-            Constantinople	note: B9_lg553	Constantinople	               
             Constantinople	note: B9_lg553	Christendom	               
             Constantinople	note: B9_lg553	Islands of Barlovento	               
             Constantinople	note: B9_lg553	Brazil	               
             Constantinople	note: B9_lg553	Santa Marta	               
             Constantinople	note: B9_lg553	Peru	               
+            Constantinople	note: B9_lg553	Arabia	               
             Constantinople	note: B9_lg553	Brazil	               
             Constantinople	note: B9_lg553	Java	               
             Constantinople	note: B9_lg553	East Indies	               
             Constantinople	note: B9_lg553	Java	               
             Constantinople	note: B9_lg553	the world	               
                            
+            Christendom	note: B9_lg553	Mohareb_City	               
             Christendom	note: B9_lg553	Ragusa	               
             Christendom	note: B9_lg553	Constantinople	               
             Christendom	note: B9_lg553	Constantinople	               
-            Christendom	note: B9_lg553	Christendom	               
             Christendom	note: B9_lg553	Islands of Barlovento	               
             Christendom	note: B9_lg553	Brazil	               
             Christendom	note: B9_lg553	Santa Marta	               
             Christendom	note: B9_lg553	Peru	               
+            Christendom	note: B9_lg553	Arabia	               
             Christendom	note: B9_lg553	Brazil	               
             Christendom	note: B9_lg553	Java	               
             Christendom	note: B9_lg553	East Indies	               
             Christendom	note: B9_lg553	Java	               
             Christendom	note: B9_lg553	the world	               
                            
+            Islands of Barlovento	note: B9_lg553	Mohareb_City	               
             Islands of Barlovento	note: B9_lg553	Ragusa	               
             Islands of Barlovento	note: B9_lg553	Constantinople	               
             Islands of Barlovento	note: B9_lg553	Constantinople	               
             Islands of Barlovento	note: B9_lg553	Christendom	               
-            Islands of Barlovento	note: B9_lg553	Islands of Barlovento	               
             Islands of Barlovento	note: B9_lg553	Brazil	               
             Islands of Barlovento	note: B9_lg553	Santa Marta	               
             Islands of Barlovento	note: B9_lg553	Peru	               
+            Islands of Barlovento	note: B9_lg553	Arabia	               
             Islands of Barlovento	note: B9_lg553	Brazil	               
             Islands of Barlovento	note: B9_lg553	Java	               
             Islands of Barlovento	note: B9_lg553	East Indies	               
             Islands of Barlovento	note: B9_lg553	Java	               
             Islands of Barlovento	note: B9_lg553	the world	               
                            
+            Brazil	note: B9_lg553	Mohareb_City	               
             Brazil	note: B9_lg553	Ragusa	               
             Brazil	note: B9_lg553	Constantinople	               
             Brazil	note: B9_lg553	Constantinople	               
             Brazil	note: B9_lg553	Christendom	               
             Brazil	note: B9_lg553	Islands of Barlovento	               
-            Brazil	note: B9_lg553	Brazil	               
             Brazil	note: B9_lg553	Santa Marta	               
             Brazil	note: B9_lg553	Peru	               
+            Brazil	note: B9_lg553	Arabia	               
             Brazil	note: B9_lg553	Brazil	               
             Brazil	note: B9_lg553	Java	               
             Brazil	note: B9_lg553	East Indies	               
             Brazil	note: B9_lg553	Java	               
             Brazil	note: B9_lg553	the world	               
                            
+            Santa Marta	note: B9_lg553	Mohareb_City	               
             Santa Marta	note: B9_lg553	Ragusa	               
             Santa Marta	note: B9_lg553	Constantinople	               
             Santa Marta	note: B9_lg553	Constantinople	               
             Santa Marta	note: B9_lg553	Christendom	               
             Santa Marta	note: B9_lg553	Islands of Barlovento	               
             Santa Marta	note: B9_lg553	Brazil	               
-            Santa Marta	note: B9_lg553	Santa Marta	               
             Santa Marta	note: B9_lg553	Peru	               
+            Santa Marta	note: B9_lg553	Arabia	               
             Santa Marta	note: B9_lg553	Brazil	               
             Santa Marta	note: B9_lg553	Java	               
             Santa Marta	note: B9_lg553	East Indies	               
             Santa Marta	note: B9_lg553	Java	               
             Santa Marta	note: B9_lg553	the world	               
                            
+            Peru	note: B9_lg553	Mohareb_City	               
             Peru	note: B9_lg553	Ragusa	               
             Peru	note: B9_lg553	Constantinople	               
             Peru	note: B9_lg553	Constantinople	               
@@ -3725,13 +3325,29 @@ Arabia	main: B1_lg4	Arabia
             Peru	note: B9_lg553	Islands of Barlovento	               
             Peru	note: B9_lg553	Brazil	               
             Peru	note: B9_lg553	Santa Marta	               
-            Peru	note: B9_lg553	Peru	               
+            Peru	note: B9_lg553	Arabia	               
             Peru	note: B9_lg553	Brazil	               
             Peru	note: B9_lg553	Java	               
             Peru	note: B9_lg553	East Indies	               
             Peru	note: B9_lg553	Java	               
             Peru	note: B9_lg553	the world	               
                            
+            Arabia	note: B9_lg553	Mohareb_City	               
+            Arabia	note: B9_lg553	Ragusa	               
+            Arabia	note: B9_lg553	Constantinople	               
+            Arabia	note: B9_lg553	Constantinople	               
+            Arabia	note: B9_lg553	Christendom	               
+            Arabia	note: B9_lg553	Islands of Barlovento	               
+            Arabia	note: B9_lg553	Brazil	               
+            Arabia	note: B9_lg553	Santa Marta	               
+            Arabia	note: B9_lg553	Peru	               
+            Arabia	note: B9_lg553	Brazil	               
+            Arabia	note: B9_lg553	Java	               
+            Arabia	note: B9_lg553	East Indies	               
+            Arabia	note: B9_lg553	Java	               
+            Arabia	note: B9_lg553	the world	               
+                           
+            Brazil	note: B9_lg553	Mohareb_City	               
             Brazil	note: B9_lg553	Ragusa	               
             Brazil	note: B9_lg553	Constantinople	               
             Brazil	note: B9_lg553	Constantinople	               
@@ -3740,12 +3356,13 @@ Arabia	main: B1_lg4	Arabia
             Brazil	note: B9_lg553	Brazil	               
             Brazil	note: B9_lg553	Santa Marta	               
             Brazil	note: B9_lg553	Peru	               
-            Brazil	note: B9_lg553	Brazil	               
+            Brazil	note: B9_lg553	Arabia	               
             Brazil	note: B9_lg553	Java	               
             Brazil	note: B9_lg553	East Indies	               
             Brazil	note: B9_lg553	Java	               
             Brazil	note: B9_lg553	the world	               
                            
+            Java	note: B9_lg553	Mohareb_City	               
             Java	note: B9_lg553	Ragusa	               
             Java	note: B9_lg553	Constantinople	               
             Java	note: B9_lg553	Constantinople	               
@@ -3754,12 +3371,13 @@ Arabia	main: B1_lg4	Arabia
             Java	note: B9_lg553	Brazil	               
             Java	note: B9_lg553	Santa Marta	               
             Java	note: B9_lg553	Peru	               
+            Java	note: B9_lg553	Arabia	               
             Java	note: B9_lg553	Brazil	               
-            Java	note: B9_lg553	Java	               
             Java	note: B9_lg553	East Indies	               
             Java	note: B9_lg553	Java	               
             Java	note: B9_lg553	the world	               
                            
+            East Indies	note: B9_lg553	Mohareb_City	               
             East Indies	note: B9_lg553	Ragusa	               
             East Indies	note: B9_lg553	Constantinople	               
             East Indies	note: B9_lg553	Constantinople	               
@@ -3768,12 +3386,13 @@ Arabia	main: B1_lg4	Arabia
             East Indies	note: B9_lg553	Brazil	               
             East Indies	note: B9_lg553	Santa Marta	               
             East Indies	note: B9_lg553	Peru	               
+            East Indies	note: B9_lg553	Arabia	               
             East Indies	note: B9_lg553	Brazil	               
             East Indies	note: B9_lg553	Java	               
-            East Indies	note: B9_lg553	East Indies	               
             East Indies	note: B9_lg553	Java	               
             East Indies	note: B9_lg553	the world	               
                            
+            Java	note: B9_lg553	Mohareb_City	               
             Java	note: B9_lg553	Ragusa	               
             Java	note: B9_lg553	Constantinople	               
             Java	note: B9_lg553	Constantinople	               
@@ -3782,12 +3401,13 @@ Arabia	main: B1_lg4	Arabia
             Java	note: B9_lg553	Brazil	               
             Java	note: B9_lg553	Santa Marta	               
             Java	note: B9_lg553	Peru	               
+            Java	note: B9_lg553	Arabia	               
             Java	note: B9_lg553	Brazil	               
             Java	note: B9_lg553	Java	               
             Java	note: B9_lg553	East Indies	               
-            Java	note: B9_lg553	Java	               
             Java	note: B9_lg553	the world	               
                            
+            the world	note: B9_lg553	Mohareb_City	               
             the world	note: B9_lg553	Ragusa	               
             the world	note: B9_lg553	Constantinople	               
             the world	note: B9_lg553	Constantinople	               
@@ -3796,12 +3416,11 @@ Arabia	main: B1_lg4	Arabia
             the world	note: B9_lg553	Brazil	               
             the world	note: B9_lg553	Santa Marta	               
             the world	note: B9_lg553	Peru	               
+            the world	note: B9_lg553	Arabia	               
             the world	note: B9_lg553	Brazil	               
             the world	note: B9_lg553	Java	               
             the world	note: B9_lg553	East Indies	               
             the world	note: B9_lg553	Java	               
-            the world	note: B9_lg553	the world	               
                            
-            Ocean-Vault	main: B12_lg738	Ocean-Vault	               
                            
             
