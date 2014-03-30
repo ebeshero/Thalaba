@@ -28,8 +28,8 @@
             <xsl:for-each select="$place">
                 <xsl:variable name="Node1Edge">
                 <xsl:choose>
-                    <xsl:when test="./@ref">
-                        <xsl:apply-templates select="./@ref"/>
+                    <xsl:when test="@ref">
+                        <xsl:apply-templates select="@ref"/>
                         <xsl:text>&#x9;</xsl:text> <!--This should be a tab character-->
                     </xsl:when>
                     <xsl:otherwise>
@@ -37,26 +37,26 @@
                     </xsl:otherwise>
                 </xsl:choose>          
                 
-                <xsl:choose><xsl:when test="./ancestor::note">
+                <xsl:choose><xsl:when test="ancestor::note">
                     <xsl:text>note: </xsl:text>
                 </xsl:when>
                     <xsl:otherwise>
                         <xsl:text>main: </xsl:text>
                     </xsl:otherwise></xsl:choose>
-                <xsl:apply-templates select="./ancestor::lg/@xml:id"/>
+                <xsl:apply-templates select="ancestor::lg/@xml:id"/>
                 <xsl:text>&#x9;</xsl:text>
                 </xsl:variable> 
                 
-                <xsl:for-each select="./ancestor::lg//placeName">
+                <xsl:for-each select="ancestor::lg//placeName">
                     <xsl:value-of select="$Node1Edge"/>
                     
                     <xsl:choose>
-                        <xsl:when test="./@ref">
-                            <xsl:value-of select="./@ref[not(current())]"/><!--ebb: here’s where I’m generating duplicates to the original node. -->
+                        <xsl:when test="@ref">
+                            <xsl:value-of select="@ref"/><!--ebb: here’s where I’m generating duplicates to the original node. -->
                             <xsl:text>&#x9;</xsl:text> <!--This should be a tab character-->
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:value-of select='.[not(current())]'/><!--ebb: And here, of course, too, I’m generating duplicates to the original node. --><xsl:text>&#x9;</xsl:text>
+                            <xsl:value-of select='.'/><!--ebb: And here, of course, too, I’m generating duplicates to the original node. --><xsl:text>&#x9;</xsl:text>
                         </xsl:otherwise>
                     </xsl:choose>    
                     <xsl:text>               

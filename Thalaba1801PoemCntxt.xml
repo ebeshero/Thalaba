@@ -12666,7 +12666,7 @@
                                        <p part="N"> A <persName>Physician of <placeName>Ragusa</placeName>
                                           </persName> was deputed by <rs type="place" ref="Ragusa">that little Republic</rs>
                                  to negotiate with the <persName>Emperor of the Turks</persName>. Before he embarked on
-                                 this voyage he took into his service <persName>a boy of a red complection</persName>,
+                                 this voyage he took into his service <persName ref="redhead_boy">a boy of a red complection</persName>,
                                  the only son of <rs type="person" ref="Ragusan_Mother">a widow, a poor woman, but a woman of honour and
                                  virtuous</rs>. This Envoy on his arrival at <placeName>Constantinople</placeName> immediately
                                  addressed himself to <persName ref="Turk_Physician">the first Physician of his imperial highness</persName>,
@@ -12682,7 +12682,7 @@
                                 <persName ref="Turk_Physician">the Byzantian</persName>, and received from him a purse of a thousand sequins.
                                  After some days <persName ref="Ragusan_Physician">the Italian</persName> went to take leave of <persName ref="Turk_Physician">the Mohammedan
                                  Physician</persName>, and to thank him for his favours; and he requested
-                                 earnestly to see <persName>the red-headed boy</persName> before his departure. The Turk
+                                 earnestly to see <persName ref="redhead_boy">the red-headed boy</persName> before his departure. The Turk
                                  was obliged to own he had made poison of him, and led him into a
                                  chamber where the naked body of the boy was still suspended by the
                                  feet. The first master of the red-headed boy was greatly surprized
@@ -12746,7 +12746,7 @@
                                        <q>
                                           <lg xml:lang="es">
                                              <l rend="i0" part="N">Hasta los hombros pende su cabello</l>
-                                             <l rend="i0" part="N">Mas que el oro de Arabia roxo y bello.</l>
+                                             <l rend="i0" part="N">Mas que el oro de <placeName>Arabia</placeName> roxo y bello.</l>
                                           </lg>
                                           <lg xml:lang="es">
                                              <l rend="i0" part="N">Cada año qual renuevo lo cortava</l>
