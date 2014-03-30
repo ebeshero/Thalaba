@@ -11,7 +11,7 @@
 
 
             <sponsor>
-               <orgName>Integrated Digital Studies</orgName>
+               <orgName>Integrated Digital Humanities</orgName>
             </sponsor>
             <sponsor>University of Pittsburgh at Greensburg</sponsor>
             <principal>Elisa Beshero-Bondar</principal>
@@ -32,7 +32,7 @@
 
 
          <publicationStmt>
-            <authority>Integrated Digital Studies at the University of Pittsburgh at
+            <authority>Integrated Digital Humanities at the University of Pittsburgh at
                Greensburg</authority>
             <pubPlace>Greensburg, PA, USA</pubPlace>
             <date instant="false">2013</date>
@@ -12082,11 +12082,11 @@
                      <l rend="i4" n="4700">"Whence <rs type="person" ref="Khawla">Sister</rs> was the wax</l>
                      <l rend="i2" n="4701">"The work of the worm, or the bee?</l>
                      <l rend="i4" n="4702">"Nay then I marvel not!</l>
-                     <l rend="i0" n="4703">"It were as wise to bring from <placeName>Ararat</placeName>
+                     <l rend="i0" n="4703">"It were as wise to bring from <placeName ref="Mount_Ararat">Ararat</placeName>
                      </l>
                      <l rend="i0" n="4704">"The fore-world's<ref target="#N_153">
                            <note type="author" anchored="true" xml:id="N_153">
-                              <p part="N"> On <placeName>mount Ararat</placeName>, which is called <hi rend="italic">
+                              <p part="N"> On <placeName ref="Mount_Ararat">mount Ararat</placeName>, which is called <hi rend="italic">
                                     <placeName>Lubar</placeName>
                                  </hi>, or the descending place, is an <rs type="building" subtype="temple">
                                     <placeName>Abbey of <orgName>St. Gregorie's Monks</orgName>
@@ -12774,7 +12774,7 @@
                                        <p part="N"> The Cameleon, or Indian Salamander, otherwise called
                                  Gekko. </p>
                                        <p part="N"> This creature, which is not only found in <placeName ref="Brazil">Brasil</placeName>, but
-                                 also in the <placeName>Isle of Java</placeName>, belonging to the <placeName>East Indies</placeName>, and which
+                                 also in the <placeName ref="Java">Isle of Java</placeName>, belonging to the <placeName>East Indies</placeName>, and which
                                  by our people is called Gekko, from its constant cry, (like among
                                  us that of the Cuckoe) is properly an Indian Salamander. It is
                                  about a foot long, its skin of of a pale or sea green colour, with
