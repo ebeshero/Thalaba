@@ -4525,7 +4525,7 @@
                                  tail dyed red." </p>
                               <p part="N">
                                  <hi rend="italic">Alfenado</hi>, a word derived from alfena the
-                                 Portugueze or Moorish name of this plant, is still used in Portugal
+                                 Portugueze or Moorish name of this plant, is still used in <placeName>Portugal</placeName>
                                  as a phrase of contempt for a fop.</p>
                            </note>
                         </ref> tinged,</l>
@@ -7403,10 +7403,10 @@
                      <l rend="i4" n="2745">"The salutary<ref target="#N_104">
                            <note type="author" anchored="true" xml:id="N_104">
                               <p part="N"> "I shall transcribe a foreign piece of Superstition,
-                                 firmly believed in many parts of France, Germany and Spain. The
+                                 firmly believed in many parts of <placeName>France</placeName>, <placeName>Germany</placeName> and <placeName>Spain</placeName>. The
                                  account of it, and the mode of preparation, appears to have been
                                  given by a judge: in the latter there is a striking resemblance to
-                                 the charm in Macbeth. </p>
+                                 the charm in <bibl><title>Macbeth</title></bibl>. </p>
                               <p part="N">
                                  <hi rend="italic">Of the Hand of Glory, which is made use of by
                                     housebreakers, to enter into houses at night, without fear of
@@ -7604,7 +7604,7 @@
                                  universal, that they suspend them upon the necks of their cattle,
                                  horses and other beasts of burthen. <bibl default="false" status="draft">Shaw.</bibl>
                               </p>
-                              <p part="N"> The hand-spell is still common in Portugal, it is called
+                              <p part="N"> The hand-spell is still common in <placeName>Portugal</placeName>, it is called
                                  the <hi rend="italic">figa</hi>, and thus probably our vulgar
                                  phrase "<hi rend="italic">a fig for him</hi>" is derived from a
                                  Moorish amulet.</p>
@@ -11634,7 +11634,7 @@
                         <l rend="i0" n="4550">And now the death-sweat<ref target="#N_147">
                               <note type="author" anchored="true" xml:id="N_147">
                                  <p part="N"> 
-                                    <rs type="place" ref="Spain Portugal">I saw this appearance of death at a bull-fight—the
+                                    <rs type="place" ref="Portugal">I saw this appearance of death at a bull-fight—the
                                  detestable amusement of the <orgName>Spaniards</orgName> and <orgName>Portugueze</orgName>. To the honour
                                  of <rs type="place" ref="England">our country</rs>, few <orgName>Englishmen</orgName> visit these spectacles a second
                                  time.</rs>
@@ -12258,7 +12258,7 @@
                                  carried. <bibl default="false" status="draft">Chardin.</bibl>
                                  </p>
                                  <p part="N"> 
-                                    <rs type="place" ref="Spain Portugal">They imagine the dead are capable of pain, <persName>a Portugueze
+                                    <rs type="place" ref="Portugal">They imagine the dead are capable of pain, <persName>a Portugueze
                                  gentleman</persName> had one day ignorantly strayed among the tombs, and <persName>a
                                  Moor</persName>, after much wrangling obliged him to go before <persName>the Cadi</persName>. The
                                  gentleman complained of violence and asserted he had committed no
@@ -12654,7 +12654,7 @@
                            <l rend="i0" n="4921">The hymn of glory to their <name type="divin">Devil-God</name>.</l>
                         </lg>
                         <lg xml:id="B9_lg553">
-                           <l rend="i0" n="4922">Then <persName>Maimuna</persName> grew pale, as thro the bars</l>
+                           <l rend="i0" n="4922">Then <persName>Maimuna</persName> grew pale, as <placeName ref="Mohareb_City">thro the bars</placeName></l>
                            <l rend="i0" n="4923">She saw <persName ref="Christ_Martyr">the Martyr</persName> pendant by the feet,</l>
                            <l rend="i0" n="4924">His gold locks hanging downwards, and she cried,</l>
                            <l rend="i4" n="4925">"This is <rs type="person" ref="Khawla">my Sister</rs>'s deed!</l>
