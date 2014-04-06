@@ -26,11 +26,11 @@
                 <xsl:variable name="Node1Edge">
                 <xsl:choose>
                     <xsl:when test="@ref">
-                        <xsl:apply-templates select="@ref"/>
+                        <xsl:value-of select="normalize-space(@ref)"/>
                         <xsl:text>&#x9;</xsl:text> <!--This should be a tab character-->
                     </xsl:when>
                     <xsl:otherwise>
-                        <xsl:apply-templates select='.'/><xsl:text>&#x9;</xsl:text>
+                        <xsl:value-of select='normalize-space()'/><xsl:text>&#x9;</xsl:text>
                     </xsl:otherwise>
                 </xsl:choose>          
                 
@@ -49,11 +49,11 @@
                     
                     <xsl:choose>
                         <xsl:when test="@ref">
-                            <xsl:value-of select="@ref"/>
+                            <xsl:value-of select="normalize-space(@ref)"/>
                             <xsl:text>&#x9;</xsl:text> 
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:value-of select='.'/><xsl:text>&#x9;</xsl:text>
+                            <xsl:value-of select='normalize-space()'/><xsl:text>&#x9;</xsl:text>
                         </xsl:otherwise>
                     </xsl:choose>    
                     <xsl:text>               
@@ -72,11 +72,11 @@
      <xsl:variable name="NodeRSEdge">
             <xsl:choose>
                 <xsl:when test="@ref">
-                    <xsl:apply-templates select="@ref"/>
+                    <xsl:value-of select="normalize-space(@ref)"/>
                     <xsl:text>&#x9;</xsl:text> <!--This should be a tab character-->
                 </xsl:when>
                 <xsl:otherwise>
-                    <xsl:apply-templates select='.'/><xsl:text>&#x9;</xsl:text>
+                    <xsl:value-of select='normalize-space()'/><xsl:text>&#x9;</xsl:text>
                 </xsl:otherwise>
             </xsl:choose>
             
@@ -105,11 +105,11 @@
          
          <xsl:choose>
              <xsl:when test="@ref">
-                 <xsl:value-of select="@ref"/>
+                 <xsl:value-of select="normalize-space(@ref)"/>
                  <xsl:text>&#x9;</xsl:text> 
              </xsl:when>
              <xsl:otherwise>
-                 <xsl:value-of select='.'/><xsl:text>&#x9;</xsl:text>
+                 <xsl:value-of select='normalize-space()'/><xsl:text>&#x9;</xsl:text>
              </xsl:otherwise>
          </xsl:choose>  
          <xsl:text>               
@@ -128,11 +128,11 @@
             <xsl:variable name="MetaNodeEdge">
             <xsl:choose>
             <xsl:when test="@ref">
-            <xsl:apply-templates select="@ref"/>
+            <xsl:value-of select="normalize-space(@ref)"/>
                 <xsl:text>&#x9;</xsl:text>
             </xsl:when>
            <xsl:otherwise>
-               <xsl:apply-templates select='.'/><xsl:text>&#x9;</xsl:text>
+               <xsl:value-of select='normalize-space()'/><xsl:text>&#x9;</xsl:text>
            </xsl:otherwise>
             </xsl:choose>
             
@@ -160,11 +160,11 @@
                 
                 <xsl:choose>
                     <xsl:when test="@ref">
-                        <xsl:value-of select="@ref"/>
+                        <xsl:value-of select="normalize-space(@ref)"/>
                         <xsl:text>&#x9;</xsl:text> 
                     </xsl:when>
                     <xsl:otherwise>
-                        <xsl:value-of select='.'/><xsl:text>&#x9;</xsl:text>
+                        <xsl:value-of select='normalize-space()'/><xsl:text>&#x9;</xsl:text>
                     </xsl:otherwise>
                 </xsl:choose>  
                 <xsl:text>               

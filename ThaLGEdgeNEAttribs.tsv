@@ -1,4 +1,3 @@
-               
 Yemen	place	main	B1_lg14	Lebanon	place	               
 Yemen	place	main	B1_lg14	Rome	place	               
 Yemen	place	main	B1_lg14	Babylon	place	               
@@ -961,49 +960,34 @@ Bombay	place	note	B4_lg218	Yemen	place
 Bombay	place	note	B4_lg218	Mecca	place	               
 Bombay	place	note	B4_lg218	Mecca	place	               
 the_world	place	note	B4_lg276	sky	metaplace	               
-the_world	place	note	B4_lg276	river
-Aldea	place	               
+the_world	place	note	B4_lg276	river Aldea	place	               
 the_world	place	note	B4_lg276	Lisboa	place	               
-the_world	place	note	B4_lg276	a nation of one
-legged men	metaplace	               
+the_world	place	note	B4_lg276	a nation of one legged men	metaplace	               
 the_world	place	note	B4_lg276	sky	metaplace	               
 the_world	place	note	B4_lg276	the_world	place	               
 the_world	place	note	B4_lg276	the viewless Element	metaplace	               
 the_world	place	note	B4_lg276	air_transport	metaplace	               
-river
-Aldea	place	note	B4_lg276	sky	metaplace	               
-river
-Aldea	place	note	B4_lg276	the_world	place	               
-river
-Aldea	place	note	B4_lg276	Lisboa	place	               
-river
-Aldea	place	note	B4_lg276	a nation of one
-legged men	metaplace	               
-river
-Aldea	place	note	B4_lg276	sky	metaplace	               
-river
-Aldea	place	note	B4_lg276	the_world	place	               
-river
-Aldea	place	note	B4_lg276	the viewless Element	metaplace	               
-river
-Aldea	place	note	B4_lg276	air_transport	metaplace	               
+river Aldea	place	note	B4_lg276	sky	metaplace	               
+river Aldea	place	note	B4_lg276	the_world	place	               
+river Aldea	place	note	B4_lg276	Lisboa	place	               
+river Aldea	place	note	B4_lg276	a nation of one legged men	metaplace	               
+river Aldea	place	note	B4_lg276	sky	metaplace	               
+river Aldea	place	note	B4_lg276	the_world	place	               
+river Aldea	place	note	B4_lg276	the viewless Element	metaplace	               
+river Aldea	place	note	B4_lg276	air_transport	metaplace	               
 Lisboa	place	note	B4_lg276	sky	metaplace	               
 Lisboa	place	note	B4_lg276	the_world	place	               
-Lisboa	place	note	B4_lg276	river
-Aldea	place	               
-Lisboa	place	note	B4_lg276	a nation of one
-legged men	metaplace	               
+Lisboa	place	note	B4_lg276	river Aldea	place	               
+Lisboa	place	note	B4_lg276	a nation of one legged men	metaplace	               
 Lisboa	place	note	B4_lg276	sky	metaplace	               
 Lisboa	place	note	B4_lg276	the_world	place	               
 Lisboa	place	note	B4_lg276	the viewless Element	metaplace	               
 Lisboa	place	note	B4_lg276	air_transport	metaplace	               
 the_world	place	note	B4_lg276	sky	metaplace	               
 the_world	place	note	B4_lg276	the_world	place	               
-the_world	place	note	B4_lg276	river
-Aldea	place	               
+the_world	place	note	B4_lg276	river Aldea	place	               
 the_world	place	note	B4_lg276	Lisboa	place	               
-the_world	place	note	B4_lg276	a nation of one
-legged men	metaplace	               
+the_world	place	note	B4_lg276	a nation of one legged men	metaplace	               
 the_world	place	note	B4_lg276	sky	metaplace	               
 the_world	place	note	B4_lg276	the viewless Element	metaplace	               
 the_world	place	note	B4_lg276	air_transport	metaplace	               
@@ -1015,8 +999,7 @@ Bagdad	place	main	B5_lg315	Paris	place
 Bagdad	place	main	B5_lg315	Paris	place	               
 Bagdad	place	main	B5_lg315	Ispahan	place	               
 Bagdad	place	main	B5_lg315	Alexandria	place	               
-Bagdad	place	main	B5_lg315	another
-world	metaplace	               
+Bagdad	place	main	B5_lg315	another world	metaplace	               
 an Oriental city	place	note	B5_lg315	Bagdad	place	               
 an Oriental city	place	note	B5_lg315	Bagdad	place	               
 an Oriental city	place	note	B5_lg315	Aleppo	place	               
@@ -1025,8 +1008,7 @@ an Oriental city	place	note	B5_lg315	Paris	place
 an Oriental city	place	note	B5_lg315	Paris	place	               
 an Oriental city	place	note	B5_lg315	Ispahan	place	               
 an Oriental city	place	note	B5_lg315	Alexandria	place	               
-an Oriental city	place	note	B5_lg315	another
-world	metaplace	               
+an Oriental city	place	note	B5_lg315	another world	metaplace	               
 Aleppo	place	note	B5_lg315	Bagdad	place	               
 Aleppo	place	note	B5_lg315	Bagdad	place	               
 Aleppo	place	note	B5_lg315	an Oriental city	place	               
@@ -1035,8 +1017,7 @@ Aleppo	place	note	B5_lg315	Paris	place
 Aleppo	place	note	B5_lg315	Paris	place	               
 Aleppo	place	note	B5_lg315	Ispahan	place	               
 Aleppo	place	note	B5_lg315	Alexandria	place	               
-Aleppo	place	note	B5_lg315	another
-world	metaplace	               
+Aleppo	place	note	B5_lg315	another world	metaplace	               
 Ispahan	place	note	B5_lg315	Bagdad	place	               
 Ispahan	place	note	B5_lg315	Bagdad	place	               
 Ispahan	place	note	B5_lg315	an Oriental city	place	               
@@ -1044,8 +1025,7 @@ Ispahan	place	note	B5_lg315	Aleppo	place
 Ispahan	place	note	B5_lg315	Paris	place	               
 Ispahan	place	note	B5_lg315	Paris	place	               
 Ispahan	place	note	B5_lg315	Alexandria	place	               
-Ispahan	place	note	B5_lg315	another
-world	metaplace	               
+Ispahan	place	note	B5_lg315	another world	metaplace	               
 Paris	place	note	B5_lg315	Bagdad	place	               
 Paris	place	note	B5_lg315	Bagdad	place	               
 Paris	place	note	B5_lg315	an Oriental city	place	               
@@ -1053,8 +1033,7 @@ Paris	place	note	B5_lg315	Aleppo	place
 Paris	place	note	B5_lg315	Ispahan	place	               
 Paris	place	note	B5_lg315	Ispahan	place	               
 Paris	place	note	B5_lg315	Alexandria	place	               
-Paris	place	note	B5_lg315	another
-world	metaplace	               
+Paris	place	note	B5_lg315	another world	metaplace	               
 Paris	place	note	B5_lg315	Bagdad	place	               
 Paris	place	note	B5_lg315	Bagdad	place	               
 Paris	place	note	B5_lg315	an Oriental city	place	               
@@ -1062,8 +1041,7 @@ Paris	place	note	B5_lg315	Aleppo	place
 Paris	place	note	B5_lg315	Ispahan	place	               
 Paris	place	note	B5_lg315	Ispahan	place	               
 Paris	place	note	B5_lg315	Alexandria	place	               
-Paris	place	note	B5_lg315	another
-world	metaplace	               
+Paris	place	note	B5_lg315	another world	metaplace	               
 Ispahan	place	note	B5_lg315	Bagdad	place	               
 Ispahan	place	note	B5_lg315	Bagdad	place	               
 Ispahan	place	note	B5_lg315	an Oriental city	place	               
@@ -1071,8 +1049,7 @@ Ispahan	place	note	B5_lg315	Aleppo	place
 Ispahan	place	note	B5_lg315	Paris	place	               
 Ispahan	place	note	B5_lg315	Paris	place	               
 Ispahan	place	note	B5_lg315	Alexandria	place	               
-Ispahan	place	note	B5_lg315	another
-world	metaplace	               
+Ispahan	place	note	B5_lg315	another world	metaplace	               
 Alexandria	place	note	B5_lg315	Bagdad	place	               
 Alexandria	place	note	B5_lg315	Bagdad	place	               
 Alexandria	place	note	B5_lg315	an Oriental city	place	               
@@ -1081,13 +1058,11 @@ Alexandria	place	note	B5_lg315	Ispahan	place
 Alexandria	place	note	B5_lg315	Paris	place	               
 Alexandria	place	note	B5_lg315	Paris	place	               
 Alexandria	place	note	B5_lg315	Ispahan	place	               
-Alexandria	place	note	B5_lg315	another
-world	metaplace	               
+Alexandria	place	note	B5_lg315	another world	metaplace	               
 Bagdad	place	main	B5_lg316	the Tigris	place	               
 Bagdad	place	main	B5_lg316	Seleucia	place	               
 Bagdad	place	main	B5_lg316	Bagdad	place	               
-Bagdad	place	main	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Bagdad	place	main	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Bagdad	place	main	B5_lg316	Bagdad	place	               
 Bagdad	place	main	B5_lg316	Bagdad	place	               
 Bagdad	place	main	B5_lg316	Haschemia	place	               
@@ -1100,8 +1075,7 @@ Bagdad	place	main	B5_lg316	the East	place
 the Tigris	place	note	B5_lg316	Bagdad	place	               
 the Tigris	place	note	B5_lg316	Seleucia	place	               
 the Tigris	place	note	B5_lg316	Bagdad	place	               
-the Tigris	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+the Tigris	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 the Tigris	place	note	B5_lg316	Bagdad	place	               
 the Tigris	place	note	B5_lg316	Bagdad	place	               
 the Tigris	place	note	B5_lg316	Haschemia	place	               
@@ -1114,8 +1088,7 @@ the Tigris	place	note	B5_lg316	the East	place
 Seleucia	place	note	B5_lg316	Bagdad	place	               
 Seleucia	place	note	B5_lg316	the Tigris	place	               
 Seleucia	place	note	B5_lg316	Bagdad	place	               
-Seleucia	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Seleucia	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Seleucia	place	note	B5_lg316	Bagdad	place	               
 Seleucia	place	note	B5_lg316	Bagdad	place	               
 Seleucia	place	note	B5_lg316	Haschemia	place	               
@@ -1125,38 +1098,24 @@ Seleucia	place	note	B5_lg316	Mecca	place
 Seleucia	place	note	B5_lg316	Bagdad	place	               
 Seleucia	place	note	B5_lg316	Europe	place	               
 Seleucia	place	note	B5_lg316	the East	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Bagdad	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	the Tigris	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Seleucia	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Bagdad	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Bagdad	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Bagdad	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Haschemia	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Mecca	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	the Temple at Mecca	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Mecca	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Bagdad	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	Europe	place	               
-Dar-al-Salam the City of
-Peace	place	note	B5_lg316	the East	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Bagdad	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	the Tigris	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Seleucia	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Bagdad	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Bagdad	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Bagdad	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Haschemia	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Mecca	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	the Temple at Mecca	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Mecca	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Bagdad	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	Europe	place	               
+Dar-al-Salam the City of Peace	place	note	B5_lg316	the East	place	               
 Bagdad	place	note	B5_lg316	Bagdad	place	               
 Bagdad	place	note	B5_lg316	the Tigris	place	               
 Bagdad	place	note	B5_lg316	Seleucia	place	               
 Bagdad	place	note	B5_lg316	Bagdad	place	               
-Bagdad	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Bagdad	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Bagdad	place	note	B5_lg316	Haschemia	place	               
 Bagdad	place	note	B5_lg316	Mecca	place	               
 Bagdad	place	note	B5_lg316	the Temple at Mecca	place	               
@@ -1167,8 +1126,7 @@ Bagdad	place	note	B5_lg316	Bagdad	place
 Bagdad	place	note	B5_lg316	the Tigris	place	               
 Bagdad	place	note	B5_lg316	Seleucia	place	               
 Bagdad	place	note	B5_lg316	Bagdad	place	               
-Bagdad	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Bagdad	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Bagdad	place	note	B5_lg316	Haschemia	place	               
 Bagdad	place	note	B5_lg316	Mecca	place	               
 Bagdad	place	note	B5_lg316	the Temple at Mecca	place	               
@@ -1179,8 +1137,7 @@ Haschemia	place	note	B5_lg316	Bagdad	place
 Haschemia	place	note	B5_lg316	the Tigris	place	               
 Haschemia	place	note	B5_lg316	Seleucia	place	               
 Haschemia	place	note	B5_lg316	Bagdad	place	               
-Haschemia	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Haschemia	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Haschemia	place	note	B5_lg316	Bagdad	place	               
 Haschemia	place	note	B5_lg316	Bagdad	place	               
 Haschemia	place	note	B5_lg316	Mecca	place	               
@@ -1193,8 +1150,7 @@ Mecca	place	note	B5_lg316	Bagdad	place
 Mecca	place	note	B5_lg316	the Tigris	place	               
 Mecca	place	note	B5_lg316	Seleucia	place	               
 Mecca	place	note	B5_lg316	Bagdad	place	               
-Mecca	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Mecca	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Mecca	place	note	B5_lg316	Bagdad	place	               
 Mecca	place	note	B5_lg316	Bagdad	place	               
 Mecca	place	note	B5_lg316	Haschemia	place	               
@@ -1206,8 +1162,7 @@ the Temple at Mecca	place	note	B5_lg316	Bagdad	place
 the Temple at Mecca	place	note	B5_lg316	the Tigris	place	               
 the Temple at Mecca	place	note	B5_lg316	Seleucia	place	               
 the Temple at Mecca	place	note	B5_lg316	Bagdad	place	               
-the Temple at Mecca	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+the Temple at Mecca	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 the Temple at Mecca	place	note	B5_lg316	Bagdad	place	               
 the Temple at Mecca	place	note	B5_lg316	Bagdad	place	               
 the Temple at Mecca	place	note	B5_lg316	Haschemia	place	               
@@ -1220,8 +1175,7 @@ Mecca	place	note	B5_lg316	Bagdad	place
 Mecca	place	note	B5_lg316	the Tigris	place	               
 Mecca	place	note	B5_lg316	Seleucia	place	               
 Mecca	place	note	B5_lg316	Bagdad	place	               
-Mecca	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Mecca	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Mecca	place	note	B5_lg316	Bagdad	place	               
 Mecca	place	note	B5_lg316	Bagdad	place	               
 Mecca	place	note	B5_lg316	Haschemia	place	               
@@ -1233,8 +1187,7 @@ Bagdad	place	note	B5_lg316	Bagdad	place
 Bagdad	place	note	B5_lg316	the Tigris	place	               
 Bagdad	place	note	B5_lg316	Seleucia	place	               
 Bagdad	place	note	B5_lg316	Bagdad	place	               
-Bagdad	place	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Bagdad	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Bagdad	place	note	B5_lg316	Haschemia	place	               
 Bagdad	place	note	B5_lg316	Mecca	place	               
 Bagdad	place	note	B5_lg316	the Temple at Mecca	place	               
@@ -1245,8 +1198,7 @@ Europe	place	main	B5_lg316	Bagdad	place
 Europe	place	main	B5_lg316	the Tigris	place	               
 Europe	place	main	B5_lg316	Seleucia	place	               
 Europe	place	main	B5_lg316	Bagdad	place	               
-Europe	place	main	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+Europe	place	main	B5_lg316	Dar-al-Salam the City of Peace	place	               
 Europe	place	main	B5_lg316	Bagdad	place	               
 Europe	place	main	B5_lg316	Bagdad	place	               
 Europe	place	main	B5_lg316	Haschemia	place	               
@@ -1259,8 +1211,7 @@ the East	place	main	B5_lg316	Bagdad	place
 the East	place	main	B5_lg316	the Tigris	place	               
 the East	place	main	B5_lg316	Seleucia	place	               
 the East	place	main	B5_lg316	Bagdad	place	               
-the East	place	main	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
+the East	place	main	B5_lg316	Dar-al-Salam the City of Peace	place	               
 the East	place	main	B5_lg316	Bagdad	place	               
 the East	place	main	B5_lg316	Bagdad	place	               
 the East	place	main	B5_lg316	Haschemia	place	               
@@ -2271,6 +2222,12 @@ Euphrates	place	main	B5_lg320	Babylon	place
 Euphrates	place	main	B5_lg320	Babylon	place	               
 Euphrates	place	main	B5_lg320	Sodom	place	               
 Euphrates	place	main	B5_lg320	Gomorrah	place	               
+France	place	note	B5_lg344	Germany	place	               
+France	place	note	B5_lg344	Spain	place	               
+Germany	place	note	B5_lg344	France	place	               
+Germany	place	note	B5_lg344	Spain	place	               
+Spain	place	note	B5_lg344	France	place	               
+Spain	place	note	B5_lg344	Germany	place	               
 Persia	place	note	B7_lg413	Paradise	place	               
 Persia	place	note	B7_lg413	Mahumetical Paradise	metaplace	               
 Persia	place	note	B7_lg413	Paradise	place	               
@@ -2301,13 +2258,11 @@ Yle of Pentexoire	place	note	B7_lg413	walled_mountain_Paradise	metaplace
 Yle of Pentexoire	place	note	B7_lg413	Melistorte	place	               
 the Sepulchre	place	main	B8_lg466	Tombs	metaplace	               
 Medina	place	note	B8_lg470	Namaz	place	               
-Medina	place	note	B8_lg470	in the prophet's
-antichamber	place	               
+Medina	place	note	B8_lg470	in the prophet's antichamber	place	               
 Medina	place	note	B8_lg470	the_world	place	               
 Medina	place	note	B8_lg470	the whole expanded universe	place	               
 Namaz	place	note	B8_lg470	Medina	place	               
-Namaz	place	note	B8_lg470	in the prophet's
-antichamber	place	               
+Namaz	place	note	B8_lg470	in the prophet's antichamber	place	               
 Namaz	place	note	B8_lg470	the_world	place	               
 Namaz	place	note	B8_lg470	the whole expanded universe	place	               
 the Meidan, or Great Place of the city of Tauris	place	note	B8_lg471	city of Tauris	place	               
@@ -2342,8 +2297,7 @@ Belgrade	place	note	B8_lg475	Tokay	place
 Belgrade	place	note	B8_lg475	Transilvania	place	               
 Belgrade	place	note	B8_lg475	Medreiga	place	               
 Belgrade	place	note	B8_lg475	Cossova	place	               
-Belgrade	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Belgrade	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Belgrade	place	note	B8_lg475	Servia	place	               
 Belgrade	place	note	B8_lg475	Vampire	metaplace	               
 Belgrade	place	note	B8_lg475	Saave	place	               
@@ -2371,8 +2325,7 @@ Gradisch	place	note	B8_lg475	Tokay	place
 Gradisch	place	note	B8_lg475	Transilvania	place	               
 Gradisch	place	note	B8_lg475	Medreiga	place	               
 Gradisch	place	note	B8_lg475	Cossova	place	               
-Gradisch	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Gradisch	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Gradisch	place	note	B8_lg475	Servia	place	               
 Gradisch	place	note	B8_lg475	Vampire	metaplace	               
 Gradisch	place	note	B8_lg475	Saave	place	               
@@ -2402,8 +2355,7 @@ Sclavonia	place	note	B8_lg475	Tokay	place
 Sclavonia	place	note	B8_lg475	Transilvania	place	               
 Sclavonia	place	note	B8_lg475	Medreiga	place	               
 Sclavonia	place	note	B8_lg475	Cossova	place	               
-Sclavonia	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Sclavonia	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Sclavonia	place	note	B8_lg475	Servia	place	               
 Sclavonia	place	note	B8_lg475	Vampire	metaplace	               
 Sclavonia	place	note	B8_lg475	Saave	place	               
@@ -2433,8 +2385,7 @@ Kisilova	place	note	B8_lg475	Tokay	place
 Kisilova	place	note	B8_lg475	Transilvania	place	               
 Kisilova	place	note	B8_lg475	Medreiga	place	               
 Kisilova	place	note	B8_lg475	Cossova	place	               
-Kisilova	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Kisilova	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Kisilova	place	note	B8_lg475	Servia	place	               
 Kisilova	place	note	B8_lg475	Vampire	metaplace	               
 Kisilova	place	note	B8_lg475	Saave	place	               
@@ -2462,8 +2413,7 @@ Gradisch	place	note	B8_lg475	Tokay	place
 Gradisch	place	note	B8_lg475	Transilvania	place	               
 Gradisch	place	note	B8_lg475	Medreiga	place	               
 Gradisch	place	note	B8_lg475	Cossova	place	               
-Gradisch	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Gradisch	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Gradisch	place	note	B8_lg475	Servia	place	               
 Gradisch	place	note	B8_lg475	Vampire	metaplace	               
 Gradisch	place	note	B8_lg475	Saave	place	               
@@ -2492,8 +2442,7 @@ Belgrade	place	note	B8_lg475	Tokay	place
 Belgrade	place	note	B8_lg475	Transilvania	place	               
 Belgrade	place	note	B8_lg475	Medreiga	place	               
 Belgrade	place	note	B8_lg475	Cossova	place	               
-Belgrade	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Belgrade	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Belgrade	place	note	B8_lg475	Servia	place	               
 Belgrade	place	note	B8_lg475	Vampire	metaplace	               
 Belgrade	place	note	B8_lg475	Saave	place	               
@@ -2521,8 +2470,7 @@ Gradisch	place	note	B8_lg475	Tokay	place
 Gradisch	place	note	B8_lg475	Transilvania	place	               
 Gradisch	place	note	B8_lg475	Medreiga	place	               
 Gradisch	place	note	B8_lg475	Cossova	place	               
-Gradisch	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Gradisch	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Gradisch	place	note	B8_lg475	Servia	place	               
 Gradisch	place	note	B8_lg475	Vampire	metaplace	               
 Gradisch	place	note	B8_lg475	Saave	place	               
@@ -2552,8 +2500,7 @@ Hungary	place	note	B8_lg475	Tokay	place
 Hungary	place	note	B8_lg475	Transilvania	place	               
 Hungary	place	note	B8_lg475	Medreiga	place	               
 Hungary	place	note	B8_lg475	Cossova	place	               
-Hungary	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Hungary	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Hungary	place	note	B8_lg475	Servia	place	               
 Hungary	place	note	B8_lg475	Vampire	metaplace	               
 Hungary	place	note	B8_lg475	Saave	place	               
@@ -2583,8 +2530,7 @@ Oppida Heidonum	place	note	B8_lg475	Tokay	place
 Oppida Heidonum	place	note	B8_lg475	Transilvania	place	               
 Oppida Heidonum	place	note	B8_lg475	Medreiga	place	               
 Oppida Heidonum	place	note	B8_lg475	Cossova	place	               
-Oppida Heidonum	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Oppida Heidonum	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Oppida Heidonum	place	note	B8_lg475	Servia	place	               
 Oppida Heidonum	place	note	B8_lg475	Vampire	metaplace	               
 Oppida Heidonum	place	note	B8_lg475	Saave	place	               
@@ -2614,8 +2560,7 @@ Tibiscus	place	note	B8_lg475	Tokay	place
 Tibiscus	place	note	B8_lg475	Transilvania	place	               
 Tibiscus	place	note	B8_lg475	Medreiga	place	               
 Tibiscus	place	note	B8_lg475	Cossova	place	               
-Tibiscus	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Tibiscus	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Tibiscus	place	note	B8_lg475	Servia	place	               
 Tibiscus	place	note	B8_lg475	Vampire	metaplace	               
 Tibiscus	place	note	B8_lg475	Saave	place	               
@@ -2645,8 +2590,7 @@ Teysse	place	note	B8_lg475	Tokay	place
 Teysse	place	note	B8_lg475	Transilvania	place	               
 Teysse	place	note	B8_lg475	Medreiga	place	               
 Teysse	place	note	B8_lg475	Cossova	place	               
-Teysse	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Teysse	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Teysse	place	note	B8_lg475	Servia	place	               
 Teysse	place	note	B8_lg475	Vampire	metaplace	               
 Teysse	place	note	B8_lg475	Saave	place	               
@@ -2676,8 +2620,7 @@ Tokay	place	note	B8_lg475	Teysse	place
 Tokay	place	note	B8_lg475	Transilvania	place	               
 Tokay	place	note	B8_lg475	Medreiga	place	               
 Tokay	place	note	B8_lg475	Cossova	place	               
-Tokay	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Tokay	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Tokay	place	note	B8_lg475	Servia	place	               
 Tokay	place	note	B8_lg475	Vampire	metaplace	               
 Tokay	place	note	B8_lg475	Saave	place	               
@@ -2707,8 +2650,7 @@ Transilvania	place	note	B8_lg475	Teysse	place
 Transilvania	place	note	B8_lg475	Tokay	place	               
 Transilvania	place	note	B8_lg475	Medreiga	place	               
 Transilvania	place	note	B8_lg475	Cossova	place	               
-Transilvania	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Transilvania	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Transilvania	place	note	B8_lg475	Servia	place	               
 Transilvania	place	note	B8_lg475	Vampire	metaplace	               
 Transilvania	place	note	B8_lg475	Saave	place	               
@@ -2738,8 +2680,7 @@ Medreiga	place	note	B8_lg475	Teysse	place
 Medreiga	place	note	B8_lg475	Tokay	place	               
 Medreiga	place	note	B8_lg475	Transilvania	place	               
 Medreiga	place	note	B8_lg475	Cossova	place	               
-Medreiga	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Medreiga	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Medreiga	place	note	B8_lg475	Servia	place	               
 Medreiga	place	note	B8_lg475	Vampire	metaplace	               
 Medreiga	place	note	B8_lg475	Saave	place	               
@@ -2769,8 +2710,7 @@ Cossova	place	note	B8_lg475	Teysse	place
 Cossova	place	note	B8_lg475	Tokay	place	               
 Cossova	place	note	B8_lg475	Transilvania	place	               
 Cossova	place	note	B8_lg475	Medreiga	place	               
-Cossova	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Cossova	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Cossova	place	note	B8_lg475	Servia	place	               
 Cossova	place	note	B8_lg475	Vampire	metaplace	               
 Cossova	place	note	B8_lg475	Saave	place	               
@@ -2785,66 +2725,36 @@ Cossova	place	note	B8_lg475	Syre	place
 Cossova	place	note	B8_lg475	Tinos	place	               
 Cossova	place	note	B8_lg475	St. George	place	               
 Cossova	place	note	B8_lg475	Delos	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Vampire	metaplace	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Belgrade	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Gradisch	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Sclavonia	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Kisilova	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Gradisch	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Belgrade	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Gradisch	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Hungary	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Oppida Heidonum	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Tibiscus	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Teysse	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Tokay	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Transilvania	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Medreiga	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Cossova	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Servia	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Vampire	metaplace	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Saave	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Vienna	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Wirtemberg	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Furstemberg	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Greece	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Mycone	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Christendom	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Mycone	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Syre	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Tinos	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	St. George	place	               
-Frontiers of the Turkish Servia
-place	note	B8_lg475	Delos	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Vampire	metaplace	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Belgrade	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Gradisch	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Sclavonia	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Kisilova	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Gradisch	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Belgrade	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Gradisch	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Hungary	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Oppida Heidonum	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Tibiscus	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Teysse	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Tokay	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Transilvania	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Medreiga	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Cossova	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Servia	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Vampire	metaplace	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Saave	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Vienna	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Wirtemberg	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Furstemberg	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Greece	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Mycone	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Christendom	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Mycone	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Syre	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Tinos	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	St. George	place	               
+Frontiers of the Turkish Servia	place	note	B8_lg475	Delos	place	               
 Servia	place	note	B8_lg475	Vampire	metaplace	               
 Servia	place	note	B8_lg475	Belgrade	place	               
 Servia	place	note	B8_lg475	Gradisch	place	               
@@ -2861,8 +2771,7 @@ Servia	place	note	B8_lg475	Tokay	place
 Servia	place	note	B8_lg475	Transilvania	place	               
 Servia	place	note	B8_lg475	Medreiga	place	               
 Servia	place	note	B8_lg475	Cossova	place	               
-Servia	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Servia	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Servia	place	note	B8_lg475	Vampire	metaplace	               
 Servia	place	note	B8_lg475	Saave	place	               
 Servia	place	note	B8_lg475	Vienna	place	               
@@ -2892,8 +2801,7 @@ Saave	place	note	B8_lg475	Tokay	place
 Saave	place	note	B8_lg475	Transilvania	place	               
 Saave	place	note	B8_lg475	Medreiga	place	               
 Saave	place	note	B8_lg475	Cossova	place	               
-Saave	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Saave	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Saave	place	note	B8_lg475	Servia	place	               
 Saave	place	note	B8_lg475	Vampire	metaplace	               
 Saave	place	note	B8_lg475	Vienna	place	               
@@ -2923,8 +2831,7 @@ Vienna	place	note	B8_lg475	Tokay	place
 Vienna	place	note	B8_lg475	Transilvania	place	               
 Vienna	place	note	B8_lg475	Medreiga	place	               
 Vienna	place	note	B8_lg475	Cossova	place	               
-Vienna	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Vienna	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Vienna	place	note	B8_lg475	Servia	place	               
 Vienna	place	note	B8_lg475	Vampire	metaplace	               
 Vienna	place	note	B8_lg475	Saave	place	               
@@ -2954,8 +2861,7 @@ Wirtemberg	place	note	B8_lg475	Tokay	place
 Wirtemberg	place	note	B8_lg475	Transilvania	place	               
 Wirtemberg	place	note	B8_lg475	Medreiga	place	               
 Wirtemberg	place	note	B8_lg475	Cossova	place	               
-Wirtemberg	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Wirtemberg	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Wirtemberg	place	note	B8_lg475	Servia	place	               
 Wirtemberg	place	note	B8_lg475	Vampire	metaplace	               
 Wirtemberg	place	note	B8_lg475	Saave	place	               
@@ -2985,8 +2891,7 @@ Furstemberg	place	note	B8_lg475	Tokay	place
 Furstemberg	place	note	B8_lg475	Transilvania	place	               
 Furstemberg	place	note	B8_lg475	Medreiga	place	               
 Furstemberg	place	note	B8_lg475	Cossova	place	               
-Furstemberg	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Furstemberg	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Furstemberg	place	note	B8_lg475	Servia	place	               
 Furstemberg	place	note	B8_lg475	Vampire	metaplace	               
 Furstemberg	place	note	B8_lg475	Saave	place	               
@@ -3016,8 +2921,7 @@ Greece	place	note	B8_lg475	Tokay	place
 Greece	place	note	B8_lg475	Transilvania	place	               
 Greece	place	note	B8_lg475	Medreiga	place	               
 Greece	place	note	B8_lg475	Cossova	place	               
-Greece	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Greece	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Greece	place	note	B8_lg475	Servia	place	               
 Greece	place	note	B8_lg475	Vampire	metaplace	               
 Greece	place	note	B8_lg475	Saave	place	               
@@ -3047,8 +2951,7 @@ Mycone	place	note	B8_lg475	Tokay	place
 Mycone	place	note	B8_lg475	Transilvania	place	               
 Mycone	place	note	B8_lg475	Medreiga	place	               
 Mycone	place	note	B8_lg475	Cossova	place	               
-Mycone	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Mycone	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Mycone	place	note	B8_lg475	Servia	place	               
 Mycone	place	note	B8_lg475	Vampire	metaplace	               
 Mycone	place	note	B8_lg475	Saave	place	               
@@ -3077,8 +2980,7 @@ Christendom	place	note	B8_lg475	Tokay	place
 Christendom	place	note	B8_lg475	Transilvania	place	               
 Christendom	place	note	B8_lg475	Medreiga	place	               
 Christendom	place	note	B8_lg475	Cossova	place	               
-Christendom	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Christendom	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Christendom	place	note	B8_lg475	Servia	place	               
 Christendom	place	note	B8_lg475	Vampire	metaplace	               
 Christendom	place	note	B8_lg475	Saave	place	               
@@ -3108,8 +3010,7 @@ Mycone	place	note	B8_lg475	Tokay	place
 Mycone	place	note	B8_lg475	Transilvania	place	               
 Mycone	place	note	B8_lg475	Medreiga	place	               
 Mycone	place	note	B8_lg475	Cossova	place	               
-Mycone	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Mycone	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Mycone	place	note	B8_lg475	Servia	place	               
 Mycone	place	note	B8_lg475	Vampire	metaplace	               
 Mycone	place	note	B8_lg475	Saave	place	               
@@ -3138,8 +3039,7 @@ Syre	place	note	B8_lg475	Tokay	place
 Syre	place	note	B8_lg475	Transilvania	place	               
 Syre	place	note	B8_lg475	Medreiga	place	               
 Syre	place	note	B8_lg475	Cossova	place	               
-Syre	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Syre	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Syre	place	note	B8_lg475	Servia	place	               
 Syre	place	note	B8_lg475	Vampire	metaplace	               
 Syre	place	note	B8_lg475	Saave	place	               
@@ -3169,8 +3069,7 @@ Tinos	place	note	B8_lg475	Tokay	place
 Tinos	place	note	B8_lg475	Transilvania	place	               
 Tinos	place	note	B8_lg475	Medreiga	place	               
 Tinos	place	note	B8_lg475	Cossova	place	               
-Tinos	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Tinos	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Tinos	place	note	B8_lg475	Servia	place	               
 Tinos	place	note	B8_lg475	Vampire	metaplace	               
 Tinos	place	note	B8_lg475	Saave	place	               
@@ -3200,8 +3099,7 @@ St. George	place	note	B8_lg475	Tokay	place
 St. George	place	note	B8_lg475	Transilvania	place	               
 St. George	place	note	B8_lg475	Medreiga	place	               
 St. George	place	note	B8_lg475	Cossova	place	               
-St. George	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+St. George	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 St. George	place	note	B8_lg475	Servia	place	               
 St. George	place	note	B8_lg475	Vampire	metaplace	               
 St. George	place	note	B8_lg475	Saave	place	               
@@ -3231,8 +3129,7 @@ Delos	place	note	B8_lg475	Tokay	place
 Delos	place	note	B8_lg475	Transilvania	place	               
 Delos	place	note	B8_lg475	Medreiga	place	               
 Delos	place	note	B8_lg475	Cossova	place	               
-Delos	place	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
+Delos	place	note	B8_lg475	Frontiers of the Turkish Servia	place	               
 Delos	place	note	B8_lg475	Servia	place	               
 Delos	place	note	B8_lg475	Vampire	metaplace	               
 Delos	place	note	B8_lg475	Saave	place	               
@@ -3283,17 +3180,17 @@ the World	place	main	B9_lg518	Heaven	metaplace
 Aleppo	place	note	B9_lg522	England	place	               
 Aleppo	place	note	B9_lg522	Persia	place	               
 Aleppo	place	note	B9_lg522	Norway	place	               
-Aleppo	place	note	B9_lg522	Spain Portugal	place	               
+Aleppo	place	note	B9_lg522	Portugal	place	               
 Aleppo	place	note	B9_lg522	England	place	               
 England	place	note	B9_lg522	Aleppo	place	               
 England	place	note	B9_lg522	Persia	place	               
 England	place	note	B9_lg522	Norway	place	               
-England	place	note	B9_lg522	Spain Portugal	place	               
+England	place	note	B9_lg522	Portugal	place	               
 England	place	note	B9_lg522	England	place	               
 Norway	place	note	B9_lg522	Aleppo	place	               
 Norway	place	note	B9_lg522	England	place	               
 Norway	place	note	B9_lg522	Persia	place	               
-Norway	place	note	B9_lg522	Spain Portugal	place	               
+Norway	place	note	B9_lg522	Portugal	place	               
 Norway	place	note	B9_lg522	England	place	               
 Persia	place	note	B9_lg523	Tartary	place	               
 Persia	place	note	B9_lg523	Muscovy	place	               
@@ -3465,7 +3362,7 @@ Ardevil	place	note	B9_lg536	Tombs	metaplace
 Ardevil	place	note	B9_lg536	Tombs	metaplace	               
 Ardevil	place	note	B9_lg536	Persia	place	               
 Ardevil	place	note	B9_lg536	city of Kom	place	               
-Ardevil	place	note	B9_lg536	Spain Portugal	place	               
+Ardevil	place	note	B9_lg536	Portugal	place	               
 Ardevil	place	note	B9_lg536	to_next_world	metaplace	               
 Ardevil	place	note	B9_lg536	Tombs	metaplace	               
 Ardevil	place	note	B9_lg536	Tombs	metaplace	               
@@ -3474,7 +3371,7 @@ city of Kom	place	note	B9_lg536	Tombs	metaplace
 city of Kom	place	note	B9_lg536	Tombs	metaplace	               
 city of Kom	place	note	B9_lg536	Persia	place	               
 city of Kom	place	note	B9_lg536	Ardevil	place	               
-city of Kom	place	note	B9_lg536	Spain Portugal	place	               
+city of Kom	place	note	B9_lg536	Portugal	place	               
 city of Kom	place	note	B9_lg536	to_next_world	metaplace	               
 city of Kom	place	note	B9_lg536	Tombs	metaplace	               
 city of Kom	place	note	B9_lg536	Tombs	metaplace	               
@@ -3488,6 +3385,23 @@ Ocean	place	main	B9_lg542	the earth	place
 Ocean	place	main	B9_lg542	Earth	place	               
 Ocean	place	main	B9_lg542	Universe	metaplace	               
 Ocean	place	main	B9_lg542	Universe	metaplace	               
+Mohareb_City	place	main	B9_lg553	Ragusa	place	               
+Mohareb_City	place	main	B9_lg553	Ragusa	place	               
+Mohareb_City	place	main	B9_lg553	Constantinople	place	               
+Mohareb_City	place	main	B9_lg553	Constantinople	place	               
+Mohareb_City	place	main	B9_lg553	Christendom	place	               
+Mohareb_City	place	main	B9_lg553	Islands of Barlovento	place	               
+Mohareb_City	place	main	B9_lg553	Brazil	place	               
+Mohareb_City	place	main	B9_lg553	Santa Marta	place	               
+Mohareb_City	place	main	B9_lg553	the new kingdom	place	               
+Mohareb_City	place	main	B9_lg553	Peru	place	               
+Mohareb_City	place	main	B9_lg553	Arabia	place	               
+Mohareb_City	place	main	B9_lg553	Brazil	place	               
+Mohareb_City	place	main	B9_lg553	Java	place	               
+Mohareb_City	place	main	B9_lg553	East Indies	place	               
+Mohareb_City	place	main	B9_lg553	Java	place	               
+Mohareb_City	place	main	B9_lg553	the world	place	               
+Ragusa	place	note	B9_lg553	Mohareb_City	place	               
 Ragusa	place	note	B9_lg553	Ragusa	place	               
 Ragusa	place	note	B9_lg553	Constantinople	place	               
 Ragusa	place	note	B9_lg553	Constantinople	place	               
@@ -3503,6 +3417,7 @@ Ragusa	place	note	B9_lg553	Java	place
 Ragusa	place	note	B9_lg553	East Indies	place	               
 Ragusa	place	note	B9_lg553	Java	place	               
 Ragusa	place	note	B9_lg553	the world	place	               
+Constantinople	place	note	B9_lg553	Mohareb_City	place	               
 Constantinople	place	note	B9_lg553	Ragusa	place	               
 Constantinople	place	note	B9_lg553	Ragusa	place	               
 Constantinople	place	note	B9_lg553	Christendom	place	               
@@ -3517,6 +3432,7 @@ Constantinople	place	note	B9_lg553	Java	place
 Constantinople	place	note	B9_lg553	East Indies	place	               
 Constantinople	place	note	B9_lg553	Java	place	               
 Constantinople	place	note	B9_lg553	the world	place	               
+Constantinople	place	note	B9_lg553	Mohareb_City	place	               
 Constantinople	place	note	B9_lg553	Ragusa	place	               
 Constantinople	place	note	B9_lg553	Ragusa	place	               
 Constantinople	place	note	B9_lg553	Christendom	place	               
@@ -3531,6 +3447,7 @@ Constantinople	place	note	B9_lg553	Java	place
 Constantinople	place	note	B9_lg553	East Indies	place	               
 Constantinople	place	note	B9_lg553	Java	place	               
 Constantinople	place	note	B9_lg553	the world	place	               
+Christendom	place	note	B9_lg553	Mohareb_City	place	               
 Christendom	place	note	B9_lg553	Ragusa	place	               
 Christendom	place	note	B9_lg553	Ragusa	place	               
 Christendom	place	note	B9_lg553	Constantinople	place	               
@@ -3546,6 +3463,7 @@ Christendom	place	note	B9_lg553	Java	place
 Christendom	place	note	B9_lg553	East Indies	place	               
 Christendom	place	note	B9_lg553	Java	place	               
 Christendom	place	note	B9_lg553	the world	place	               
+Islands of Barlovento	place	note	B9_lg553	Mohareb_City	place	               
 Islands of Barlovento	place	note	B9_lg553	Ragusa	place	               
 Islands of Barlovento	place	note	B9_lg553	Ragusa	place	               
 Islands of Barlovento	place	note	B9_lg553	Constantinople	place	               
@@ -3561,6 +3479,7 @@ Islands of Barlovento	place	note	B9_lg553	Java	place
 Islands of Barlovento	place	note	B9_lg553	East Indies	place	               
 Islands of Barlovento	place	note	B9_lg553	Java	place	               
 Islands of Barlovento	place	note	B9_lg553	the world	place	               
+Brazil	place	note	B9_lg553	Mohareb_City	place	               
 Brazil	place	note	B9_lg553	Ragusa	place	               
 Brazil	place	note	B9_lg553	Ragusa	place	               
 Brazil	place	note	B9_lg553	Constantinople	place	               
@@ -3576,6 +3495,7 @@ Brazil	place	note	B9_lg553	Java	place
 Brazil	place	note	B9_lg553	East Indies	place	               
 Brazil	place	note	B9_lg553	Java	place	               
 Brazil	place	note	B9_lg553	the world	place	               
+Santa Marta	place	note	B9_lg553	Mohareb_City	place	               
 Santa Marta	place	note	B9_lg553	Ragusa	place	               
 Santa Marta	place	note	B9_lg553	Ragusa	place	               
 Santa Marta	place	note	B9_lg553	Constantinople	place	               
@@ -3591,6 +3511,7 @@ Santa Marta	place	note	B9_lg553	Java	place
 Santa Marta	place	note	B9_lg553	East Indies	place	               
 Santa Marta	place	note	B9_lg553	Java	place	               
 Santa Marta	place	note	B9_lg553	the world	place	               
+Peru	place	note	B9_lg553	Mohareb_City	place	               
 Peru	place	note	B9_lg553	Ragusa	place	               
 Peru	place	note	B9_lg553	Ragusa	place	               
 Peru	place	note	B9_lg553	Constantinople	place	               
@@ -3606,6 +3527,7 @@ Peru	place	note	B9_lg553	Java	place
 Peru	place	note	B9_lg553	East Indies	place	               
 Peru	place	note	B9_lg553	Java	place	               
 Peru	place	note	B9_lg553	the world	place	               
+Arabia	place	note	B9_lg553	Mohareb_City	place	               
 Arabia	place	note	B9_lg553	Ragusa	place	               
 Arabia	place	note	B9_lg553	Ragusa	place	               
 Arabia	place	note	B9_lg553	Constantinople	place	               
@@ -3621,6 +3543,7 @@ Arabia	place	note	B9_lg553	Java	place
 Arabia	place	note	B9_lg553	East Indies	place	               
 Arabia	place	note	B9_lg553	Java	place	               
 Arabia	place	note	B9_lg553	the world	place	               
+Brazil	place	note	B9_lg553	Mohareb_City	place	               
 Brazil	place	note	B9_lg553	Ragusa	place	               
 Brazil	place	note	B9_lg553	Ragusa	place	               
 Brazil	place	note	B9_lg553	Constantinople	place	               
@@ -3636,6 +3559,7 @@ Brazil	place	note	B9_lg553	Java	place
 Brazil	place	note	B9_lg553	East Indies	place	               
 Brazil	place	note	B9_lg553	Java	place	               
 Brazil	place	note	B9_lg553	the world	place	               
+Java	place	note	B9_lg553	Mohareb_City	place	               
 Java	place	note	B9_lg553	Ragusa	place	               
 Java	place	note	B9_lg553	Ragusa	place	               
 Java	place	note	B9_lg553	Constantinople	place	               
@@ -3651,6 +3575,7 @@ Java	place	note	B9_lg553	Brazil	place
 Java	place	note	B9_lg553	East Indies	place	               
 Java	place	note	B9_lg553	Java	place	               
 Java	place	note	B9_lg553	the world	place	               
+East Indies	place	note	B9_lg553	Mohareb_City	place	               
 East Indies	place	note	B9_lg553	Ragusa	place	               
 East Indies	place	note	B9_lg553	Ragusa	place	               
 East Indies	place	note	B9_lg553	Constantinople	place	               
@@ -3666,6 +3591,7 @@ East Indies	place	note	B9_lg553	Brazil	place
 East Indies	place	note	B9_lg553	Java	place	               
 East Indies	place	note	B9_lg553	Java	place	               
 East Indies	place	note	B9_lg553	the world	place	               
+Java	place	note	B9_lg553	Mohareb_City	place	               
 Java	place	note	B9_lg553	Ragusa	place	               
 Java	place	note	B9_lg553	Ragusa	place	               
 Java	place	note	B9_lg553	Constantinople	place	               
@@ -3681,6 +3607,7 @@ Java	place	note	B9_lg553	Brazil	place
 Java	place	note	B9_lg553	Java	place	               
 Java	place	note	B9_lg553	East Indies	place	               
 Java	place	note	B9_lg553	the world	place	               
+the world	place	note	B9_lg553	Mohareb_City	place	               
 the world	place	note	B9_lg553	Ragusa	place	               
 the world	place	note	B9_lg553	Ragusa	place	               
 the world	place	note	B9_lg553	Constantinople	place	               
@@ -3700,1108 +3627,1074 @@ Ocean-Vault	place	main	B12_lg738	Domdaniel_Cave	metaplace
 Ocean-Vault	place	main	B12_lg738	Paradise	metaplace	               
 Ocean-Vault	place	main	B12_lg738	Paradise	metaplace	               
 Ocean-Vault	place	main	B12_lg738	Paradise	metaplace	               
-ocean	main	B1_lg2	sky	metaplace	               
-Africa	main	B1_lg23	Eden	metaplace	               
-Africa	main	B1_lg23	the East	place	               
-Africa	main	B1_lg23	Africa	place	               
-Africa	main	B1_lg23	Ethiopia	place	               
-Africa	main	B1_lg23	Ethiopia	place	               
-Africa	main	B1_lg23	Ethiopia	place	               
-Africa	main	B1_lg23	Eden	metaplace	               
-Africa	main	B1_lg23	the East	place	               
-Africa	main	B1_lg23	Africa	place	               
-Africa	main	B1_lg23	Ethiopia	place	               
-Africa	main	B1_lg23	Ethiopia	place	               
-Africa	main	B1_lg23	Ethiopia	place	               
-Ethiopia	main	B1_lg23	Eden	metaplace	               
-Ethiopia	main	B1_lg23	the East	place	               
-Ethiopia	main	B1_lg23	Africa	place	               
-Ethiopia	main	B1_lg23	Africa	place	               
-Ethiopia	main	B1_lg23	Ethiopia	place	               
-Ethiopia	main	B1_lg23	Ethiopia	place	               
-Ethiopia	main	B1_lg23	Eden	metaplace	               
-Ethiopia	main	B1_lg23	the East	place	               
-Ethiopia	main	B1_lg23	Africa	place	               
-Ethiopia	main	B1_lg23	Africa	place	               
-Ethiopia	main	B1_lg23	Ethiopia	place	               
-Ethiopia	main	B1_lg23	Ethiopia	place	               
-Ethiopia	note	B1_lg23	Eden	metaplace	               
-Ethiopia	note	B1_lg23	the East	place	               
-Ethiopia	note	B1_lg23	Africa	place	               
-Ethiopia	note	B1_lg23	Africa	place	               
-Ethiopia	note	B1_lg23	Ethiopia	place	               
-Ethiopia	note	B1_lg23	Ethiopia	place	               
-Mecca	main	B1_lg26	Mecca	place	               
-Mecca	main	B1_lg26	Mecca	place	               
-Mecca	main	B1_lg26	Jerusalem	place	               
-Mecca	main	B1_lg26	Mecca	place	               
-Mecca	main	B1_lg26	Red Hillock	place	               
-Egypt	main	B1_lg35	Egypt	place	               
-Egypt	main	B1_lg35	the whole earth	place	               
-Egypt	main	B1_lg35	Egypt	place	               
-Egypt	main	B1_lg35	Egypt	place	               
-Egypt	main	B1_lg35	the river Nilus	place	               
-Egypt	main	B1_lg35	the countries of the west	place	               
-Egypt	main	B1_lg35	the land Al-Said	place	               
-Egypt	main	B1_lg35	Abulfeda	place	               
-Egypt	main	B1_lg35	Ægypt	place	               
-Egypt	main	B1_lg35	the_world	place	               
-Egypt	main	B1_lg35	sky	metaplace	               
-Egypt	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
-Egypt	main	B1_lg35	Bologna	place	               
-Egypt	main	B1_lg35	East Indies	place	               
-Egypt	main	B1_lg35	Eden	metaplace	               
-Egypt	main	B1_lg35	Eden	metaplace	               
-Egypt	main	B1_lg35	Eden	metaplace	               
-Egypt	main	B1_lg35	Egypt	place	               
-Egypt	main	B1_lg35	Ad	place	               
-Egypt	main	B1_lg35	Syria	place	               
-Egypt	main	B1_lg35	Ormus	place	               
-Egypt	main	B1_lg35	Damascus	place	               
-Egypt	main	B1_lg35	Irem_removed	metaplace	               
-Egypt	main	B1_lg35	Irem	place	               
-Egypt	main	B1_lg35	the East	place	               
-Egypt	note	B1_lg35	Egypt	place	               
-Egypt	note	B1_lg35	Egypt	place	               
-Egypt	note	B1_lg35	the whole earth	place	               
-Egypt	note	B1_lg35	Egypt	place	               
-Egypt	note	B1_lg35	the river Nilus	place	               
-Egypt	note	B1_lg35	the countries of the west	place	               
-Egypt	note	B1_lg35	the land Al-Said	place	               
-Egypt	note	B1_lg35	Abulfeda	place	               
-Egypt	note	B1_lg35	Ægypt	place	               
-Egypt	note	B1_lg35	the_world	place	               
-Egypt	note	B1_lg35	sky	metaplace	               
-Egypt	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
-Egypt	note	B1_lg35	Bologna	place	               
-Egypt	note	B1_lg35	East Indies	place	               
-Egypt	note	B1_lg35	Eden	metaplace	               
-Egypt	note	B1_lg35	Eden	metaplace	               
-Egypt	note	B1_lg35	Eden	metaplace	               
-Egypt	note	B1_lg35	Egypt	place	               
-Egypt	note	B1_lg35	Ad	place	               
-Egypt	note	B1_lg35	Syria	place	               
-Egypt	note	B1_lg35	Ormus	place	               
-Egypt	note	B1_lg35	Damascus	place	               
-Egypt	note	B1_lg35	Irem_removed	metaplace	               
-Egypt	note	B1_lg35	Irem	place	               
-Egypt	note	B1_lg35	the East	place	               
-the countries of the west	note	B1_lg35	Egypt	place	               
-the countries of the west	note	B1_lg35	Egypt	place	               
-the countries of the west	note	B1_lg35	the whole earth	place	               
-the countries of the west	note	B1_lg35	Egypt	place	               
-the countries of the west	note	B1_lg35	Egypt	place	               
-the countries of the west	note	B1_lg35	the river Nilus	place	               
-the countries of the west	note	B1_lg35	the land Al-Said	place	               
-the countries of the west	note	B1_lg35	Abulfeda	place	               
-the countries of the west	note	B1_lg35	Ægypt	place	               
-the countries of the west	note	B1_lg35	the_world	place	               
-the countries of the west	note	B1_lg35	sky	metaplace	               
-the countries of the west	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
-the countries of the west	note	B1_lg35	Bologna	place	               
-the countries of the west	note	B1_lg35	East Indies	place	               
-the countries of the west	note	B1_lg35	Eden	metaplace	               
-the countries of the west	note	B1_lg35	Eden	metaplace	               
-the countries of the west	note	B1_lg35	Eden	metaplace	               
-the countries of the west	note	B1_lg35	Egypt	place	               
-the countries of the west	note	B1_lg35	Ad	place	               
-the countries of the west	note	B1_lg35	Syria	place	               
-the countries of the west	note	B1_lg35	Ormus	place	               
-the countries of the west	note	B1_lg35	Damascus	place	               
-the countries of the west	note	B1_lg35	Irem_removed	metaplace	               
-the countries of the west	note	B1_lg35	Irem	place	               
-the countries of the west	note	B1_lg35	the East	place	               
-the desert	main	B2_lg60	Domdaniel_Cave	metaplace	               
-Bagdad	main	B4_lg204	the_world	place	               
-Bagdad	main	B4_lg204	the_world	place	               
-Bagdad	main	B5_lg315	Bagdad	place	               
-Bagdad	main	B5_lg315	an Oriental city	place	               
-Bagdad	main	B5_lg315	Aleppo	place	               
-Bagdad	main	B5_lg315	Ispahan	place	               
-Bagdad	main	B5_lg315	Paris	place	               
-Bagdad	main	B5_lg315	Paris	place	               
-Bagdad	main	B5_lg315	Ispahan	place	               
-Bagdad	main	B5_lg315	Alexandria	place	               
-Bagdad	main	B5_lg315	another
-world	metaplace	               
-Bagdad	note	B5_lg316	Bagdad	place	               
-Bagdad	note	B5_lg316	the Tigris	place	               
-Bagdad	note	B5_lg316	Seleucia	place	               
-Bagdad	note	B5_lg316	Dar-al-Salam the City of
-Peace	place	               
-Bagdad	note	B5_lg316	Bagdad	place	               
-Bagdad	note	B5_lg316	Bagdad	place	               
-Bagdad	note	B5_lg316	Haschemia	place	               
-Bagdad	note	B5_lg316	Mecca	place	               
-Bagdad	note	B5_lg316	the Temple at Mecca	place	               
-Bagdad	note	B5_lg316	Mecca	place	               
-Bagdad	note	B5_lg316	Bagdad	place	               
-Bagdad	note	B5_lg316	Europe	place	               
-Bagdad	note	B5_lg316	the East	place	               
-Bagdad	main	B5_lg317	the East	place	               
-Bagdad	main	B5_lg317	the West	place	               
-Bagdad	main	B5_lg317	Persia	place	               
-Bagdad	main	B5_lg317	Tauris	place	               
-Bagdad	main	B5_lg317	Asia	place	               
-Bagdad	main	B5_lg317	Bagdad	place	               
-Bagdad	main	B5_lg317	Tigris	place	               
-Bagdad	main	B5_lg317	Arabia	place	               
-Bagdad	main	B5_lg317	Babylon	place	               
-Bagdad	main	B5_lg317	Tigris	place	               
-Bagdad	main	B5_lg317	Babylon	place	               
-Bagdad	main	B5_lg317	Bagdad	place	               
-Bagdad	main	B5_lg317	Babylon	place	               
-Bagdad	main	B5_lg317	Armenia	place	               
-Bagdad	main	B5_lg317	Tigris	place	               
-Bagdad	main	B5_lg317	Armenia	place	               
-Bagdad	note	B5_lg317	Bagdad	place	               
-Bagdad	note	B5_lg317	the East	place	               
-Bagdad	note	B5_lg317	the West	place	               
-Bagdad	note	B5_lg317	Persia	place	               
-Bagdad	note	B5_lg317	Tauris	place	               
-Bagdad	note	B5_lg317	Asia	place	               
-Bagdad	note	B5_lg317	Bagdad	place	               
-Bagdad	note	B5_lg317	Tigris	place	               
-Bagdad	note	B5_lg317	Arabia	place	               
-Bagdad	note	B5_lg317	Babylon	place	               
-Bagdad	note	B5_lg317	Tigris	place	               
-Bagdad	note	B5_lg317	Babylon	place	               
-Bagdad	note	B5_lg317	Babylon	place	               
-Bagdad	note	B5_lg317	Armenia	place	               
-Bagdad	note	B5_lg317	Tigris	place	               
-Bagdad	note	B5_lg317	Armenia	place	               
-Turkey	note	B5_lg319	Bagdad	place	               
-Turkey	note	B5_lg319	Bagdad	place	               
-Turkey	note	B5_lg319	Adanaqui	place	               
-Turkey	note	B5_lg319	Asia Minor	place	               
-Turkey	note	B5_lg319	Babylon	place	               
-Turkey	note	B5_lg319	Babylon	place	               
-Babylon	main	B5_lg320	Euphrates	place	               
-Babylon	main	B5_lg320	Judah	place	               
-Babylon	main	B5_lg320	Euphrates	place	               
-Babylon	main	B5_lg320	Babylon	place	               
-Babylon	main	B5_lg320	Babylon	place	               
-Babylon	main	B5_lg320	Media	place	               
-Babylon	main	B5_lg320	Judah	place	               
-Babylon	main	B5_lg320	Media	place	               
-Babylon	main	B5_lg320	Temple of Belus	place	               
-Babylon	main	B5_lg320	Tower_of_Babel	place	               
-Babylon	main	B5_lg320	Tigris	place	               
-Babylon	main	B5_lg320	Arabia	place	               
-Babylon	main	B5_lg320	Babylon	place	               
-Babylon	main	B5_lg320	St. Paul's steeple	place	               
-Babylon	main	B5_lg320	London	place	               
-Babylon	main	B5_lg320	Euphrates	place	               
-Babylon	main	B5_lg320	Tower_of_Babel	place	               
-Babylon	main	B5_lg320	Babylon	place	               
-Babylon	main	B5_lg320	Babylon	place	               
-Babylon	main	B5_lg320	Babylon	place	               
-Babylon	main	B5_lg320	Naples	place	               
-Babylon	main	B5_lg320	Heaven	metaplace	               
-Babylon	main	B5_lg320	Tower_of_Babel	place	               
-Babylon	main	B5_lg320	Assyria	place	               
-Babylon	main	B5_lg320	Babylon	place	               
-Babylon	main	B5_lg320	Babylon	place	               
-Babylon	main	B5_lg320	Sodom	place	               
-Babylon	main	B5_lg320	Gomorrah	place	               
-Babylon	main	B5_lg320	Euphrates	place	               
-in the prophet's
-antichamber	note	B8_lg470	Medina	place	               
-in the prophet's
-antichamber	note	B8_lg470	Namaz	place	               
-in the prophet's
-antichamber	note	B8_lg470	the_world	place	               
-in the prophet's
-antichamber	note	B8_lg470	the whole expanded universe	place	               
-the_world	note	B8_lg470	Medina	place	               
-the_world	note	B8_lg470	Namaz	place	               
-the_world	note	B8_lg470	in the prophet's
-antichamber	place	               
-the_world	note	B8_lg470	the whole expanded universe	place	               
-the whole expanded universe	note	B8_lg470	Medina	place	               
-the whole expanded universe	note	B8_lg470	Namaz	place	               
-the whole expanded universe	note	B8_lg470	in the prophet's
-antichamber	place	               
-the whole expanded universe	note	B8_lg470	the_world	place	               
-polar	main	B8_lg504	polar	place	               
-polar	main	B8_lg504	Mohareb_Island	metaplace	               
-polar	main	B8_lg504	Mohareb_Island	metaplace	               
-polar	main	B8_lg504	bitumen_pit	place	               
-polar	main	B8_lg504	polar	place	               
-polar	main	B8_lg504	Mohareb_Island	metaplace	               
-polar	main	B8_lg504	Mohareb_Island	metaplace	               
-polar	main	B8_lg504	bitumen_pit	place	               
-bitumen_pit	main	B8_lg504	polar	place	               
-bitumen_pit	main	B8_lg504	polar	place	               
-bitumen_pit	main	B8_lg504	Mohareb_Island	metaplace	               
-bitumen_pit	main	B8_lg504	Mohareb_Island	metaplace	               
-the_world	main	B9_lg517	their final seat	metaplace	               
-the_world	main	B9_lg517	Of bliss, or bale	metaplace	               
-the_world	main	B9_lg517	in the sepulchre	metaplace	               
-the_world	main	B9_lg517	in central fires	metaplace	               
-the_world	main	B9_lg517	the_world	place	               
-the_world	main	B9_lg517	Earth	place	               
-the_world	main	B9_lg517	Babylon	place	               
-the_world	main	B9_lg517	their final seat	metaplace	               
-the_world	main	B9_lg517	Of bliss, or bale	metaplace	               
-the_world	main	B9_lg517	in the sepulchre	metaplace	               
-the_world	main	B9_lg517	in central fires	metaplace	               
-the_world	main	B9_lg517	the_world	place	               
-the_world	main	B9_lg517	Earth	place	               
-the_world	main	B9_lg517	Babylon	place	               
-the_world	main	B9_lg517	the_world	place	               
-the_world	main	B9_lg517	their final seat	metaplace	               
-the_world	main	B9_lg517	Of bliss, or bale	metaplace	               
-the_world	main	B9_lg517	in the sepulchre	metaplace	               
-the_world	main	B9_lg517	in central fires	metaplace	               
-the_world	main	B9_lg517	the_world	place	               
-the_world	main	B9_lg517	Earth	place	               
-the_world	main	B9_lg517	Babylon	place	               
-Persia	note	B9_lg522	Aleppo	place	               
-Persia	note	B9_lg522	England	place	               
-Persia	note	B9_lg522	Norway	place	               
-Persia	note	B9_lg522	Spain Portugal	place	               
-Persia	note	B9_lg522	England	place	               
-Spain Portugal	note	B9_lg522	Aleppo	place	               
-Spain Portugal	note	B9_lg522	England	place	               
-Spain Portugal	note	B9_lg522	Persia	place	               
-Spain Portugal	note	B9_lg522	Norway	place	               
-Spain Portugal	note	B9_lg522	England	place	               
-England	note	B9_lg522	Aleppo	place	               
-England	note	B9_lg522	England	place	               
-England	note	B9_lg522	Persia	place	               
-England	note	B9_lg522	Norway	place	               
-England	note	B9_lg522	Spain Portugal	place	               
-India	note	B9_lg527	Huquam	place	               
-India	note	B9_lg527	Xantung	place	               
-India	note	B9_lg527	Huquam	place	               
-India	note	B9_lg527	Europe	place	               
-India	note	B9_lg527	Xantung	place	               
-India	note	B9_lg527	Huquam	place	               
-India	note	B9_lg527	China	place	               
-England	note	B9_lg528	Dunne	place	               
-England	note	B9_lg528	Ulster	place	               
-England	note	B9_lg528	Couffah	place	               
-England	note	B9_lg528	Molucca Islands	place	               
-England	note	B9_lg528	Hell	metaplace	               
-England	note	B9_lg528	burning_grave	metaplace	               
-Persia	note	B9_lg536	Tombs	metaplace	               
-Persia	note	B9_lg536	Tombs	metaplace	               
-Persia	note	B9_lg536	Tombs	metaplace	               
-Persia	note	B9_lg536	Ardevil	place	               
-Persia	note	B9_lg536	city of Kom	place	               
-Persia	note	B9_lg536	Spain Portugal	place	               
-Persia	note	B9_lg536	to_next_world	metaplace	               
-Persia	note	B9_lg536	Tombs	metaplace	               
-Persia	note	B9_lg536	Tombs	metaplace	               
-Spain Portugal	note	B9_lg536	Tombs	metaplace	               
-Spain Portugal	note	B9_lg536	Tombs	metaplace	               
-Spain Portugal	note	B9_lg536	Tombs	metaplace	               
-Spain Portugal	note	B9_lg536	Persia	place	               
-Spain Portugal	note	B9_lg536	Ardevil	place	               
-Spain Portugal	note	B9_lg536	city of Kom	place	               
-Spain Portugal	note	B9_lg536	to_next_world	metaplace	               
-Spain Portugal	note	B9_lg536	Tombs	metaplace	               
-Spain Portugal	note	B9_lg536	Tombs	metaplace	               
-the earth	main	B9_lg542	Tombs	metaplace	               
-the earth	main	B9_lg542	Earth	place	               
-the earth	main	B9_lg542	Ocean	place	               
-the earth	main	B9_lg542	Universe	metaplace	               
-the earth	main	B9_lg542	Universe	metaplace	               
-Ragusa	note	B9_lg553	Ragusa	place	               
-Ragusa	note	B9_lg553	Constantinople	place	               
-Ragusa	note	B9_lg553	Constantinople	place	               
-Ragusa	note	B9_lg553	Christendom	place	               
-Ragusa	note	B9_lg553	Islands of Barlovento	place	               
-Ragusa	note	B9_lg553	Brazil	place	               
-Ragusa	note	B9_lg553	Santa Marta	place	               
-Ragusa	note	B9_lg553	the new kingdom	place	               
-Ragusa	note	B9_lg553	Peru	place	               
-Ragusa	note	B9_lg553	Arabia	place	               
-Ragusa	note	B9_lg553	Brazil	place	               
-Ragusa	note	B9_lg553	Java	place	               
-Ragusa	note	B9_lg553	East Indies	place	               
-Ragusa	note	B9_lg553	Java	place	               
-Ragusa	note	B9_lg553	the world	place	               
-the new kingdom	note	B9_lg553	Ragusa	place	               
-the new kingdom	note	B9_lg553	Ragusa	place	               
-the new kingdom	note	B9_lg553	Constantinople	place	               
-the new kingdom	note	B9_lg553	Constantinople	place	               
-the new kingdom	note	B9_lg553	Christendom	place	               
-the new kingdom	note	B9_lg553	Islands of Barlovento	place	               
-the new kingdom	note	B9_lg553	Brazil	place	               
-the new kingdom	note	B9_lg553	Santa Marta	place	               
-the new kingdom	note	B9_lg553	Peru	place	               
-the new kingdom	note	B9_lg553	Arabia	place	               
-the new kingdom	note	B9_lg553	Brazil	place	               
-the new kingdom	note	B9_lg553	Java	place	               
-the new kingdom	note	B9_lg553	East Indies	place	               
-the new kingdom	note	B9_lg553	Java	place	               
-the new kingdom	note	B9_lg553	the world	place	               
-Mohareb_Island	main	B9_lg559	Heaven	metaplace	               
-Mohareb_Island	main	B9_lg559	air_transport	metaplace	               
-Mohareb_Island	main	B9_lg559	The Upas Tree of Death	metaplace	               
-sky	main	B1_lg2	ocean	place	               
-Irem_removed	main	B1_lg19	Universe	place	               
-Irem_removed	main	B1_lg19	the_world	place	               
-sky	note	B1_lg20	The Paradise of Irem	place	               
-sky	note	B1_lg20	Al_Ahkaf	place	               
-sky	note	B1_lg20	Hadramaut	place	               
-sky	note	B1_lg20	garden of Irem	place	               
-sky	note	B1_lg20	the desarts of Aden	place	               
-sky	note	B1_lg20	Arabia	place	               
-sky	note	B1_lg20	province of Hegiaz	place	               
-sky	note	B1_lg20	province of Hegiaz	place	               
-sky	note	B1_lg20	Red Hillock	place	               
-sky	note	B1_lg20	Red_Hillock	place	               
-sky	note	B1_lg20	the valley of Magaith	place	               
-sky	note	B1_lg20	the_world	place	               
-sky	note	B1_lg20	Al_Ahkaf	place	               
-sky	note	B1_lg20	Al_Ahkaf	place	               
-Eden	main	B1_lg23	the East	place	               
-Eden	main	B1_lg23	Africa	place	               
-Eden	main	B1_lg23	Africa	place	               
-Eden	main	B1_lg23	Ethiopia	place	               
-Eden	main	B1_lg23	Ethiopia	place	               
-Eden	main	B1_lg23	Ethiopia	place	               
-sky	main	B1_lg35	Egypt	place	               
-sky	main	B1_lg35	Egypt	place	               
-sky	main	B1_lg35	the whole earth	place	               
-sky	main	B1_lg35	Egypt	place	               
-sky	main	B1_lg35	Egypt	place	               
-sky	main	B1_lg35	the river Nilus	place	               
-sky	main	B1_lg35	the countries of the west	place	               
-sky	main	B1_lg35	the land Al-Said	place	               
-sky	main	B1_lg35	Abulfeda	place	               
-sky	main	B1_lg35	Ægypt	place	               
-sky	main	B1_lg35	the_world	place	               
-sky	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
-sky	main	B1_lg35	Bologna	place	               
-sky	main	B1_lg35	East Indies	place	               
-sky	main	B1_lg35	Eden	metaplace	               
-sky	main	B1_lg35	Eden	metaplace	               
-sky	main	B1_lg35	Eden	metaplace	               
-sky	main	B1_lg35	Egypt	place	               
-sky	main	B1_lg35	Ad	place	               
-sky	main	B1_lg35	Syria	place	               
-sky	main	B1_lg35	Ormus	place	               
-sky	main	B1_lg35	Damascus	place	               
-sky	main	B1_lg35	Irem_removed	metaplace	               
-sky	main	B1_lg35	Irem	place	               
-sky	main	B1_lg35	the East	place	               
-the subterranean palaces of Romance	note	B1_lg35	Egypt	place	               
-the subterranean palaces of Romance	note	B1_lg35	Egypt	place	               
-the subterranean palaces of Romance	note	B1_lg35	the whole earth	place	               
-the subterranean palaces of Romance	note	B1_lg35	Egypt	place	               
-the subterranean palaces of Romance	note	B1_lg35	Egypt	place	               
-the subterranean palaces of Romance	note	B1_lg35	the river Nilus	place	               
-the subterranean palaces of Romance	note	B1_lg35	the countries of the west	place	               
-the subterranean palaces of Romance	note	B1_lg35	the land Al-Said	place	               
-the subterranean palaces of Romance	note	B1_lg35	Abulfeda	place	               
-the subterranean palaces of Romance	note	B1_lg35	Ægypt	place	               
-the subterranean palaces of Romance	note	B1_lg35	the_world	place	               
-the subterranean palaces of Romance	note	B1_lg35	sky	metaplace	               
-the subterranean palaces of Romance	note	B1_lg35	Bologna	place	               
-the subterranean palaces of Romance	note	B1_lg35	East Indies	place	               
-the subterranean palaces of Romance	note	B1_lg35	Eden	metaplace	               
-the subterranean palaces of Romance	note	B1_lg35	Eden	metaplace	               
-the subterranean palaces of Romance	note	B1_lg35	Eden	metaplace	               
-the subterranean palaces of Romance	note	B1_lg35	Egypt	place	               
-the subterranean palaces of Romance	note	B1_lg35	Ad	place	               
-the subterranean palaces of Romance	note	B1_lg35	Syria	place	               
-the subterranean palaces of Romance	note	B1_lg35	Ormus	place	               
-the subterranean palaces of Romance	note	B1_lg35	Damascus	place	               
-the subterranean palaces of Romance	note	B1_lg35	Irem_removed	metaplace	               
-the subterranean palaces of Romance	note	B1_lg35	Irem	place	               
-the subterranean palaces of Romance	note	B1_lg35	the East	place	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	the whole earth	place	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	the river Nilus	place	               
-Eden	main	B1_lg35	the countries of the west	place	               
-Eden	main	B1_lg35	the land Al-Said	place	               
-Eden	main	B1_lg35	Abulfeda	place	               
-Eden	main	B1_lg35	Ægypt	place	               
-Eden	main	B1_lg35	the_world	place	               
-Eden	main	B1_lg35	sky	metaplace	               
-Eden	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
-Eden	main	B1_lg35	Bologna	place	               
-Eden	main	B1_lg35	East Indies	place	               
-Eden	main	B1_lg35	Eden	metaplace	               
-Eden	main	B1_lg35	Eden	metaplace	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	Ad	place	               
-Eden	main	B1_lg35	Syria	place	               
-Eden	main	B1_lg35	Ormus	place	               
-Eden	main	B1_lg35	Damascus	place	               
-Eden	main	B1_lg35	Irem_removed	metaplace	               
-Eden	main	B1_lg35	Irem	place	               
-Eden	main	B1_lg35	the East	place	               
-Eden	note	B1_lg35	Egypt	place	               
-Eden	note	B1_lg35	Egypt	place	               
-Eden	note	B1_lg35	the whole earth	place	               
-Eden	note	B1_lg35	Egypt	place	               
-Eden	note	B1_lg35	Egypt	place	               
-Eden	note	B1_lg35	the river Nilus	place	               
-Eden	note	B1_lg35	the countries of the west	place	               
-Eden	note	B1_lg35	the land Al-Said	place	               
-Eden	note	B1_lg35	Abulfeda	place	               
-Eden	note	B1_lg35	Ægypt	place	               
-Eden	note	B1_lg35	the_world	place	               
-Eden	note	B1_lg35	sky	metaplace	               
-Eden	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
-Eden	note	B1_lg35	Bologna	place	               
-Eden	note	B1_lg35	East Indies	place	               
-Eden	note	B1_lg35	Eden	metaplace	               
-Eden	note	B1_lg35	Eden	metaplace	               
-Eden	note	B1_lg35	Egypt	place	               
-Eden	note	B1_lg35	Ad	place	               
-Eden	note	B1_lg35	Syria	place	               
-Eden	note	B1_lg35	Ormus	place	               
-Eden	note	B1_lg35	Damascus	place	               
-Eden	note	B1_lg35	Irem_removed	metaplace	               
-Eden	note	B1_lg35	Irem	place	               
-Eden	note	B1_lg35	the East	place	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	the whole earth	place	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	the river Nilus	place	               
-Eden	main	B1_lg35	the countries of the west	place	               
-Eden	main	B1_lg35	the land Al-Said	place	               
-Eden	main	B1_lg35	Abulfeda	place	               
-Eden	main	B1_lg35	Ægypt	place	               
-Eden	main	B1_lg35	the_world	place	               
-Eden	main	B1_lg35	sky	metaplace	               
-Eden	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
-Eden	main	B1_lg35	Bologna	place	               
-Eden	main	B1_lg35	East Indies	place	               
-Eden	main	B1_lg35	Eden	metaplace	               
-Eden	main	B1_lg35	Eden	metaplace	               
-Eden	main	B1_lg35	Egypt	place	               
-Eden	main	B1_lg35	Ad	place	               
-Eden	main	B1_lg35	Syria	place	               
-Eden	main	B1_lg35	Ormus	place	               
-Eden	main	B1_lg35	Damascus	place	               
-Eden	main	B1_lg35	Irem_removed	metaplace	               
-Eden	main	B1_lg35	Irem	place	               
-Eden	main	B1_lg35	the East	place	               
-Irem_removed	note	B1_lg35	Egypt	place	               
-Irem_removed	note	B1_lg35	Egypt	place	               
-Irem_removed	note	B1_lg35	the whole earth	place	               
-Irem_removed	note	B1_lg35	Egypt	place	               
-Irem_removed	note	B1_lg35	Egypt	place	               
-Irem_removed	note	B1_lg35	the river Nilus	place	               
-Irem_removed	note	B1_lg35	the countries of the west	place	               
-Irem_removed	note	B1_lg35	the land Al-Said	place	               
-Irem_removed	note	B1_lg35	Abulfeda	place	               
-Irem_removed	note	B1_lg35	Ægypt	place	               
-Irem_removed	note	B1_lg35	the_world	place	               
-Irem_removed	note	B1_lg35	sky	metaplace	               
-Irem_removed	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
-Irem_removed	note	B1_lg35	Bologna	place	               
-Irem_removed	note	B1_lg35	East Indies	place	               
-Irem_removed	note	B1_lg35	Eden	metaplace	               
-Irem_removed	note	B1_lg35	Eden	metaplace	               
-Irem_removed	note	B1_lg35	Eden	metaplace	               
-Irem_removed	note	B1_lg35	Egypt	place	               
-Irem_removed	note	B1_lg35	Ad	place	               
-Irem_removed	note	B1_lg35	Syria	place	               
-Irem_removed	note	B1_lg35	Ormus	place	               
-Irem_removed	note	B1_lg35	Damascus	place	               
-Irem_removed	note	B1_lg35	Irem	place	               
-Irem_removed	note	B1_lg35	the East	place	               
-Of Paradise	main	B1_lg36	Ad	place	               
-Of Paradise	main	B1_lg36	Eden	metaplace	               
-Of Paradise	main	B1_lg36	Eden	metaplace	               
-Eden	main	B1_lg36	Ad	place	               
-Eden	main	B1_lg36	Of Paradise	metaplace	               
-Eden	main	B1_lg36	Eden	metaplace	               
-Eden	main	B1_lg36	Ad	place	               
-Eden	main	B1_lg36	Of Paradise	metaplace	               
-Eden	main	B1_lg36	Eden	metaplace	               
-sky	main	B1_lg43	Mecca	place	               
-sky	main	B1_lg43	Red Hillock	place	               
-sky	main	B1_lg43	Heaven	metaplace	               
-Heaven	main	B1_lg43	Mecca	place	               
-Heaven	main	B1_lg43	Red Hillock	place	               
-Heaven	main	B1_lg43	sky	metaplace	               
-Domdaniel_Cave	main	B2_lg60	the desert	place	               
-Domdaniel_Cave	main	B2_lg61	Under the Roots of the Ocean,	metaplace	               
-Domdaniel_Cave	main	B2_lg61	Domdaniel_Cave	metaplace	               
-Under the Roots of the Ocean,	main	B2_lg61	Domdaniel_Cave	metaplace	               
-Under the Roots of the Ocean,	main	B2_lg61	Domdaniel_Cave	metaplace	               
-Domdaniel_Cave	main	B2_lg61	Domdaniel_Cave	metaplace	               
-Domdaniel_Cave	main	B2_lg61	Under the Roots of the Ocean,	metaplace	               
-Irem_removed	main	B2_lg68	Ocean	place	               
-Irem_removed	main	B2_lg68	Earth	place	               
-Irem_removed	main	B2_lg68	Ocean	place	               
-Irem_removed	main	B2_lg68	Earth	place	               
-Heaven	main	B2_lg72	Irem_removed	metaplace	               
-Heaven	main	B2_lg72	Ocean	place	               
-Heaven	main	B2_lg72	Earth	place	               
-Heaven	main	B2_lg72	Allah's glory throne	metaplace	               
-Heaven	main	B2_lg72	Irem_removed	metaplace	               
-Irem_removed	main	B2_lg72	Heaven	metaplace	               
-Irem_removed	main	B2_lg72	Ocean	place	               
-Irem_removed	main	B2_lg72	Earth	place	               
-Irem_removed	main	B2_lg72	Allah's glory throne	metaplace	               
-Irem_removed	main	B2_lg72	Irem_removed	metaplace	               
-Allah's glory throne	main	B2_lg72	Heaven	metaplace	               
-Allah's glory throne	main	B2_lg72	Irem_removed	metaplace	               
-Allah's glory throne	main	B2_lg72	Ocean	place	               
-Allah's glory throne	main	B2_lg72	Earth	place	               
-Allah's glory throne	main	B2_lg72	Irem_removed	metaplace	               
-Irem_removed	main	B2_lg72	Heaven	metaplace	               
-Irem_removed	main	B2_lg72	Irem_removed	metaplace	               
-Irem_removed	main	B2_lg72	Ocean	place	               
-Irem_removed	main	B2_lg72	Earth	place	               
-Irem_removed	main	B2_lg72	Allah's glory throne	metaplace	               
-Eden	main	B2_lg74	the throne of God	metaplace	               
-the throne of God	main	B2_lg74	Eden	metaplace	               
-Hell	main	B2_lg75	Heaven	metaplace	               
-Heaven	main	B2_lg75	Hell	metaplace	               
-the inner den	main	B2_lg85	the Abyss	place	               
-the inner den	main	B2_lg85	the_world	place	               
-the planet Venus	note	B4_lg218	what passes in distant countries	metaplace	               
-the planet Venus	note	B4_lg218	Bagdad	place	               
-the planet Venus	note	B4_lg218	Yemen	place	               
-the planet Venus	note	B4_lg218	Mecca	place	               
-the planet Venus	note	B4_lg218	Mecca	place	               
-the planet Venus	note	B4_lg218	Bombay	place	               
-what passes in distant countries	note	B4_lg218	the planet Venus	metaplace	               
-what passes in distant countries	note	B4_lg218	Bagdad	place	               
-what passes in distant countries	note	B4_lg218	Yemen	place	               
-what passes in distant countries	note	B4_lg218	Mecca	place	               
-what passes in distant countries	note	B4_lg218	Mecca	place	               
-what passes in distant countries	note	B4_lg218	Bombay	place	               
-sky	main	B4_lg276	the_world	place	               
-sky	main	B4_lg276	river
-Aldea	place	               
-sky	main	B4_lg276	Lisboa	place	               
-sky	main	B4_lg276	a nation of one
-legged men	metaplace	               
-sky	main	B4_lg276	sky	metaplace	               
-sky	main	B4_lg276	the_world	place	               
-sky	main	B4_lg276	the viewless Element	metaplace	               
-sky	main	B4_lg276	air_transport	metaplace	               
-a nation of one
-legged men	note	B4_lg276	sky	metaplace	               
-a nation of one
-legged men	note	B4_lg276	the_world	place	               
-a nation of one
-legged men	note	B4_lg276	river
-Aldea	place	               
-a nation of one
-legged men	note	B4_lg276	Lisboa	place	               
-a nation of one
-legged men	note	B4_lg276	sky	metaplace	               
-a nation of one
-legged men	note	B4_lg276	the_world	place	               
-a nation of one
-legged men	note	B4_lg276	the viewless Element	metaplace	               
-a nation of one
-legged men	note	B4_lg276	air_transport	metaplace	               
-sky	note	B4_lg276	sky	metaplace	               
-sky	note	B4_lg276	the_world	place	               
-sky	note	B4_lg276	river
-Aldea	place	               
-sky	note	B4_lg276	Lisboa	place	               
-sky	note	B4_lg276	a nation of one
-legged men	metaplace	               
-sky	note	B4_lg276	the_world	place	               
-sky	note	B4_lg276	the viewless Element	metaplace	               
-sky	note	B4_lg276	air_transport	metaplace	               
-the viewless Element	main	B4_lg276	sky	metaplace	               
-the viewless Element	main	B4_lg276	the_world	place	               
-the viewless Element	main	B4_lg276	river
-Aldea	place	               
-the viewless Element	main	B4_lg276	Lisboa	place	               
-the viewless Element	main	B4_lg276	a nation of one
-legged men	metaplace	               
-the viewless Element	main	B4_lg276	sky	metaplace	               
-the viewless Element	main	B4_lg276	the_world	place	               
-the viewless Element	main	B4_lg276	air_transport	metaplace	               
-air_transport	main	B4_lg276	sky	metaplace	               
-air_transport	main	B4_lg276	the_world	place	               
-air_transport	main	B4_lg276	river
-Aldea	place	               
-air_transport	main	B4_lg276	Lisboa	place	               
-air_transport	main	B4_lg276	a nation of one
-legged men	metaplace	               
-air_transport	main	B4_lg276	sky	metaplace	               
-air_transport	main	B4_lg276	the_world	place	               
-air_transport	main	B4_lg276	the viewless Element	metaplace	               
-another
-world	note	B5_lg315	Bagdad	place	               
-another
-world	note	B5_lg315	Bagdad	place	               
-another
-world	note	B5_lg315	an Oriental city	place	               
-another
-world	note	B5_lg315	Aleppo	place	               
-another
-world	note	B5_lg315	Ispahan	place	               
-another
-world	note	B5_lg315	Paris	place	               
-another
-world	note	B5_lg315	Paris	place	               
-another
-world	note	B5_lg315	Ispahan	place	               
-another
-world	note	B5_lg315	Alexandria	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	Euphrates	place	               
-Heaven	note	B5_lg320	Judah	place	               
-Heaven	note	B5_lg320	Euphrates	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	Media	place	               
-Heaven	note	B5_lg320	Judah	place	               
-Heaven	note	B5_lg320	Media	place	               
-Heaven	note	B5_lg320	Temple of Belus	place	               
-Heaven	note	B5_lg320	Tower_of_Babel	place	               
-Heaven	note	B5_lg320	Tigris	place	               
-Heaven	note	B5_lg320	Arabia	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	St. Paul's steeple	place	               
-Heaven	note	B5_lg320	London	place	               
-Heaven	note	B5_lg320	Euphrates	place	               
-Heaven	note	B5_lg320	Tower_of_Babel	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	Naples	place	               
-Heaven	note	B5_lg320	Tower_of_Babel	place	               
-Heaven	note	B5_lg320	Assyria	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	Babylon	place	               
-Heaven	note	B5_lg320	Sodom	place	               
-Heaven	note	B5_lg320	Gomorrah	place	               
-Heaven	note	B5_lg320	Euphrates	place	               
-Mahumetical Paradise	note	B7_lg413	Persia	place	               
-Mahumetical Paradise	note	B7_lg413	Paradise	place	               
-Mahumetical Paradise	note	B7_lg413	Paradise	place	               
-Mahumetical Paradise	note	B7_lg413	walled_mountain_Paradise	metaplace	               
-Mahumetical Paradise	note	B7_lg413	Melistorte	place	               
-Mahumetical Paradise	note	B7_lg413	Yle of Pentexoire	place	               
-walled_mountain_Paradise	note	B7_lg413	Persia	place	               
-walled_mountain_Paradise	note	B7_lg413	Paradise	place	               
-walled_mountain_Paradise	note	B7_lg413	Mahumetical Paradise	metaplace	               
-walled_mountain_Paradise	note	B7_lg413	Paradise	place	               
-walled_mountain_Paradise	note	B7_lg413	Melistorte	place	               
-walled_mountain_Paradise	note	B7_lg413	Yle of Pentexoire	place	               
-Tombs	main	B8_lg466	the Sepulchre	place	               
-Greek_Tombs	note	B8_lg472	Tombs	metaplace	               
-Greek_Tombs	note	B8_lg472	Mylasa	place	               
-Greek_Tombs	note	B8_lg472	Tombs	place	               
-Tombs	note	B8_lg472	Greek_Tombs	metaplace	               
-Tombs	note	B8_lg472	Mylasa	place	               
-Tombs	note	B8_lg472	Tombs	place	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Tombs	main	B8_lg474	Tombs	metaplace	               
-Vampire	note	B8_lg475	Belgrade	place	               
-Vampire	note	B8_lg475	Gradisch	place	               
-Vampire	note	B8_lg475	Sclavonia	place	               
-Vampire	note	B8_lg475	Kisilova	place	               
-Vampire	note	B8_lg475	Gradisch	place	               
-Vampire	note	B8_lg475	Belgrade	place	               
-Vampire	note	B8_lg475	Gradisch	place	               
-Vampire	note	B8_lg475	Hungary	place	               
-Vampire	note	B8_lg475	Oppida Heidonum	place	               
-Vampire	note	B8_lg475	Tibiscus	place	               
-Vampire	note	B8_lg475	Teysse	place	               
-Vampire	note	B8_lg475	Tokay	place	               
-Vampire	note	B8_lg475	Transilvania	place	               
-Vampire	note	B8_lg475	Medreiga	place	               
-Vampire	note	B8_lg475	Cossova	place	               
-Vampire	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
-Vampire	note	B8_lg475	Servia	place	               
-Vampire	note	B8_lg475	Vampire	metaplace	               
-Vampire	note	B8_lg475	Saave	place	               
-Vampire	note	B8_lg475	Vienna	place	               
-Vampire	note	B8_lg475	Wirtemberg	place	               
-Vampire	note	B8_lg475	Furstemberg	place	               
-Vampire	note	B8_lg475	Greece	place	               
-Vampire	note	B8_lg475	Mycone	place	               
-Vampire	note	B8_lg475	Christendom	place	               
-Vampire	note	B8_lg475	Mycone	place	               
-Vampire	note	B8_lg475	Syre	place	               
-Vampire	note	B8_lg475	Tinos	place	               
-Vampire	note	B8_lg475	St. George	place	               
-Vampire	note	B8_lg475	Delos	place	               
-Vampire	note	B8_lg475	Vampire	metaplace	               
-Vampire	note	B8_lg475	Belgrade	place	               
-Vampire	note	B8_lg475	Gradisch	place	               
-Vampire	note	B8_lg475	Sclavonia	place	               
-Vampire	note	B8_lg475	Kisilova	place	               
-Vampire	note	B8_lg475	Gradisch	place	               
-Vampire	note	B8_lg475	Belgrade	place	               
-Vampire	note	B8_lg475	Gradisch	place	               
-Vampire	note	B8_lg475	Hungary	place	               
-Vampire	note	B8_lg475	Oppida Heidonum	place	               
-Vampire	note	B8_lg475	Tibiscus	place	               
-Vampire	note	B8_lg475	Teysse	place	               
-Vampire	note	B8_lg475	Tokay	place	               
-Vampire	note	B8_lg475	Transilvania	place	               
-Vampire	note	B8_lg475	Medreiga	place	               
-Vampire	note	B8_lg475	Cossova	place	               
-Vampire	note	B8_lg475	Frontiers of the Turkish Servia
-place	               
-Vampire	note	B8_lg475	Servia	place	               
-Vampire	note	B8_lg475	Saave	place	               
-Vampire	note	B8_lg475	Vienna	place	               
-Vampire	note	B8_lg475	Wirtemberg	place	               
-Vampire	note	B8_lg475	Furstemberg	place	               
-Vampire	note	B8_lg475	Greece	place	               
-Vampire	note	B8_lg475	Mycone	place	               
-Vampire	note	B8_lg475	Christendom	place	               
-Vampire	note	B8_lg475	Mycone	place	               
-Vampire	note	B8_lg475	Syre	place	               
-Vampire	note	B8_lg475	Tinos	place	               
-Vampire	note	B8_lg475	St. George	place	               
-Vampire	note	B8_lg475	Delos	place	               
-Heaven	main	B8_lg476	Heaven	metaplace	               
-Heaven	main	B8_lg476	Araby	place	               
-Heaven	main	B8_lg476	Heaven	metaplace	               
-Heaven	main	B8_lg476	Araby	place	               
-Heaven	main	B8_lg477	Tombs	place	               
-sky	main	B8_lg482	Arabia	place	               
-Mohareb_Island	main	B8_lg504	polar	place	               
-Mohareb_Island	main	B8_lg504	polar	place	               
-Mohareb_Island	main	B8_lg504	Mohareb_Island	metaplace	               
-Mohareb_Island	main	B8_lg504	bitumen_pit	place	               
-Mohareb_Island	note	B8_lg504	polar	place	               
-Mohareb_Island	note	B8_lg504	polar	place	               
-Mohareb_Island	note	B8_lg504	Mohareb_Island	metaplace	               
-Mohareb_Island	note	B8_lg504	bitumen_pit	place	               
-their final seat	main	B9_lg517	the_world	place	               
-their final seat	main	B9_lg517	Of bliss, or bale	metaplace	               
-their final seat	main	B9_lg517	in the sepulchre	metaplace	               
-their final seat	main	B9_lg517	in central fires	metaplace	               
-their final seat	main	B9_lg517	the_world	place	               
-their final seat	main	B9_lg517	the_world	place	               
-their final seat	main	B9_lg517	Earth	place	               
-their final seat	main	B9_lg517	Babylon	place	               
-Of bliss, or bale	main	B9_lg517	the_world	place	               
-Of bliss, or bale	main	B9_lg517	their final seat	metaplace	               
-Of bliss, or bale	main	B9_lg517	in the sepulchre	metaplace	               
-Of bliss, or bale	main	B9_lg517	in central fires	metaplace	               
-Of bliss, or bale	main	B9_lg517	the_world	place	               
-Of bliss, or bale	main	B9_lg517	the_world	place	               
-Of bliss, or bale	main	B9_lg517	Earth	place	               
-Of bliss, or bale	main	B9_lg517	Babylon	place	               
-in the sepulchre	main	B9_lg517	the_world	place	               
-in the sepulchre	main	B9_lg517	their final seat	metaplace	               
-in the sepulchre	main	B9_lg517	Of bliss, or bale	metaplace	               
-in the sepulchre	main	B9_lg517	in central fires	metaplace	               
-in the sepulchre	main	B9_lg517	the_world	place	               
-in the sepulchre	main	B9_lg517	the_world	place	               
-in the sepulchre	main	B9_lg517	Earth	place	               
-in the sepulchre	main	B9_lg517	Babylon	place	               
-in central fires	main	B9_lg517	the_world	place	               
-in central fires	main	B9_lg517	their final seat	metaplace	               
-in central fires	main	B9_lg517	Of bliss, or bale	metaplace	               
-in central fires	main	B9_lg517	in the sepulchre	metaplace	               
-in central fires	main	B9_lg517	the_world	place	               
-in central fires	main	B9_lg517	the_world	place	               
-in central fires	main	B9_lg517	Earth	place	               
-in central fires	main	B9_lg517	Babylon	place	               
-the Sun and Moon and Stars	main	B9_lg518	Earth	place	               
-the Sun and Moon and Stars	main	B9_lg518	Heaven	metaplace	               
-the Sun and Moon and Stars	main	B9_lg518	the World	place	               
-the Sun and Moon and Stars	main	B9_lg518	Heaven	metaplace	               
-the Sun and Moon and Stars	main	B9_lg518	Heaven	metaplace	               
-the Sun and Moon and Stars	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	the Sun and Moon and Stars	metaplace	               
-Heaven	main	B9_lg518	Earth	place	               
-Heaven	main	B9_lg518	the World	place	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	the Sun and Moon and Stars	metaplace	               
-Heaven	main	B9_lg518	Earth	place	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	the World	place	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	the Sun and Moon and Stars	metaplace	               
-Heaven	main	B9_lg518	Earth	place	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	the World	place	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	the Sun and Moon and Stars	metaplace	               
-Heaven	main	B9_lg518	Earth	place	               
-Heaven	main	B9_lg518	the World	place	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Heaven	main	B9_lg518	Heaven	metaplace	               
-Hell	note	B9_lg528	England	place	               
-Hell	note	B9_lg528	Dunne	place	               
-Hell	note	B9_lg528	Ulster	place	               
-Hell	note	B9_lg528	Couffah	place	               
-Hell	note	B9_lg528	Molucca Islands	place	               
-Hell	note	B9_lg528	burning_grave	metaplace	               
-burning_grave	note	B9_lg528	England	place	               
-burning_grave	note	B9_lg528	Dunne	place	               
-burning_grave	note	B9_lg528	Ulster	place	               
-burning_grave	note	B9_lg528	Couffah	place	               
-burning_grave	note	B9_lg528	Molucca Islands	place	               
-burning_grave	note	B9_lg528	Hell	metaplace	               
-Hell	main	B9_lg534	Mount_Ararat	place	               
-Hell	main	B9_lg534	Mount_Ararat	place	               
-Hell	main	B9_lg534	Lubar	place	               
-Hell	main	B9_lg534	Abbey of St. Gregorie's Monks	place	               
-Hell	main	B9_lg534	Ark_transport	metaplace	               
-Hell	main	B9_lg534	Arabia	place	               
-Hell	main	B9_lg534	Helicon	place	               
-Hell	main	B9_lg534	Psylli	place	               
-Hell	main	B9_lg534	England	place	               
-Ark_transport	note	B9_lg534	Hell	metaplace	               
-Ark_transport	note	B9_lg534	Mount_Ararat	place	               
-Ark_transport	note	B9_lg534	Mount_Ararat	place	               
-Ark_transport	note	B9_lg534	Lubar	place	               
-Ark_transport	note	B9_lg534	Abbey of St. Gregorie's Monks	place	               
-Ark_transport	note	B9_lg534	Arabia	place	               
-Ark_transport	note	B9_lg534	Helicon	place	               
-Ark_transport	note	B9_lg534	Psylli	place	               
-Ark_transport	note	B9_lg534	England	place	               
-blessed Sun	main	B9_lg535	sky	metaplace	               
-blessed Sun	main	B9_lg535	Earth	place	               
-blessed Sun	main	B9_lg535	sky	metaplace	               
-blessed Sun	main	B9_lg535	Khawla_breath	metaplace	               
-blessed Sun	main	B9_lg535	Khawla_breath	metaplace	               
-blessed Sun	main	B9_lg535	Khawla_breath	metaplace	               
-blessed Sun	main	B9_lg535	Khawla_breath	metaplace	               
-blessed Sun	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	blessed Sun	metaplace	               
-sky	main	B9_lg535	Earth	place	               
-sky	main	B9_lg535	sky	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	blessed Sun	metaplace	               
-sky	main	B9_lg535	sky	metaplace	               
-sky	main	B9_lg535	Earth	place	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-sky	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	blessed Sun	metaplace	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Earth	place	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	blessed Sun	metaplace	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Earth	place	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	blessed Sun	metaplace	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Earth	place	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	blessed Sun	metaplace	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Earth	place	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	blessed Sun	metaplace	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Earth	place	               
-Khawla_breath	main	B9_lg535	sky	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Khawla_breath	main	B9_lg535	Khawla_breath	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Persia	place	               
-Tombs	main	B9_lg536	Ardevil	place	               
-Tombs	main	B9_lg536	city of Kom	place	               
-Tombs	main	B9_lg536	Spain Portugal	place	               
-Tombs	main	B9_lg536	to_next_world	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Persia	place	               
-Tombs	main	B9_lg536	Ardevil	place	               
-Tombs	main	B9_lg536	city of Kom	place	               
-Tombs	main	B9_lg536	Spain Portugal	place	               
-Tombs	main	B9_lg536	to_next_world	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Persia	place	               
-Tombs	main	B9_lg536	Ardevil	place	               
-Tombs	main	B9_lg536	city of Kom	place	               
-Tombs	main	B9_lg536	Spain Portugal	place	               
-Tombs	main	B9_lg536	to_next_world	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-Tombs	main	B9_lg536	Tombs	metaplace	               
-to_next_world	note	B9_lg536	Tombs	metaplace	               
-to_next_world	note	B9_lg536	Tombs	metaplace	               
-to_next_world	note	B9_lg536	Tombs	metaplace	               
-to_next_world	note	B9_lg536	Persia	place	               
-to_next_world	note	B9_lg536	Ardevil	place	               
-to_next_world	note	B9_lg536	city of Kom	place	               
-to_next_world	note	B9_lg536	Spain Portugal	place	               
-to_next_world	note	B9_lg536	Tombs	metaplace	               
-to_next_world	note	B9_lg536	Tombs	metaplace	               
-Tombs	note	B9_lg536	Tombs	metaplace	               
-Tombs	note	B9_lg536	Tombs	metaplace	               
-Tombs	note	B9_lg536	Tombs	metaplace	               
-Tombs	note	B9_lg536	Persia	place	               
-Tombs	note	B9_lg536	Ardevil	place	               
-Tombs	note	B9_lg536	city of Kom	place	               
-Tombs	note	B9_lg536	Spain Portugal	place	               
-Tombs	note	B9_lg536	to_next_world	metaplace	               
-Tombs	note	B9_lg536	Tombs	metaplace	               
-Tombs	note	B9_lg536	Tombs	metaplace	               
-Tombs	note	B9_lg536	Tombs	metaplace	               
-Tombs	note	B9_lg536	Tombs	metaplace	               
-Tombs	note	B9_lg536	Persia	place	               
-Tombs	note	B9_lg536	Ardevil	place	               
-Tombs	note	B9_lg536	city of Kom	place	               
-Tombs	note	B9_lg536	Spain Portugal	place	               
-Tombs	note	B9_lg536	to_next_world	metaplace	               
-Tombs	note	B9_lg536	Tombs	metaplace	               
-sky	main	B9_lg537	sky	metaplace	               
-sky	main	B9_lg537	sky	metaplace	               
-sky	main	B9_lg537	sky	metaplace	               
-sky	main	B9_lg537	sky	metaplace	               
-sky	main	B9_lg537	sky	metaplace	               
-sky	main	B9_lg537	sky	metaplace	               
-Tombs	main	B9_lg542	the earth	place	               
-Tombs	main	B9_lg542	Earth	place	               
-Tombs	main	B9_lg542	Ocean	place	               
-Tombs	main	B9_lg542	Universe	metaplace	               
-Tombs	main	B9_lg542	Universe	metaplace	               
-Universe	main	B9_lg542	Tombs	metaplace	               
-Universe	main	B9_lg542	the earth	place	               
-Universe	main	B9_lg542	Earth	place	               
-Universe	main	B9_lg542	Ocean	place	               
-Universe	main	B9_lg542	Universe	metaplace	               
-Universe	main	B9_lg542	Tombs	metaplace	               
-Universe	main	B9_lg542	the earth	place	               
-Universe	main	B9_lg542	Earth	place	               
-Universe	main	B9_lg542	Ocean	place	               
-Universe	main	B9_lg542	Universe	metaplace	               
-air_transport	main	B9_lg544	air_transport	metaplace	               
-air_transport	main	B9_lg544	air_transport	metaplace	               
-Heaven	main	B9_lg559	Mohareb_Island	place	               
-Heaven	main	B9_lg559	air_transport	metaplace	               
-Heaven	main	B9_lg559	The Upas Tree of Death	metaplace	               
-air_transport	main	B9_lg559	Mohareb_Island	place	               
-air_transport	main	B9_lg559	Heaven	metaplace	               
-air_transport	main	B9_lg559	The Upas Tree of Death	metaplace	               
-The Upas Tree of Death	main	B9_lg559	Mohareb_Island	place	               
-The Upas Tree of Death	main	B9_lg559	Heaven	metaplace	               
-The Upas Tree of Death	main	B9_lg559	air_transport	metaplace	               
-Al-Araf	main	B12_lg732	Al-Araf	metaplace	               
-Al-Araf	main	B12_lg732	Paradise	metaplace	               
-Al-Araf	main	B12_lg732	Hell	metaplace	               
-Al-Araf	main	B12_lg732	Purgatory	metaplace	               
-Al-Araf	main	B12_lg732	Al-Araf	metaplace	               
-Al-Araf	main	B12_lg732	Heaven	metaplace	               
-Al-Araf	note	B12_lg732	Al-Araf	metaplace	               
-Al-Araf	note	B12_lg732	Paradise	metaplace	               
-Al-Araf	note	B12_lg732	Hell	metaplace	               
-Al-Araf	note	B12_lg732	Purgatory	metaplace	               
-Al-Araf	note	B12_lg732	Al-Araf	metaplace	               
-Al-Araf	note	B12_lg732	Heaven	metaplace	               
-Paradise	note	B12_lg732	Al-Araf	metaplace	               
-Paradise	note	B12_lg732	Al-Araf	metaplace	               
-Paradise	note	B12_lg732	Hell	metaplace	               
-Paradise	note	B12_lg732	Purgatory	metaplace	               
-Paradise	note	B12_lg732	Al-Araf	metaplace	               
-Paradise	note	B12_lg732	Heaven	metaplace	               
-Hell	note	B12_lg732	Al-Araf	metaplace	               
-Hell	note	B12_lg732	Al-Araf	metaplace	               
-Hell	note	B12_lg732	Paradise	metaplace	               
-Hell	note	B12_lg732	Purgatory	metaplace	               
-Hell	note	B12_lg732	Al-Araf	metaplace	               
-Hell	note	B12_lg732	Heaven	metaplace	               
-Purgatory	note	B12_lg732	Al-Araf	metaplace	               
-Purgatory	note	B12_lg732	Al-Araf	metaplace	               
-Purgatory	note	B12_lg732	Paradise	metaplace	               
-Purgatory	note	B12_lg732	Hell	metaplace	               
-Purgatory	note	B12_lg732	Al-Araf	metaplace	               
-Purgatory	note	B12_lg732	Heaven	metaplace	               
-Al-Araf	note	B12_lg732	Al-Araf	metaplace	               
-Al-Araf	note	B12_lg732	Al-Araf	metaplace	               
-Al-Araf	note	B12_lg732	Paradise	metaplace	               
-Al-Araf	note	B12_lg732	Hell	metaplace	               
-Al-Araf	note	B12_lg732	Purgatory	metaplace	               
-Al-Araf	note	B12_lg732	Heaven	metaplace	               
-Heaven	main	B12_lg732	Al-Araf	metaplace	               
-Heaven	main	B12_lg732	Al-Araf	metaplace	               
-Heaven	main	B12_lg732	Paradise	metaplace	               
-Heaven	main	B12_lg732	Hell	metaplace	               
-Heaven	main	B12_lg732	Purgatory	metaplace	               
-Heaven	main	B12_lg732	Al-Araf	metaplace	               
-Domdaniel_Cave	main	B12_lg738	Ocean-Vault	place	               
-Domdaniel_Cave	main	B12_lg738	Paradise	metaplace	               
-Domdaniel_Cave	main	B12_lg738	Paradise	metaplace	               
-Domdaniel_Cave	main	B12_lg738	Paradise	metaplace	               
-Paradise	main	B12_lg738	Domdaniel_Cave	metaplace	               
-Paradise	main	B12_lg738	Ocean-Vault	place	               
-Paradise	main	B12_lg738	Paradise	metaplace	               
-Paradise	main	B12_lg738	Paradise	metaplace	               
-Paradise	main	B12_lg738	Domdaniel_Cave	metaplace	               
-Paradise	main	B12_lg738	Ocean-Vault	place	               
-Paradise	main	B12_lg738	Paradise	metaplace	               
-Paradise	main	B12_lg738	Paradise	metaplace	               
-Paradise	main	B12_lg738	Domdaniel_Cave	metaplace	               
-Paradise	main	B12_lg738	Ocean-Vault	place	               
-Paradise	main	B12_lg738	Paradise	metaplace	               
-Paradise	main	B12_lg738	Paradise	metaplace	               
+ocean	place	main	B1_lg2	sky	metaplace	               
+Africa	place	main	B1_lg23	Eden	metaplace	               
+Africa	place	main	B1_lg23	the East	place	               
+Africa	place	main	B1_lg23	Africa	place	               
+Africa	place	main	B1_lg23	Ethiopia	place	               
+Africa	place	main	B1_lg23	Ethiopia	place	               
+Africa	place	main	B1_lg23	Ethiopia	place	               
+Africa	place	main	B1_lg23	Eden	metaplace	               
+Africa	place	main	B1_lg23	the East	place	               
+Africa	place	main	B1_lg23	Africa	place	               
+Africa	place	main	B1_lg23	Ethiopia	place	               
+Africa	place	main	B1_lg23	Ethiopia	place	               
+Africa	place	main	B1_lg23	Ethiopia	place	               
+Ethiopia	place	main	B1_lg23	Eden	metaplace	               
+Ethiopia	place	main	B1_lg23	the East	place	               
+Ethiopia	place	main	B1_lg23	Africa	place	               
+Ethiopia	place	main	B1_lg23	Africa	place	               
+Ethiopia	place	main	B1_lg23	Ethiopia	place	               
+Ethiopia	place	main	B1_lg23	Ethiopia	place	               
+Ethiopia	place	main	B1_lg23	Eden	metaplace	               
+Ethiopia	place	main	B1_lg23	the East	place	               
+Ethiopia	place	main	B1_lg23	Africa	place	               
+Ethiopia	place	main	B1_lg23	Africa	place	               
+Ethiopia	place	main	B1_lg23	Ethiopia	place	               
+Ethiopia	place	main	B1_lg23	Ethiopia	place	               
+Ethiopia	place	note	B1_lg23	Eden	metaplace	               
+Ethiopia	place	note	B1_lg23	the East	place	               
+Ethiopia	place	note	B1_lg23	Africa	place	               
+Ethiopia	place	note	B1_lg23	Africa	place	               
+Ethiopia	place	note	B1_lg23	Ethiopia	place	               
+Ethiopia	place	note	B1_lg23	Ethiopia	place	               
+Mecca	place	main	B1_lg26	Mecca	place	               
+Mecca	place	main	B1_lg26	Mecca	place	               
+Mecca	place	main	B1_lg26	Jerusalem	place	               
+Mecca	place	main	B1_lg26	Mecca	place	               
+Mecca	place	main	B1_lg26	Red Hillock	place	               
+Egypt	place	main	B1_lg35	Egypt	place	               
+Egypt	place	main	B1_lg35	the whole earth	place	               
+Egypt	place	main	B1_lg35	Egypt	place	               
+Egypt	place	main	B1_lg35	Egypt	place	               
+Egypt	place	main	B1_lg35	the river Nilus	place	               
+Egypt	place	main	B1_lg35	the countries of the west	place	               
+Egypt	place	main	B1_lg35	the land Al-Said	place	               
+Egypt	place	main	B1_lg35	Abulfeda	place	               
+Egypt	place	main	B1_lg35	Ægypt	place	               
+Egypt	place	main	B1_lg35	the_world	place	               
+Egypt	place	main	B1_lg35	sky	metaplace	               
+Egypt	place	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
+Egypt	place	main	B1_lg35	Bologna	place	               
+Egypt	place	main	B1_lg35	East Indies	place	               
+Egypt	place	main	B1_lg35	Eden	metaplace	               
+Egypt	place	main	B1_lg35	Eden	metaplace	               
+Egypt	place	main	B1_lg35	Eden	metaplace	               
+Egypt	place	main	B1_lg35	Egypt	place	               
+Egypt	place	main	B1_lg35	Ad	place	               
+Egypt	place	main	B1_lg35	Syria	place	               
+Egypt	place	main	B1_lg35	Ormus	place	               
+Egypt	place	main	B1_lg35	Damascus	place	               
+Egypt	place	main	B1_lg35	Irem_removed	metaplace	               
+Egypt	place	main	B1_lg35	Irem	place	               
+Egypt	place	main	B1_lg35	the East	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	the whole earth	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	the river Nilus	place	               
+Egypt	place	note	B1_lg35	the countries of the west	place	               
+Egypt	place	note	B1_lg35	the land Al-Said	place	               
+Egypt	place	note	B1_lg35	Abulfeda	place	               
+Egypt	place	note	B1_lg35	Ægypt	place	               
+Egypt	place	note	B1_lg35	the_world	place	               
+Egypt	place	note	B1_lg35	sky	metaplace	               
+Egypt	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
+Egypt	place	note	B1_lg35	Bologna	place	               
+Egypt	place	note	B1_lg35	East Indies	place	               
+Egypt	place	note	B1_lg35	Eden	metaplace	               
+Egypt	place	note	B1_lg35	Eden	metaplace	               
+Egypt	place	note	B1_lg35	Eden	metaplace	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	Ad	place	               
+Egypt	place	note	B1_lg35	Syria	place	               
+Egypt	place	note	B1_lg35	Ormus	place	               
+Egypt	place	note	B1_lg35	Damascus	place	               
+Egypt	place	note	B1_lg35	Irem_removed	metaplace	               
+Egypt	place	note	B1_lg35	Irem	place	               
+Egypt	place	note	B1_lg35	the East	place	               
+the countries of the west	place	note	B1_lg35	Egypt	place	               
+the countries of the west	place	note	B1_lg35	Egypt	place	               
+the countries of the west	place	note	B1_lg35	the whole earth	place	               
+the countries of the west	place	note	B1_lg35	Egypt	place	               
+the countries of the west	place	note	B1_lg35	Egypt	place	               
+the countries of the west	place	note	B1_lg35	the river Nilus	place	               
+the countries of the west	place	note	B1_lg35	the land Al-Said	place	               
+the countries of the west	place	note	B1_lg35	Abulfeda	place	               
+the countries of the west	place	note	B1_lg35	Ægypt	place	               
+the countries of the west	place	note	B1_lg35	the_world	place	               
+the countries of the west	place	note	B1_lg35	sky	metaplace	               
+the countries of the west	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
+the countries of the west	place	note	B1_lg35	Bologna	place	               
+the countries of the west	place	note	B1_lg35	East Indies	place	               
+the countries of the west	place	note	B1_lg35	Eden	metaplace	               
+the countries of the west	place	note	B1_lg35	Eden	metaplace	               
+the countries of the west	place	note	B1_lg35	Eden	metaplace	               
+the countries of the west	place	note	B1_lg35	Egypt	place	               
+the countries of the west	place	note	B1_lg35	Ad	place	               
+the countries of the west	place	note	B1_lg35	Syria	place	               
+the countries of the west	place	note	B1_lg35	Ormus	place	               
+the countries of the west	place	note	B1_lg35	Damascus	place	               
+the countries of the west	place	note	B1_lg35	Irem_removed	metaplace	               
+the countries of the west	place	note	B1_lg35	Irem	place	               
+the countries of the west	place	note	B1_lg35	the East	place	               
+the desert	place	main	B2_lg60	Domdaniel_Cave	metaplace	               
+Bagdad	place	main	B4_lg204	the_world	place	               
+Bagdad	place	main	B4_lg204	the_world	place	               
+Bagdad	place	main	B5_lg315	Bagdad	place	               
+Bagdad	place	main	B5_lg315	an Oriental city	place	               
+Bagdad	place	main	B5_lg315	Aleppo	place	               
+Bagdad	place	main	B5_lg315	Ispahan	place	               
+Bagdad	place	main	B5_lg315	Paris	place	               
+Bagdad	place	main	B5_lg315	Paris	place	               
+Bagdad	place	main	B5_lg315	Ispahan	place	               
+Bagdad	place	main	B5_lg315	Alexandria	place	               
+Bagdad	place	main	B5_lg315	another world	metaplace	               
+Bagdad	place	note	B5_lg316	Bagdad	place	               
+Bagdad	place	note	B5_lg316	the Tigris	place	               
+Bagdad	place	note	B5_lg316	Seleucia	place	               
+Bagdad	place	note	B5_lg316	Dar-al-Salam the City of Peace	place	               
+Bagdad	place	note	B5_lg316	Bagdad	place	               
+Bagdad	place	note	B5_lg316	Bagdad	place	               
+Bagdad	place	note	B5_lg316	Haschemia	place	               
+Bagdad	place	note	B5_lg316	Mecca	place	               
+Bagdad	place	note	B5_lg316	the Temple at Mecca	place	               
+Bagdad	place	note	B5_lg316	Mecca	place	               
+Bagdad	place	note	B5_lg316	Bagdad	place	               
+Bagdad	place	note	B5_lg316	Europe	place	               
+Bagdad	place	note	B5_lg316	the East	place	               
+Bagdad	place	main	B5_lg317	the East	place	               
+Bagdad	place	main	B5_lg317	the West	place	               
+Bagdad	place	main	B5_lg317	Persia	place	               
+Bagdad	place	main	B5_lg317	Tauris	place	               
+Bagdad	place	main	B5_lg317	Asia	place	               
+Bagdad	place	main	B5_lg317	Bagdad	place	               
+Bagdad	place	main	B5_lg317	Tigris	place	               
+Bagdad	place	main	B5_lg317	Arabia	place	               
+Bagdad	place	main	B5_lg317	Babylon	place	               
+Bagdad	place	main	B5_lg317	Tigris	place	               
+Bagdad	place	main	B5_lg317	Babylon	place	               
+Bagdad	place	main	B5_lg317	Bagdad	place	               
+Bagdad	place	main	B5_lg317	Babylon	place	               
+Bagdad	place	main	B5_lg317	Armenia	place	               
+Bagdad	place	main	B5_lg317	Tigris	place	               
+Bagdad	place	main	B5_lg317	Armenia	place	               
+Bagdad	place	note	B5_lg317	Bagdad	place	               
+Bagdad	place	note	B5_lg317	the East	place	               
+Bagdad	place	note	B5_lg317	the West	place	               
+Bagdad	place	note	B5_lg317	Persia	place	               
+Bagdad	place	note	B5_lg317	Tauris	place	               
+Bagdad	place	note	B5_lg317	Asia	place	               
+Bagdad	place	note	B5_lg317	Bagdad	place	               
+Bagdad	place	note	B5_lg317	Tigris	place	               
+Bagdad	place	note	B5_lg317	Arabia	place	               
+Bagdad	place	note	B5_lg317	Babylon	place	               
+Bagdad	place	note	B5_lg317	Tigris	place	               
+Bagdad	place	note	B5_lg317	Babylon	place	               
+Bagdad	place	note	B5_lg317	Babylon	place	               
+Bagdad	place	note	B5_lg317	Armenia	place	               
+Bagdad	place	note	B5_lg317	Tigris	place	               
+Bagdad	place	note	B5_lg317	Armenia	place	               
+Turkey	place	note	B5_lg319	Bagdad	place	               
+Turkey	place	note	B5_lg319	Bagdad	place	               
+Turkey	place	note	B5_lg319	Adanaqui	place	               
+Turkey	place	note	B5_lg319	Asia Minor	place	               
+Turkey	place	note	B5_lg319	Babylon	place	               
+Turkey	place	note	B5_lg319	Babylon	place	               
+Babylon	place	main	B5_lg320	Euphrates	place	               
+Babylon	place	main	B5_lg320	Judah	place	               
+Babylon	place	main	B5_lg320	Euphrates	place	               
+Babylon	place	main	B5_lg320	Babylon	place	               
+Babylon	place	main	B5_lg320	Babylon	place	               
+Babylon	place	main	B5_lg320	Media	place	               
+Babylon	place	main	B5_lg320	Judah	place	               
+Babylon	place	main	B5_lg320	Media	place	               
+Babylon	place	main	B5_lg320	Temple of Belus	place	               
+Babylon	place	main	B5_lg320	Tower_of_Babel	place	               
+Babylon	place	main	B5_lg320	Tigris	place	               
+Babylon	place	main	B5_lg320	Arabia	place	               
+Babylon	place	main	B5_lg320	Babylon	place	               
+Babylon	place	main	B5_lg320	St. Paul's steeple	place	               
+Babylon	place	main	B5_lg320	London	place	               
+Babylon	place	main	B5_lg320	Euphrates	place	               
+Babylon	place	main	B5_lg320	Tower_of_Babel	place	               
+Babylon	place	main	B5_lg320	Babylon	place	               
+Babylon	place	main	B5_lg320	Babylon	place	               
+Babylon	place	main	B5_lg320	Babylon	place	               
+Babylon	place	main	B5_lg320	Naples	place	               
+Babylon	place	main	B5_lg320	Heaven	metaplace	               
+Babylon	place	main	B5_lg320	Tower_of_Babel	place	               
+Babylon	place	main	B5_lg320	Assyria	place	               
+Babylon	place	main	B5_lg320	Babylon	place	               
+Babylon	place	main	B5_lg320	Babylon	place	               
+Babylon	place	main	B5_lg320	Sodom	place	               
+Babylon	place	main	B5_lg320	Gomorrah	place	               
+Babylon	place	main	B5_lg320	Euphrates	place	               
+in the prophet's antichamber	place	note	B8_lg470	Medina	place	               
+in the prophet's antichamber	place	note	B8_lg470	Namaz	place	               
+in the prophet's antichamber	place	note	B8_lg470	the_world	place	               
+in the prophet's antichamber	place	note	B8_lg470	the whole expanded universe	place	               
+the_world	place	note	B8_lg470	Medina	place	               
+the_world	place	note	B8_lg470	Namaz	place	               
+the_world	place	note	B8_lg470	in the prophet's antichamber	place	               
+the_world	place	note	B8_lg470	the whole expanded universe	place	               
+the whole expanded universe	place	note	B8_lg470	Medina	place	               
+the whole expanded universe	place	note	B8_lg470	Namaz	place	               
+the whole expanded universe	place	note	B8_lg470	in the prophet's antichamber	place	               
+the whole expanded universe	place	note	B8_lg470	the_world	place	               
+polar	place	main	B8_lg504	polar	place	               
+polar	place	main	B8_lg504	Mohareb_Island	metaplace	               
+polar	place	main	B8_lg504	Mohareb_Island	metaplace	               
+polar	place	main	B8_lg504	bitumen_pit	place	               
+polar	place	main	B8_lg504	polar	place	               
+polar	place	main	B8_lg504	Mohareb_Island	metaplace	               
+polar	place	main	B8_lg504	Mohareb_Island	metaplace	               
+polar	place	main	B8_lg504	bitumen_pit	place	               
+bitumen_pit	place	main	B8_lg504	polar	place	               
+bitumen_pit	place	main	B8_lg504	polar	place	               
+bitumen_pit	place	main	B8_lg504	Mohareb_Island	metaplace	               
+bitumen_pit	place	main	B8_lg504	Mohareb_Island	metaplace	               
+the_world	place	main	B9_lg517	their final seat	metaplace	               
+the_world	place	main	B9_lg517	Of bliss, or bale	metaplace	               
+the_world	place	main	B9_lg517	in the sepulchre	metaplace	               
+the_world	place	main	B9_lg517	in central fires	metaplace	               
+the_world	place	main	B9_lg517	the_world	place	               
+the_world	place	main	B9_lg517	Earth	place	               
+the_world	place	main	B9_lg517	Babylon	place	               
+the_world	place	main	B9_lg517	their final seat	metaplace	               
+the_world	place	main	B9_lg517	Of bliss, or bale	metaplace	               
+the_world	place	main	B9_lg517	in the sepulchre	metaplace	               
+the_world	place	main	B9_lg517	in central fires	metaplace	               
+the_world	place	main	B9_lg517	the_world	place	               
+the_world	place	main	B9_lg517	Earth	place	               
+the_world	place	main	B9_lg517	Babylon	place	               
+the_world	place	main	B9_lg517	the_world	place	               
+the_world	place	main	B9_lg517	their final seat	metaplace	               
+the_world	place	main	B9_lg517	Of bliss, or bale	metaplace	               
+the_world	place	main	B9_lg517	in the sepulchre	metaplace	               
+the_world	place	main	B9_lg517	in central fires	metaplace	               
+the_world	place	main	B9_lg517	the_world	place	               
+the_world	place	main	B9_lg517	Earth	place	               
+the_world	place	main	B9_lg517	Babylon	place	               
+Persia	place	note	B9_lg522	Aleppo	place	               
+Persia	place	note	B9_lg522	England	place	               
+Persia	place	note	B9_lg522	Norway	place	               
+Persia	place	note	B9_lg522	Portugal	place	               
+Persia	place	note	B9_lg522	England	place	               
+Portugal	place	note	B9_lg522	Aleppo	place	               
+Portugal	place	note	B9_lg522	England	place	               
+Portugal	place	note	B9_lg522	Persia	place	               
+Portugal	place	note	B9_lg522	Norway	place	               
+Portugal	place	note	B9_lg522	England	place	               
+England	place	note	B9_lg522	Aleppo	place	               
+England	place	note	B9_lg522	England	place	               
+England	place	note	B9_lg522	Persia	place	               
+England	place	note	B9_lg522	Norway	place	               
+England	place	note	B9_lg522	Portugal	place	               
+India	place	note	B9_lg527	Huquam	place	               
+India	place	note	B9_lg527	Xantung	place	               
+India	place	note	B9_lg527	Huquam	place	               
+India	place	note	B9_lg527	Europe	place	               
+India	place	note	B9_lg527	Xantung	place	               
+India	place	note	B9_lg527	Huquam	place	               
+India	place	note	B9_lg527	China	place	               
+England	place	note	B9_lg528	Dunne	place	               
+England	place	note	B9_lg528	Ulster	place	               
+England	place	note	B9_lg528	Couffah	place	               
+England	place	note	B9_lg528	Molucca Islands	place	               
+England	place	note	B9_lg528	Hell	metaplace	               
+England	place	note	B9_lg528	burning_grave	metaplace	               
+Persia	place	note	B9_lg536	Tombs	metaplace	               
+Persia	place	note	B9_lg536	Tombs	metaplace	               
+Persia	place	note	B9_lg536	Tombs	metaplace	               
+Persia	place	note	B9_lg536	Ardevil	place	               
+Persia	place	note	B9_lg536	city of Kom	place	               
+Persia	place	note	B9_lg536	Portugal	place	               
+Persia	place	note	B9_lg536	to_next_world	metaplace	               
+Persia	place	note	B9_lg536	Tombs	metaplace	               
+Persia	place	note	B9_lg536	Tombs	metaplace	               
+Portugal	place	note	B9_lg536	Tombs	metaplace	               
+Portugal	place	note	B9_lg536	Tombs	metaplace	               
+Portugal	place	note	B9_lg536	Tombs	metaplace	               
+Portugal	place	note	B9_lg536	Persia	place	               
+Portugal	place	note	B9_lg536	Ardevil	place	               
+Portugal	place	note	B9_lg536	city of Kom	place	               
+Portugal	place	note	B9_lg536	to_next_world	metaplace	               
+Portugal	place	note	B9_lg536	Tombs	metaplace	               
+Portugal	place	note	B9_lg536	Tombs	metaplace	               
+the earth	place	main	B9_lg542	Tombs	metaplace	               
+the earth	place	main	B9_lg542	Earth	place	               
+the earth	place	main	B9_lg542	Ocean	place	               
+the earth	place	main	B9_lg542	Universe	metaplace	               
+the earth	place	main	B9_lg542	Universe	metaplace	               
+Ragusa	place	note	B9_lg553	Mohareb_City	place	               
+Ragusa	place	note	B9_lg553	Ragusa	place	               
+Ragusa	place	note	B9_lg553	Constantinople	place	               
+Ragusa	place	note	B9_lg553	Constantinople	place	               
+Ragusa	place	note	B9_lg553	Christendom	place	               
+Ragusa	place	note	B9_lg553	Islands of Barlovento	place	               
+Ragusa	place	note	B9_lg553	Brazil	place	               
+Ragusa	place	note	B9_lg553	Santa Marta	place	               
+Ragusa	place	note	B9_lg553	the new kingdom	place	               
+Ragusa	place	note	B9_lg553	Peru	place	               
+Ragusa	place	note	B9_lg553	Arabia	place	               
+Ragusa	place	note	B9_lg553	Brazil	place	               
+Ragusa	place	note	B9_lg553	Java	place	               
+Ragusa	place	note	B9_lg553	East Indies	place	               
+Ragusa	place	note	B9_lg553	Java	place	               
+Ragusa	place	note	B9_lg553	the world	place	               
+the new kingdom	place	note	B9_lg553	Mohareb_City	place	               
+the new kingdom	place	note	B9_lg553	Ragusa	place	               
+the new kingdom	place	note	B9_lg553	Ragusa	place	               
+the new kingdom	place	note	B9_lg553	Constantinople	place	               
+the new kingdom	place	note	B9_lg553	Constantinople	place	               
+the new kingdom	place	note	B9_lg553	Christendom	place	               
+the new kingdom	place	note	B9_lg553	Islands of Barlovento	place	               
+the new kingdom	place	note	B9_lg553	Brazil	place	               
+the new kingdom	place	note	B9_lg553	Santa Marta	place	               
+the new kingdom	place	note	B9_lg553	Peru	place	               
+the new kingdom	place	note	B9_lg553	Arabia	place	               
+the new kingdom	place	note	B9_lg553	Brazil	place	               
+the new kingdom	place	note	B9_lg553	Java	place	               
+the new kingdom	place	note	B9_lg553	East Indies	place	               
+the new kingdom	place	note	B9_lg553	Java	place	               
+the new kingdom	place	note	B9_lg553	the world	place	               
+Mohareb_Island	place	main	B9_lg559	Heaven	metaplace	               
+Mohareb_Island	place	main	B9_lg559	air_transport	metaplace	               
+Mohareb_Island	place	main	B9_lg559	The Upas Tree of Death	metaplace	               
+sky	metaplace	main	B1_lg2	ocean	place	               
+Irem_removed	metaplace	main	B1_lg19	Universe	place	               
+Irem_removed	metaplace	main	B1_lg19	the_world	place	               
+sky	metaplace	note	B1_lg20	The Paradise of Irem	place	               
+sky	metaplace	note	B1_lg20	Al_Ahkaf	place	               
+sky	metaplace	note	B1_lg20	Hadramaut	place	               
+sky	metaplace	note	B1_lg20	garden of Irem	place	               
+sky	metaplace	note	B1_lg20	the desarts of Aden	place	               
+sky	metaplace	note	B1_lg20	Arabia	place	               
+sky	metaplace	note	B1_lg20	province of Hegiaz	place	               
+sky	metaplace	note	B1_lg20	province of Hegiaz	place	               
+sky	metaplace	note	B1_lg20	Red Hillock	place	               
+sky	metaplace	note	B1_lg20	Red_Hillock	place	               
+sky	metaplace	note	B1_lg20	the valley of Magaith	place	               
+sky	metaplace	note	B1_lg20	the_world	place	               
+sky	metaplace	note	B1_lg20	Al_Ahkaf	place	               
+sky	metaplace	note	B1_lg20	Al_Ahkaf	place	               
+Eden	metaplace	main	B1_lg23	the East	place	               
+Eden	metaplace	main	B1_lg23	Africa	place	               
+Eden	metaplace	main	B1_lg23	Africa	place	               
+Eden	metaplace	main	B1_lg23	Ethiopia	place	               
+Eden	metaplace	main	B1_lg23	Ethiopia	place	               
+Eden	metaplace	main	B1_lg23	Ethiopia	place	               
+sky	metaplace	main	B1_lg35	Egypt	place	               
+sky	metaplace	main	B1_lg35	Egypt	place	               
+sky	metaplace	main	B1_lg35	the whole earth	place	               
+sky	metaplace	main	B1_lg35	Egypt	place	               
+sky	metaplace	main	B1_lg35	Egypt	place	               
+sky	metaplace	main	B1_lg35	the river Nilus	place	               
+sky	metaplace	main	B1_lg35	the countries of the west	place	               
+sky	metaplace	main	B1_lg35	the land Al-Said	place	               
+sky	metaplace	main	B1_lg35	Abulfeda	place	               
+sky	metaplace	main	B1_lg35	Ægypt	place	               
+sky	metaplace	main	B1_lg35	the_world	place	               
+sky	metaplace	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
+sky	metaplace	main	B1_lg35	Bologna	place	               
+sky	metaplace	main	B1_lg35	East Indies	place	               
+sky	metaplace	main	B1_lg35	Eden	metaplace	               
+sky	metaplace	main	B1_lg35	Eden	metaplace	               
+sky	metaplace	main	B1_lg35	Eden	metaplace	               
+sky	metaplace	main	B1_lg35	Egypt	place	               
+sky	metaplace	main	B1_lg35	Ad	place	               
+sky	metaplace	main	B1_lg35	Syria	place	               
+sky	metaplace	main	B1_lg35	Ormus	place	               
+sky	metaplace	main	B1_lg35	Damascus	place	               
+sky	metaplace	main	B1_lg35	Irem_removed	metaplace	               
+sky	metaplace	main	B1_lg35	Irem	place	               
+sky	metaplace	main	B1_lg35	the East	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Egypt	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Egypt	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	the whole earth	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Egypt	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Egypt	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	the river Nilus	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	the countries of the west	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	the land Al-Said	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Abulfeda	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Ægypt	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	the_world	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	sky	metaplace	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Bologna	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	East Indies	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Eden	metaplace	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Eden	metaplace	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Eden	metaplace	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Egypt	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Ad	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Syria	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Ormus	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Damascus	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Irem_removed	metaplace	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Irem	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	the East	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	the whole earth	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	the river Nilus	place	               
+Eden	metaplace	main	B1_lg35	the countries of the west	place	               
+Eden	metaplace	main	B1_lg35	the land Al-Said	place	               
+Eden	metaplace	main	B1_lg35	Abulfeda	place	               
+Eden	metaplace	main	B1_lg35	Ægypt	place	               
+Eden	metaplace	main	B1_lg35	the_world	place	               
+Eden	metaplace	main	B1_lg35	sky	metaplace	               
+Eden	metaplace	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
+Eden	metaplace	main	B1_lg35	Bologna	place	               
+Eden	metaplace	main	B1_lg35	East Indies	place	               
+Eden	metaplace	main	B1_lg35	Eden	metaplace	               
+Eden	metaplace	main	B1_lg35	Eden	metaplace	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	Ad	place	               
+Eden	metaplace	main	B1_lg35	Syria	place	               
+Eden	metaplace	main	B1_lg35	Ormus	place	               
+Eden	metaplace	main	B1_lg35	Damascus	place	               
+Eden	metaplace	main	B1_lg35	Irem_removed	metaplace	               
+Eden	metaplace	main	B1_lg35	Irem	place	               
+Eden	metaplace	main	B1_lg35	the East	place	               
+Eden	metaplace	note	B1_lg35	Egypt	place	               
+Eden	metaplace	note	B1_lg35	Egypt	place	               
+Eden	metaplace	note	B1_lg35	the whole earth	place	               
+Eden	metaplace	note	B1_lg35	Egypt	place	               
+Eden	metaplace	note	B1_lg35	Egypt	place	               
+Eden	metaplace	note	B1_lg35	the river Nilus	place	               
+Eden	metaplace	note	B1_lg35	the countries of the west	place	               
+Eden	metaplace	note	B1_lg35	the land Al-Said	place	               
+Eden	metaplace	note	B1_lg35	Abulfeda	place	               
+Eden	metaplace	note	B1_lg35	Ægypt	place	               
+Eden	metaplace	note	B1_lg35	the_world	place	               
+Eden	metaplace	note	B1_lg35	sky	metaplace	               
+Eden	metaplace	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
+Eden	metaplace	note	B1_lg35	Bologna	place	               
+Eden	metaplace	note	B1_lg35	East Indies	place	               
+Eden	metaplace	note	B1_lg35	Eden	metaplace	               
+Eden	metaplace	note	B1_lg35	Eden	metaplace	               
+Eden	metaplace	note	B1_lg35	Egypt	place	               
+Eden	metaplace	note	B1_lg35	Ad	place	               
+Eden	metaplace	note	B1_lg35	Syria	place	               
+Eden	metaplace	note	B1_lg35	Ormus	place	               
+Eden	metaplace	note	B1_lg35	Damascus	place	               
+Eden	metaplace	note	B1_lg35	Irem_removed	metaplace	               
+Eden	metaplace	note	B1_lg35	Irem	place	               
+Eden	metaplace	note	B1_lg35	the East	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	the whole earth	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	the river Nilus	place	               
+Eden	metaplace	main	B1_lg35	the countries of the west	place	               
+Eden	metaplace	main	B1_lg35	the land Al-Said	place	               
+Eden	metaplace	main	B1_lg35	Abulfeda	place	               
+Eden	metaplace	main	B1_lg35	Ægypt	place	               
+Eden	metaplace	main	B1_lg35	the_world	place	               
+Eden	metaplace	main	B1_lg35	sky	metaplace	               
+Eden	metaplace	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
+Eden	metaplace	main	B1_lg35	Bologna	place	               
+Eden	metaplace	main	B1_lg35	East Indies	place	               
+Eden	metaplace	main	B1_lg35	Eden	metaplace	               
+Eden	metaplace	main	B1_lg35	Eden	metaplace	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
+Eden	metaplace	main	B1_lg35	Ad	place	               
+Eden	metaplace	main	B1_lg35	Syria	place	               
+Eden	metaplace	main	B1_lg35	Ormus	place	               
+Eden	metaplace	main	B1_lg35	Damascus	place	               
+Eden	metaplace	main	B1_lg35	Irem_removed	metaplace	               
+Eden	metaplace	main	B1_lg35	Irem	place	               
+Eden	metaplace	main	B1_lg35	the East	place	               
+Irem_removed	metaplace	note	B1_lg35	Egypt	place	               
+Irem_removed	metaplace	note	B1_lg35	Egypt	place	               
+Irem_removed	metaplace	note	B1_lg35	the whole earth	place	               
+Irem_removed	metaplace	note	B1_lg35	Egypt	place	               
+Irem_removed	metaplace	note	B1_lg35	Egypt	place	               
+Irem_removed	metaplace	note	B1_lg35	the river Nilus	place	               
+Irem_removed	metaplace	note	B1_lg35	the countries of the west	place	               
+Irem_removed	metaplace	note	B1_lg35	the land Al-Said	place	               
+Irem_removed	metaplace	note	B1_lg35	Abulfeda	place	               
+Irem_removed	metaplace	note	B1_lg35	Ægypt	place	               
+Irem_removed	metaplace	note	B1_lg35	the_world	place	               
+Irem_removed	metaplace	note	B1_lg35	sky	metaplace	               
+Irem_removed	metaplace	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
+Irem_removed	metaplace	note	B1_lg35	Bologna	place	               
+Irem_removed	metaplace	note	B1_lg35	East Indies	place	               
+Irem_removed	metaplace	note	B1_lg35	Eden	metaplace	               
+Irem_removed	metaplace	note	B1_lg35	Eden	metaplace	               
+Irem_removed	metaplace	note	B1_lg35	Eden	metaplace	               
+Irem_removed	metaplace	note	B1_lg35	Egypt	place	               
+Irem_removed	metaplace	note	B1_lg35	Ad	place	               
+Irem_removed	metaplace	note	B1_lg35	Syria	place	               
+Irem_removed	metaplace	note	B1_lg35	Ormus	place	               
+Irem_removed	metaplace	note	B1_lg35	Damascus	place	               
+Irem_removed	metaplace	note	B1_lg35	Irem	place	               
+Irem_removed	metaplace	note	B1_lg35	the East	place	               
+Of Paradise	metaplace	main	B1_lg36	Ad	place	               
+Of Paradise	metaplace	main	B1_lg36	Eden	metaplace	               
+Of Paradise	metaplace	main	B1_lg36	Eden	metaplace	               
+Eden	metaplace	main	B1_lg36	Ad	place	               
+Eden	metaplace	main	B1_lg36	Of Paradise	metaplace	               
+Eden	metaplace	main	B1_lg36	Eden	metaplace	               
+Eden	metaplace	main	B1_lg36	Ad	place	               
+Eden	metaplace	main	B1_lg36	Of Paradise	metaplace	               
+Eden	metaplace	main	B1_lg36	Eden	metaplace	               
+sky	metaplace	main	B1_lg43	Mecca	place	               
+sky	metaplace	main	B1_lg43	Red Hillock	place	               
+sky	metaplace	main	B1_lg43	Heaven	metaplace	               
+Heaven	metaplace	main	B1_lg43	Mecca	place	               
+Heaven	metaplace	main	B1_lg43	Red Hillock	place	               
+Heaven	metaplace	main	B1_lg43	sky	metaplace	               
+Domdaniel_Cave	metaplace	main	B2_lg60	the desert	place	               
+Domdaniel_Cave	metaplace	main	B2_lg61	Under the Roots of the Ocean,	metaplace	               
+Domdaniel_Cave	metaplace	main	B2_lg61	Domdaniel_Cave	metaplace	               
+Under the Roots of the Ocean,	metaplace	main	B2_lg61	Domdaniel_Cave	metaplace	               
+Under the Roots of the Ocean,	metaplace	main	B2_lg61	Domdaniel_Cave	metaplace	               
+Domdaniel_Cave	metaplace	main	B2_lg61	Domdaniel_Cave	metaplace	               
+Domdaniel_Cave	metaplace	main	B2_lg61	Under the Roots of the Ocean,	metaplace	               
+Irem_removed	metaplace	main	B2_lg68	Ocean	place	               
+Irem_removed	metaplace	main	B2_lg68	Earth	place	               
+Irem_removed	metaplace	main	B2_lg68	Ocean	place	               
+Irem_removed	metaplace	main	B2_lg68	Earth	place	               
+Heaven	metaplace	main	B2_lg72	Irem_removed	metaplace	               
+Heaven	metaplace	main	B2_lg72	Ocean	place	               
+Heaven	metaplace	main	B2_lg72	Earth	place	               
+Heaven	metaplace	main	B2_lg72	Allah's glory throne	metaplace	               
+Heaven	metaplace	main	B2_lg72	Irem_removed	metaplace	               
+Irem_removed	metaplace	main	B2_lg72	Heaven	metaplace	               
+Irem_removed	metaplace	main	B2_lg72	Ocean	place	               
+Irem_removed	metaplace	main	B2_lg72	Earth	place	               
+Irem_removed	metaplace	main	B2_lg72	Allah's glory throne	metaplace	               
+Irem_removed	metaplace	main	B2_lg72	Irem_removed	metaplace	               
+Allah's glory throne	metaplace	main	B2_lg72	Heaven	metaplace	               
+Allah's glory throne	metaplace	main	B2_lg72	Irem_removed	metaplace	               
+Allah's glory throne	metaplace	main	B2_lg72	Ocean	place	               
+Allah's glory throne	metaplace	main	B2_lg72	Earth	place	               
+Allah's glory throne	metaplace	main	B2_lg72	Irem_removed	metaplace	               
+Irem_removed	metaplace	main	B2_lg72	Heaven	metaplace	               
+Irem_removed	metaplace	main	B2_lg72	Irem_removed	metaplace	               
+Irem_removed	metaplace	main	B2_lg72	Ocean	place	               
+Irem_removed	metaplace	main	B2_lg72	Earth	place	               
+Irem_removed	metaplace	main	B2_lg72	Allah's glory throne	metaplace	               
+Eden	metaplace	main	B2_lg74	the throne of God	metaplace	               
+the throne of God	metaplace	main	B2_lg74	Eden	metaplace	               
+Hell	metaplace	main	B2_lg75	Heaven	metaplace	               
+Heaven	metaplace	main	B2_lg75	Hell	metaplace	               
+the inner den	metaplace	main	B2_lg85	the Abyss	place	               
+the inner den	metaplace	main	B2_lg85	the_world	place	               
+the planet Venus	metaplace	note	B4_lg218	what passes in distant countries	metaplace	               
+the planet Venus	metaplace	note	B4_lg218	Bagdad	place	               
+the planet Venus	metaplace	note	B4_lg218	Yemen	place	               
+the planet Venus	metaplace	note	B4_lg218	Mecca	place	               
+the planet Venus	metaplace	note	B4_lg218	Mecca	place	               
+the planet Venus	metaplace	note	B4_lg218	Bombay	place	               
+what passes in distant countries	metaplace	note	B4_lg218	the planet Venus	metaplace	               
+what passes in distant countries	metaplace	note	B4_lg218	Bagdad	place	               
+what passes in distant countries	metaplace	note	B4_lg218	Yemen	place	               
+what passes in distant countries	metaplace	note	B4_lg218	Mecca	place	               
+what passes in distant countries	metaplace	note	B4_lg218	Mecca	place	               
+what passes in distant countries	metaplace	note	B4_lg218	Bombay	place	               
+sky	metaplace	main	B4_lg276	the_world	place	               
+sky	metaplace	main	B4_lg276	river Aldea	place	               
+sky	metaplace	main	B4_lg276	Lisboa	place	               
+sky	metaplace	main	B4_lg276	a nation of one legged men	metaplace	               
+sky	metaplace	main	B4_lg276	sky	metaplace	               
+sky	metaplace	main	B4_lg276	the_world	place	               
+sky	metaplace	main	B4_lg276	the viewless Element	metaplace	               
+sky	metaplace	main	B4_lg276	air_transport	metaplace	               
+a nation of one legged men	metaplace	note	B4_lg276	sky	metaplace	               
+a nation of one legged men	metaplace	note	B4_lg276	the_world	place	               
+a nation of one legged men	metaplace	note	B4_lg276	river Aldea	place	               
+a nation of one legged men	metaplace	note	B4_lg276	Lisboa	place	               
+a nation of one legged men	metaplace	note	B4_lg276	sky	metaplace	               
+a nation of one legged men	metaplace	note	B4_lg276	the_world	place	               
+a nation of one legged men	metaplace	note	B4_lg276	the viewless Element	metaplace	               
+a nation of one legged men	metaplace	note	B4_lg276	air_transport	metaplace	               
+sky	metaplace	note	B4_lg276	sky	metaplace	               
+sky	metaplace	note	B4_lg276	the_world	place	               
+sky	metaplace	note	B4_lg276	river Aldea	place	               
+sky	metaplace	note	B4_lg276	Lisboa	place	               
+sky	metaplace	note	B4_lg276	a nation of one legged men	metaplace	               
+sky	metaplace	note	B4_lg276	the_world	place	               
+sky	metaplace	note	B4_lg276	the viewless Element	metaplace	               
+sky	metaplace	note	B4_lg276	air_transport	metaplace	               
+the viewless Element	metaplace	main	B4_lg276	sky	metaplace	               
+the viewless Element	metaplace	main	B4_lg276	the_world	place	               
+the viewless Element	metaplace	main	B4_lg276	river Aldea	place	               
+the viewless Element	metaplace	main	B4_lg276	Lisboa	place	               
+the viewless Element	metaplace	main	B4_lg276	a nation of one legged men	metaplace	               
+the viewless Element	metaplace	main	B4_lg276	sky	metaplace	               
+the viewless Element	metaplace	main	B4_lg276	the_world	place	               
+the viewless Element	metaplace	main	B4_lg276	air_transport	metaplace	               
+air_transport	metaplace	main	B4_lg276	sky	metaplace	               
+air_transport	metaplace	main	B4_lg276	the_world	place	               
+air_transport	metaplace	main	B4_lg276	river Aldea	place	               
+air_transport	metaplace	main	B4_lg276	Lisboa	place	               
+air_transport	metaplace	main	B4_lg276	a nation of one legged men	metaplace	               
+air_transport	metaplace	main	B4_lg276	sky	metaplace	               
+air_transport	metaplace	main	B4_lg276	the_world	place	               
+air_transport	metaplace	main	B4_lg276	the viewless Element	metaplace	               
+another world	metaplace	note	B5_lg315	Bagdad	place	               
+another world	metaplace	note	B5_lg315	Bagdad	place	               
+another world	metaplace	note	B5_lg315	an Oriental city	place	               
+another world	metaplace	note	B5_lg315	Aleppo	place	               
+another world	metaplace	note	B5_lg315	Ispahan	place	               
+another world	metaplace	note	B5_lg315	Paris	place	               
+another world	metaplace	note	B5_lg315	Paris	place	               
+another world	metaplace	note	B5_lg315	Ispahan	place	               
+another world	metaplace	note	B5_lg315	Alexandria	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	Euphrates	place	               
+Heaven	metaplace	note	B5_lg320	Judah	place	               
+Heaven	metaplace	note	B5_lg320	Euphrates	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	Media	place	               
+Heaven	metaplace	note	B5_lg320	Judah	place	               
+Heaven	metaplace	note	B5_lg320	Media	place	               
+Heaven	metaplace	note	B5_lg320	Temple of Belus	place	               
+Heaven	metaplace	note	B5_lg320	Tower_of_Babel	place	               
+Heaven	metaplace	note	B5_lg320	Tigris	place	               
+Heaven	metaplace	note	B5_lg320	Arabia	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	St. Paul's steeple	place	               
+Heaven	metaplace	note	B5_lg320	London	place	               
+Heaven	metaplace	note	B5_lg320	Euphrates	place	               
+Heaven	metaplace	note	B5_lg320	Tower_of_Babel	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	Naples	place	               
+Heaven	metaplace	note	B5_lg320	Tower_of_Babel	place	               
+Heaven	metaplace	note	B5_lg320	Assyria	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	Babylon	place	               
+Heaven	metaplace	note	B5_lg320	Sodom	place	               
+Heaven	metaplace	note	B5_lg320	Gomorrah	place	               
+Heaven	metaplace	note	B5_lg320	Euphrates	place	               
+Mahumetical Paradise	metaplace	note	B7_lg413	Persia	place	               
+Mahumetical Paradise	metaplace	note	B7_lg413	Paradise	place	               
+Mahumetical Paradise	metaplace	note	B7_lg413	Paradise	place	               
+Mahumetical Paradise	metaplace	note	B7_lg413	walled_mountain_Paradise	metaplace	               
+Mahumetical Paradise	metaplace	note	B7_lg413	Melistorte	place	               
+Mahumetical Paradise	metaplace	note	B7_lg413	Yle of Pentexoire	place	               
+walled_mountain_Paradise	metaplace	note	B7_lg413	Persia	place	               
+walled_mountain_Paradise	metaplace	note	B7_lg413	Paradise	place	               
+walled_mountain_Paradise	metaplace	note	B7_lg413	Mahumetical Paradise	metaplace	               
+walled_mountain_Paradise	metaplace	note	B7_lg413	Paradise	place	               
+walled_mountain_Paradise	metaplace	note	B7_lg413	Melistorte	place	               
+walled_mountain_Paradise	metaplace	note	B7_lg413	Yle of Pentexoire	place	               
+Tombs	metaplace	main	B8_lg466	the Sepulchre	place	               
+Greek_Tombs	metaplace	note	B8_lg472	Tombs	metaplace	               
+Greek_Tombs	metaplace	note	B8_lg472	Mylasa	place	               
+Greek_Tombs	metaplace	note	B8_lg472	Tombs	place	               
+Tombs	metaplace	note	B8_lg472	Greek_Tombs	metaplace	               
+Tombs	metaplace	note	B8_lg472	Mylasa	place	               
+Tombs	metaplace	note	B8_lg472	Tombs	place	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Tombs	metaplace	main	B8_lg474	Tombs	metaplace	               
+Vampire	metaplace	note	B8_lg475	Belgrade	place	               
+Vampire	metaplace	note	B8_lg475	Gradisch	place	               
+Vampire	metaplace	note	B8_lg475	Sclavonia	place	               
+Vampire	metaplace	note	B8_lg475	Kisilova	place	               
+Vampire	metaplace	note	B8_lg475	Gradisch	place	               
+Vampire	metaplace	note	B8_lg475	Belgrade	place	               
+Vampire	metaplace	note	B8_lg475	Gradisch	place	               
+Vampire	metaplace	note	B8_lg475	Hungary	place	               
+Vampire	metaplace	note	B8_lg475	Oppida Heidonum	place	               
+Vampire	metaplace	note	B8_lg475	Tibiscus	place	               
+Vampire	metaplace	note	B8_lg475	Teysse	place	               
+Vampire	metaplace	note	B8_lg475	Tokay	place	               
+Vampire	metaplace	note	B8_lg475	Transilvania	place	               
+Vampire	metaplace	note	B8_lg475	Medreiga	place	               
+Vampire	metaplace	note	B8_lg475	Cossova	place	               
+Vampire	metaplace	note	B8_lg475	Frontiers of the Turkish Servia	place	               
+Vampire	metaplace	note	B8_lg475	Servia	place	               
+Vampire	metaplace	note	B8_lg475	Vampire	metaplace	               
+Vampire	metaplace	note	B8_lg475	Saave	place	               
+Vampire	metaplace	note	B8_lg475	Vienna	place	               
+Vampire	metaplace	note	B8_lg475	Wirtemberg	place	               
+Vampire	metaplace	note	B8_lg475	Furstemberg	place	               
+Vampire	metaplace	note	B8_lg475	Greece	place	               
+Vampire	metaplace	note	B8_lg475	Mycone	place	               
+Vampire	metaplace	note	B8_lg475	Christendom	place	               
+Vampire	metaplace	note	B8_lg475	Mycone	place	               
+Vampire	metaplace	note	B8_lg475	Syre	place	               
+Vampire	metaplace	note	B8_lg475	Tinos	place	               
+Vampire	metaplace	note	B8_lg475	St. George	place	               
+Vampire	metaplace	note	B8_lg475	Delos	place	               
+Vampire	metaplace	note	B8_lg475	Vampire	metaplace	               
+Vampire	metaplace	note	B8_lg475	Belgrade	place	               
+Vampire	metaplace	note	B8_lg475	Gradisch	place	               
+Vampire	metaplace	note	B8_lg475	Sclavonia	place	               
+Vampire	metaplace	note	B8_lg475	Kisilova	place	               
+Vampire	metaplace	note	B8_lg475	Gradisch	place	               
+Vampire	metaplace	note	B8_lg475	Belgrade	place	               
+Vampire	metaplace	note	B8_lg475	Gradisch	place	               
+Vampire	metaplace	note	B8_lg475	Hungary	place	               
+Vampire	metaplace	note	B8_lg475	Oppida Heidonum	place	               
+Vampire	metaplace	note	B8_lg475	Tibiscus	place	               
+Vampire	metaplace	note	B8_lg475	Teysse	place	               
+Vampire	metaplace	note	B8_lg475	Tokay	place	               
+Vampire	metaplace	note	B8_lg475	Transilvania	place	               
+Vampire	metaplace	note	B8_lg475	Medreiga	place	               
+Vampire	metaplace	note	B8_lg475	Cossova	place	               
+Vampire	metaplace	note	B8_lg475	Frontiers of the Turkish Servia	place	               
+Vampire	metaplace	note	B8_lg475	Servia	place	               
+Vampire	metaplace	note	B8_lg475	Saave	place	               
+Vampire	metaplace	note	B8_lg475	Vienna	place	               
+Vampire	metaplace	note	B8_lg475	Wirtemberg	place	               
+Vampire	metaplace	note	B8_lg475	Furstemberg	place	               
+Vampire	metaplace	note	B8_lg475	Greece	place	               
+Vampire	metaplace	note	B8_lg475	Mycone	place	               
+Vampire	metaplace	note	B8_lg475	Christendom	place	               
+Vampire	metaplace	note	B8_lg475	Mycone	place	               
+Vampire	metaplace	note	B8_lg475	Syre	place	               
+Vampire	metaplace	note	B8_lg475	Tinos	place	               
+Vampire	metaplace	note	B8_lg475	St. George	place	               
+Vampire	metaplace	note	B8_lg475	Delos	place	               
+Heaven	metaplace	main	B8_lg476	Heaven	metaplace	               
+Heaven	metaplace	main	B8_lg476	Araby	place	               
+Heaven	metaplace	main	B8_lg476	Heaven	metaplace	               
+Heaven	metaplace	main	B8_lg476	Araby	place	               
+Heaven	metaplace	main	B8_lg477	Tombs	place	               
+sky	metaplace	main	B8_lg482	Arabia	place	               
+Mohareb_Island	metaplace	main	B8_lg504	polar	place	               
+Mohareb_Island	metaplace	main	B8_lg504	polar	place	               
+Mohareb_Island	metaplace	main	B8_lg504	Mohareb_Island	metaplace	               
+Mohareb_Island	metaplace	main	B8_lg504	bitumen_pit	place	               
+Mohareb_Island	metaplace	note	B8_lg504	polar	place	               
+Mohareb_Island	metaplace	note	B8_lg504	polar	place	               
+Mohareb_Island	metaplace	note	B8_lg504	Mohareb_Island	metaplace	               
+Mohareb_Island	metaplace	note	B8_lg504	bitumen_pit	place	               
+their final seat	metaplace	main	B9_lg517	the_world	place	               
+their final seat	metaplace	main	B9_lg517	Of bliss, or bale	metaplace	               
+their final seat	metaplace	main	B9_lg517	in the sepulchre	metaplace	               
+their final seat	metaplace	main	B9_lg517	in central fires	metaplace	               
+their final seat	metaplace	main	B9_lg517	the_world	place	               
+their final seat	metaplace	main	B9_lg517	the_world	place	               
+their final seat	metaplace	main	B9_lg517	Earth	place	               
+their final seat	metaplace	main	B9_lg517	Babylon	place	               
+Of bliss, or bale	metaplace	main	B9_lg517	the_world	place	               
+Of bliss, or bale	metaplace	main	B9_lg517	their final seat	metaplace	               
+Of bliss, or bale	metaplace	main	B9_lg517	in the sepulchre	metaplace	               
+Of bliss, or bale	metaplace	main	B9_lg517	in central fires	metaplace	               
+Of bliss, or bale	metaplace	main	B9_lg517	the_world	place	               
+Of bliss, or bale	metaplace	main	B9_lg517	the_world	place	               
+Of bliss, or bale	metaplace	main	B9_lg517	Earth	place	               
+Of bliss, or bale	metaplace	main	B9_lg517	Babylon	place	               
+in the sepulchre	metaplace	main	B9_lg517	the_world	place	               
+in the sepulchre	metaplace	main	B9_lg517	their final seat	metaplace	               
+in the sepulchre	metaplace	main	B9_lg517	Of bliss, or bale	metaplace	               
+in the sepulchre	metaplace	main	B9_lg517	in central fires	metaplace	               
+in the sepulchre	metaplace	main	B9_lg517	the_world	place	               
+in the sepulchre	metaplace	main	B9_lg517	the_world	place	               
+in the sepulchre	metaplace	main	B9_lg517	Earth	place	               
+in the sepulchre	metaplace	main	B9_lg517	Babylon	place	               
+in central fires	metaplace	main	B9_lg517	the_world	place	               
+in central fires	metaplace	main	B9_lg517	their final seat	metaplace	               
+in central fires	metaplace	main	B9_lg517	Of bliss, or bale	metaplace	               
+in central fires	metaplace	main	B9_lg517	in the sepulchre	metaplace	               
+in central fires	metaplace	main	B9_lg517	the_world	place	               
+in central fires	metaplace	main	B9_lg517	the_world	place	               
+in central fires	metaplace	main	B9_lg517	Earth	place	               
+in central fires	metaplace	main	B9_lg517	Babylon	place	               
+the Sun and Moon and Stars	metaplace	main	B9_lg518	Earth	place	               
+the Sun and Moon and Stars	metaplace	main	B9_lg518	Heaven	metaplace	               
+the Sun and Moon and Stars	metaplace	main	B9_lg518	the World	place	               
+the Sun and Moon and Stars	metaplace	main	B9_lg518	Heaven	metaplace	               
+the Sun and Moon and Stars	metaplace	main	B9_lg518	Heaven	metaplace	               
+the Sun and Moon and Stars	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	the Sun and Moon and Stars	metaplace	               
+Heaven	metaplace	main	B9_lg518	Earth	place	               
+Heaven	metaplace	main	B9_lg518	the World	place	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	the Sun and Moon and Stars	metaplace	               
+Heaven	metaplace	main	B9_lg518	Earth	place	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	the World	place	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	the Sun and Moon and Stars	metaplace	               
+Heaven	metaplace	main	B9_lg518	Earth	place	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	the World	place	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	the Sun and Moon and Stars	metaplace	               
+Heaven	metaplace	main	B9_lg518	Earth	place	               
+Heaven	metaplace	main	B9_lg518	the World	place	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Heaven	metaplace	main	B9_lg518	Heaven	metaplace	               
+Hell	metaplace	note	B9_lg528	England	place	               
+Hell	metaplace	note	B9_lg528	Dunne	place	               
+Hell	metaplace	note	B9_lg528	Ulster	place	               
+Hell	metaplace	note	B9_lg528	Couffah	place	               
+Hell	metaplace	note	B9_lg528	Molucca Islands	place	               
+Hell	metaplace	note	B9_lg528	burning_grave	metaplace	               
+burning_grave	metaplace	note	B9_lg528	England	place	               
+burning_grave	metaplace	note	B9_lg528	Dunne	place	               
+burning_grave	metaplace	note	B9_lg528	Ulster	place	               
+burning_grave	metaplace	note	B9_lg528	Couffah	place	               
+burning_grave	metaplace	note	B9_lg528	Molucca Islands	place	               
+burning_grave	metaplace	note	B9_lg528	Hell	metaplace	               
+Hell	metaplace	main	B9_lg534	Mount_Ararat	place	               
+Hell	metaplace	main	B9_lg534	Mount_Ararat	place	               
+Hell	metaplace	main	B9_lg534	Lubar	place	               
+Hell	metaplace	main	B9_lg534	Abbey of St. Gregorie's Monks	place	               
+Hell	metaplace	main	B9_lg534	Ark_transport	metaplace	               
+Hell	metaplace	main	B9_lg534	Arabia	place	               
+Hell	metaplace	main	B9_lg534	Helicon	place	               
+Hell	metaplace	main	B9_lg534	Psylli	place	               
+Hell	metaplace	main	B9_lg534	England	place	               
+Ark_transport	metaplace	note	B9_lg534	Hell	metaplace	               
+Ark_transport	metaplace	note	B9_lg534	Mount_Ararat	place	               
+Ark_transport	metaplace	note	B9_lg534	Mount_Ararat	place	               
+Ark_transport	metaplace	note	B9_lg534	Lubar	place	               
+Ark_transport	metaplace	note	B9_lg534	Abbey of St. Gregorie's Monks	place	               
+Ark_transport	metaplace	note	B9_lg534	Arabia	place	               
+Ark_transport	metaplace	note	B9_lg534	Helicon	place	               
+Ark_transport	metaplace	note	B9_lg534	Psylli	place	               
+Ark_transport	metaplace	note	B9_lg534	England	place	               
+blessed Sun	metaplace	main	B9_lg535	sky	metaplace	               
+blessed Sun	metaplace	main	B9_lg535	Earth	place	               
+blessed Sun	metaplace	main	B9_lg535	sky	metaplace	               
+blessed Sun	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+blessed Sun	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+blessed Sun	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+blessed Sun	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+blessed Sun	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	blessed Sun	metaplace	               
+sky	metaplace	main	B9_lg535	Earth	place	               
+sky	metaplace	main	B9_lg535	sky	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	blessed Sun	metaplace	               
+sky	metaplace	main	B9_lg535	sky	metaplace	               
+sky	metaplace	main	B9_lg535	Earth	place	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+sky	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	blessed Sun	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Earth	place	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	blessed Sun	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Earth	place	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	blessed Sun	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Earth	place	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	blessed Sun	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Earth	place	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	blessed Sun	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Earth	place	               
+Khawla_breath	metaplace	main	B9_lg535	sky	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Khawla_breath	metaplace	main	B9_lg535	Khawla_breath	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Persia	place	               
+Tombs	metaplace	main	B9_lg536	Ardevil	place	               
+Tombs	metaplace	main	B9_lg536	city of Kom	place	               
+Tombs	metaplace	main	B9_lg536	Portugal	place	               
+Tombs	metaplace	main	B9_lg536	to_next_world	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Persia	place	               
+Tombs	metaplace	main	B9_lg536	Ardevil	place	               
+Tombs	metaplace	main	B9_lg536	city of Kom	place	               
+Tombs	metaplace	main	B9_lg536	Portugal	place	               
+Tombs	metaplace	main	B9_lg536	to_next_world	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Persia	place	               
+Tombs	metaplace	main	B9_lg536	Ardevil	place	               
+Tombs	metaplace	main	B9_lg536	city of Kom	place	               
+Tombs	metaplace	main	B9_lg536	Portugal	place	               
+Tombs	metaplace	main	B9_lg536	to_next_world	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	main	B9_lg536	Tombs	metaplace	               
+to_next_world	metaplace	note	B9_lg536	Tombs	metaplace	               
+to_next_world	metaplace	note	B9_lg536	Tombs	metaplace	               
+to_next_world	metaplace	note	B9_lg536	Tombs	metaplace	               
+to_next_world	metaplace	note	B9_lg536	Persia	place	               
+to_next_world	metaplace	note	B9_lg536	Ardevil	place	               
+to_next_world	metaplace	note	B9_lg536	city of Kom	place	               
+to_next_world	metaplace	note	B9_lg536	Portugal	place	               
+to_next_world	metaplace	note	B9_lg536	Tombs	metaplace	               
+to_next_world	metaplace	note	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	note	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	note	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	note	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	note	B9_lg536	Persia	place	               
+Tombs	metaplace	note	B9_lg536	Ardevil	place	               
+Tombs	metaplace	note	B9_lg536	city of Kom	place	               
+Tombs	metaplace	note	B9_lg536	Portugal	place	               
+Tombs	metaplace	note	B9_lg536	to_next_world	metaplace	               
+Tombs	metaplace	note	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	note	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	note	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	note	B9_lg536	Tombs	metaplace	               
+Tombs	metaplace	note	B9_lg536	Persia	place	               
+Tombs	metaplace	note	B9_lg536	Ardevil	place	               
+Tombs	metaplace	note	B9_lg536	city of Kom	place	               
+Tombs	metaplace	note	B9_lg536	Portugal	place	               
+Tombs	metaplace	note	B9_lg536	to_next_world	metaplace	               
+Tombs	metaplace	note	B9_lg536	Tombs	metaplace	               
+sky	metaplace	main	B9_lg537	sky	metaplace	               
+sky	metaplace	main	B9_lg537	sky	metaplace	               
+sky	metaplace	main	B9_lg537	sky	metaplace	               
+sky	metaplace	main	B9_lg537	sky	metaplace	               
+sky	metaplace	main	B9_lg537	sky	metaplace	               
+sky	metaplace	main	B9_lg537	sky	metaplace	               
+Tombs	metaplace	main	B9_lg542	the earth	place	               
+Tombs	metaplace	main	B9_lg542	Earth	place	               
+Tombs	metaplace	main	B9_lg542	Ocean	place	               
+Tombs	metaplace	main	B9_lg542	Universe	metaplace	               
+Tombs	metaplace	main	B9_lg542	Universe	metaplace	               
+Universe	metaplace	main	B9_lg542	Tombs	metaplace	               
+Universe	metaplace	main	B9_lg542	the earth	place	               
+Universe	metaplace	main	B9_lg542	Earth	place	               
+Universe	metaplace	main	B9_lg542	Ocean	place	               
+Universe	metaplace	main	B9_lg542	Universe	metaplace	               
+Universe	metaplace	main	B9_lg542	Tombs	metaplace	               
+Universe	metaplace	main	B9_lg542	the earth	place	               
+Universe	metaplace	main	B9_lg542	Earth	place	               
+Universe	metaplace	main	B9_lg542	Ocean	place	               
+Universe	metaplace	main	B9_lg542	Universe	metaplace	               
+air_transport	metaplace	main	B9_lg544	air_transport	metaplace	               
+air_transport	metaplace	main	B9_lg544	air_transport	metaplace	               
+Heaven	metaplace	main	B9_lg559	Mohareb_Island	place	               
+Heaven	metaplace	main	B9_lg559	air_transport	metaplace	               
+Heaven	metaplace	main	B9_lg559	The Upas Tree of Death	metaplace	               
+air_transport	metaplace	main	B9_lg559	Mohareb_Island	place	               
+air_transport	metaplace	main	B9_lg559	Heaven	metaplace	               
+air_transport	metaplace	main	B9_lg559	The Upas Tree of Death	metaplace	               
+The Upas Tree of Death	metaplace	main	B9_lg559	Mohareb_Island	place	               
+The Upas Tree of Death	metaplace	main	B9_lg559	Heaven	metaplace	               
+The Upas Tree of Death	metaplace	main	B9_lg559	air_transport	metaplace	               
+Al-Araf	metaplace	main	B12_lg732	Al-Araf	metaplace	               
+Al-Araf	metaplace	main	B12_lg732	Paradise	metaplace	               
+Al-Araf	metaplace	main	B12_lg732	Hell	metaplace	               
+Al-Araf	metaplace	main	B12_lg732	Purgatory	metaplace	               
+Al-Araf	metaplace	main	B12_lg732	Al-Araf	metaplace	               
+Al-Araf	metaplace	main	B12_lg732	Heaven	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Paradise	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Hell	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Purgatory	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Heaven	metaplace	               
+Paradise	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Paradise	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Paradise	metaplace	note	B12_lg732	Hell	metaplace	               
+Paradise	metaplace	note	B12_lg732	Purgatory	metaplace	               
+Paradise	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Paradise	metaplace	note	B12_lg732	Heaven	metaplace	               
+Hell	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Hell	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Hell	metaplace	note	B12_lg732	Paradise	metaplace	               
+Hell	metaplace	note	B12_lg732	Purgatory	metaplace	               
+Hell	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Hell	metaplace	note	B12_lg732	Heaven	metaplace	               
+Purgatory	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Purgatory	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Purgatory	metaplace	note	B12_lg732	Paradise	metaplace	               
+Purgatory	metaplace	note	B12_lg732	Hell	metaplace	               
+Purgatory	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Purgatory	metaplace	note	B12_lg732	Heaven	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Al-Araf	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Paradise	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Hell	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Purgatory	metaplace	               
+Al-Araf	metaplace	note	B12_lg732	Heaven	metaplace	               
+Heaven	metaplace	main	B12_lg732	Al-Araf	metaplace	               
+Heaven	metaplace	main	B12_lg732	Al-Araf	metaplace	               
+Heaven	metaplace	main	B12_lg732	Paradise	metaplace	               
+Heaven	metaplace	main	B12_lg732	Hell	metaplace	               
+Heaven	metaplace	main	B12_lg732	Purgatory	metaplace	               
+Heaven	metaplace	main	B12_lg732	Al-Araf	metaplace	               
+Domdaniel_Cave	metaplace	main	B12_lg738	Ocean-Vault	place	               
+Domdaniel_Cave	metaplace	main	B12_lg738	Paradise	metaplace	               
+Domdaniel_Cave	metaplace	main	B12_lg738	Paradise	metaplace	               
+Domdaniel_Cave	metaplace	main	B12_lg738	Paradise	metaplace	               
+Paradise	metaplace	main	B12_lg738	Domdaniel_Cave	metaplace	               
+Paradise	metaplace	main	B12_lg738	Ocean-Vault	place	               
+Paradise	metaplace	main	B12_lg738	Paradise	metaplace	               
+Paradise	metaplace	main	B12_lg738	Paradise	metaplace	               
+Paradise	metaplace	main	B12_lg738	Domdaniel_Cave	metaplace	               
+Paradise	metaplace	main	B12_lg738	Ocean-Vault	place	               
+Paradise	metaplace	main	B12_lg738	Paradise	metaplace	               
+Paradise	metaplace	main	B12_lg738	Paradise	metaplace	               
+Paradise	metaplace	main	B12_lg738	Domdaniel_Cave	metaplace	               
+Paradise	metaplace	main	B12_lg738	Ocean-Vault	place	               
+Paradise	metaplace	main	B12_lg738	Paradise	metaplace	               
+Paradise	metaplace	main	B12_lg738	Paradise	metaplace	               

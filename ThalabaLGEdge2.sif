@@ -960,49 +960,34 @@ Bombay	note	Yemen
 Bombay	note	Mecca	               
 Bombay	note	Mecca	               
 the_world	note	sky	               
-the_world	note	river
-Aldea	               
+the_world	note	river Aldea	               
 the_world	note	Lisboa	               
-the_world	note	a nation of one
-legged men	               
+the_world	note	a nation of one legged men	               
 the_world	note	sky	               
 the_world	note	the_world	               
 the_world	note	the viewless Element	               
 the_world	note	air_transport	               
-river
-Aldea	note	sky	               
-river
-Aldea	note	the_world	               
-river
-Aldea	note	Lisboa	               
-river
-Aldea	note	a nation of one
-legged men	               
-river
-Aldea	note	sky	               
-river
-Aldea	note	the_world	               
-river
-Aldea	note	the viewless Element	               
-river
-Aldea	note	air_transport	               
+river Aldea	note	sky	               
+river Aldea	note	the_world	               
+river Aldea	note	Lisboa	               
+river Aldea	note	a nation of one legged men	               
+river Aldea	note	sky	               
+river Aldea	note	the_world	               
+river Aldea	note	the viewless Element	               
+river Aldea	note	air_transport	               
 Lisboa	note	sky	               
 Lisboa	note	the_world	               
-Lisboa	note	river
-Aldea	               
-Lisboa	note	a nation of one
-legged men	               
+Lisboa	note	river Aldea	               
+Lisboa	note	a nation of one legged men	               
 Lisboa	note	sky	               
 Lisboa	note	the_world	               
 Lisboa	note	the viewless Element	               
 Lisboa	note	air_transport	               
 the_world	note	sky	               
 the_world	note	the_world	               
-the_world	note	river
-Aldea	               
+the_world	note	river Aldea	               
 the_world	note	Lisboa	               
-the_world	note	a nation of one
-legged men	               
+the_world	note	a nation of one legged men	               
 the_world	note	sky	               
 the_world	note	the viewless Element	               
 the_world	note	air_transport	               
@@ -1014,8 +999,7 @@ Bagdad	main	Paris
 Bagdad	main	Paris	               
 Bagdad	main	Ispahan	               
 Bagdad	main	Alexandria	               
-Bagdad	main	another
-world	               
+Bagdad	main	another world	               
 an Oriental city	note	Bagdad	               
 an Oriental city	note	Bagdad	               
 an Oriental city	note	Aleppo	               
@@ -1024,8 +1008,7 @@ an Oriental city	note	Paris
 an Oriental city	note	Paris	               
 an Oriental city	note	Ispahan	               
 an Oriental city	note	Alexandria	               
-an Oriental city	note	another
-world	               
+an Oriental city	note	another world	               
 Aleppo	note	Bagdad	               
 Aleppo	note	Bagdad	               
 Aleppo	note	an Oriental city	               
@@ -1034,8 +1017,7 @@ Aleppo	note	Paris
 Aleppo	note	Paris	               
 Aleppo	note	Ispahan	               
 Aleppo	note	Alexandria	               
-Aleppo	note	another
-world	               
+Aleppo	note	another world	               
 Ispahan	note	Bagdad	               
 Ispahan	note	Bagdad	               
 Ispahan	note	an Oriental city	               
@@ -1043,8 +1025,7 @@ Ispahan	note	Aleppo
 Ispahan	note	Paris	               
 Ispahan	note	Paris	               
 Ispahan	note	Alexandria	               
-Ispahan	note	another
-world	               
+Ispahan	note	another world	               
 Paris	note	Bagdad	               
 Paris	note	Bagdad	               
 Paris	note	an Oriental city	               
@@ -1052,8 +1033,7 @@ Paris	note	Aleppo
 Paris	note	Ispahan	               
 Paris	note	Ispahan	               
 Paris	note	Alexandria	               
-Paris	note	another
-world	               
+Paris	note	another world	               
 Paris	note	Bagdad	               
 Paris	note	Bagdad	               
 Paris	note	an Oriental city	               
@@ -1061,8 +1041,7 @@ Paris	note	Aleppo
 Paris	note	Ispahan	               
 Paris	note	Ispahan	               
 Paris	note	Alexandria	               
-Paris	note	another
-world	               
+Paris	note	another world	               
 Ispahan	note	Bagdad	               
 Ispahan	note	Bagdad	               
 Ispahan	note	an Oriental city	               
@@ -1070,8 +1049,7 @@ Ispahan	note	Aleppo
 Ispahan	note	Paris	               
 Ispahan	note	Paris	               
 Ispahan	note	Alexandria	               
-Ispahan	note	another
-world	               
+Ispahan	note	another world	               
 Alexandria	note	Bagdad	               
 Alexandria	note	Bagdad	               
 Alexandria	note	an Oriental city	               
@@ -1080,13 +1058,11 @@ Alexandria	note	Ispahan
 Alexandria	note	Paris	               
 Alexandria	note	Paris	               
 Alexandria	note	Ispahan	               
-Alexandria	note	another
-world	               
+Alexandria	note	another world	               
 Bagdad	main	the Tigris	               
 Bagdad	main	Seleucia	               
 Bagdad	main	Bagdad	               
-Bagdad	main	Dar-al-Salam the City of
-Peace	               
+Bagdad	main	Dar-al-Salam the City of Peace	               
 Bagdad	main	Bagdad	               
 Bagdad	main	Bagdad	               
 Bagdad	main	Haschemia	               
@@ -1099,8 +1075,7 @@ Bagdad	main	the East
 the Tigris	note	Bagdad	               
 the Tigris	note	Seleucia	               
 the Tigris	note	Bagdad	               
-the Tigris	note	Dar-al-Salam the City of
-Peace	               
+the Tigris	note	Dar-al-Salam the City of Peace	               
 the Tigris	note	Bagdad	               
 the Tigris	note	Bagdad	               
 the Tigris	note	Haschemia	               
@@ -1113,8 +1088,7 @@ the Tigris	note	the East
 Seleucia	note	Bagdad	               
 Seleucia	note	the Tigris	               
 Seleucia	note	Bagdad	               
-Seleucia	note	Dar-al-Salam the City of
-Peace	               
+Seleucia	note	Dar-al-Salam the City of Peace	               
 Seleucia	note	Bagdad	               
 Seleucia	note	Bagdad	               
 Seleucia	note	Haschemia	               
@@ -1124,38 +1098,24 @@ Seleucia	note	Mecca
 Seleucia	note	Bagdad	               
 Seleucia	note	Europe	               
 Seleucia	note	the East	               
-Dar-al-Salam the City of
-Peace	note	Bagdad	               
-Dar-al-Salam the City of
-Peace	note	the Tigris	               
-Dar-al-Salam the City of
-Peace	note	Seleucia	               
-Dar-al-Salam the City of
-Peace	note	Bagdad	               
-Dar-al-Salam the City of
-Peace	note	Bagdad	               
-Dar-al-Salam the City of
-Peace	note	Bagdad	               
-Dar-al-Salam the City of
-Peace	note	Haschemia	               
-Dar-al-Salam the City of
-Peace	note	Mecca	               
-Dar-al-Salam the City of
-Peace	note	the Temple at Mecca	               
-Dar-al-Salam the City of
-Peace	note	Mecca	               
-Dar-al-Salam the City of
-Peace	note	Bagdad	               
-Dar-al-Salam the City of
-Peace	note	Europe	               
-Dar-al-Salam the City of
-Peace	note	the East	               
+Dar-al-Salam the City of Peace	note	Bagdad	               
+Dar-al-Salam the City of Peace	note	the Tigris	               
+Dar-al-Salam the City of Peace	note	Seleucia	               
+Dar-al-Salam the City of Peace	note	Bagdad	               
+Dar-al-Salam the City of Peace	note	Bagdad	               
+Dar-al-Salam the City of Peace	note	Bagdad	               
+Dar-al-Salam the City of Peace	note	Haschemia	               
+Dar-al-Salam the City of Peace	note	Mecca	               
+Dar-al-Salam the City of Peace	note	the Temple at Mecca	               
+Dar-al-Salam the City of Peace	note	Mecca	               
+Dar-al-Salam the City of Peace	note	Bagdad	               
+Dar-al-Salam the City of Peace	note	Europe	               
+Dar-al-Salam the City of Peace	note	the East	               
 Bagdad	note	Bagdad	               
 Bagdad	note	the Tigris	               
 Bagdad	note	Seleucia	               
 Bagdad	note	Bagdad	               
-Bagdad	note	Dar-al-Salam the City of
-Peace	               
+Bagdad	note	Dar-al-Salam the City of Peace	               
 Bagdad	note	Haschemia	               
 Bagdad	note	Mecca	               
 Bagdad	note	the Temple at Mecca	               
@@ -1166,8 +1126,7 @@ Bagdad	note	Bagdad
 Bagdad	note	the Tigris	               
 Bagdad	note	Seleucia	               
 Bagdad	note	Bagdad	               
-Bagdad	note	Dar-al-Salam the City of
-Peace	               
+Bagdad	note	Dar-al-Salam the City of Peace	               
 Bagdad	note	Haschemia	               
 Bagdad	note	Mecca	               
 Bagdad	note	the Temple at Mecca	               
@@ -1178,8 +1137,7 @@ Haschemia	note	Bagdad
 Haschemia	note	the Tigris	               
 Haschemia	note	Seleucia	               
 Haschemia	note	Bagdad	               
-Haschemia	note	Dar-al-Salam the City of
-Peace	               
+Haschemia	note	Dar-al-Salam the City of Peace	               
 Haschemia	note	Bagdad	               
 Haschemia	note	Bagdad	               
 Haschemia	note	Mecca	               
@@ -1192,8 +1150,7 @@ Mecca	note	Bagdad
 Mecca	note	the Tigris	               
 Mecca	note	Seleucia	               
 Mecca	note	Bagdad	               
-Mecca	note	Dar-al-Salam the City of
-Peace	               
+Mecca	note	Dar-al-Salam the City of Peace	               
 Mecca	note	Bagdad	               
 Mecca	note	Bagdad	               
 Mecca	note	Haschemia	               
@@ -1205,8 +1162,7 @@ the Temple at Mecca	note	Bagdad
 the Temple at Mecca	note	the Tigris	               
 the Temple at Mecca	note	Seleucia	               
 the Temple at Mecca	note	Bagdad	               
-the Temple at Mecca	note	Dar-al-Salam the City of
-Peace	               
+the Temple at Mecca	note	Dar-al-Salam the City of Peace	               
 the Temple at Mecca	note	Bagdad	               
 the Temple at Mecca	note	Bagdad	               
 the Temple at Mecca	note	Haschemia	               
@@ -1219,8 +1175,7 @@ Mecca	note	Bagdad
 Mecca	note	the Tigris	               
 Mecca	note	Seleucia	               
 Mecca	note	Bagdad	               
-Mecca	note	Dar-al-Salam the City of
-Peace	               
+Mecca	note	Dar-al-Salam the City of Peace	               
 Mecca	note	Bagdad	               
 Mecca	note	Bagdad	               
 Mecca	note	Haschemia	               
@@ -1232,8 +1187,7 @@ Bagdad	note	Bagdad
 Bagdad	note	the Tigris	               
 Bagdad	note	Seleucia	               
 Bagdad	note	Bagdad	               
-Bagdad	note	Dar-al-Salam the City of
-Peace	               
+Bagdad	note	Dar-al-Salam the City of Peace	               
 Bagdad	note	Haschemia	               
 Bagdad	note	Mecca	               
 Bagdad	note	the Temple at Mecca	               
@@ -1244,8 +1198,7 @@ Europe	main	Bagdad
 Europe	main	the Tigris	               
 Europe	main	Seleucia	               
 Europe	main	Bagdad	               
-Europe	main	Dar-al-Salam the City of
-Peace	               
+Europe	main	Dar-al-Salam the City of Peace	               
 Europe	main	Bagdad	               
 Europe	main	Bagdad	               
 Europe	main	Haschemia	               
@@ -1258,8 +1211,7 @@ the East	main	Bagdad
 the East	main	the Tigris	               
 the East	main	Seleucia	               
 the East	main	Bagdad	               
-the East	main	Dar-al-Salam the City of
-Peace	               
+the East	main	Dar-al-Salam the City of Peace	               
 the East	main	Bagdad	               
 the East	main	Bagdad	               
 the East	main	Haschemia	               
@@ -2270,6 +2222,12 @@ Euphrates	main	Babylon
 Euphrates	main	Babylon	               
 Euphrates	main	Sodom	               
 Euphrates	main	Gomorrah	               
+France	note	Germany	               
+France	note	Spain	               
+Germany	note	France	               
+Germany	note	Spain	               
+Spain	note	France	               
+Spain	note	Germany	               
 Persia	note	Paradise	               
 Persia	note	Mahumetical Paradise	               
 Persia	note	Paradise	               
@@ -2300,13 +2258,11 @@ Yle of Pentexoire	note	walled_mountain_Paradise
 Yle of Pentexoire	note	Melistorte	               
 the Sepulchre	main	Tombs	               
 Medina	note	Namaz	               
-Medina	note	in the prophet's
-antichamber	               
+Medina	note	in the prophet's antichamber	               
 Medina	note	the_world	               
 Medina	note	the whole expanded universe	               
 Namaz	note	Medina	               
-Namaz	note	in the prophet's
-antichamber	               
+Namaz	note	in the prophet's antichamber	               
 Namaz	note	the_world	               
 Namaz	note	the whole expanded universe	               
 the Meidan, or Great Place of the city of Tauris	note	city of Tauris	               
@@ -2341,7 +2297,7 @@ Belgrade	note	Tokay
 Belgrade	note	Transilvania	               
 Belgrade	note	Medreiga	               
 Belgrade	note	Cossova	               
-Belgrade	note	Frontiers of the Turkish Servia
+Belgrade	note	Frontiers of the Turkish Servia	               
 Belgrade	note	Servia	               
 Belgrade	note	Vampire	               
 Belgrade	note	Saave	               
@@ -2369,7 +2325,7 @@ Gradisch	note	Tokay
 Gradisch	note	Transilvania	               
 Gradisch	note	Medreiga	               
 Gradisch	note	Cossova	               
-Gradisch	note	Frontiers of the Turkish Servia
+Gradisch	note	Frontiers of the Turkish Servia	               
 Gradisch	note	Servia	               
 Gradisch	note	Vampire	               
 Gradisch	note	Saave	               
@@ -2399,7 +2355,7 @@ Sclavonia	note	Tokay
 Sclavonia	note	Transilvania	               
 Sclavonia	note	Medreiga	               
 Sclavonia	note	Cossova	               
-Sclavonia	note	Frontiers of the Turkish Servia
+Sclavonia	note	Frontiers of the Turkish Servia	               
 Sclavonia	note	Servia	               
 Sclavonia	note	Vampire	               
 Sclavonia	note	Saave	               
@@ -2429,7 +2385,7 @@ Kisilova	note	Tokay
 Kisilova	note	Transilvania	               
 Kisilova	note	Medreiga	               
 Kisilova	note	Cossova	               
-Kisilova	note	Frontiers of the Turkish Servia
+Kisilova	note	Frontiers of the Turkish Servia	               
 Kisilova	note	Servia	               
 Kisilova	note	Vampire	               
 Kisilova	note	Saave	               
@@ -2457,7 +2413,7 @@ Gradisch	note	Tokay
 Gradisch	note	Transilvania	               
 Gradisch	note	Medreiga	               
 Gradisch	note	Cossova	               
-Gradisch	note	Frontiers of the Turkish Servia
+Gradisch	note	Frontiers of the Turkish Servia	               
 Gradisch	note	Servia	               
 Gradisch	note	Vampire	               
 Gradisch	note	Saave	               
@@ -2486,7 +2442,7 @@ Belgrade	note	Tokay
 Belgrade	note	Transilvania	               
 Belgrade	note	Medreiga	               
 Belgrade	note	Cossova	               
-Belgrade	note	Frontiers of the Turkish Servia
+Belgrade	note	Frontiers of the Turkish Servia	               
 Belgrade	note	Servia	               
 Belgrade	note	Vampire	               
 Belgrade	note	Saave	               
@@ -2514,7 +2470,7 @@ Gradisch	note	Tokay
 Gradisch	note	Transilvania	               
 Gradisch	note	Medreiga	               
 Gradisch	note	Cossova	               
-Gradisch	note	Frontiers of the Turkish Servia
+Gradisch	note	Frontiers of the Turkish Servia	               
 Gradisch	note	Servia	               
 Gradisch	note	Vampire	               
 Gradisch	note	Saave	               
@@ -2544,7 +2500,7 @@ Hungary	note	Tokay
 Hungary	note	Transilvania	               
 Hungary	note	Medreiga	               
 Hungary	note	Cossova	               
-Hungary	note	Frontiers of the Turkish Servia
+Hungary	note	Frontiers of the Turkish Servia	               
 Hungary	note	Servia	               
 Hungary	note	Vampire	               
 Hungary	note	Saave	               
@@ -2574,7 +2530,7 @@ Oppida Heidonum	note	Tokay
 Oppida Heidonum	note	Transilvania	               
 Oppida Heidonum	note	Medreiga	               
 Oppida Heidonum	note	Cossova	               
-Oppida Heidonum	note	Frontiers of the Turkish Servia
+Oppida Heidonum	note	Frontiers of the Turkish Servia	               
 Oppida Heidonum	note	Servia	               
 Oppida Heidonum	note	Vampire	               
 Oppida Heidonum	note	Saave	               
@@ -2604,7 +2560,7 @@ Tibiscus	note	Tokay
 Tibiscus	note	Transilvania	               
 Tibiscus	note	Medreiga	               
 Tibiscus	note	Cossova	               
-Tibiscus	note	Frontiers of the Turkish Servia
+Tibiscus	note	Frontiers of the Turkish Servia	               
 Tibiscus	note	Servia	               
 Tibiscus	note	Vampire	               
 Tibiscus	note	Saave	               
@@ -2634,7 +2590,7 @@ Teysse	note	Tokay
 Teysse	note	Transilvania	               
 Teysse	note	Medreiga	               
 Teysse	note	Cossova	               
-Teysse	note	Frontiers of the Turkish Servia
+Teysse	note	Frontiers of the Turkish Servia	               
 Teysse	note	Servia	               
 Teysse	note	Vampire	               
 Teysse	note	Saave	               
@@ -2664,7 +2620,7 @@ Tokay	note	Teysse
 Tokay	note	Transilvania	               
 Tokay	note	Medreiga	               
 Tokay	note	Cossova	               
-Tokay	note	Frontiers of the Turkish Servia
+Tokay	note	Frontiers of the Turkish Servia	               
 Tokay	note	Servia	               
 Tokay	note	Vampire	               
 Tokay	note	Saave	               
@@ -2694,7 +2650,7 @@ Transilvania	note	Teysse
 Transilvania	note	Tokay	               
 Transilvania	note	Medreiga	               
 Transilvania	note	Cossova	               
-Transilvania	note	Frontiers of the Turkish Servia
+Transilvania	note	Frontiers of the Turkish Servia	               
 Transilvania	note	Servia	               
 Transilvania	note	Vampire	               
 Transilvania	note	Saave	               
@@ -2724,7 +2680,7 @@ Medreiga	note	Teysse
 Medreiga	note	Tokay	               
 Medreiga	note	Transilvania	               
 Medreiga	note	Cossova	               
-Medreiga	note	Frontiers of the Turkish Servia
+Medreiga	note	Frontiers of the Turkish Servia	               
 Medreiga	note	Servia	               
 Medreiga	note	Vampire	               
 Medreiga	note	Saave	               
@@ -2754,7 +2710,7 @@ Cossova	note	Teysse
 Cossova	note	Tokay	               
 Cossova	note	Transilvania	               
 Cossova	note	Medreiga	               
-Cossova	note	Frontiers of the Turkish Servia
+Cossova	note	Frontiers of the Turkish Servia	               
 Cossova	note	Servia	               
 Cossova	note	Vampire	               
 Cossova	note	Saave	               
@@ -2769,66 +2725,36 @@ Cossova	note	Syre
 Cossova	note	Tinos	               
 Cossova	note	St. George	               
 Cossova	note	Delos	               
-Frontiers of the Turkish Servia
-note	Vampire	               
-Frontiers of the Turkish Servia
-note	Belgrade	               
-Frontiers of the Turkish Servia
-note	Gradisch	               
-Frontiers of the Turkish Servia
-note	Sclavonia	               
-Frontiers of the Turkish Servia
-note	Kisilova	               
-Frontiers of the Turkish Servia
-note	Gradisch	               
-Frontiers of the Turkish Servia
-note	Belgrade	               
-Frontiers of the Turkish Servia
-note	Gradisch	               
-Frontiers of the Turkish Servia
-note	Hungary	               
-Frontiers of the Turkish Servia
-note	Oppida Heidonum	               
-Frontiers of the Turkish Servia
-note	Tibiscus	               
-Frontiers of the Turkish Servia
-note	Teysse	               
-Frontiers of the Turkish Servia
-note	Tokay	               
-Frontiers of the Turkish Servia
-note	Transilvania	               
-Frontiers of the Turkish Servia
-note	Medreiga	               
-Frontiers of the Turkish Servia
-note	Cossova	               
-Frontiers of the Turkish Servia
-note	Servia	               
-Frontiers of the Turkish Servia
-note	Vampire	               
-Frontiers of the Turkish Servia
-note	Saave	               
-Frontiers of the Turkish Servia
-note	Vienna	               
-Frontiers of the Turkish Servia
-note	Wirtemberg	               
-Frontiers of the Turkish Servia
-note	Furstemberg	               
-Frontiers of the Turkish Servia
-note	Greece	               
-Frontiers of the Turkish Servia
-note	Mycone	               
-Frontiers of the Turkish Servia
-note	Christendom	               
-Frontiers of the Turkish Servia
-note	Mycone	               
-Frontiers of the Turkish Servia
-note	Syre	               
-Frontiers of the Turkish Servia
-note	Tinos	               
-Frontiers of the Turkish Servia
-note	St. George	               
-Frontiers of the Turkish Servia
-note	Delos	               
+Frontiers of the Turkish Servia	note	Vampire	               
+Frontiers of the Turkish Servia	note	Belgrade	               
+Frontiers of the Turkish Servia	note	Gradisch	               
+Frontiers of the Turkish Servia	note	Sclavonia	               
+Frontiers of the Turkish Servia	note	Kisilova	               
+Frontiers of the Turkish Servia	note	Gradisch	               
+Frontiers of the Turkish Servia	note	Belgrade	               
+Frontiers of the Turkish Servia	note	Gradisch	               
+Frontiers of the Turkish Servia	note	Hungary	               
+Frontiers of the Turkish Servia	note	Oppida Heidonum	               
+Frontiers of the Turkish Servia	note	Tibiscus	               
+Frontiers of the Turkish Servia	note	Teysse	               
+Frontiers of the Turkish Servia	note	Tokay	               
+Frontiers of the Turkish Servia	note	Transilvania	               
+Frontiers of the Turkish Servia	note	Medreiga	               
+Frontiers of the Turkish Servia	note	Cossova	               
+Frontiers of the Turkish Servia	note	Servia	               
+Frontiers of the Turkish Servia	note	Vampire	               
+Frontiers of the Turkish Servia	note	Saave	               
+Frontiers of the Turkish Servia	note	Vienna	               
+Frontiers of the Turkish Servia	note	Wirtemberg	               
+Frontiers of the Turkish Servia	note	Furstemberg	               
+Frontiers of the Turkish Servia	note	Greece	               
+Frontiers of the Turkish Servia	note	Mycone	               
+Frontiers of the Turkish Servia	note	Christendom	               
+Frontiers of the Turkish Servia	note	Mycone	               
+Frontiers of the Turkish Servia	note	Syre	               
+Frontiers of the Turkish Servia	note	Tinos	               
+Frontiers of the Turkish Servia	note	St. George	               
+Frontiers of the Turkish Servia	note	Delos	               
 Servia	note	Vampire	               
 Servia	note	Belgrade	               
 Servia	note	Gradisch	               
@@ -2845,7 +2771,7 @@ Servia	note	Tokay
 Servia	note	Transilvania	               
 Servia	note	Medreiga	               
 Servia	note	Cossova	               
-Servia	note	Frontiers of the Turkish Servia
+Servia	note	Frontiers of the Turkish Servia	               
 Servia	note	Vampire	               
 Servia	note	Saave	               
 Servia	note	Vienna	               
@@ -2875,7 +2801,7 @@ Saave	note	Tokay
 Saave	note	Transilvania	               
 Saave	note	Medreiga	               
 Saave	note	Cossova	               
-Saave	note	Frontiers of the Turkish Servia
+Saave	note	Frontiers of the Turkish Servia	               
 Saave	note	Servia	               
 Saave	note	Vampire	               
 Saave	note	Vienna	               
@@ -2905,7 +2831,7 @@ Vienna	note	Tokay
 Vienna	note	Transilvania	               
 Vienna	note	Medreiga	               
 Vienna	note	Cossova	               
-Vienna	note	Frontiers of the Turkish Servia
+Vienna	note	Frontiers of the Turkish Servia	               
 Vienna	note	Servia	               
 Vienna	note	Vampire	               
 Vienna	note	Saave	               
@@ -2935,7 +2861,7 @@ Wirtemberg	note	Tokay
 Wirtemberg	note	Transilvania	               
 Wirtemberg	note	Medreiga	               
 Wirtemberg	note	Cossova	               
-Wirtemberg	note	Frontiers of the Turkish Servia
+Wirtemberg	note	Frontiers of the Turkish Servia	               
 Wirtemberg	note	Servia	               
 Wirtemberg	note	Vampire	               
 Wirtemberg	note	Saave	               
@@ -2965,7 +2891,7 @@ Furstemberg	note	Tokay
 Furstemberg	note	Transilvania	               
 Furstemberg	note	Medreiga	               
 Furstemberg	note	Cossova	               
-Furstemberg	note	Frontiers of the Turkish Servia
+Furstemberg	note	Frontiers of the Turkish Servia	               
 Furstemberg	note	Servia	               
 Furstemberg	note	Vampire	               
 Furstemberg	note	Saave	               
@@ -2995,7 +2921,7 @@ Greece	note	Tokay
 Greece	note	Transilvania	               
 Greece	note	Medreiga	               
 Greece	note	Cossova	               
-Greece	note	Frontiers of the Turkish Servia
+Greece	note	Frontiers of the Turkish Servia	               
 Greece	note	Servia	               
 Greece	note	Vampire	               
 Greece	note	Saave	               
@@ -3025,7 +2951,7 @@ Mycone	note	Tokay
 Mycone	note	Transilvania	               
 Mycone	note	Medreiga	               
 Mycone	note	Cossova	               
-Mycone	note	Frontiers of the Turkish Servia
+Mycone	note	Frontiers of the Turkish Servia	               
 Mycone	note	Servia	               
 Mycone	note	Vampire	               
 Mycone	note	Saave	               
@@ -3054,7 +2980,7 @@ Christendom	note	Tokay
 Christendom	note	Transilvania	               
 Christendom	note	Medreiga	               
 Christendom	note	Cossova	               
-Christendom	note	Frontiers of the Turkish Servia
+Christendom	note	Frontiers of the Turkish Servia	               
 Christendom	note	Servia	               
 Christendom	note	Vampire	               
 Christendom	note	Saave	               
@@ -3084,7 +3010,7 @@ Mycone	note	Tokay
 Mycone	note	Transilvania	               
 Mycone	note	Medreiga	               
 Mycone	note	Cossova	               
-Mycone	note	Frontiers of the Turkish Servia
+Mycone	note	Frontiers of the Turkish Servia	               
 Mycone	note	Servia	               
 Mycone	note	Vampire	               
 Mycone	note	Saave	               
@@ -3113,7 +3039,7 @@ Syre	note	Tokay
 Syre	note	Transilvania	               
 Syre	note	Medreiga	               
 Syre	note	Cossova	               
-Syre	note	Frontiers of the Turkish Servia
+Syre	note	Frontiers of the Turkish Servia	               
 Syre	note	Servia	               
 Syre	note	Vampire	               
 Syre	note	Saave	               
@@ -3143,7 +3069,7 @@ Tinos	note	Tokay
 Tinos	note	Transilvania	               
 Tinos	note	Medreiga	               
 Tinos	note	Cossova	               
-Tinos	note	Frontiers of the Turkish Servia
+Tinos	note	Frontiers of the Turkish Servia	               
 Tinos	note	Servia	               
 Tinos	note	Vampire	               
 Tinos	note	Saave	               
@@ -3173,7 +3099,7 @@ St. George	note	Tokay
 St. George	note	Transilvania	               
 St. George	note	Medreiga	               
 St. George	note	Cossova	               
-St. George	note	Frontiers of the Turkish Servia
+St. George	note	Frontiers of the Turkish Servia	               
 St. George	note	Servia	               
 St. George	note	Vampire	               
 St. George	note	Saave	               
@@ -3203,7 +3129,7 @@ Delos	note	Tokay
 Delos	note	Transilvania	               
 Delos	note	Medreiga	               
 Delos	note	Cossova	               
-Delos	note	Frontiers of the Turkish Servia
+Delos	note	Frontiers of the Turkish Servia	               
 Delos	note	Servia	               
 Delos	note	Vampire	               
 Delos	note	Saave	               
@@ -3254,17 +3180,17 @@ the World	main	Heaven
 Aleppo	note	England	               
 Aleppo	note	Persia	               
 Aleppo	note	Norway	               
-Aleppo	note	Spain Portugal	               
+Aleppo	note	Portugal	               
 Aleppo	note	England	               
 England	note	Aleppo	               
 England	note	Persia	               
 England	note	Norway	               
-England	note	Spain Portugal	               
+England	note	Portugal	               
 England	note	England	               
 Norway	note	Aleppo	               
 Norway	note	England	               
 Norway	note	Persia	               
-Norway	note	Spain Portugal	               
+Norway	note	Portugal	               
 Norway	note	England	               
 Persia	note	Tartary	               
 Persia	note	Muscovy	               
@@ -3436,7 +3362,7 @@ Ardevil	note	Tombs
 Ardevil	note	Tombs	               
 Ardevil	note	Persia	               
 Ardevil	note	city of Kom	               
-Ardevil	note	Spain Portugal	               
+Ardevil	note	Portugal	               
 Ardevil	note	to_next_world	               
 Ardevil	note	Tombs	               
 Ardevil	note	Tombs	               
@@ -3445,7 +3371,7 @@ city of Kom	note	Tombs
 city of Kom	note	Tombs	               
 city of Kom	note	Persia	               
 city of Kom	note	Ardevil	               
-city of Kom	note	Spain Portugal	               
+city of Kom	note	Portugal	               
 city of Kom	note	to_next_world	               
 city of Kom	note	Tombs	               
 city of Kom	note	Tombs	               
@@ -3459,6 +3385,23 @@ Ocean	main	the earth
 Ocean	main	Earth	               
 Ocean	main	Universe	               
 Ocean	main	Universe	               
+Mohareb_City	main	Ragusa	               
+Mohareb_City	main	Ragusa	               
+Mohareb_City	main	Constantinople	               
+Mohareb_City	main	Constantinople	               
+Mohareb_City	main	Christendom	               
+Mohareb_City	main	Islands of Barlovento	               
+Mohareb_City	main	Brazil	               
+Mohareb_City	main	Santa Marta	               
+Mohareb_City	main	the new kingdom	               
+Mohareb_City	main	Peru	               
+Mohareb_City	main	Arabia	               
+Mohareb_City	main	Brazil	               
+Mohareb_City	main	Java	               
+Mohareb_City	main	East Indies	               
+Mohareb_City	main	Java	               
+Mohareb_City	main	the world	               
+Ragusa	note	Mohareb_City	               
 Ragusa	note	Ragusa	               
 Ragusa	note	Constantinople	               
 Ragusa	note	Constantinople	               
@@ -3474,6 +3417,7 @@ Ragusa	note	Java
 Ragusa	note	East Indies	               
 Ragusa	note	Java	               
 Ragusa	note	the world	               
+Constantinople	note	Mohareb_City	               
 Constantinople	note	Ragusa	               
 Constantinople	note	Ragusa	               
 Constantinople	note	Christendom	               
@@ -3488,6 +3432,7 @@ Constantinople	note	Java
 Constantinople	note	East Indies	               
 Constantinople	note	Java	               
 Constantinople	note	the world	               
+Constantinople	note	Mohareb_City	               
 Constantinople	note	Ragusa	               
 Constantinople	note	Ragusa	               
 Constantinople	note	Christendom	               
@@ -3502,6 +3447,7 @@ Constantinople	note	Java
 Constantinople	note	East Indies	               
 Constantinople	note	Java	               
 Constantinople	note	the world	               
+Christendom	note	Mohareb_City	               
 Christendom	note	Ragusa	               
 Christendom	note	Ragusa	               
 Christendom	note	Constantinople	               
@@ -3517,6 +3463,7 @@ Christendom	note	Java
 Christendom	note	East Indies	               
 Christendom	note	Java	               
 Christendom	note	the world	               
+Islands of Barlovento	note	Mohareb_City	               
 Islands of Barlovento	note	Ragusa	               
 Islands of Barlovento	note	Ragusa	               
 Islands of Barlovento	note	Constantinople	               
@@ -3532,6 +3479,7 @@ Islands of Barlovento	note	Java
 Islands of Barlovento	note	East Indies	               
 Islands of Barlovento	note	Java	               
 Islands of Barlovento	note	the world	               
+Brazil	note	Mohareb_City	               
 Brazil	note	Ragusa	               
 Brazil	note	Ragusa	               
 Brazil	note	Constantinople	               
@@ -3547,6 +3495,7 @@ Brazil	note	Java
 Brazil	note	East Indies	               
 Brazil	note	Java	               
 Brazil	note	the world	               
+Santa Marta	note	Mohareb_City	               
 Santa Marta	note	Ragusa	               
 Santa Marta	note	Ragusa	               
 Santa Marta	note	Constantinople	               
@@ -3562,6 +3511,7 @@ Santa Marta	note	Java
 Santa Marta	note	East Indies	               
 Santa Marta	note	Java	               
 Santa Marta	note	the world	               
+Peru	note	Mohareb_City	               
 Peru	note	Ragusa	               
 Peru	note	Ragusa	               
 Peru	note	Constantinople	               
@@ -3577,6 +3527,7 @@ Peru	note	Java
 Peru	note	East Indies	               
 Peru	note	Java	               
 Peru	note	the world	               
+Arabia	note	Mohareb_City	               
 Arabia	note	Ragusa	               
 Arabia	note	Ragusa	               
 Arabia	note	Constantinople	               
@@ -3592,6 +3543,7 @@ Arabia	note	Java
 Arabia	note	East Indies	               
 Arabia	note	Java	               
 Arabia	note	the world	               
+Brazil	note	Mohareb_City	               
 Brazil	note	Ragusa	               
 Brazil	note	Ragusa	               
 Brazil	note	Constantinople	               
@@ -3607,6 +3559,7 @@ Brazil	note	Java
 Brazil	note	East Indies	               
 Brazil	note	Java	               
 Brazil	note	the world	               
+Java	note	Mohareb_City	               
 Java	note	Ragusa	               
 Java	note	Ragusa	               
 Java	note	Constantinople	               
@@ -3622,6 +3575,7 @@ Java	note	Brazil
 Java	note	East Indies	               
 Java	note	Java	               
 Java	note	the world	               
+East Indies	note	Mohareb_City	               
 East Indies	note	Ragusa	               
 East Indies	note	Ragusa	               
 East Indies	note	Constantinople	               
@@ -3637,6 +3591,7 @@ East Indies	note	Brazil
 East Indies	note	Java	               
 East Indies	note	Java	               
 East Indies	note	the world	               
+Java	note	Mohareb_City	               
 Java	note	Ragusa	               
 Java	note	Ragusa	               
 Java	note	Constantinople	               
@@ -3652,6 +3607,7 @@ Java	note	Brazil
 Java	note	Java	               
 Java	note	East Indies	               
 Java	note	the world	               
+the world	note	Mohareb_City	               
 the world	note	Ragusa	               
 the world	note	Ragusa	               
 the world	note	Constantinople	               
@@ -3793,13 +3749,11 @@ Bagdad	main	Paris
 Bagdad	main	Paris	               
 Bagdad	main	Ispahan	               
 Bagdad	main	Alexandria	               
-Bagdad	main	another
-world	               
+Bagdad	main	another world	               
 Bagdad	note	Bagdad	               
 Bagdad	note	the Tigris	               
 Bagdad	note	Seleucia	               
-Bagdad	note	Dar-al-Salam the City of
-Peace	               
+Bagdad	note	Dar-al-Salam the City of Peace	               
 Bagdad	note	Bagdad	               
 Bagdad	note	Bagdad	               
 Bagdad	note	Haschemia	               
@@ -3876,23 +3830,17 @@ Babylon	main	Babylon
 Babylon	main	Sodom	               
 Babylon	main	Gomorrah	               
 Babylon	main	Euphrates	               
-in the prophet's
-antichamber	note	Medina	               
-in the prophet's
-antichamber	note	Namaz	               
-in the prophet's
-antichamber	note	the_world	               
-in the prophet's
-antichamber	note	the whole expanded universe	               
+in the prophet's antichamber	note	Medina	               
+in the prophet's antichamber	note	Namaz	               
+in the prophet's antichamber	note	the_world	               
+in the prophet's antichamber	note	the whole expanded universe	               
 the_world	note	Medina	               
 the_world	note	Namaz	               
-the_world	note	in the prophet's
-antichamber	               
+the_world	note	in the prophet's antichamber	               
 the_world	note	the whole expanded universe	               
 the whole expanded universe	note	Medina	               
 the whole expanded universe	note	Namaz	               
-the whole expanded universe	note	in the prophet's
-antichamber	               
+the whole expanded universe	note	in the prophet's antichamber	               
 the whole expanded universe	note	the_world	               
 polar	main	polar	               
 polar	main	Mohareb_Island	               
@@ -3931,18 +3879,18 @@ the_world	main	Babylon
 Persia	note	Aleppo	               
 Persia	note	England	               
 Persia	note	Norway	               
-Persia	note	Spain Portugal	               
+Persia	note	Portugal	               
 Persia	note	England	               
-Spain Portugal	note	Aleppo	               
-Spain Portugal	note	England	               
-Spain Portugal	note	Persia	               
-Spain Portugal	note	Norway	               
-Spain Portugal	note	England	               
+Portugal	note	Aleppo	               
+Portugal	note	England	               
+Portugal	note	Persia	               
+Portugal	note	Norway	               
+Portugal	note	England	               
 England	note	Aleppo	               
 England	note	England	               
 England	note	Persia	               
 England	note	Norway	               
-England	note	Spain Portugal	               
+England	note	Portugal	               
 India	note	Huquam	               
 India	note	Xantung	               
 India	note	Huquam	               
@@ -3961,24 +3909,25 @@ Persia	note	Tombs
 Persia	note	Tombs	               
 Persia	note	Ardevil	               
 Persia	note	city of Kom	               
-Persia	note	Spain Portugal	               
+Persia	note	Portugal	               
 Persia	note	to_next_world	               
 Persia	note	Tombs	               
 Persia	note	Tombs	               
-Spain Portugal	note	Tombs	               
-Spain Portugal	note	Tombs	               
-Spain Portugal	note	Tombs	               
-Spain Portugal	note	Persia	               
-Spain Portugal	note	Ardevil	               
-Spain Portugal	note	city of Kom	               
-Spain Portugal	note	to_next_world	               
-Spain Portugal	note	Tombs	               
-Spain Portugal	note	Tombs	               
+Portugal	note	Tombs	               
+Portugal	note	Tombs	               
+Portugal	note	Tombs	               
+Portugal	note	Persia	               
+Portugal	note	Ardevil	               
+Portugal	note	city of Kom	               
+Portugal	note	to_next_world	               
+Portugal	note	Tombs	               
+Portugal	note	Tombs	               
 the earth	main	Tombs	               
 the earth	main	Earth	               
 the earth	main	Ocean	               
 the earth	main	Universe	               
 the earth	main	Universe	               
+Ragusa	note	Mohareb_City	               
 Ragusa	note	Ragusa	               
 Ragusa	note	Constantinople	               
 Ragusa	note	Constantinople	               
@@ -3994,6 +3943,7 @@ Ragusa	note	Java
 Ragusa	note	East Indies	               
 Ragusa	note	Java	               
 Ragusa	note	the world	               
+the new kingdom	note	Mohareb_City	               
 the new kingdom	note	Ragusa	               
 the new kingdom	note	Ragusa	               
 the new kingdom	note	Constantinople	               
@@ -4250,80 +4200,54 @@ what passes in distant countries	note	Mecca
 what passes in distant countries	note	Mecca	               
 what passes in distant countries	note	Bombay	               
 sky	main	the_world	               
-sky	main	river
-Aldea	               
+sky	main	river Aldea	               
 sky	main	Lisboa	               
-sky	main	a nation of one
-legged men	               
+sky	main	a nation of one legged men	               
 sky	main	sky	               
 sky	main	the_world	               
 sky	main	the viewless Element	               
 sky	main	air_transport	               
-a nation of one
-legged men	note	sky	               
-a nation of one
-legged men	note	the_world	               
-a nation of one
-legged men	note	river
-Aldea	               
-a nation of one
-legged men	note	Lisboa	               
-a nation of one
-legged men	note	sky	               
-a nation of one
-legged men	note	the_world	               
-a nation of one
-legged men	note	the viewless Element	               
-a nation of one
-legged men	note	air_transport	               
+a nation of one legged men	note	sky	               
+a nation of one legged men	note	the_world	               
+a nation of one legged men	note	river Aldea	               
+a nation of one legged men	note	Lisboa	               
+a nation of one legged men	note	sky	               
+a nation of one legged men	note	the_world	               
+a nation of one legged men	note	the viewless Element	               
+a nation of one legged men	note	air_transport	               
 sky	note	sky	               
 sky	note	the_world	               
-sky	note	river
-Aldea	               
+sky	note	river Aldea	               
 sky	note	Lisboa	               
-sky	note	a nation of one
-legged men	               
+sky	note	a nation of one legged men	               
 sky	note	the_world	               
 sky	note	the viewless Element	               
 sky	note	air_transport	               
 the viewless Element	main	sky	               
 the viewless Element	main	the_world	               
-the viewless Element	main	river
-Aldea	               
+the viewless Element	main	river Aldea	               
 the viewless Element	main	Lisboa	               
-the viewless Element	main	a nation of one
-legged men	               
+the viewless Element	main	a nation of one legged men	               
 the viewless Element	main	sky	               
 the viewless Element	main	the_world	               
 the viewless Element	main	air_transport	               
 air_transport	main	sky	               
 air_transport	main	the_world	               
-air_transport	main	river
-Aldea	               
+air_transport	main	river Aldea	               
 air_transport	main	Lisboa	               
-air_transport	main	a nation of one
-legged men	               
+air_transport	main	a nation of one legged men	               
 air_transport	main	sky	               
 air_transport	main	the_world	               
 air_transport	main	the viewless Element	               
-another
-world	note	Bagdad	               
-another
-world	note	Bagdad	               
-another
-world	note	an Oriental city	               
-another
-world	note	Aleppo	               
-another
-world	note	Ispahan	               
-another
-world	note	Paris	               
-another
-world	note	Paris	               
-another
-world	note	Ispahan	               
-another
-world	note	Alexandria	               
+another world	note	Bagdad	               
+another world	note	Bagdad	               
+another world	note	an Oriental city	               
+another world	note	Aleppo	               
+another world	note	Ispahan	               
+another world	note	Paris	               
+another world	note	Paris	               
+another world	note	Ispahan	               
+another world	note	Alexandria	               
 Heaven	note	Babylon	               
 Heaven	note	Euphrates	               
 Heaven	note	Judah	               
@@ -4417,7 +4341,7 @@ Vampire	note	Tokay
 Vampire	note	Transilvania	               
 Vampire	note	Medreiga	               
 Vampire	note	Cossova	               
-Vampire	note	Frontiers of the Turkish Servia
+Vampire	note	Frontiers of the Turkish Servia	               
 Vampire	note	Servia	               
 Vampire	note	Vampire	               
 Vampire	note	Saave	               
@@ -4448,7 +4372,7 @@ Vampire	note	Tokay
 Vampire	note	Transilvania	               
 Vampire	note	Medreiga	               
 Vampire	note	Cossova	               
-Vampire	note	Frontiers of the Turkish Servia
+Vampire	note	Frontiers of the Turkish Servia	               
 Vampire	note	Servia	               
 Vampire	note	Saave	               
 Vampire	note	Vienna	               
@@ -4635,7 +4559,7 @@ Tombs	main	Tombs
 Tombs	main	Persia	               
 Tombs	main	Ardevil	               
 Tombs	main	city of Kom	               
-Tombs	main	Spain Portugal	               
+Tombs	main	Portugal	               
 Tombs	main	to_next_world	               
 Tombs	main	Tombs	               
 Tombs	main	Tombs	               
@@ -4644,7 +4568,7 @@ Tombs	main	Tombs
 Tombs	main	Persia	               
 Tombs	main	Ardevil	               
 Tombs	main	city of Kom	               
-Tombs	main	Spain Portugal	               
+Tombs	main	Portugal	               
 Tombs	main	to_next_world	               
 Tombs	main	Tombs	               
 Tombs	main	Tombs	               
@@ -4653,7 +4577,7 @@ Tombs	main	Tombs
 Tombs	main	Persia	               
 Tombs	main	Ardevil	               
 Tombs	main	city of Kom	               
-Tombs	main	Spain Portugal	               
+Tombs	main	Portugal	               
 Tombs	main	to_next_world	               
 Tombs	main	Tombs	               
 Tombs	main	Tombs	               
@@ -4663,7 +4587,7 @@ to_next_world	note	Tombs
 to_next_world	note	Persia	               
 to_next_world	note	Ardevil	               
 to_next_world	note	city of Kom	               
-to_next_world	note	Spain Portugal	               
+to_next_world	note	Portugal	               
 to_next_world	note	Tombs	               
 to_next_world	note	Tombs	               
 Tombs	note	Tombs	               
@@ -4672,7 +4596,7 @@ Tombs	note	Tombs
 Tombs	note	Persia	               
 Tombs	note	Ardevil	               
 Tombs	note	city of Kom	               
-Tombs	note	Spain Portugal	               
+Tombs	note	Portugal	               
 Tombs	note	to_next_world	               
 Tombs	note	Tombs	               
 Tombs	note	Tombs	               
@@ -4681,7 +4605,7 @@ Tombs	note	Tombs
 Tombs	note	Persia	               
 Tombs	note	Ardevil	               
 Tombs	note	city of Kom	               
-Tombs	note	Spain Portugal	               
+Tombs	note	Portugal	               
 Tombs	note	to_next_world	               
 Tombs	note	Tombs	               
 sky	main	sky	               
