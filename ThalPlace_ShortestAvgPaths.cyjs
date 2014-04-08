@@ -1,0 +1,3482 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.1.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ "text=Places Connected by Short Paths in Thalaba|color=-103|zoom=0.08623565947965288|canvas=foreground|fontStyle=1|fontFamily=Arial Black|uuid=0b619d5a-aaf3-4f2b-ac8a-db532f459e0c|fontSize=16|type=org.cytoscape.view.presentation.annotations.TextAnnotation|y=-3072.589291366256|x=-5928.130877610074", "text=Average Shortest Path Length, Filtered between 1.8 and 2.5|color=-52|zoom=0.08623565947965288|canvas=foreground|fontStyle=1|fontFamily=Arial Black|uuid=4c931fec-a272-496e-8dcd-adbcd2f1c531|fontSize=16|type=org.cytoscape.view.presentation.annotations.TextAnnotation|y=-2689.9169699725026|x=-5093.209449114612" ],
+    "shared_name" : "ThaLGEdgeNEAttribs.tsv(1)",
+    "SUID" : 6637,
+    "name" : "ThaLGEdgeNEAttribs.tsv(1)"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "224",
+        "NeighborhoodConnectivity" : 12.58823529,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "burning_grave",
+        "NumberOfDirectedEdges" : 17,
+        "SUID" : 224,
+        "Stress" : 4638,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "England",
+        "Degree" : 17,
+        "Node_2_Attribute" : "metaplace",
+        "TopologicalCoefficient" : 0.12977562,
+        "BetweennessCentrality" : 0.03499261,
+        "Radiality" : 0.75634518,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.40618557,
+        "shared_name" : "England",
+        "AverageShortestPathLength" : 2.46192893,
+        "ClusteringCoefficient" : 0.36764706
+      },
+      "position" : {
+        "x" : -662.8521728515625,
+        "y" : -1545.6007080078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "NeighborhoodConnectivity" : 20.28571429,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Heaven",
+        "NumberOfDirectedEdges" : 14,
+        "SUID" : 96,
+        "Stress" : 1244,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Red Hillock",
+        "Degree" : 14,
+        "Node_2_Attribute" : "metaplace",
+        "TopologicalCoefficient" : 0.17487685,
+        "BetweennessCentrality" : 0.00836937,
+        "Radiality" : 0.7749577,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42548596,
+        "shared_name" : "Red Hillock",
+        "AverageShortestPathLength" : 2.35025381,
+        "ClusteringCoefficient" : 0.65934066
+      },
+      "position" : {
+        "x" : 3077.911865234375,
+        "y" : -2057.404052734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "NeighborhoodConnectivity" : 20.30434783,
+        "Node_1_Attribute" : "metaplace",
+        "Column_5" : "the throne of God",
+        "NumberOfDirectedEdges" : 23,
+        "SUID" : 99,
+        "Stress" : 2588,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Eden",
+        "Degree" : 23,
+        "Node_2_Attribute" : "metaplace",
+        "TopologicalCoefficient" : 0.22022684,
+        "BetweennessCentrality" : 0.01846132,
+        "Radiality" : 0.75126904,
+        "Eccentricity" : 5,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.401222,
+        "shared_name" : "Eden",
+        "AverageShortestPathLength" : 2.49238579,
+        "ClusteringCoefficient" : 0.6916996
+      },
+      "position" : {
+        "x" : -262.8521423339844,
+        "y" : -1545.6007080078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "NeighborhoodConnectivity" : 15.9375,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Red Hillock",
+        "NumberOfDirectedEdges" : 16,
+        "SUID" : 102,
+        "Stress" : 3044,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Mecca",
+        "Degree" : 16,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.14488636,
+        "BetweennessCentrality" : 0.02422662,
+        "Radiality" : 0.7715736,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42184154,
+        "shared_name" : "Mecca",
+        "AverageShortestPathLength" : 2.37055838,
+        "ClusteringCoefficient" : 0.36666667
+      },
+      "position" : {
+        "x" : -1462.8521728515625,
+        "y" : -1545.6007080078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "NeighborhoodConnectivity" : 15.57142857,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Babylon",
+        "NumberOfDirectedEdges" : 49,
+        "SUID" : 87,
+        "Stress" : 17680,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "the_world",
+        "Degree" : 49,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.11605239,
+        "BetweennessCentrality" : 0.13603732,
+        "Radiality" : 0.81725888,
+        "Eccentricity" : 5,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.47699758,
+        "shared_name" : "the_world",
+        "AverageShortestPathLength" : 2.0964467,
+        "ClusteringCoefficient" : 0.2329932
+      },
+      "position" : {
+        "x" : -345.6948547363281,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "NeighborhoodConnectivity" : 22.83783784,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "the world",
+        "NumberOfDirectedEdges" : 37,
+        "SUID" : 211,
+        "Stress" : 7512,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Christendom",
+        "Degree" : 37,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.2154513,
+        "BetweennessCentrality" : 0.08378504,
+        "Radiality" : 0.77326565,
+        "Eccentricity" : 5,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42365591,
+        "shared_name" : "Christendom",
+        "AverageShortestPathLength" : 2.36040609,
+        "ClusteringCoefficient" : 0.54954955
+      },
+      "position" : {
+        "x" : -2545.69482421875,
+        "y" : -1545.6007080078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "NeighborhoodConnectivity" : 15.84210526,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "the world",
+        "NumberOfDirectedEdges" : 57,
+        "SUID" : 94,
+        "Stress" : 27734,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Arabia",
+        "Degree" : 57,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.0880117,
+        "BetweennessCentrality" : 0.25134353,
+        "Radiality" : 0.86548223,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.55337079,
+        "shared_name" : "Arabia",
+        "AverageShortestPathLength" : 1.8071066,
+        "ClusteringCoefficient" : 0.18796992
+      },
+      "position" : {
+        "x" : -1945.69482421875,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "NeighborhoodConnectivity" : 17.65,
+        "Node_1_Attribute" : "metaplace",
+        "Column_5" : "sky",
+        "NumberOfDirectedEdges" : 40,
+        "SUID" : 93,
+        "Stress" : 10548,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "sky",
+        "Degree" : 40,
+        "Node_2_Attribute" : "metaplace",
+        "TopologicalCoefficient" : 0.13662791,
+        "BetweennessCentrality" : 0.06796503,
+        "Radiality" : 0.80879865,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.46572104,
+        "shared_name" : "sky",
+        "AverageShortestPathLength" : 2.14720812,
+        "ClusteringCoefficient" : 0.32820513
+      },
+      "position" : {
+        "x" : 454.30511474609375,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "NeighborhoodConnectivity" : 22.5,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Hirah",
+        "NumberOfDirectedEdges" : 12,
+        "SUID" : 80,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Boghar",
+        "Degree" : 12,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18907563,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.77241963,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42274678,
+        "shared_name" : "Boghar",
+        "AverageShortestPathLength" : 2.36548223,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : -2145.69482421875,
+        "y" : -1404.1793212890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "NeighborhoodConnectivity" : 29.11111111,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Armenia",
+        "NumberOfDirectedEdges" : 9,
+        "SUID" : 155,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Asia",
+        "Degree" : 9,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.23288889,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.7749577,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42548596,
+        "shared_name" : "Asia",
+        "AverageShortestPathLength" : 2.35025381,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : 2875.65771484375,
+        "y" : -2123.12060546875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "NeighborhoodConnectivity" : 13.3,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Tombs",
+        "NumberOfDirectedEdges" : 40,
+        "SUID" : 79,
+        "Stress" : 19096,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Persia",
+        "Degree" : 40,
+        "Node_2_Attribute" : "metaplace",
+        "TopologicalCoefficient" : 0.07964072,
+        "BetweennessCentrality" : 0.19931924,
+        "Radiality" : 0.84010152,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.51036269,
+        "shared_name" : "Persia",
+        "AverageShortestPathLength" : 1.95939086,
+        "ClusteringCoefficient" : 0.18589744
+      },
+      "position" : {
+        "x" : -745.69482421875,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "NeighborhoodConnectivity" : 20.76190476,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Euphrates",
+        "NumberOfDirectedEdges" : 21,
+        "SUID" : 156,
+        "Stress" : 2268,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Tigris",
+        "Degree" : 21,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.15379189,
+        "BetweennessCentrality" : 0.01040288,
+        "Radiality" : 0.79695431,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.45080092,
+        "shared_name" : "Tigris",
+        "AverageShortestPathLength" : 2.21827411,
+        "ClusteringCoefficient" : 0.6
+      },
+      "position" : {
+        "x" : 2054.3052368164062,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "NeighborhoodConnectivity" : 22.5,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Hirah",
+        "NumberOfDirectedEdges" : 12,
+        "SUID" : 82,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Pegu",
+        "Degree" : 12,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18907563,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.77241963,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42274678,
+        "shared_name" : "Pegu",
+        "AverageShortestPathLength" : 2.36548223,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : -2004.2734375,
+        "y" : -1545.6007080078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "NeighborhoodConnectivity" : 29.11111111,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Tigris",
+        "NumberOfDirectedEdges" : 9,
+        "SUID" : 157,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Armenia",
+        "Degree" : 9,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.23288889,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.7749577,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42548596,
+        "shared_name" : "Armenia",
+        "AverageShortestPathLength" : 2.35025381,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : 3000.65771484375,
+        "y" : -2163.7353515625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "NeighborhoodConnectivity" : 22.5,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Hirah",
+        "NumberOfDirectedEdges" : 12,
+        "SUID" : 81,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Bactria",
+        "Degree" : 12,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18907563,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.77241963,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42274678,
+        "shared_name" : "Bactria",
+        "AverageShortestPathLength" : 2.36548223,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : -2104.2734375,
+        "y" : -1504.1793212890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "NeighborhoodConnectivity" : 22.5,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "the East",
+        "NumberOfDirectedEdges" : 12,
+        "SUID" : 84,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Hirah",
+        "Degree" : 12,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18907563,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.77241963,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42274678,
+        "shared_name" : "Hirah",
+        "AverageShortestPathLength" : 2.36548223,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : -1904.2734375,
+        "y" : -1504.1793212890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "NeighborhoodConnectivity" : 18.89361702,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Armenia",
+        "NumberOfDirectedEdges" : 47,
+        "SUID" : 83,
+        "Stress" : 16562,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "the East",
+        "Degree" : 47,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.10921166,
+        "BetweennessCentrality" : 0.14115412,
+        "Radiality" : 0.84940778,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.52533333,
+        "shared_name" : "the East",
+        "AverageShortestPathLength" : 1.9035533,
+        "ClusteringCoefficient" : 0.28954672
+      },
+      "position" : {
+        "x" : -1545.69482421875,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "NeighborhoodConnectivity" : 21.91666667,
+        "Node_1_Attribute" : "metaplace",
+        "Column_5" : "Allah's glory throne",
+        "NumberOfDirectedEdges" : 24,
+        "SUID" : 86,
+        "Stress" : 3976,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Irem_removed",
+        "Degree" : 24,
+        "Node_2_Attribute" : "metaplace",
+        "TopologicalCoefficient" : 0.18732194,
+        "BetweennessCentrality" : 0.02217467,
+        "Radiality" : 0.78426396,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.43584071,
+        "shared_name" : "Irem_removed",
+        "AverageShortestPathLength" : 2.29441624,
+        "ClusteringCoefficient" : 0.66304348
+      },
+      "position" : {
+        "x" : 2454.30517578125,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "NeighborhoodConnectivity" : 29.11111111,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Armenia",
+        "NumberOfDirectedEdges" : 9,
+        "SUID" : 153,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "the West",
+        "Degree" : 9,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.23288889,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.7749577,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42548596,
+        "shared_name" : "the West",
+        "AverageShortestPathLength" : 2.35025381,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : 3000.65771484375,
+        "y" : -1951.07275390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "NeighborhoodConnectivity" : 29.11111111,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Armenia",
+        "NumberOfDirectedEdges" : 9,
+        "SUID" : 154,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Tauris",
+        "Degree" : 9,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.23288889,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.7749577,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42548596,
+        "shared_name" : "Tauris",
+        "AverageShortestPathLength" : 2.35025381,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : 2875.65771484375,
+        "y" : -1991.687744140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "NeighborhoodConnectivity" : 22.5,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Hirah",
+        "NumberOfDirectedEdges" : 12,
+        "SUID" : 73,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Lebanon",
+        "Degree" : 12,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18907563,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.77241963,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42274678,
+        "shared_name" : "Lebanon",
+        "AverageShortestPathLength" : 2.36548223,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : -1862.8521728515625,
+        "y" : -1404.1793212890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "NeighborhoodConnectivity" : 22.5,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Hirah",
+        "NumberOfDirectedEdges" : 12,
+        "SUID" : 74,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Rome",
+        "Degree" : 12,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18907563,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.77241963,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42274678,
+        "shared_name" : "Rome",
+        "AverageShortestPathLength" : 2.36548223,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : -1904.2734375,
+        "y" : -1304.1793212890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "NeighborhoodConnectivity" : 15.06666667,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Armenia",
+        "NumberOfDirectedEdges" : 30,
+        "SUID" : 133,
+        "Stress" : 10456,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Bagdad",
+        "Degree" : 30,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.10610329,
+        "BetweennessCentrality" : 0.07679811,
+        "Radiality" : 0.8071066,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.46352941,
+        "shared_name" : "Bagdad",
+        "AverageShortestPathLength" : 2.15736041,
+        "ClusteringCoefficient" : 0.24137931
+      },
+      "position" : {
+        "x" : 854.30517578125,
+        "y" : -2069.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "NeighborhoodConnectivity" : 18.09090909,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Bombay",
+        "NumberOfDirectedEdges" : 22,
+        "SUID" : 72,
+        "Stress" : 3138,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Yemen",
+        "Degree" : 22,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.12060606,
+        "BetweennessCentrality" : 0.02684128,
+        "Radiality" : 0.8071066,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.46352941,
+        "shared_name" : "Yemen",
+        "AverageShortestPathLength" : 2.15736041,
+        "ClusteringCoefficient" : 0.40692641
+      },
+      "position" : {
+        "x" : 1054.30517578125,
+        "y" : -2069.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "NeighborhoodConnectivity" : 23.83783784,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Delos",
+        "NumberOfDirectedEdges" : 37,
+        "SUID" : 77,
+        "Stress" : 11246,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Greece",
+        "Degree" : 37,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18478944,
+        "BetweennessCentrality" : 0.13347423,
+        "Radiality" : 0.80203046,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.45707657,
+        "shared_name" : "Greece",
+        "AverageShortestPathLength" : 2.18781726,
+        "ClusteringCoefficient" : 0.54954955
+      },
+      "position" : {
+        "x" : 1654.30517578125,
+        "y" : -2069.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "NeighborhoodConnectivity" : 22.5,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Hirah",
+        "NumberOfDirectedEdges" : 12,
+        "SUID" : 78,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Mosque Tauris",
+        "Degree" : 12,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18907563,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.77241963,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42274678,
+        "shared_name" : "Mosque Tauris",
+        "AverageShortestPathLength" : 2.36548223,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : -2104.2734375,
+        "y" : -1304.1793212890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "NeighborhoodConnectivity" : 16.875,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Euphrates",
+        "NumberOfDirectedEdges" : 40,
+        "SUID" : 75,
+        "Stress" : 12290,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Babylon",
+        "Degree" : 40,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.09698276,
+        "BetweennessCentrality" : 0.1027176,
+        "Radiality" : 0.84602369,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.51978892,
+        "shared_name" : "Babylon",
+        "AverageShortestPathLength" : 1.92385787,
+        "ClusteringCoefficient" : 0.27948718
+      },
+      "position" : {
+        "x" : -1145.69482421875,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "NeighborhoodConnectivity" : 22.5,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Hirah",
+        "NumberOfDirectedEdges" : 12,
+        "SUID" : 76,
+        "Stress" : 0,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Persepolis",
+        "Degree" : 12,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.18907563,
+        "BetweennessCentrality" : 0.0,
+        "Radiality" : 0.77241963,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.42274678,
+        "shared_name" : "Persepolis",
+        "AverageShortestPathLength" : 2.36548223,
+        "ClusteringCoefficient" : 1.0
+      },
+      "position" : {
+        "x" : -2018.7838134765625,
+        "y" : -1261.14599609375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "NeighborhoodConnectivity" : 21.41935484,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "the world",
+        "NumberOfDirectedEdges" : 31,
+        "SUID" : 113,
+        "Stress" : 5336,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "East Indies",
+        "Degree" : 31,
+        "Node_2_Attribute" : "place",
+        "TopologicalCoefficient" : 0.15299539,
+        "BetweennessCentrality" : 0.04358404,
+        "Radiality" : 0.80203046,
+        "Eccentricity" : 5,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.45707657,
+        "shared_name" : "East Indies",
+        "AverageShortestPathLength" : 2.18781726,
+        "ClusteringCoefficient" : 0.51612903
+      },
+      "position" : {
+        "x" : 1454.30517578125,
+        "y" : -2069.20751953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "NeighborhoodConnectivity" : 14.27777778,
+        "Node_1_Attribute" : "place",
+        "Column_5" : "Universe",
+        "NumberOfDirectedEdges" : 18,
+        "SUID" : 122,
+        "Stress" : 4612,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Earth",
+        "Degree" : 18,
+        "Node_2_Attribute" : "metaplace",
+        "TopologicalCoefficient" : 0.13469602,
+        "BetweennessCentrality" : 0.02954224,
+        "Radiality" : 0.76734349,
+        "Eccentricity" : 4,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.41737288,
+        "shared_name" : "Earth",
+        "AverageShortestPathLength" : 2.39593909,
+        "ClusteringCoefficient" : 0.26797386
+      },
+      "position" : {
+        "x" : -1062.8521728515625,
+        "y" : -1545.6007080078125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "NeighborhoodConnectivity" : 14.6875,
+        "Node_1_Attribute" : "metaplace",
+        "Column_5" : "Al-Araf",
+        "NumberOfDirectedEdges" : 32,
+        "SUID" : 120,
+        "Stress" : 15504,
+        "SelfLoops" : 0,
+        "IsSingleNode" : false,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "selected" : false,
+        "name" : "Heaven",
+        "Degree" : 32,
+        "Node_2_Attribute" : "metaplace",
+        "TopologicalCoefficient" : 0.10249126,
+        "BetweennessCentrality" : 0.13100775,
+        "Radiality" : 0.81556684,
+        "Eccentricity" : 3,
+        "NumberOfUndirectedEdges" : 0,
+        "ClosenessCentrality" : 0.4746988,
+        "shared_name" : "Heaven",
+        "AverageShortestPathLength" : 2.10659898,
+        "ClusteringCoefficient" : 0.24395161
+      },
+      "position" : {
+        "x" : 54.305145263671875,
+        "y" : -2169.20751953125
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "1306",
+        "source" : "224",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 673.33000333,
+        "Column_4" : "B9_lg522",
+        "SUID" : 1306,
+        "name" : "England (note) Persia",
+        "interaction" : "note",
+        "shared_name" : "England (note) Persia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1304",
+        "source" : "224",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 737.01364877,
+        "Column_4" : "B9_lg534",
+        "SUID" : 1304,
+        "name" : "England (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "England (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "413",
+        "source" : "96",
+        "target" : "87",
+        "selected" : false,
+        "EdgeBetweenness" : 122.23593074,
+        "Column_4" : "B1_lg20",
+        "SUID" : 413,
+        "name" : "Red Hillock (note) the_world",
+        "interaction" : "note",
+        "shared_name" : "Red Hillock (note) the_world",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "411",
+        "source" : "96",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 248.1963925,
+        "Column_4" : "B1_lg20",
+        "SUID" : 411,
+        "name" : "Red Hillock (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "Red Hillock (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "415",
+        "source" : "96",
+        "target" : "93",
+        "selected" : false,
+        "EdgeBetweenness" : 52.51515152,
+        "Column_4" : "B1_lg43",
+        "SUID" : 415,
+        "name" : "Red Hillock (main) sky",
+        "interaction" : "main",
+        "shared_name" : "Red Hillock (main) sky",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "437",
+        "source" : "99",
+        "target" : "87",
+        "selected" : false,
+        "EdgeBetweenness" : 211.12164502,
+        "Column_4" : "B1_lg35",
+        "SUID" : 437,
+        "name" : "Eden (main) the_world",
+        "interaction" : "main",
+        "shared_name" : "Eden (main) the_world",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "438",
+        "source" : "99",
+        "target" : "93",
+        "selected" : false,
+        "EdgeBetweenness" : 163.19199134,
+        "Column_4" : "B1_lg35",
+        "SUID" : 438,
+        "name" : "Eden (main) sky",
+        "interaction" : "main",
+        "shared_name" : "Eden (main) sky",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "439",
+        "source" : "99",
+        "target" : "86",
+        "selected" : false,
+        "EdgeBetweenness" : 93.73463203,
+        "Column_4" : "B1_lg35",
+        "SUID" : 439,
+        "name" : "Eden (main) Irem_removed",
+        "interaction" : "main",
+        "shared_name" : "Eden (main) Irem_removed",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "440",
+        "source" : "99",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 362.20707071,
+        "Column_4" : "B1_lg35",
+        "SUID" : 440,
+        "name" : "Eden (main) the East",
+        "interaction" : "main",
+        "shared_name" : "Eden (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "446",
+        "source" : "102",
+        "target" : "93",
+        "selected" : false,
+        "EdgeBetweenness" : 244.20956201,
+        "Column_4" : "B1_lg43",
+        "SUID" : 446,
+        "name" : "Mecca (main) sky",
+        "interaction" : "main",
+        "shared_name" : "Mecca (main) sky",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "448",
+        "source" : "102",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 122.44689755,
+        "Column_4" : "B4_lg218",
+        "SUID" : 448,
+        "name" : "Mecca (note) Yemen",
+        "interaction" : "note",
+        "shared_name" : "Mecca (note) Yemen",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "447",
+        "source" : "102",
+        "target" : "120",
+        "selected" : false,
+        "EdgeBetweenness" : 565.52668606,
+        "Column_4" : "B1_lg43",
+        "SUID" : 447,
+        "name" : "Mecca (main) Heaven",
+        "interaction" : "main",
+        "shared_name" : "Mecca (main) Heaven",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "450",
+        "source" : "102",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 168.68196248,
+        "Column_4" : "B5_lg316",
+        "SUID" : 450,
+        "name" : "Mecca (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Mecca (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "449",
+        "source" : "102",
+        "target" : "133",
+        "selected" : false,
+        "EdgeBetweenness" : 115.19728017,
+        "Column_4" : "B5_lg316",
+        "SUID" : 449,
+        "name" : "Mecca (note) Bagdad",
+        "interaction" : "note",
+        "shared_name" : "Mecca (note) Bagdad",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "451",
+        "source" : "102",
+        "target" : "96",
+        "selected" : false,
+        "EdgeBetweenness" : 84.22164502,
+        "Column_4" : "B1_lg26",
+        "SUID" : 451,
+        "name" : "Mecca (main) Red Hillock",
+        "interaction" : "main",
+        "shared_name" : "Mecca (main) Red Hillock",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "367",
+        "source" : "87",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 588.28532807,
+        "Column_4" : "B1_lg35",
+        "SUID" : 367,
+        "name" : "the_world (main) the East",
+        "interaction" : "main",
+        "shared_name" : "the_world (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "368",
+        "source" : "87",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 673.69719888,
+        "Column_4" : "B9_lg517",
+        "SUID" : 368,
+        "name" : "the_world (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "the_world (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1184",
+        "source" : "211",
+        "target" : "113",
+        "selected" : false,
+        "EdgeBetweenness" : 814.40714286,
+        "Column_4" : "B9_lg553",
+        "SUID" : 1184,
+        "name" : "Christendom (note) East Indies",
+        "interaction" : "note",
+        "shared_name" : "Christendom (note) East Indies",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1183",
+        "source" : "211",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 2164.38419913,
+        "Column_4" : "B9_lg553",
+        "SUID" : 1183,
+        "name" : "Christendom (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "Christendom (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1181",
+        "source" : "211",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 108.14848485,
+        "Column_4" : "B8_lg475",
+        "SUID" : 1181,
+        "name" : "Christendom (note) Greece",
+        "interaction" : "note",
+        "shared_name" : "Christendom (note) Greece",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "403",
+        "source" : "94",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 313.13465701,
+        "Column_4" : "B5_lg320",
+        "SUID" : 403,
+        "name" : "Arabia (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Arabia (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "404",
+        "source" : "94",
+        "target" : "93",
+        "selected" : false,
+        "EdgeBetweenness" : 692.68536153,
+        "Column_4" : "B8_lg482",
+        "SUID" : 404,
+        "name" : "Arabia (main) sky",
+        "interaction" : "main",
+        "shared_name" : "Arabia (main) sky",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "402",
+        "source" : "94",
+        "target" : "87",
+        "selected" : false,
+        "EdgeBetweenness" : 1166.58906616,
+        "Column_4" : "B1_lg20",
+        "SUID" : 402,
+        "name" : "Arabia (note) the_world",
+        "interaction" : "note",
+        "shared_name" : "Arabia (note) the_world",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "401",
+        "source" : "93",
+        "target" : "87",
+        "selected" : false,
+        "EdgeBetweenness" : 91.32467532,
+        "Column_4" : "B4_lg276",
+        "SUID" : 401,
+        "name" : "sky (note) the_world",
+        "interaction" : "note",
+        "shared_name" : "sky (note) the_world",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "400",
+        "source" : "93",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 417.60726594,
+        "Column_4" : "B1_lg35",
+        "SUID" : 400,
+        "name" : "sky (main) the East",
+        "interaction" : "main",
+        "shared_name" : "sky (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "318",
+        "source" : "80",
+        "target" : "73",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 318,
+        "name" : "Boghar (note) Lebanon",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Lebanon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "317",
+        "source" : "80",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 29.03809524,
+        "Column_4" : "B1_lg14",
+        "SUID" : 317,
+        "name" : "Boghar (note) Yemen",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Yemen",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "319",
+        "source" : "80",
+        "target" : "74",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 319,
+        "name" : "Boghar (note) Rome",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Rome",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "320",
+        "source" : "80",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.94285714,
+        "Column_4" : "B1_lg14",
+        "SUID" : 320,
+        "name" : "Boghar (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "321",
+        "source" : "80",
+        "target" : "76",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 321,
+        "name" : "Boghar (note) Persepolis",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Persepolis",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "322",
+        "source" : "80",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 55.33333333,
+        "Column_4" : "B1_lg14",
+        "SUID" : 322,
+        "name" : "Boghar (note) Greece",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Greece",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "323",
+        "source" : "80",
+        "target" : "78",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 323,
+        "name" : "Boghar (note) Mosque Tauris",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Mosque Tauris",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "324",
+        "source" : "80",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 95.70952381,
+        "Column_4" : "B1_lg14",
+        "SUID" : 324,
+        "name" : "Boghar (note) Persia",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Persia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "325",
+        "source" : "80",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 104.97619048,
+        "Column_4" : "B1_lg14",
+        "SUID" : 325,
+        "name" : "Boghar (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "326",
+        "source" : "80",
+        "target" : "84",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 326,
+        "name" : "Boghar (note) Hirah",
+        "interaction" : "note",
+        "shared_name" : "Boghar (note) Hirah",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "782",
+        "source" : "155",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 82.64920635,
+        "Column_4" : "B5_lg317",
+        "SUID" : 782,
+        "name" : "Asia (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Asia (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "786",
+        "source" : "155",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 112.01904762,
+        "Column_4" : "B5_lg317",
+        "SUID" : 786,
+        "name" : "Asia (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "Asia (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "785",
+        "source" : "155",
+        "target" : "154",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B5_lg317",
+        "SUID" : 785,
+        "name" : "Asia (note) Tauris",
+        "interaction" : "note",
+        "shared_name" : "Asia (note) Tauris",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "784",
+        "source" : "155",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 81.48571429,
+        "Column_4" : "B5_lg317",
+        "SUID" : 784,
+        "name" : "Asia (note) Persia",
+        "interaction" : "note",
+        "shared_name" : "Asia (note) Persia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "783",
+        "source" : "155",
+        "target" : "153",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B5_lg317",
+        "SUID" : 783,
+        "name" : "Asia (note) the West",
+        "interaction" : "note",
+        "shared_name" : "Asia (note) the West",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "789",
+        "source" : "155",
+        "target" : "156",
+        "selected" : false,
+        "EdgeBetweenness" : 16.75555556,
+        "Column_4" : "B5_lg317",
+        "SUID" : 789,
+        "name" : "Asia (note) Tigris",
+        "interaction" : "note",
+        "shared_name" : "Asia (note) Tigris",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "788",
+        "source" : "155",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 59.01587302,
+        "Column_4" : "B5_lg317",
+        "SUID" : 788,
+        "name" : "Asia (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Asia (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "787",
+        "source" : "155",
+        "target" : "133",
+        "selected" : false,
+        "EdgeBetweenness" : 36.07460317,
+        "Column_4" : "B5_lg317",
+        "SUID" : 787,
+        "name" : "Asia (note) Bagdad",
+        "interaction" : "note",
+        "shared_name" : "Asia (note) Bagdad",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "source" : "79",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 1070.79660046,
+        "Column_4" : "B5_lg317",
+        "SUID" : 312,
+        "name" : "Persia (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Persia (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "314",
+        "source" : "79",
+        "target" : "133",
+        "selected" : false,
+        "EdgeBetweenness" : 450.08858658,
+        "Column_4" : "B5_lg317",
+        "SUID" : 314,
+        "name" : "Persia (note) Bagdad",
+        "interaction" : "note",
+        "shared_name" : "Persia (note) Bagdad",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "source" : "79",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 1372.70229395,
+        "Column_4" : "B5_lg317",
+        "SUID" : 313,
+        "name" : "Persia (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "Persia (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "316",
+        "source" : "79",
+        "target" : "156",
+        "selected" : false,
+        "EdgeBetweenness" : 216.13600974,
+        "Column_4" : "B5_lg317",
+        "SUID" : 316,
+        "name" : "Persia (note) Tigris",
+        "interaction" : "note",
+        "shared_name" : "Persia (note) Tigris",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "315",
+        "source" : "79",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 515.34030675,
+        "Column_4" : "B5_lg317",
+        "SUID" : 315,
+        "name" : "Persia (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Persia (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "794",
+        "source" : "156",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 38.96363636,
+        "Column_4" : "B5_lg320",
+        "SUID" : 794,
+        "name" : "Tigris (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Tigris (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "793",
+        "source" : "156",
+        "target" : "120",
+        "selected" : false,
+        "EdgeBetweenness" : 143.25895314,
+        "Column_4" : "B5_lg320",
+        "SUID" : 793,
+        "name" : "Tigris (note) Heaven",
+        "interaction" : "note",
+        "shared_name" : "Tigris (note) Heaven",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "792",
+        "source" : "156",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 90.11515152,
+        "Column_4" : "B5_lg320",
+        "SUID" : 792,
+        "name" : "Tigris (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "Tigris (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "791",
+        "source" : "156",
+        "target" : "133",
+        "selected" : false,
+        "EdgeBetweenness" : 137.70118737,
+        "Column_4" : "B5_lg317",
+        "SUID" : 791,
+        "name" : "Tigris (note) Bagdad",
+        "interaction" : "note",
+        "shared_name" : "Tigris (note) Bagdad",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "790",
+        "source" : "156",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 169.91040071,
+        "Column_4" : "B5_lg317",
+        "SUID" : 790,
+        "name" : "Tigris (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Tigris (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "346",
+        "source" : "82",
+        "target" : "80",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 346,
+        "name" : "Pegu (note) Boghar",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Boghar",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "345",
+        "source" : "82",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 95.70952381,
+        "Column_4" : "B1_lg14",
+        "SUID" : 345,
+        "name" : "Pegu (note) Persia",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Persia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "344",
+        "source" : "82",
+        "target" : "78",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 344,
+        "name" : "Pegu (note) Mosque Tauris",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Mosque Tauris",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "343",
+        "source" : "82",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 55.33333333,
+        "Column_4" : "B1_lg14",
+        "SUID" : 343,
+        "name" : "Pegu (note) Greece",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Greece",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "348",
+        "source" : "82",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 104.97619048,
+        "Column_4" : "B1_lg14",
+        "SUID" : 348,
+        "name" : "Pegu (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "347",
+        "source" : "82",
+        "target" : "81",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 347,
+        "name" : "Pegu (note) Bactria",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Bactria",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "338",
+        "source" : "82",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 29.03809524,
+        "Column_4" : "B1_lg14",
+        "SUID" : 338,
+        "name" : "Pegu (note) Yemen",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Yemen",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "342",
+        "source" : "82",
+        "target" : "76",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 342,
+        "name" : "Pegu (note) Persepolis",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Persepolis",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "341",
+        "source" : "82",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.94285714,
+        "Column_4" : "B1_lg14",
+        "SUID" : 341,
+        "name" : "Pegu (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "340",
+        "source" : "82",
+        "target" : "74",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 340,
+        "name" : "Pegu (note) Rome",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Rome",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "339",
+        "source" : "82",
+        "target" : "73",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 339,
+        "name" : "Pegu (note) Lebanon",
+        "interaction" : "note",
+        "shared_name" : "Pegu (note) Lebanon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "798",
+        "source" : "157",
+        "target" : "155",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B5_lg317",
+        "SUID" : 798,
+        "name" : "Armenia (main) Asia",
+        "interaction" : "main",
+        "shared_name" : "Armenia (main) Asia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "797",
+        "source" : "157",
+        "target" : "154",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B5_lg317",
+        "SUID" : 797,
+        "name" : "Armenia (main) Tauris",
+        "interaction" : "main",
+        "shared_name" : "Armenia (main) Tauris",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "796",
+        "source" : "157",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 81.48571429,
+        "Column_4" : "B5_lg317",
+        "SUID" : 796,
+        "name" : "Armenia (main) Persia",
+        "interaction" : "main",
+        "shared_name" : "Armenia (main) Persia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "795",
+        "source" : "157",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 82.64920635,
+        "Column_4" : "B5_lg317",
+        "SUID" : 795,
+        "name" : "Armenia (main) the East",
+        "interaction" : "main",
+        "shared_name" : "Armenia (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "801",
+        "source" : "157",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 59.01587302,
+        "Column_4" : "B5_lg317",
+        "SUID" : 801,
+        "name" : "Armenia (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "Armenia (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "802",
+        "source" : "157",
+        "target" : "156",
+        "selected" : false,
+        "EdgeBetweenness" : 16.75555556,
+        "Column_4" : "B5_lg317",
+        "SUID" : 802,
+        "name" : "Armenia (main) Tigris",
+        "interaction" : "main",
+        "shared_name" : "Armenia (main) Tigris",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "799",
+        "source" : "157",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 112.01904762,
+        "Column_4" : "B5_lg317",
+        "SUID" : 799,
+        "name" : "Armenia (main) Arabia",
+        "interaction" : "main",
+        "shared_name" : "Armenia (main) Arabia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "800",
+        "source" : "157",
+        "target" : "133",
+        "selected" : false,
+        "EdgeBetweenness" : 36.07460317,
+        "Column_4" : "B5_lg317",
+        "SUID" : 800,
+        "name" : "Armenia (main) Bagdad",
+        "interaction" : "main",
+        "shared_name" : "Armenia (main) Bagdad",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "337",
+        "source" : "81",
+        "target" : "84",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 337,
+        "name" : "Bactria (note) Hirah",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Hirah",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "336",
+        "source" : "81",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 104.97619048,
+        "Column_4" : "B1_lg14",
+        "SUID" : 336,
+        "name" : "Bactria (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "335",
+        "source" : "81",
+        "target" : "80",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 335,
+        "name" : "Bactria (note) Boghar",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Boghar",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "327",
+        "source" : "81",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 29.03809524,
+        "Column_4" : "B1_lg14",
+        "SUID" : 327,
+        "name" : "Bactria (note) Yemen",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Yemen",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "328",
+        "source" : "81",
+        "target" : "73",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 328,
+        "name" : "Bactria (note) Lebanon",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Lebanon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "329",
+        "source" : "81",
+        "target" : "74",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 329,
+        "name" : "Bactria (note) Rome",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Rome",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "330",
+        "source" : "81",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.94285714,
+        "Column_4" : "B1_lg14",
+        "SUID" : 330,
+        "name" : "Bactria (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "331",
+        "source" : "81",
+        "target" : "76",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 331,
+        "name" : "Bactria (note) Persepolis",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Persepolis",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "332",
+        "source" : "81",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 55.33333333,
+        "Column_4" : "B1_lg14",
+        "SUID" : 332,
+        "name" : "Bactria (note) Greece",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Greece",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "333",
+        "source" : "81",
+        "target" : "78",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 333,
+        "name" : "Bactria (note) Mosque Tauris",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Mosque Tauris",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "334",
+        "source" : "81",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 95.70952381,
+        "Column_4" : "B1_lg14",
+        "SUID" : 334,
+        "name" : "Bactria (note) Persia",
+        "interaction" : "note",
+        "shared_name" : "Bactria (note) Persia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "353",
+        "source" : "84",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.94285714,
+        "Column_4" : "B1_lg14",
+        "SUID" : 353,
+        "name" : "Hirah (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "Hirah (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "354",
+        "source" : "84",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 55.33333333,
+        "Column_4" : "B1_lg14",
+        "SUID" : 354,
+        "name" : "Hirah (main) Greece",
+        "interaction" : "main",
+        "shared_name" : "Hirah (main) Greece",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "351",
+        "source" : "84",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 29.03809524,
+        "Column_4" : "B1_lg14",
+        "SUID" : 351,
+        "name" : "Hirah (main) Yemen",
+        "interaction" : "main",
+        "shared_name" : "Hirah (main) Yemen",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "352",
+        "source" : "84",
+        "target" : "74",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 352,
+        "name" : "Hirah (main) Rome",
+        "interaction" : "main",
+        "shared_name" : "Hirah (main) Rome",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "357",
+        "source" : "84",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 104.97619048,
+        "Column_4" : "B1_lg14",
+        "SUID" : 357,
+        "name" : "Hirah (main) the East",
+        "interaction" : "main",
+        "shared_name" : "Hirah (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "355",
+        "source" : "84",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 95.70952381,
+        "Column_4" : "B1_lg14",
+        "SUID" : 355,
+        "name" : "Hirah (main) Persia",
+        "interaction" : "main",
+        "shared_name" : "Hirah (main) Persia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "356",
+        "source" : "84",
+        "target" : "82",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 356,
+        "name" : "Hirah (main) Pegu",
+        "interaction" : "main",
+        "shared_name" : "Hirah (main) Pegu",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "350",
+        "source" : "83",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 194.34452345,
+        "Column_4" : "B5_lg317",
+        "SUID" : 350,
+        "name" : "the East (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "the East (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "349",
+        "source" : "83",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 578.62497502,
+        "Column_4" : "B5_lg317",
+        "SUID" : 349,
+        "name" : "the East (main) Arabia",
+        "interaction" : "main",
+        "shared_name" : "the East (main) Arabia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "362",
+        "source" : "86",
+        "target" : "87",
+        "selected" : false,
+        "EdgeBetweenness" : 103.7094719,
+        "Column_4" : "B1_lg35",
+        "SUID" : 362,
+        "name" : "Irem_removed (note) the_world",
+        "interaction" : "note",
+        "shared_name" : "Irem_removed (note) the_world",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "366",
+        "source" : "86",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 260.94333999,
+        "Column_4" : "B1_lg35",
+        "SUID" : 366,
+        "name" : "Irem_removed (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Irem_removed (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "363",
+        "source" : "86",
+        "target" : "93",
+        "selected" : false,
+        "EdgeBetweenness" : 45.58181818,
+        "Column_4" : "B1_lg35",
+        "SUID" : 363,
+        "name" : "Irem_removed (note) sky",
+        "interaction" : "note",
+        "shared_name" : "Irem_removed (note) sky",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "364",
+        "source" : "86",
+        "target" : "113",
+        "selected" : false,
+        "EdgeBetweenness" : 171.229329,
+        "Column_4" : "B1_lg35",
+        "SUID" : 364,
+        "name" : "Irem_removed (note) East Indies",
+        "interaction" : "note",
+        "shared_name" : "Irem_removed (note) East Indies",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "768",
+        "source" : "153",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 82.64920635,
+        "Column_4" : "B5_lg317",
+        "SUID" : 768,
+        "name" : "the West (main) the East",
+        "interaction" : "main",
+        "shared_name" : "the West (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "769",
+        "source" : "153",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 81.48571429,
+        "Column_4" : "B5_lg317",
+        "SUID" : 769,
+        "name" : "the West (main) Persia",
+        "interaction" : "main",
+        "shared_name" : "the West (main) Persia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "770",
+        "source" : "153",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 112.01904762,
+        "Column_4" : "B5_lg317",
+        "SUID" : 770,
+        "name" : "the West (main) Arabia",
+        "interaction" : "main",
+        "shared_name" : "the West (main) Arabia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "771",
+        "source" : "153",
+        "target" : "133",
+        "selected" : false,
+        "EdgeBetweenness" : 36.07460317,
+        "Column_4" : "B5_lg317",
+        "SUID" : 771,
+        "name" : "the West (main) Bagdad",
+        "interaction" : "main",
+        "shared_name" : "the West (main) Bagdad",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "772",
+        "source" : "153",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 59.01587302,
+        "Column_4" : "B5_lg317",
+        "SUID" : 772,
+        "name" : "the West (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "the West (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "773",
+        "source" : "153",
+        "target" : "156",
+        "selected" : false,
+        "EdgeBetweenness" : 16.75555556,
+        "Column_4" : "B5_lg317",
+        "SUID" : 773,
+        "name" : "the West (main) Tigris",
+        "interaction" : "main",
+        "shared_name" : "the West (main) Tigris",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "774",
+        "source" : "153",
+        "target" : "157",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B5_lg317",
+        "SUID" : 774,
+        "name" : "the West (main) Armenia",
+        "interaction" : "main",
+        "shared_name" : "the West (main) Armenia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "775",
+        "source" : "154",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 82.64920635,
+        "Column_4" : "B5_lg317",
+        "SUID" : 775,
+        "name" : "Tauris (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Tauris (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "776",
+        "source" : "154",
+        "target" : "153",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B5_lg317",
+        "SUID" : 776,
+        "name" : "Tauris (note) the West",
+        "interaction" : "note",
+        "shared_name" : "Tauris (note) the West",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "777",
+        "source" : "154",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 81.48571429,
+        "Column_4" : "B5_lg317",
+        "SUID" : 777,
+        "name" : "Tauris (note) Persia",
+        "interaction" : "note",
+        "shared_name" : "Tauris (note) Persia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "778",
+        "source" : "154",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 112.01904762,
+        "Column_4" : "B5_lg317",
+        "SUID" : 778,
+        "name" : "Tauris (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "Tauris (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "779",
+        "source" : "154",
+        "target" : "133",
+        "selected" : false,
+        "EdgeBetweenness" : 36.07460317,
+        "Column_4" : "B5_lg317",
+        "SUID" : 779,
+        "name" : "Tauris (note) Bagdad",
+        "interaction" : "note",
+        "shared_name" : "Tauris (note) Bagdad",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "780",
+        "source" : "154",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 59.01587302,
+        "Column_4" : "B5_lg317",
+        "SUID" : 780,
+        "name" : "Tauris (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Tauris (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "781",
+        "source" : "154",
+        "target" : "156",
+        "selected" : false,
+        "EdgeBetweenness" : 16.75555556,
+        "Column_4" : "B5_lg317",
+        "SUID" : 781,
+        "name" : "Tauris (note) Tigris",
+        "interaction" : "note",
+        "shared_name" : "Tauris (note) Tigris",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "source" : "73",
+        "target" : "84",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 284,
+        "name" : "Lebanon (main) Hirah",
+        "interaction" : "main",
+        "shared_name" : "Lebanon (main) Hirah",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "source" : "73",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 104.97619048,
+        "Column_4" : "B1_lg14",
+        "SUID" : 283,
+        "name" : "Lebanon (main) the East",
+        "interaction" : "main",
+        "shared_name" : "Lebanon (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "source" : "73",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 95.70952381,
+        "Column_4" : "B1_lg14",
+        "SUID" : 282,
+        "name" : "Lebanon (main) Persia",
+        "interaction" : "main",
+        "shared_name" : "Lebanon (main) Persia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "source" : "73",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 55.33333333,
+        "Column_4" : "B1_lg14",
+        "SUID" : 281,
+        "name" : "Lebanon (main) Greece",
+        "interaction" : "main",
+        "shared_name" : "Lebanon (main) Greece",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "source" : "73",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.94285714,
+        "Column_4" : "B1_lg14",
+        "SUID" : 280,
+        "name" : "Lebanon (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "Lebanon (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "source" : "73",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 29.03809524,
+        "Column_4" : "B1_lg14",
+        "SUID" : 279,
+        "name" : "Lebanon (main) Yemen",
+        "interaction" : "main",
+        "shared_name" : "Lebanon (main) Yemen",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "source" : "74",
+        "target" : "73",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 286,
+        "name" : "Rome (main) Lebanon",
+        "interaction" : "main",
+        "shared_name" : "Rome (main) Lebanon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "source" : "74",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 29.03809524,
+        "Column_4" : "B1_lg14",
+        "SUID" : 285,
+        "name" : "Rome (main) Yemen",
+        "interaction" : "main",
+        "shared_name" : "Rome (main) Yemen",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "source" : "74",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 95.70952381,
+        "Column_4" : "B1_lg14",
+        "SUID" : 289,
+        "name" : "Rome (main) Persia",
+        "interaction" : "main",
+        "shared_name" : "Rome (main) Persia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "source" : "74",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 104.97619048,
+        "Column_4" : "B1_lg14",
+        "SUID" : 290,
+        "name" : "Rome (main) the East",
+        "interaction" : "main",
+        "shared_name" : "Rome (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "74",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.94285714,
+        "Column_4" : "B1_lg14",
+        "SUID" : 287,
+        "name" : "Rome (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "Rome (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "source" : "74",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 55.33333333,
+        "Column_4" : "B1_lg14",
+        "SUID" : 288,
+        "name" : "Rome (main) Greece",
+        "interaction" : "main",
+        "shared_name" : "Rome (main) Greece",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "678",
+        "source" : "133",
+        "target" : "87",
+        "selected" : false,
+        "EdgeBetweenness" : 903.93557717,
+        "Column_4" : "B4_lg204",
+        "SUID" : 678,
+        "name" : "Bagdad (main) the_world",
+        "interaction" : "main",
+        "shared_name" : "Bagdad (main) the_world",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "680",
+        "source" : "133",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 736.33444856,
+        "Column_4" : "B5_lg317",
+        "SUID" : 680,
+        "name" : "Bagdad (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "Bagdad (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "679",
+        "source" : "133",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 287.89518619,
+        "Column_4" : "B5_lg317",
+        "SUID" : 679,
+        "name" : "Bagdad (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Bagdad (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "681",
+        "source" : "133",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 252.82911043,
+        "Column_4" : "B5_lg317",
+        "SUID" : 681,
+        "name" : "Bagdad (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Bagdad (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "source" : "72",
+        "target" : "133",
+        "selected" : false,
+        "EdgeBetweenness" : 122.6,
+        "Column_4" : "B4_lg218",
+        "SUID" : 278,
+        "name" : "Yemen (note) Bagdad",
+        "interaction" : "note",
+        "shared_name" : "Yemen (note) Bagdad",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "source" : "72",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 260.11277056,
+        "Column_4" : "B2_lg87",
+        "SUID" : 277,
+        "name" : "Yemen (main) Arabia",
+        "interaction" : "main",
+        "shared_name" : "Yemen (main) Arabia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "source" : "72",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 141.62380952,
+        "Column_4" : "B1_lg14",
+        "SUID" : 276,
+        "name" : "Yemen (main) the East",
+        "interaction" : "main",
+        "shared_name" : "Yemen (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "source" : "72",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 233.99126984,
+        "Column_4" : "B1_lg14",
+        "SUID" : 275,
+        "name" : "Yemen (main) Persia",
+        "interaction" : "main",
+        "shared_name" : "Yemen (main) Persia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "source" : "72",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 393.07554113,
+        "Column_4" : "B1_lg14",
+        "SUID" : 274,
+        "name" : "Yemen (main) Greece",
+        "interaction" : "main",
+        "shared_name" : "Yemen (main) Greece",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "source" : "72",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.16666667,
+        "Column_4" : "B1_lg14",
+        "SUID" : 273,
+        "name" : "Yemen (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "Yemen (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "301",
+        "source" : "77",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 1389.44632035,
+        "Column_4" : "B1_lg14",
+        "SUID" : 301,
+        "name" : "Greece (main) the East",
+        "interaction" : "main",
+        "shared_name" : "Greece (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "299",
+        "source" : "77",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 1382.11093074,
+        "Column_4" : "B1_lg14",
+        "SUID" : 299,
+        "name" : "Greece (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "Greece (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "300",
+        "source" : "77",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 1864.5758658,
+        "Column_4" : "B1_lg14",
+        "SUID" : 300,
+        "name" : "Greece (main) Persia",
+        "interaction" : "main",
+        "shared_name" : "Greece (main) Persia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "source" : "78",
+        "target" : "84",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 311,
+        "name" : "Mosque Tauris (note) Hirah",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) Hirah",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "304",
+        "source" : "78",
+        "target" : "73",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 304,
+        "name" : "Mosque Tauris (note) Lebanon",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) Lebanon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "303",
+        "source" : "78",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 29.03809524,
+        "Column_4" : "B1_lg14",
+        "SUID" : 303,
+        "name" : "Mosque Tauris (note) Yemen",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) Yemen",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "306",
+        "source" : "78",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.94285714,
+        "Column_4" : "B1_lg14",
+        "SUID" : 306,
+        "name" : "Mosque Tauris (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "305",
+        "source" : "78",
+        "target" : "74",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 305,
+        "name" : "Mosque Tauris (note) Rome",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) Rome",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "308",
+        "source" : "78",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 55.33333333,
+        "Column_4" : "B1_lg14",
+        "SUID" : 308,
+        "name" : "Mosque Tauris (note) Greece",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) Greece",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "307",
+        "source" : "78",
+        "target" : "76",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 307,
+        "name" : "Mosque Tauris (note) Persepolis",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) Persepolis",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "310",
+        "source" : "78",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 104.97619048,
+        "Column_4" : "B1_lg14",
+        "SUID" : 310,
+        "name" : "Mosque Tauris (note) the East",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "309",
+        "source" : "78",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 95.70952381,
+        "Column_4" : "B1_lg14",
+        "SUID" : 309,
+        "name" : "Mosque Tauris (note) Persia",
+        "interaction" : "note",
+        "shared_name" : "Mosque Tauris (note) Persia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "297",
+        "source" : "76",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 104.97619048,
+        "Column_4" : "B1_lg14",
+        "SUID" : 297,
+        "name" : "Persepolis (main) the East",
+        "interaction" : "main",
+        "shared_name" : "Persepolis (main) the East",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "298",
+        "source" : "76",
+        "target" : "84",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 298,
+        "name" : "Persepolis (main) Hirah",
+        "interaction" : "main",
+        "shared_name" : "Persepolis (main) Hirah",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "295",
+        "source" : "76",
+        "target" : "77",
+        "selected" : false,
+        "EdgeBetweenness" : 55.33333333,
+        "Column_4" : "B1_lg14",
+        "SUID" : 295,
+        "name" : "Persepolis (main) Greece",
+        "interaction" : "main",
+        "shared_name" : "Persepolis (main) Greece",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "296",
+        "source" : "76",
+        "target" : "79",
+        "selected" : false,
+        "EdgeBetweenness" : 95.70952381,
+        "Column_4" : "B1_lg14",
+        "SUID" : 296,
+        "name" : "Persepolis (main) Persia",
+        "interaction" : "main",
+        "shared_name" : "Persepolis (main) Persia",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "293",
+        "source" : "76",
+        "target" : "74",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 293,
+        "name" : "Persepolis (main) Rome",
+        "interaction" : "main",
+        "shared_name" : "Persepolis (main) Rome",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "294",
+        "source" : "76",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 94.94285714,
+        "Column_4" : "B1_lg14",
+        "SUID" : 294,
+        "name" : "Persepolis (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "Persepolis (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "source" : "76",
+        "target" : "72",
+        "selected" : false,
+        "EdgeBetweenness" : 29.03809524,
+        "Column_4" : "B1_lg14",
+        "SUID" : 291,
+        "name" : "Persepolis (main) Yemen",
+        "interaction" : "main",
+        "shared_name" : "Persepolis (main) Yemen",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "source" : "76",
+        "target" : "73",
+        "selected" : false,
+        "EdgeBetweenness" : 2.0,
+        "Column_4" : "B1_lg14",
+        "SUID" : 292,
+        "name" : "Persepolis (main) Lebanon",
+        "interaction" : "main",
+        "shared_name" : "Persepolis (main) Lebanon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "551",
+        "source" : "113",
+        "target" : "99",
+        "selected" : false,
+        "EdgeBetweenness" : 161.57323232,
+        "Column_4" : "B1_lg35",
+        "SUID" : 551,
+        "name" : "East Indies (note) Eden",
+        "interaction" : "note",
+        "shared_name" : "East Indies (note) Eden",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "553",
+        "source" : "113",
+        "target" : "83",
+        "selected" : false,
+        "EdgeBetweenness" : 182.78203463,
+        "Column_4" : "B1_lg35",
+        "SUID" : 553,
+        "name" : "East Indies (note) the East",
+        "interaction" : "note",
+        "shared_name" : "East Indies (note) the East",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "554",
+        "source" : "113",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 283.95252525,
+        "Column_4" : "B9_lg553",
+        "SUID" : 554,
+        "name" : "East Indies (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "East Indies (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "547",
+        "source" : "113",
+        "target" : "87",
+        "selected" : false,
+        "EdgeBetweenness" : 340.42121212,
+        "Column_4" : "B1_lg35",
+        "SUID" : 547,
+        "name" : "East Indies (note) the_world",
+        "interaction" : "note",
+        "shared_name" : "East Indies (note) the_world",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "548",
+        "source" : "113",
+        "target" : "93",
+        "selected" : false,
+        "EdgeBetweenness" : 199.16764069,
+        "Column_4" : "B1_lg35",
+        "SUID" : 548,
+        "name" : "East Indies (note) sky",
+        "interaction" : "note",
+        "shared_name" : "East Indies (note) sky",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "646",
+        "source" : "122",
+        "target" : "87",
+        "selected" : false,
+        "EdgeBetweenness" : 311.92935071,
+        "Column_4" : "B9_lg517",
+        "SUID" : 646,
+        "name" : "Earth (main) the_world",
+        "interaction" : "main",
+        "shared_name" : "Earth (main) the_world",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "645",
+        "source" : "122",
+        "target" : "86",
+        "selected" : false,
+        "EdgeBetweenness" : 75.00161913,
+        "Column_4" : "B2_lg72",
+        "SUID" : 645,
+        "name" : "Earth (main) Irem_removed",
+        "interaction" : "main",
+        "shared_name" : "Earth (main) Irem_removed",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "649",
+        "source" : "122",
+        "target" : "93",
+        "selected" : false,
+        "EdgeBetweenness" : 182.98252009,
+        "Column_4" : "B9_lg535",
+        "SUID" : 649,
+        "name" : "Earth (main) sky",
+        "interaction" : "main",
+        "shared_name" : "Earth (main) sky",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "648",
+        "source" : "122",
+        "target" : "120",
+        "selected" : false,
+        "EdgeBetweenness" : 211.70397788,
+        "Column_4" : "B9_lg518",
+        "SUID" : 648,
+        "name" : "Earth (main) Heaven",
+        "interaction" : "main",
+        "shared_name" : "Earth (main) Heaven",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "647",
+        "source" : "122",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 467.67129733,
+        "Column_4" : "B9_lg517",
+        "SUID" : 647,
+        "name" : "Earth (main) Babylon",
+        "interaction" : "main",
+        "shared_name" : "Earth (main) Babylon",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "640",
+        "source" : "120",
+        "target" : "75",
+        "selected" : false,
+        "EdgeBetweenness" : 702.1230224,
+        "Column_4" : "B5_lg320",
+        "SUID" : 640,
+        "name" : "Heaven (note) Babylon",
+        "interaction" : "note",
+        "shared_name" : "Heaven (note) Babylon",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "637",
+        "source" : "120",
+        "target" : "86",
+        "selected" : false,
+        "EdgeBetweenness" : 375.01450216,
+        "Column_4" : "B2_lg72",
+        "SUID" : 637,
+        "name" : "Heaven (main) Irem_removed",
+        "interaction" : "main",
+        "shared_name" : "Heaven (main) Irem_removed",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "638",
+        "source" : "120",
+        "target" : "94",
+        "selected" : false,
+        "EdgeBetweenness" : 1041.89510277,
+        "Column_4" : "B5_lg320",
+        "SUID" : 638,
+        "name" : "Heaven (note) Arabia",
+        "interaction" : "note",
+        "shared_name" : "Heaven (note) Arabia",
+        "shared_interaction" : "note"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "635",
+        "source" : "120",
+        "target" : "96",
+        "selected" : false,
+        "EdgeBetweenness" : 201.12308802,
+        "Column_4" : "B1_lg43",
+        "SUID" : 635,
+        "name" : "Heaven (main) Red Hillock",
+        "interaction" : "main",
+        "shared_name" : "Heaven (main) Red Hillock",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "636",
+        "source" : "120",
+        "target" : "93",
+        "selected" : false,
+        "EdgeBetweenness" : 587.3969697,
+        "Column_4" : "B1_lg43",
+        "SUID" : 636,
+        "name" : "Heaven (main) sky",
+        "interaction" : "main",
+        "shared_name" : "Heaven (main) sky",
+        "shared_interaction" : "main"
+      },
+      "selected" : false
+    } ]
+  }
+}
