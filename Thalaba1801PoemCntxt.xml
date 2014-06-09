@@ -13866,10 +13866,10 @@
                      <l rend="i4" n="5384">"Laila or Thalaba....</l>
                      <l rend="i2" n="5385">"Accursed Spirit! even in truth</l>
                      <l rend="i4" n="5386">"Giving a lying hope!</l>
-                     <l rend="i2" n="5387">"Last, I ascended <rs type="metaplace" subtype="divin">the seventh Heaven</rs></l>
+                     <l rend="i2" n="5387">"Last, I ascended <rs type="metaplace" subtype="divin" ref="7th_Heaven">the seventh Heaven</rs></l>
                      <l rend="i0" n="5388">"And on the everlasting<ref target="#N_169">
                            <note type="author" anchored="true" xml:id="N_169">
-                              <p part="N"> This Table is suspended in <rs type="metaplace" subtype="divin">the Seventh Heaven</rs>, and
+                              <p part="N"> This Table is suspended in <rs type="metaplace" subtype="divin" ref="7th_Heaven">the Seventh Heaven</rs>, and
                                  guarded from the Demons, lest they should change or corrupt any
                                  thing thereon. Its length is so great as is the space between
                                  <rs type="metaplace" subtype="divin">Heaven</rs> and <placeName ref="Earth_planet">Earth</placeName>, its breadth equal to the distance from the East
