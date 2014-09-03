@@ -34,7 +34,7 @@
     
     <pattern>
         <rule context="//tei:rs[@type='building']">
-            <assert test="@subtype=('temple','palace','monument', 'fort', 'house', 'tower', 'prison', 'wall', 'commerce', 'tent')">Unacceptable @subtype value (or missing @subtype value) for rs[@type="building"]! </assert>
+            <assert test="@subtype=('temple','palace','monument', 'fort', 'house', 'tower', 'prison', 'wall', 'commerce', 'tent', 'portal')">Unacceptable @subtype value (or missing @subtype value) for rs[@type="building"]! </assert>
         </rule>
     </pattern> 
     <pattern>
