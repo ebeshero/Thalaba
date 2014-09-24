@@ -45,12 +45,14 @@
                 <text>
                     <body>           
           <listPlace type="geog">
-                 <xsl:apply-templates select="//body" mode="places"/>
+                <xsl:apply-templates select="//body" mode="places"/>
           </listPlace>
                         
-                        <!--<listPlace type="meta">
+                        <listPlace type="meta">
              <xsl:apply-templates select="//body" mode="metaplaces"/>
-                        </listPlace>-->
+                 
+             
+                        </listPlace>
                     </body>
                 </text>
             </TEI>
@@ -62,15 +64,26 @@
     
             <xsl:variable name="place" select="distinct-values(.//placeName[not(@ref)] | .//placeName[@ref]/@ref | .//rs[@type='place']/@ref)"/>
             <xsl:for-each select="$place">
-                
-                <place>
+                <xsl:sort/>
+            <place>
                     <placeName><xsl:value-of select="."/></placeName>
                     
                 </place>
             </xsl:for-each>
         </xsl:template>
     
-                
+         <xsl:template match="body" mode="metaplaces">
+             <xsl:variable name="metaplace" select="distinct-values(.//rs[@type='metaplace'][not(@subtype='simil')][not(@ref)] | .//rs[@type='metaplace'][not(@subtype='simil')][(@ref)]/@ref)"/>
+             <xsl:for-each select="$metaplace">
+                 <xsl:sort/>
+                 <place>
+                     <placeName><xsl:value-of select="."/></placeName>
+                     
+                 </place>
+                 
+             </xsl:for-each>
+             
+         </xsl:template>       
                 
                 
       <!--ebb: 10 Aug 2014: Rewritten old stylesheet to here-->          
