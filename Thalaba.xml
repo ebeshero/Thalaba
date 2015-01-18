@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!--<?xml-model href="SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
+<?xml-model href="SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!--ebb: Note: I've commented out the local schema file before uploading to TAPAS. Probably not necessary, but we're having trouble with uploading.-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader type="text">
@@ -42,7 +42,7 @@
             <authority>Integrated Digital Humanities at the University of Pittsburgh at
                Greensburg</authority>
             <pubPlace>Greensburg, PA, USA</pubPlace>
-            <date instant="false">2013</date>
+            <date>2013</date>
             <availability default="false" status="unknown">
                <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
                   License</licence>
@@ -64,8 +64,8 @@
                   <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
                   <pubPlace>PATERNOSTER-ROW, London</pubPlace>
                   <publisher>BY BIGGS AND COTTLE</publisher>
-                  <pubPlace>Bristol</pubPlace>,<date instant="false">1801</date>. </bibl> Release
-               date: <date instant="false"/> [Ebook #39804] Public domain in the USA. </p>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. </p>
             <p>This eBook is for the use of anyone anywhere at no cost and with almost no
                restrictions whatsoever. You may copy it, give it away or re-use it under the terms
                of the Project Gutenberg License included with this eBook or online at
@@ -85,7 +85,7 @@
          <div type="poem">
             <head>
                <bibl>
-                  <title>Thalaba the Destroyer</title> (<date instant="false">1801</date>) by
+                  <title>Thalaba the Destroyer</title> (<date>1801</date>) by
                      <author>Robert Southey</author>
                </bibl>
             </head>
@@ -167,7 +167,7 @@
                   <head>THE FIRST BOOK.</head>
 
                   <lg xml:id="B1_lg2">
-                     <l rend="i4" n="3">How beautiful is <time instant="false">night</time>!</l>
+                     <l rend="i4" n="3">How beautiful is <time>night</time>!</l>
                      <l rend="i0" n="4">A dewy freshness fills the silent air,</l>
                      <l rend="i2" n="5">No mist obscures, no little cloud</l>
                      <l rend="i2" n="6">Breaks the whole serene of heaven:</l>
@@ -232,7 +232,7 @@
                      <l rend="i0" n="41">At length collecting, <persName>Zeinab</persName> turned
                         her eyes</l>
                      <l rend="i0" n="42">
-                        <rs type="religion" subtype="Islam">To <rs type="metaplace" subtype="divin" ref="Heaven">heaven</rs>, exclaiming, "praised be <name type="divin">the Lord</name>!</rs>
+                        <rs type="religion" subtype="Islam">To <rs type="metaplace" subtype="divin" ref="Heaven" ana="call">heaven</rs>, exclaiming, "praised be <name type="divin">the Lord</name>!</rs>
                      </l>
                      <l rend="i4" n="43">"<rs type="religion" subtype="Islam">He gave,
                               <note type="author" anchored="true" xml:id="N_1">
@@ -388,17 +388,17 @@
                      <l rend="i2" n="108">
                         <geogFeat>Trees of such ancient majesty</geogFeat>
                      </l>
-                     <l rend="i2" n="109">Towered not on <placeName>Yemen</placeName>'s happy
+                     <l rend="i2" n="109">Towered not on <placeName ana="ana">Yemen</placeName>'s happy
                            <geogFeat>hills</geogFeat>,</l>
                      <l rend="i0" n="110">Nor crowned the stately brow of
-                           <placeName>Lebanon</placeName>.</l>
+                           <placeName ana="ana">Lebanon</placeName>.</l>
                      <l rend="i0" n="111">Fabric so vast, so lavishly enriched,</l>
                      <l rend="i0" n="112">For Idol, or for Tyrant, never yet</l>
                      <l rend="i4" n="113">Raised the slave race of men</l>
-                     <l rend="i0" n="114">In <placeName>Rome</placeName>, nor in the elder
-                           <placeName>Babylon</placeName>,</l>
-                     <l rend="i4" n="115">Nor old <placeName>Persepolis</placeName>,</l>
-                     <l rend="i2" n="116">Nor where the family of <placeName>Greece</placeName>
+                     <l rend="i0" n="114">In <placeName ana="ana">Rome</placeName>, nor in the elder
+                           <placeName ana="ana">Babylon</placeName>,</l>
+                     <l rend="i4" n="115">Nor old <placeName ana="ana">Persepolis</placeName>,</l>
+                     <l rend="i2" n="116">Nor where the family of <placeName ana="ana">Greece</placeName>
                      </l>
                      <l rend="i4" n="117">Hymned Eleutherian <name type="divin">Jove</name>.</l>
                      <l rend="i2" n="118">Here studding azure
@@ -497,7 +497,7 @@
                                     <author>D'Herbelot</author>.</bibl>
                               </p>
                            </note>
-                         built at <placeName>Hirah</placeName>, tho' his art</l>
+                         built at <placeName ana="ana">Hirah</placeName>, tho' his art</l>
                      <l rend="i0" n="126">
                         <rs type="building" subtype="palace">Sealed with one stone the ample
                            edifice</rs>
@@ -543,7 +543,7 @@
                      </l>
                   </lg>
                   <lg xml:id="B1_lg16">
-                     <l rend="i2" n="149">He heard, and he looked up to <rs type="metaplace" subtype="divin" ref="Heaven">heaven</rs>,</l>
+                     <l rend="i2" n="149">He heard, and he looked up to <rs type="metaplace" subtype="divin" ref="Heaven" ana="call">heaven</rs>,</l>
                      <l rend="i4" n="150">And tears ran down his cheeks:</l>
                      <l rend="i4" n="151">"It is a human voice!</l>
                      <l rend="i4" n="152">"I thank thee, O my <name type="divin">God</name>!</l>
@@ -561,7 +561,7 @@
                      <l rend="i4" n="162">"From eye of mortal man?</l>
                      <l rend="i4" n="163">"For countless years have past</l>
                      <l rend="i4" n="164">"And never foot of man</l>
-                     <l rend="i4" n="165">"The <placeName ref="Irem">bowers of Irem</placeName>
+                     <l rend="i4" n="165">"The <placeName ref="Irem" ana="hereNow">bowers of Irem</placeName>
                         trod.</l>
                      <l rend="i0" n="166">"Save only I, a miserable wretch</l>
                      <l rend="i4" n="167">"From <rs type="metaplace" subtype="divin">Heaven</rs> and
@@ -571,7 +571,7 @@
                      <l rend="i4" n="168">Fearless, and scarce surprized,</l>
                      <l rend="i4" n="169">For grief in <persName>Zeinab</persName>'s soul</l>
                      <l rend="i0" n="170">All other feebler feelings overpowered,</l>
-                     <l rend="i4" n="171">She answered, "<time instant="false">Yesterday</time>
+                     <l rend="i4" n="171">She answered, "<time>Yesterday</time>
                      </l>
                      <l rend="i4" n="172">"I was a wife beloved,</l>
                      <l rend="i0" n="173">"The fruitful mother of a numerous race.</l>
@@ -593,12 +593,12 @@
                         <rs type="religion" subtype="Islam">"Nor with unguided feet</rs>
                      </l>
 
-                     <l rend="i2" n="180"> "Thy steps have reached <rs type="metaplace" subtype="barrier" ref="Irem_removed">this secret place</rs>
+                     <l rend="i2" n="180"> "Thy steps have reached <rs type="metaplace" subtype="barrier" ref="Irem_removed" ana="hereNow">this secret place</rs>
                      </l>
                      <l rend="i2" n="181"> "Nor for light purpose is the Veil, </l>
                      <l rend="i0" n="182"> "That from the <placeName>Universe</placeName> hath long
                         shut out </l>
-                     <l rend="i4" n="183"> "<rs type="place" ref="Irem">These ancient bowers</rs>,
+                     <l rend="i4" n="183"> "<rs type="place" ref="Irem" ana="hereNow">These ancient bowers</rs>,
                         withdrawn. </l>
 
                      <l rend="i0" n="184"> "Hear thou my words, O mortal, in thy heart </l>
@@ -613,7 +613,7 @@
                      <l rend="i4" n="190"> "<orgName>The Children</orgName> wisely safe?" </l>
                   </lg>
                   <lg xml:id="B1_lg20">
-                     <l rend="i2" n="191">"<placeName ref="Irem">The Paradise of Irem</placeName>
+                     <l rend="i2" n="191">"<placeName ref="Irem" ana="hereNow">The Paradise of Irem</placeName>
                         
                            <note type="author" anchored="true" xml:id="N_5">
                               <p> The <orgName>tribe of Ad</orgName> were descended from
@@ -737,7 +737,7 @@
                                     which was big with the divine vengeance produced only a wind,
                                     most cold and most violent, which the <orgName>Arabs</orgName>
                                     call <name type="elemental">Sarsar</name>; it continued to blow
-                                    for <time instant="false">seven days and seven nights</time>,
+                                    for <time>seven days and seven nights</time>,
                                     and exterminated <orgName>all the unbelievers of the
                                        country</orgName>, leaving only the <persName>Prophet
                                        Houd</persName> alive, and <orgName>those who had heard him
@@ -837,10 +837,10 @@
                      <l rend="i2" n="233">"<rs type="earthworks" subtype="garden">A garden</rs> more
                         surpassing fair</l>
 
-                     <l rend="i4" n="234">"Than <rs type="metaplace" subtype="garden" ref="Eden">that before whose gate</rs>, </l>
+                     <l rend="i4" n="234">"Than <rs type="metaplace" subtype="garden" ref="Eden" ana="ana">that before whose gate</rs>, </l>
                      <l rend="i0" n="235"> "The lightning of the <persName type="meta">Cherub</persName>'s fiery sword </l>
                      <l rend="i4" n="236"> "Waves wide to bar access </l>
-                     <l rend="i0" n="237"> "Since <persName>Adam</persName>, the transgressor, <rs type="metaplace" subtype="garden" ref="Eden">thence</rs> was driven. </l>
+                     <l rend="i0" n="237"> "Since <persName>Adam</persName>, the transgressor, thence was driven. </l>
 
                      <l rend="i4" n="238">"Here too would <persName>Shedad</persName> build</l>
                      <l rend="i4" n="239">
@@ -867,7 +867,7 @@
                            sun;</rs>
                      </l>
                      <l rend="i4" n="246">
-                        <rs type="husbandry" subtype="worm" ref="silk">"The silkworm of <placeName ref="the_East">the East</placeName>
+                        <rs type="husbandry" subtype="worm" ref="silk">"The silkworm of <placeName ref="the_East" ana="rel">the East</placeName>
                         </rs>
                      </l>
                      <l rend="i4" n="247">
@@ -875,25 +875,25 @@
                            egg;</rs>
                      </l>
                      <l rend="i4" n="248">
-                        <rs type="hunt">"<rs type="person">The <rs type="place" ref="Africa">hunter
+                        <rs type="hunt">"<rs type="person">The <rs type="place" ref="Africa" ana="rel">hunter
                                  African</rs>
                            </rs>
                         </rs>
                      </l>
                      <l rend="i0" n="249">
                         <rs type="hunt" ref="elephant">
-                           <rs type="place" ref="Africa">"Provoked the danger of the elephant's
+                           <rs type="place" ref="Africa" ana="rel">"Provoked the danger of the elephant's
                               wrath;</rs>
                         </rs>
                      </l>
                      <l rend="i4" n="250">
                         <rs type="earthworks" subtype="lumber">
-                           <rs type="place" ref="Ethiopia">"<rs type="person">The Ethiop</rs>, keen
+                           <rs type="place" ref="Ethiopia" ana="rel">"<rs type="person">The Ethiop</rs>, keen
                               of scent</rs>
                         </rs>
                      </l>
                      <l rend="i4" n="251">
-                        <rs type="place" ref="Ethiopia">
+                        <rs type="place" ref="Ethiopia" ana="rel">
                            <rs type="earthworks" subtype="lumber">"Detects the ebony,</rs>
                         </rs>
                         
@@ -1066,7 +1066,7 @@
                      <l rend="i4" n="302">"No nightly dews came down.</l>
                   </lg>
                   <lg xml:id="B1_lg26">
-                     <l rend="i0" n="303">"Then to <rs type="place" ref="Mecca">the place of
+                     <l rend="i0" n="303">"Then to <rs type="place" ref="Mecca" ana="rel">the place of
                            concourse</rs>,
                            <note type="author" anchored="true" xml:id="N_9">
                               <p>
@@ -1082,7 +1082,7 @@
                      <l rend="i0" n="304">"Were sent to <rs type="cosmopolitan">
                            <placeName>Mecca</placeName>, where the nations came,</rs>
                      </l>
-                     <l rend="i0" n="305">"Round the <placeName ref="Red_Hillock">Red
+                     <l rend="i0" n="305">"Round the <placeName ref="Red_Hillock" ana="rel">Red
                            Hillock</placeName>, kneeling, to implore</l>
                      <l rend="i4" n="306">"<name type="divin">God</name> in his favoured place,</l>
                      <l rend="i4" n="307">"We sent to call on <name type="divin">God</name>;</l>
@@ -1144,7 +1144,7 @@
                      <l rend="i2" n="338">"The <rs type="religion" subtype="mixed">funeral
                            rites</rs> were duly paid,</l>
                      <l rend="i2" n="339">"<rs type="religion" subtype="idol">We bound a camel to
-                              <rs type="metaplace" subtype="under" ref="Tombs">his grave</rs>
+                              <rs type="metaplace" subtype="under" ref="Tombs" ana="rel">his grave</rs>
                         </rs>
                      </l>
                      <l rend="i4" n="340">
@@ -1177,7 +1177,7 @@
                             came</rs>
                      </l>
                      <l rend="i4" n="342">"Together they might rise.</l>
-                     <l rend="i4" n="343">"I past <rs type="metaplace" subtype="under" ref="Tombs">my father's grave</rs>,</l>
+                     <l rend="i4" n="343">"I past <rs type="metaplace" subtype="under" ref="Tombs" ana="rel">my father's grave</rs>,</l>
                      <l rend="i4" n="344">"I heard the <persName>Camel</persName> moan.</l>
                      <l rend="i4" n="345">"<rs type="person" ref="Camel">She was his favourite
                            beast</rs>,</l>
@@ -1320,14 +1320,14 @@
                      <l rend="i2" n="408">"I have no heart to visit it!</l>
                      <l rend="i0" n="409">"<time>Time hath not harmed <rs type="building" subtype="palace">the eternal monument</rs>
                         </time>,</l>
-                     <l rend="i0" n="410">"<time>Time is not here, nor days, nor months, nor
+                     <l rend="i0" n="410">"<time>Time is not <rs type="metaplace" subtype="barrier" ref="Irem_removed" ana="hereNow">here</rs>, nor days, nor months, nor
                            years,</time>
                      </l>
                      <l rend="i0" n="411">"<time>An everlasting <hi rend="smallcap">now</hi> of
                            misery!</time>...</l>
                      <l rend="i4" n="412">"Ye must have heard their fame,</l>
                      <l rend="i4" n="413">"Or likely ye have seen</l>
-                     <l rend="i4" n="414">"The mighty <rs type="place" ref="Egypt">
+                     <l rend="i4" n="414">"The mighty <rs type="place" ref="Egypt" ana="ana">
                            <rs type="building" subtype="monument">Pyramids</rs>
                         </rs>,</l>
                      <l rend="i0" n="415">"For sure those <rs type="building" subtype="monument">mighty piles</rs> shall overlive</l>
@@ -1527,7 +1527,7 @@
                         </rs> be laid,</l>
                      <l rend="i4" n="427">"As tho' with feet divine</l>
                      <l rend="i4" n="428">"To trample azure light,</l>
-                     <l rend="i0" n="429">"Like <rs type="metaplace" subtype="celest" ref="sky">the
+                     <l rend="i0" n="429">"Like <rs type="metaplace" subtype="celest" ref="sky" ana="ana">the
                            blue pavement of the firmament</rs> .</l>
                      <l rend="i2" n="430">"Here self-suspended hangs in air,</l>
                      <l rend="i0" n="431">"As its pure substance loathed material touch,</l>
@@ -1593,7 +1593,7 @@
                      <l rend="i0" n="437">
                         <rs type="religion" subtype="Islam">"Impious!</rs>
                         <rs type="image" subtype="nature">the Trees of vegetable gold</rs>,</l>
-                     <l rend="i4" n="438">"Such as in <rs type="metaplace" subtype="garden" ref="Eden">Eden's groves</rs>
+                     <l rend="i4" n="438">"Such as in <rs type="metaplace" subtype="garden" ref="Eden" ana="ana">Eden's groves</rs>
                      </l>
                      <l rend="i4" n="439">"Yet innocent it
                            <note type="author" anchored="true" xml:id="N_14">
@@ -1626,7 +1626,7 @@
                            fruit,</rs>
                      </l>
                      <l rend="i4" n="444">"And re-create for him,</l>
-                     <l rend="i2" n="445">"Whate'er was lost in <rs type="metaplace" subtype="garden" ref="Eden">Paradise</rs>.</l>
+                     <l rend="i2" n="445">"Whate'er was lost in <rs type="metaplace" subtype="garden" ref="Eden" ana="ana">Paradise</rs>.</l>
                      <l rend="i4" n="446">"Therefore at <persName>Shedad</persName>'s voice</l>
                      <l rend="i0" n="447">
                         <rs type="image" subtype="nature">"Here towered the palm, a silver
@@ -1657,7 +1657,7 @@
                            fruit,</rs>
                      </l>
 
-                     <l rend="i0" n="453">"O <placeName>Ad</placeName>! my country! evil was the
+                     <l rend="i0" n="453">"O <placeName ana="rel">Ad</placeName>! my country! evil was the
                         day</l>
                      <l rend="i4" n="454">"That thy unhappy sons</l>
                      <l rend="i4" n="455">"Crouched at <rs type="building" subtype="palace">this
@@ -1730,7 +1730,7 @@
                         will,</l>
 
                      <l rend="i0" n="464">"And like <name type="elemental">the blasting Siroc of
-                              <placeName ref="the_East">the East</placeName>
+                              <placeName ref="the_East" ana="ana">the East</placeName>
                         </name> ,</l>
                      <l rend="i2" n="465"> "The ruin of the royal voice </l>
                      <l rend="i4" n="466"> "Found its way every-where. </l>
@@ -1746,7 +1746,7 @@
                      <l rend="i0" n="471">"Among the people, bidding old and young,</l>
                      <l rend="i0" n="472">"Husband and wife, the master and the slave,</l>
                      <l rend="i0" n="473">"<orgName>All the collected multitudes of
-                              <placeName>Ad</placeName>
+                              <placeName ana="rel">Ad</placeName>
                         </orgName>,</l>
                      <l rend="i0" n="474">"Here to repair, and hold high festival,</l>
                      <l rend="i0" n="475">"That he might see his people, they behold</l>
@@ -1761,7 +1761,7 @@
                         yonder sands</l>
                      <l rend="i0" n="483">"Rose like <geogFeat>the countless billows of the
                            sea</geogFeat>.</l>
-                     <l rend="i0" n="484">"Their tread and voices like <placeName ref="Ocean">the
+                     <l rend="i0" n="484">"Their tread and voices like <placeName ref="Ocean" ana="ana">the
                            ocean</placeName> roar,</l>
                      <l rend="i0" n="485">"One deep confusion of tumultuous sounds.</l>
                      <l rend="i0" n="486">"They saw their <rs type="person" ref="Shedad">King</rs>'s
@@ -1769,14 +1769,14 @@
                      <l rend="i0" n="487">"<rs type="building" subtype="palace">His Palace sparkling
                            like the Angel domes </rs>
                      </l>
-                     <l rend="i0" n="488">"<rs type="metaplace" subtype="divin" ref="Paradise">Of
+                     <l rend="i0" n="488">"<rs type="metaplace" subtype="divin" ref="Paradise" ana="ana">Of
                            Paradise</rs>; <rs type="earthworks" subtype="garden">his garden</rs>
                         like <rs type="metaplace" subtype="garden" ref="Eden">the bowers</rs>
                      </l>
-                     <l rend="i0" n="489">"<rs type="metaplace" subtype="garden" ref="Eden">Of early
+                     <l rend="i0" n="489">"<rs type="metaplace" subtype="garden" ref="Eden" ana="ana">Of early
                            Eden</rs>, and they shouted out</l>
                      <l rend="i0" n="490">"Great is the <persName ref="Shedad">King</persName>, <rs type="religion" subtype="idol">a<name type="divin">God</name>upon
-                              <placeName ref="the_world">the earth</placeName>
+                              <placeName ref="the_world" ana="rel">the earth</placeName>
                         </rs>!</l>
                   </lg>
                   <lg xml:id="B1_lg37">
@@ -1874,12 +1874,12 @@
                            multitude</orgName>,</l>
                      <l rend="i2" n="530">"And as again they shouted out</l>
                      <l rend="i0" n="531">"Great is <persName ref="Shedad">the King</persName>! <rs type="religion" subtype="idol">a<name type="divin">God</name>
-                           <placeName ref="the_world">upon the Earth</placeName>!</rs>"</l>
+                           <placeName ref="the_world" ana="rel">upon the Earth</placeName>!</rs>"</l>
                      <l rend="i2" n="532">"Turned with a threatful smile to
                            <persName>Houd</persName>,</l>
                      <l rend="i0" n="533">"Say they aright, O <persName ref="Houd">Prophet</persName>? is the <persName ref="Shedad">King</persName>
                      </l>
-                     <l rend="i0" n="534">"Great upon <placeName ref="the_world">earth</placeName>,
+                     <l rend="i0" n="534">"Great upon <placeName ref="the_world" ana="rel">earth</placeName>,
                            <rs type="religion" subtype="idol">a<name type="divin">God</name>among
                            mankind</rs>?"</l>
                      <l rend="i4" n="535">"The <persName ref="Houd">Prophet</persName> answered
@@ -1895,7 +1895,7 @@
                      <l rend="i4" n="540">"The <persName ref="Kail">Messenger</persName> is
                         come!</l>
                      <l rend="i4" n="541">"<persName>Kail</persName> from
-                           <placeName>Mecca</placeName> comes,</l>
+                           <placeName ana="rel">Mecca</placeName> comes,</l>
                      <l rend="i4" n="542">"He brings the boon obtained!"</l>
                   </lg>
                   <lg xml:id="B1_lg42">
@@ -1910,7 +1910,8 @@
                      <l rend="i4" n="549">"And told his tale of joy.</l>
                   </lg>
                   <lg xml:id="B1_lg43">
-                     <l rend="i4" n="550">"To <placeName>Mecca</placeName> I repaired,</l>
+                     <l rend="i4" n="550">"To <placeName ana="rel">Mecca</placeName> I repaired,</l>
+                     <!--ebb: added @ana tags to mark kinds of places in the body of the poem TO HERE 2015-01-11.-->
                      <l rend="i4" n="551">"By the <placeName ref="Red_Hillock">Red
                            Hillock</placeName> knelt</l>
                      <l rend="i4" n="552">"And called on<name type="divin">God</name>for rain.</l>
@@ -6331,7 +6332,7 @@
                                        de Jesu, Taumaturgo do Novo Mundo, na Provincia do Brasil.
                                        composta pello P. Simam de Vasconcellos, da mesma
                                        companhia.</title>
-                                    <placeName>Lisboa</placeName>. <date instant="false">1672</date>.</bibl>
+                                    <placeName>Lisboa</placeName>. <date>1672</date>.</bibl>
                               </q>
                               <p>
                                  <persName>Father Simam de Vasconcellos</persName> probably stole

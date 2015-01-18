@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2">
     <ns uri="http://www.tei-c.org/ns/1.0" prefix="tei"/>
+    <pattern>
+        <rule context="//tei:placeName[@ana] | //tei:rs[@type='place'][@ana] | //tei:rs[@type='metaplace'][@ana]">
+            <assert test="@ana=('pastVisit', 'hereNow', 'destin', 'call', 'rel', 'ana')">The @ana attribute on placeName indicates pastVisit, destin, or hereNow when literally involving Thalaba's journey.
+                @ana can also indicate "call" when it characters speak of calling to another place (as in a call to Heaven or a call made across distances).
+                For places mentioned in connection with another place, @ana may be set to either "rel" (for places described in direct relation, as in trade) or "ana" for places mentioned in analogy or metaphor in the body of the poem. </assert>
+        </rule>
+        
+    </pattern>
+    
    <pattern>
        <rule context="//tei:name">
            <assert test="@type=('divin','elemental','myth', 'zomb')">Acceptable values of the @type attribute for name are 'divin,' 'elemental,' or 'myth'.</assert>
