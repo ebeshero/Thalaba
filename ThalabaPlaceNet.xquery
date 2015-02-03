@@ -15,11 +15,11 @@ return
 $kin/
 string-join(
   (elisa:place-string($place),
-   ($place[@type='metaplace']/'metaplace','place')[1],
+   ($place[@type='metaplace']/'metaplace','place')[1], ($place[@ana]/@ana, 'no-ana')[1],
    ($place/ancestor::note/'note','main')[1],
    ancestor::lg/@xml:id,
    elisa:place-string(.),
-   (.[@type='metaplace']/'metaplace','place')[1]
+   (.[@type='metaplace']/'metaplace','place')[1], (.[@ana]/@ana, 'no-ana')[1]
    ),
 '&#x9;')
 

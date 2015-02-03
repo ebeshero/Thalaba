@@ -1932,7 +1932,7 @@
                   <lg xml:id="B1_lg44">
                      <l rend="i0" n="564">"Then stood the <persName ref="Houd">Prophet</persName> up
                         and cried aloud,</l>
-                     <l rend="i2" n="565">"Woe, woe, to <placeName ref="hereNow">Irem</placeName>! woe to
+                     <l rend="i2" n="565">"Woe, woe, to <placeName ana="hereNow">Irem</placeName>! woe to
                            <placeName ana="rel">Ad</placeName>!</l>
                      <l rend="i0" n="566">"<name type="myth">
                            <hi rend="smallcap">Death</hi>
@@ -2691,10 +2691,8 @@
                            <persName ref="Khawla">Mistress of the mighty Spell</persName>,</rs>
                      </l>
                      <l rend="i2" n="872">
-                        <rs type="science" subtype="orac">
-                           <rs type="metaplace" subtype="barrier" ref="Irem_removed">Not on
-                                 <placeName>Ocean</placeName>, not on <placeName ref="Earth_planet">Earth</placeName>
-                           </rs>.</rs>
+                        <rs type="science" subtype="orac">Not on <placeName>Ocean</placeName>, not on <placeName ref="Earth_planet">Earth</placeName>
+                           .</rs>
                      </l>
                      <l rend="i4" n="873">
                         <rs type="science" subtype="orac">Only eyes that view</rs>
@@ -2705,7 +2703,7 @@
                               <name type="divin">Allah</name>'s glory throne</rs>,</rs>
                      </l>
                      <l rend="i4" n="875">
-                        <rs type="science" subtype="orac">See <rs type="metaplace" subtype="barrier" ref="Irem_removed">his hiding-place</rs>.</rs>
+                        <rs type="science" subtype="orac">See <rs type="metaplace" subtype="barrier" ref="Irem_removed" ana="hereNow">his hiding-place</rs>.</rs>
                      </l>
                      <l rend="i0" n="876">
                         <rs type="science" subtype="orac">From some <name type="divin">believing
@@ -2738,12 +2736,12 @@
                                  of the Blessed, till the Day of Judgment.</p>
                            </note>
                         Zemzem well?</l>
-                     <l rend="i4" n="889">"Is it in <rs type="metaplace" subtype="garden" ref="Eden">the Eden groves</rs>?</l>
+                     <l rend="i4" n="889">"Is it in <rs type="metaplace" subtype="garden" ref="Eden" ana="rel">the Eden groves</rs>?</l>
                      <l rend="i4" n="890">"Waits it for the judgement-blast</l>
                      <l rend="i4" n="891">"In <rs type="myth">the trump of <name type="divin">Israfil</name>
                         </rs>?</l>
                      <l rend="i4" n="892">"Is it plumed with silver wings</l>
-                     <l rend="i4" n="893">"Underneath <rs type="metaplace" subtype="divin" ref="throne_of_God">the throne of <name type="divin">God</name>
+                     <l rend="i4" n="893">"Underneath <rs type="metaplace" subtype="divin" ref="throne_of_God" ana="rel">the throne of <name type="divin">God</name>
                         </rs>?</l>
                      <l rend="i4" n="894">"Even if beneath his throne</l>
                      <l rend="i4" n="895">"<persName>Hodeirah</persName>, thou shalt hear,</l>
@@ -2752,9 +2750,9 @@
 
                   <lg xml:id="B2_lg75">
                      <l rend="i0" n="897">She said, and <rs type="science" subtype="orac">muttered
-                           charms</rs> that <rs type="metaplace" subtype="divin">Hell</rs> in
+                           charms</rs> that <rs type="metaplace" subtype="divin" ana="rel">Hell</rs> in
                         fear</l>
-                     <l rend="i4" n="898">And <rs type="metaplace" subtype="divin">Heaven</rs> in
+                     <l rend="i4" n="898">And <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs> in
                         horror heard.</l>
                      <l rend="i4" n="899">
                         <rs type="science" subtype="orac">Soon the stiff eye-balls
@@ -2950,7 +2948,7 @@
                         his quest.</l>
                      <l rend="i2" n="971">He must visit <orgName>every tribe</orgName>
                      </l>
-                     <l rend="i2" n="972">That roam <rs type="place" ref="desert">the desert
+                     <l rend="i2" n="972">That roam <rs type="place" ref="desert" ana="rel">the desert
                            wilderness</rs>,</l>
                      <l rend="i2" n="973">Or dwell <geogFeat>beside perennial
                         streams</geogFeat>;</l>
@@ -3000,7 +2998,7 @@
                               </note>
                             condensed</rs>
                      </l>
-                     <l rend="i0" n="980">Primeval dews that upon <placeName>Caucasus</placeName>
+                     <l rend="i0" n="980">Primeval dews that upon <placeName ana="rel">Caucasus</placeName>
                      </l>
                      <l rend="i4" n="981">Felt the first winter's frost.</l>
                      <l rend="i4" n="982">
@@ -3016,7 +3014,7 @@
                   </lg>
 
                   <lg xml:id="B2_lg85">
-                     <l rend="i2" n="986">With this he sought <rs type="metaplace" subtype="barrier" ref="Domdaniel_Cave">the inner den</rs>
+                     <l rend="i2" n="986">With this he sought <rs type="metaplace" subtype="barrier" ref="Domdaniel_Cave" ana="rel">the inner den</rs>
                      </l>
                      <l rend="i4" n="987">Where burnt <rs type="image" subtype="human">the eternal
                            flame</rs>.</l>
@@ -3035,7 +3033,7 @@
                            flame</rs>,</l>
                      <l rend="i0" n="993">That blazed self-nurtured, and for ever, there.</l>
                      <l rend="i0" n="994">It was <name type="elemental">no mortal element</name>: <geogFeat>
-                           <placeName>the Abyss</placeName>
+                           <placeName ana="rel">the Abyss</placeName>
                         </geogFeat>
                      </l>
                      <l rend="i0" n="995">Supplied it, from the fountains at the first</l>
@@ -3056,7 +3054,7 @@
                   <lg xml:id="B2_lg86">
                      <l rend="i2" n="1003">Unturbaned and unsandalled there,</l>
                      <l rend="i2" n="1004">
-                        <persName>Abdaldar</persName> stood <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">before the flame</rs>,</l>
+                        <persName>Abdaldar</persName> stood <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">before the flame</rs>,</l>
                      <l rend="i2" n="1005">And held <rs type="art" subtype="gem">the Ring</rs>
                         beside, and spake</l>
                      <l rend="i0" n="1006">
@@ -3091,21 +3089,21 @@
                   <lg xml:id="B2_lg87">
                      <l rend="i2" n="1015">Now go thy way <persName>Abdaldar</persName>!</l>
                      <l rend="i4" n="1016">Servant of <name type="divin">Eblis</name>,</l>
-                     <l rend="i4" n="1017">Over <placeName>Arabia</placeName>
+                     <l rend="i4" n="1017">Over <placeName ana="rel">Arabia</placeName>
                      </l>
                      <l rend="i4" n="1018">Seek <persName ref="Thalaba">the
                         Destroyer</persName>!</l>
                      <l rend="i0" n="1019">Over <geogFeat>the sands of the scorching
-                              <placeName>Tchama</placeName>
+                              <placeName ana="rel">Tchama</placeName>
                         </geogFeat>,</l>
                      <l rend="i0" n="1020">Over <geogFeat>the waterless mountains of
-                              <placeName>Naïd</placeName>
+                              <placeName ana="rel">Naïd</placeName>
                         </geogFeat>,</l>
-                     <l rend="i0" n="1021">In <placeName>Arud</placeName> pursue him; and
-                           <placeName>Yemen</placeName> the happy,</l>
-                     <l rend="i0" n="1022">And <placeName>Hejaz</placeName>, the country beloved by
+                     <l rend="i0" n="1021">In <placeName ana="rel">Arud</placeName> pursue him; and
+                           <placeName ana="rel">Yemen</placeName> the happy,</l>
+                     <l rend="i0" n="1022">And <placeName ana="rel">Hejaz</placeName>, the country beloved by
                         believers.</l>
-                     <l rend="i4" n="1023">Over <placeName>Arabia</placeName>
+                     <l rend="i4" n="1023">Over <placeName ana="rel">Arabia</placeName>
                      </l>
                      <l rend="i4" n="1024">Servant of <name type="divin">Eblis</name>,</l>
                      <l rend="i4" n="1025">Seek <persName ref="Thalaba">the
@@ -3139,8 +3137,8 @@
                   </lg>
                   <lg xml:id="B2_lg89">
                      <l rend="i2" n="1040">At length to the cords of a tent</l>
-                     <l rend="i2" n="1041">That were stretched <geogFeat>by an Island of
-                           Palms</geogFeat>
+                     <l rend="i2" n="1041">That were stretched <rs type="place" ref="Isle_of_Palms" ana="hereNow">by an Island of
+                           Palms</rs>
                      </l>
                      <l rend="i2" n="1042">
                         <geogFeat>In the desolate sea of the sands</geogFeat>,</l>
@@ -3549,7 +3547,7 @@
                   <lg xml:id="B3_lg103">
                      <l rend="i0" n="1156">Why do you take it from him Thalaba?...</l>
                      <l rend="i0" n="1157">And look at it so near?... it may have charms</l>
-                     <l rend="i0" n="1158">To blind, or poison ... throw it in <rs type="metaplace" subtype="under" ref="Tombs">the grave</rs>!...</l>
+                     <l rend="i0" n="1158">To blind, or poison ... throw it in <rs type="metaplace" subtype="under" ref="Tombs" ana="rel">the grave</rs>!...</l>
                      <l rend="i0" n="1159">I would not touch it!</l>
                   </lg>
                   <lg xml:id="B3_lg104">
@@ -3578,7 +3576,7 @@
                   </lg>
                   <lg xml:id="B3_lg111">
                      <l rend="i6" n="1170">
-                        <hi rend="italic">coming from the tent.</hi>
+                        <hi rend="italic">coming from <placeName ref="Isle_of_Palms" ana="hereNow">the tent</placeName>.</hi>
                      </l>
                   </lg>
                   <lg xml:id="B3_lg112">
@@ -3617,7 +3615,7 @@
                      <l rend="i8" n="1187">It were better hid</l>
                      <l rend="i0" n="1188">Under <rs type="place" ref="desert">the desert
                         sands</rs>. This wretched man,</l>
-                     <l rend="i0" n="1189">Whom<name type="divin">God</name>hath smitten in the very
+                     <l rend="i0" n="1189">Whom <name type="divin">God</name>hath smitten in the very
                         purpose</l>
                      <l rend="i0" n="1190">And impulse of his unpermitted crime,</l>
                      <l rend="i0" n="1191">Belike was some Magician, and these lines</l>
@@ -3633,19 +3631,18 @@
                      <l rend="i8" n="1195">MOATH.</l>
                   </lg>
                   <lg xml:id="B3_lg124">
-                     <l rend="i0" n="1196">Such cursed men there are upon <rs type="place" ref="Earth_planet">the earth</rs>,</l>
+                     <l rend="i0" n="1196">Such cursed men there are upon <rs type="place" ref="Earth_planet" ana="rel">the earth</rs>,</l>
                      <l rend="i0" n="1197">In league and treaty with the Evil powers,</l>
                      <l rend="i0" n="1198">The covenanted enemies of<name type="divin">God</name>
                      </l>
                      <l rend="i0" n="1199">And of all good, dear purchase have they made</l>
                      <l rend="i0" n="1200">Of rule, and riches, and their life-long sway,</l>
-                     <l rend="i0" n="1201">Masters, yet slaves of <rs type="metaplace" subtype="divin">Hell</rs>. <rs type="metaplace" subtype="under" ref="Under_Ocean">Beneath the Roots</rs>
+                     <l rend="i0" n="1201">Masters, yet slaves of <rs type="metaplace" subtype="divin" ana="rel">Hell</rs>. <rs type="metaplace" subtype="under" ref="Under_Ocean" ana="rel">Beneath the Roots</rs>
                      </l>
-                     <l rend="i0" n="1202">Of Ocean, <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">the Domdaniel caverns</rs> lie:</l>
+                     <l rend="i0" n="1202">Of Ocean, <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">the Domdaniel caverns</rs> lie:</l>
                      <l rend="i0" n="1203">Their impious meeting; there they learn the words</l>
                      <l rend="i0" n="1204">Unutterable by man who holds his hope</l>
-                     <l rend="i0" n="1205">Of <rs type="metaplace" subtype="divin">Heaven</rs>,
-                        there brood the Pestilence, and let</l>
+                     <l rend="i0" n="1205">Of <rs type="metaplace" subtype="divin">Heaven</rs>, there brood the Pestilence, and let</l>
                      <l rend="i0" n="1206">The Earthquake loose.</l>
                   </lg>
                   <lg xml:id="B3_lg125">
@@ -3663,7 +3660,7 @@
                      <l rend="i0" n="1212">That on the Table of Destiny, thy name</l>
                      <l rend="i0" n="1213">Is written their Destroyer, and for this</l>
                      <l rend="i0" n="1214">Thy life by yonder miserable man</l>
-                     <l rend="i0" n="1215">So sought; so saved by interfering <rs type="metaplace" subtype="divin">Heaven</rs>.</l>
+                     <l rend="i0" n="1215">So sought; so saved by interfering <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs>.</l>
                   </lg>
                   <lg xml:id="B3_lg129">
                      <l rend="i8" n="1216">THALABA.</l>
@@ -3849,17 +3846,17 @@
                         <rs type="art" subtype="gem">
                            <rs type="script" subtype="eng">The written ring of gold</rs>.</rs>
                      </l>
-                     <l rend="i4" n="1241">Then in <rs type="metaplace" subtype="divin" ref="Tombs">the hollow grave</rs>
+                     <l rend="i4" n="1241">Then in <rs type="metaplace" subtype="divin" ref="Tombs" ana="hereNow">the hollow grave</rs>
                      </l>
                      <l rend="i4" n="1242">They laid <persName>Abdaldar</persName>'s corpse,</l>
-                     <l rend="i0" n="1243">And levelled over him <rs type="place" ref="desert">the
+                     <l rend="i0" n="1243">And levelled over him <rs type="place" ref="desert" ana="hereNow">the
                            desert</rs> dust.</l>
                   </lg>
                   <lg xml:id="B3_lg140">
                      <l rend="i0" n="1244">The Sun arose, ascending from beneath</l>
                      <l rend="i4" n="1245">The horizon's circling line.</l>
                      <l rend="i0" n="1246">As Thalaba to his ablutions went,</l>
-                     <l rend="i0" n="1247">Lo! <rs type="metaplace" subtype="under" ref="Tombs">the
+                     <l rend="i0" n="1247">Lo! <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the
                            grave</rs> open, and the corpse exposed!</l>
                      <l rend="i2" n="1248">It was not that the winds of night</l>
                      <l rend="i0" n="1249">Had swept away the sands that covered it,</l>
@@ -3926,7 +3923,7 @@
                      <l rend="i0" n="1267">"<persName>Mohammed</persName>, holier name? or is the
                         man</l>
                      <l rend="i0" n="1268">"So foul with magic and all blasphemy,</l>
-                     <l rend="i0" n="1269">"That <placeName ref="Earth_planet">Earth</placeName>
+                     <l rend="i0" n="1269">"That <placeName ref="Earth_planet" ana="hereNow">Earth</placeName>
                            <note type="author" anchored="true" xml:id="N_40">
                               <p>
                                  <bibl>Matthew of Westminister</bibl> says the history of the Old
@@ -3989,7 +3986,7 @@
                                        <placeName>Netherlands</placeName>
                               </bibl>, 1608. </p>
                            </note>
-                         like Heaven rejects him? it is best</l>
+                         like <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs> rejects him? it is best</l>
                      <l rend="i0" n="1270">"Forsake the station. Let us strike our tent.</l>
                      <l rend="i2" n="1271">"The place is tainted ... and behold</l>
                      <l rend="i0" n="1272">"The Vulture
@@ -4025,15 +4022,15 @@
                   <lg xml:id="B3_lg143">
                      <l rend="i4" n="1283">The dews had ceased to steam</l>
                      <l rend="i4" n="1284">Towards the climbing Sun,</l>
-                     <l rend="i0" n="1285">When from the <placeName>Isle of Palms</placeName> they
+                     <l rend="i0" n="1285">When from the <placeName ref="Isle_of_Palms" ana="hereNow">Isle of Palms</placeName> they
                         went their way.</l>
                      <l rend="i0" n="1286">And when the Sun had reached his southern height,</l>
                      <l rend="i4" n="1287">As back they turned their eyes,</l>
-                     <l rend="i4" n="1288">The distant Palms arose</l>
+                     <l rend="i4" n="1288">The <placeName ref="Isle_of_Palms" ana="pastVisit">distant Palms</placeName> arose</l>
                      <l rend="i0" n="1289">Like to the top-sails of some far-off fleet</l>
                      <l rend="i4" n="1290">Distinctly seen, where else</l>
-                     <l rend="i0" n="1291">The <placeName ref="Ocean">Ocean</placeName> bounds had
-                        blended with <rs type="metaplace" subtype="celest" ref="sky">the
+                     <l rend="i0" n="1291">The <placeName ref="Ocean" ana="ana">Ocean</placeName> bounds had
+                        blended with <rs type="metaplace" subtype="celest" ref="sky" ana="ana">the
                         sky</rs>.</l>
                      <l rend="i4" n="1292">And when the eve came on</l>
                      <l rend="i0" n="1293">The sight returning reached the grove no more.</l>
@@ -4098,10 +4095,10 @@
                      <l rend="i8" n="1328">DEMON.</l>
                   </lg>
                   <lg xml:id="B3_lg153">
-                     <l rend="i4" n="1329">In the <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">Domdaniel caverns</rs>
+                     <l rend="i4" n="1329">In the <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">Domdaniel caverns</rs>
                      </l>
                      <l rend="i4" n="1330">
-                        <rs type="metaplace" subtype="under" ref="Under_Ocean">Under the Roots of the Ocean</rs>.</l>
+                        <rs type="metaplace" subtype="under" ref="Under_Ocean" ana="rel">Under the Roots of the Ocean</rs>.</l>
                   </lg>
                   <lg xml:id="B3_lg154">
                      <l rend="i8" n="1331">THALABA.</l>
@@ -4140,7 +4137,7 @@
                   <lg xml:id="B3_lg164">
                      <l rend="i0" n="1344">Distinctly <persName>Moath</persName> heard his voice,
                         and She</l>
-                     <l rend="i0" n="1345">Who thro' <rs type="metaplace" subtype="barrier">the Veil
+                     <l rend="i0" n="1345">Who thro' <rs type="metaplace" subtype="barrier" ana="rel">the Veil
                            of Separation</rs>, watched</l>
                      <l rend="i0" n="1346">All sounds in listening terror, whose suspense</l>
                      <l rend="i4" n="1347">Forbade the aid of prayer.</l>
@@ -4216,7 +4213,7 @@
                      <l rend="i4" n="1400">The lot of <persName>Thalaba</persName>.</l>
                      <l rend="i2" n="1401">There might his soul develope best</l>
                      <l rend="i4" n="1402">Its strengthening energies;</l>
-                     <l rend="i4" n="1403">There might he from <placeName ref="the_world">the
+                     <l rend="i4" n="1403">There might he from <placeName ref="the_world" ana="rel">the
                            world</placeName>
                      </l>
                      <l rend="i0" n="1404">Keep his heart pure and uncontaminate,</l>
@@ -4257,7 +4254,7 @@
                               </p>
                            </note>
                          of the Rains</l>
-                     <l rend="i2" n="1419">From his <rs type="metaplace" subtype="celest">Caves in
+                     <l rend="i2" n="1419">From his <rs type="metaplace" subtype="celest" ana="rel">Caves in
                            the uttermost West</rs>,</l>
                      <l rend="i4" n="1420">Comes he in darkness and storms?</l>
                      <l rend="i6" n="1421">When the blast is loud,</l>
@@ -4608,7 +4605,7 @@
                      <l rend="i0" n="1490">Where in the day of congregation, crowds</l>
                      <l rend="i4" n="1491">Perform the duty task?</l>
                      <l rend="i4" n="1492">Their Father is their Priest,</l>
-                     <l rend="i2" n="1493">The <rs type="metaplace" subtype="celest">Stars of
+                     <l rend="i2" n="1493">The <rs type="metaplace" subtype="celest" ana="rel">Stars of
                            Heaven</rs> their point
                            <note type="author" anchored="true" xml:id="N_55">
                               <p>
@@ -4648,7 +4645,7 @@
                               </p>
                            </note>
                          of prayer,</l>
-                     <l rend="i4" n="1494">And <rs type="metaplace" subtype="celest" ref="sky">blue
+                     <l rend="i4" n="1494">And <rs type="metaplace" subtype="celest" ref="sky" ana="rel">blue
                            Firmament</rs>
                      </l>
                      <l rend="i2" n="1495">The glorious Temple, where they feel</l>
@@ -5105,7 +5102,7 @@
                   <lg xml:id="B3_lg181">
                      <l rend="i2" n="1571">Then <persName>Moath</persName> pointed where a cloud</l>
                      <l rend="i0" n="1572">Of Locusts, from the desolated fields</l>
-                     <l rend="i4" n="1573">Of <placeName>Syria</placeName>, winged their way.</l>
+                     <l rend="i4" n="1573">Of <placeName ana="rel">Syria</placeName>, winged their way.</l>
                      <l rend="i4" n="1574">"Lo! how created things</l>
                      <l rend="i4" n="1575">"Obey the written doom!"</l>
                   </lg>
@@ -5115,7 +5112,7 @@
                      <l rend="i0" n="1578">The rushing of whose wings was as the sound</l>
                      <l rend="i0" n="1579">Of a broad river, headlong in its course</l>
                      <l rend="i0" n="1580">Plunged from a mountain summit, or the roar</l>
-                     <l rend="i0" n="1581">Of a wild <placeName ref="Ocean">ocean</placeName> in the
+                     <l rend="i0" n="1581">Of a wild <placeName ref="Ocean" ana="ana">ocean</placeName> in the
                         autumn storm,</l>
                      <l rend="i0" n="1582">Shattering its billows on a shore of rocks.</l>
                      <l rend="i0" n="1583">Onward they came, the winds impelled them on,</l>
@@ -5205,12 +5202,12 @@
                      <l rend="i0" n="1591">"Pursue their way, and hang upon their rear,</l>
                      <l rend="i4" n="1592">"And thin their spreading flanks,</l>
                      <l rend="i0" n="1593">"Rejoicing o'er their banquet! deemest thou</l>
-                     <l rend="i0" n="1594">"The scent of water, on the <placeName ref="Syria">Syrian
+                     <l rend="i0" n="1594">"The scent of water, on the <placeName ref="Syria" ana="rel">Syrian
                            mosque</placeName>
                      </l>
                      <l rend="i0" n="1595">"Placed with priest-mummery, and the jargon-rites</l>
                      <l rend="i0" n="1596">"That fool the multitude, has led them here</l>
-                     <l rend="i0" n="1597">"From far <placeName>Khorasan</placeName>?
+                     <l rend="i0" n="1597">"From far <placeName ana="rel">Khorasan</placeName>?
                            <note type="author" anchored="true" xml:id="N_67">
                               <p> The Abmelec or eater of Locusts, or grasshoppers, is a bird which
                                  better deserves to be described, perhaps, than most others of which
@@ -5485,7 +5482,7 @@
                            </note>
                          Screamer of the night.</l>
                      <l rend="i2" n="1675">
-                        <rs type="place" ref="Africa">Far off the affrighted
+                        <rs type="place" ref="Africa" ana="rel">Far off the affrighted
                            African</rs>,</l>
                      <l rend="i4" n="1676">Deeming his<name type="divin">God</name>deceased,</l>
                      <l rend="i4" n="1677">Falls on his knees in prayer,</l>
@@ -5641,7 +5638,7 @@
                      <l rend="i8" n="1782">OLD MAN.</l>
                   </lg>
                   <lg xml:id="B4_lg204">
-                     <l rend="i0" n="1783">It is <rs type="place" ref="Bagdad">a noble city</rs>
+                     <l rend="i0" n="1783">It is <rs type="place" ref="Bagdad" ana="destin">a noble city</rs>
                         that we seek.</l>
                      <l rend="i0" n="1784">Thou wilt behold magnificent palaces,</l>
                      <l rend="i0" n="1785">
@@ -5657,7 +5654,7 @@
                      </l>
                      <l rend="i0" n="1788">
                         <rs type="cosmopolitan">
-                           <placeName ref="the_world">The
+                           <placeName ref="the_world" ana="rel">The
                               World</placeName>'s collected wealth.</rs>
                      </l>
                   </lg>
@@ -5665,10 +5662,10 @@
                      <l rend="i8" n="1789">THALABA.</l>
                   </lg>
                   <lg xml:id="B4_lg206">
-                     <l rend="i10" n="1790">Stands not <placeName>Bagdad</placeName>
+                     <l rend="i10" n="1790">Stands not <placeName ana="destin">Bagdad</placeName>
                      </l>
                      <l rend="i0" n="1791">Near to the site of ancient
-                           <placeName>Babylon</placeName>
+                           <placeName ana="destin">Babylon</placeName>
                      </l>
                      <l rend="i0" n="1792">And <persName>Nimrod</persName>'s impious temple?</l>
                   </lg>
@@ -5711,7 +5708,7 @@
                      <l rend="i8" n="1804">THALABA.</l>
                   </lg>
                   <lg xml:id="B4_lg214">
-                     <l rend="i10" n="1805">At <placeName>Babylon</placeName>
+                     <l rend="i10" n="1805">At <placeName ana="destin">Babylon</placeName>
                      </l>
                      <l rend="i0" n="1806">I have heard the Angels expiate their guilt,</l>
                      <l rend="i0" n="1807">
@@ -5749,7 +5746,7 @@
                      <l rend="i0" n="1826">Their unforgiving pride, and bade that two</l>
                      <l rend="i0" n="1827">Of these untempted <name type="divin">Spirits</name>
                         should descend,</l>
-                     <l rend="i0" n="1828">Judges on <placeName ref="Earth_planet">earth</placeName>. <name type="divin">Haruth</name> and <name type="divin">Maruth</name> went,</l>
+                     <l rend="i0" n="1828">Judges on <placeName ref="Earth_planet" ana="rel">earth</placeName>. <name type="divin">Haruth</name> and <name type="divin">Maruth</name> went,</l>
                      <l rend="i0" n="1829">The chosen Sentencers; they fairly heard</l>
                      <l rend="i0" n="1830">The appeals of men to their tribunal brought,</l>
                      <l rend="i0" n="1831">And rightfully decided. At the length</l>
@@ -5953,7 +5950,7 @@
                      <l rend="i8" n="1892">OLD MAN.</l>
                   </lg>
                   <lg xml:id="B4_lg244">
-                     <l rend="i8" n="1893">By <placeName>Babylon</placeName>
+                     <l rend="i8" n="1893">By <placeName ana="destin">Babylon</placeName>
                      </l>
                      <l rend="i0" n="1894">
                         <name type="divin">Haruth</name> and <name type="divin">Maruth</name> may be found.</l>
@@ -6042,7 +6039,7 @@
                   <lg xml:id="B4_lg249">
                      <l rend="i0" n="1916">Not so the dark Magician by his side,</l>
                      <l rend="i0" n="1917">
-                        <persName>Lobaba</persName>, who from the <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">Domdaniel
+                        <persName>Lobaba</persName>, who from the <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">Domdaniel
                            caves</rs>
                      </l>
                      <l rend="i4" n="1918">Had sought the dreaded youth.</l>
@@ -6120,7 +6117,7 @@
                   <lg xml:id="B4_lg254">
                      <l rend="i0" n="1969">Thou saidest that it is true, and yet is false,</l>
                      <l rend="i0" n="1970">That men accurst, attain at
-                           <placeName>Babylon</placeName>
+                           <placeName ana="destin">Babylon</placeName>
                      </l>
                      <l rend="i0" n="1971">Forbidden knowledge from <name type="divin" ref="Haruth Maruth">the Angel pair</name>....</l>
                      <l rend="i0" n="1972">How mean you?</l>
@@ -6381,7 +6378,7 @@
                          his sun-shield, fanned around him</l>
                      <l rend="i0" n="2075">The motionless air of noon: from place to place,</l>
                      <l rend="i0" n="2076">
-                        <rs type="science" subtype="phys">As his will reined <rs type="metaplace" subtype="barrier">the viewless Element</rs>
+                        <rs type="science" subtype="phys">As his will reined <rs type="metaplace" subtype="barrier" ana="ana">the viewless Element</rs>
                         </rs>
                      </l>
                      <l rend="i0" n="2077">
@@ -6431,7 +6428,7 @@
                      <l rend="i0" n="2102">Granted to man, were granted for his use;</l>
                      <l rend="i0" n="2103">All knowledge that befits not human weakness</l>
                      <l rend="i0" n="2104">Is placed beyond its reach.... They who repair</l>
-                     <l rend="i0" n="2105">To <placeName>Babylon</placeName>, and from the Angels
+                     <l rend="i0" n="2105">To <placeName ana="destin">Babylon</placeName>, and from the Angels
                         learn</l>
                      <l rend="i0" n="2106">Mysterious wisdom, sin not in the deed.</l>
                   </lg>
@@ -6505,18 +6502,18 @@
                      <l rend="i4" n="2155">The Sorcerer answered him</l>
                      <l rend="i0" n="2156">"Now let us hold right on,... for if we stray</l>
                      <l rend="i0" n="2157">"The Sun tomorrow will direct our course."</l>
-                     <l rend="i0" n="2158">So saying, he towards <rs type="place" ref="desert">the
+                     <l rend="i0" n="2158">So saying, he towards <rs type="place" ref="desert" ana="hereNow">the
                            desert depths</rs>
                      </l>
                      <l rend="i4" n="2159">Misleads the youth deceived.</l>
                   </lg>
                   <lg xml:id="B4_lg297">
                      <l rend="i4" n="2160">Earlier the night came on,</l>
-                     <l rend="i0" n="2161">Nor moon, nor stars, were visible in <rs type="metaplace" subtype="celest">Heaven</rs>;</l>
+                     <l rend="i0" n="2161">Nor moon, nor stars, were visible in <rs type="metaplace" subtype="celest" ana="rel">Heaven</rs>;</l>
                      <l rend="i0" n="2162">And when at morn the youth unclosed his eyes</l>
                      <l rend="i0" n="2163">He knew not where to turn his face in prayer.</l>
                      <l rend="i2" n="2164">"What shall we do?" Lobaba cried,</l>
-                     <l rend="i4" n="2165">"The lights of <rs type="metaplace" subtype="celest">Heaven</rs> have ceased</l>
+                     <l rend="i4" n="2165">"The lights of <rs type="metaplace" subtype="celest" ana="rel">Heaven</rs> have ceased</l>
                      <l rend="i4" n="2166">"To guide us on our way.</l>
                      <l rend="i4" n="2167">"Should we remain and wait</l>
                      <l rend="i4" n="2168">"More favourable skies?</l>
@@ -6681,7 +6678,7 @@
                                  commits this deed: his hardened heart is moved at the loss of a
                                  faithful servant. <bibl>Eyles Irwin.</bibl>
                               </p>
-                              <p> In the Monthly Magazine for January 1800, is a letter from
+                              <p> In the <bibl><title>Monthly Magazine</title> for January <date>1800</date></bibl>, is a letter from
                                  professor Heering recommending the introduction of these animals at
                                  the Cape, but the Camel is made only for level countries. "This
                                  animal is very ill qualified to travel upon the snow or wet ground;
@@ -6758,7 +6755,7 @@
                      <l rend="i4" n="2272">That last supply is drained!</l>
                      <l rend="i0" n="2273">Still the same burning sun! no cloud in heaven!</l>
                      <l rend="i0" n="2274">The hot air quivers, and the sultry mist</l>
-                     <l rend="i2" n="2275">Floats o'er <rs type="place" ref="desert">the
+                     <l rend="i2" n="2275">Floats o'er <rs type="place" ref="desert" ana="hereNow">the
                         desert</rs>, with a show</l>
                      <l rend="i0" n="2276">Of distant
                            <note type="author" anchored="true" xml:id="N_82">
@@ -6798,7 +6795,7 @@
                      <l rend="i4" n="2277">The youth's parched lips were black,</l>
                      <l rend="i4" n="2278">His tongue was
                            <note type="author" anchored="true" xml:id="N_83">
-                              <p> Perhaps no traveller but Mr. Park ever survived to relate similar
+                              <p> Perhaps no traveller but <persName>Mr. Park</persName> ever survived to relate similar
                                  sufferings. </p>
                               <p> "I pushed on as fast as possible, in hopes of reaching some
                                  watering-place in the course of the night. My thirst was by this
@@ -6887,7 +6884,7 @@
                      <l rend="i4" n="2300">Its fearful meaning drew</l>
                      <l rend="i4" n="2301">The looks of Thalaba.</l>
                      <l rend="i2" n="2302">
-                        <rs type="place" ref="desert">Columns of sand came moving
+                        <rs type="place" ref="desert" ana="hereNow">Columns of sand came moving
                            on</rs>,</l>
                      <l rend="i4" n="2303">Red in the burning ray</l>
                      <l rend="i4" n="2304">Like obelisks of fire</l>
@@ -6898,7 +6895,7 @@
                      <l rend="i4" n="2309">Who in his rapid race</l>
                      <l rend="i0" n="2310">Gives to the tranquil
                            <note type="author" anchored="true" xml:id="N_84">
-                              <p> All the time I was in Barbary I could never get sight of above
+                              <p> All the time I was in <placeName>Barbary</placeName> I could never get sight of above
                                  three or four Dromedaries. These the Arabs call Mehera, the
                                  singular is Meheri. They are of several sorts, and degrees of
                                  value, some worth many common Camels, others scarce worth two or
@@ -7109,7 +7106,7 @@
                      <l rend="i0" n="2361">"Yet once more weigh thy danger!" he exclaimed,</l>
                      <l rend="i4" n="2362">"Ascend the car with me,</l>
                      <l rend="i4" n="2363">"And with the speed of thought</l>
-                     <l rend="i4" n="2364">"We pass <rs type="place" ref="desert">the desert
+                     <l rend="i4" n="2364">"We pass <rs type="place" ref="desert" ana="hereNow">the desert
                            bounds</rs>."</l>
                      <l rend="i0" n="2365">The indignant youth vouchsafed not to reply,</l>
                      <l rend="i0" n="2366">And lo! the magic car begins its course!</l>
@@ -7120,7 +7117,7 @@
                      <l rend="i2" n="2371">Death! death! inevitable death!</l>
                      <l rend="i4" n="2372">Driven by the breath of<name type="divin">God</name>
                      </l>
-                     <l rend="i0" n="2373">A column of <rs type="place" ref="desert">the Desert</rs>
+                     <l rend="i0" n="2373">A column of <rs type="place" ref="desert" ana="hereNow">the Desert</rs>
                         met his way.</l>
                   </lg>
                </div>
@@ -7156,7 +7153,7 @@
                      <l rend="i4" n="2397">The Tyger stoop and drink.</l>
                   </lg>
                   <lg xml:id="B5_lg313">
-                     <l rend="i0" n="2398">The <rs type="place" ref="desert">desert</rs> Pelican had
+                     <l rend="i0" n="2398">The <rs type="place" ref="desert" ana="hereNow">desert</rs> Pelican had
                         built her nest</l>
                      <l rend="i4" n="2399">In that deep solitude.</l>
                      <l rend="i2" n="2400">And now returned from distant flight</l>
@@ -7220,7 +7217,7 @@
                               <persName>Hodeirah</persName>
                         </persName> proceeds;</l>
                      <l rend="i0" n="2437">Till after the long toil of many a day,</l>
-                     <l rend="i4" n="2438">At length <placeName>Bagdad</placeName> appeared,</l>
+                     <l rend="i4" n="2438">At length <placeName ana="hereNow">Bagdad</placeName> appeared,</l>
                      <l rend="i4" n="2439">
                         <rs type="place" ref="Bagdad">The City of his
                         search</rs>.</l>
@@ -7272,7 +7269,7 @@
                          in unwithering green.</l>
                   </lg>
                   <lg xml:id="B5_lg316">
-                     <l rend="i0" n="2446">Thou too art fallen, <placeName>Bagdad</placeName>! City
+                     <l rend="i0" n="2446">Thou too art fallen, <placeName ana="hereNow">Bagdad</placeName>! City
                            of
                            <note type="author" anchored="true" xml:id="N_88">
                               <p>
@@ -7393,11 +7390,11 @@
                   </lg>
                   <lg xml:id="B5_lg317">
                      <l rend="i0" n="2460">
-                        <rs type="place" ref="Bagdad">Then Pomp and Pleasure
+                        <rs type="place" ref="Bagdad" ana="hereNow">Then Pomp and Pleasure
                            dwelt within her walls</rs>
                      </l>
-                     <l rend="i0" n="2461">The Merchants of <placeName ref="the_East">the
-                           East</placeName> and of <placeName ref="the_West">the
+                     <l rend="i0" n="2461">The Merchants of <placeName ref="the_East" ana="rel">the
+                           East</placeName> and of <placeName ref="the_West" ana="rel">the
                         West</placeName>
                      </l>
                      <l rend="i4" n="2462">Met <rs type="building" subtype="commerce">in her
@@ -7433,7 +7430,7 @@
                      <l rend="i2" n="2465">Labour was busy in her looms;</l>
                      <l rend="i4" n="2466">Thro' all her open gates</l>
                      <l rend="i0" n="2467">Long troops of laden Camels lined her roads,</l>
-                     <l rend="i0" n="2468">And <placeName>Tigris</placeName> on his tameless
+                     <l rend="i0" n="2468">And <placeName ana="rel">Tigris</placeName> on his tameless
                            <note type="author" anchored="true" xml:id="N_91">
                               <p> On the other side of the river towards
                                     <placeName>Arabia</placeName>, over against the city, there is a
@@ -7467,7 +7464,7 @@
                          current bore</l>
                      <l rend="i0" n="2469">
                         <rs type="earthworks" subtype="farm">
-                           <placeName>Armenia</placeName>n harvests</rs> to her multitudes.</l>
+                           <placeName ana="rel">Armenia</placeName>n harvests</rs> to her multitudes.</l>
                   </lg>
                   <lg xml:id="B5_lg318">
                      <l rend="i0" n="2470">But not in sumptuous <orgName>Caravansary</orgName>
@@ -7476,7 +7473,7 @@
                      <l rend="i0" n="2472">Nor satiates wonder with her pomp and wealth;</l>
                      <l rend="i2" n="2473">
                         <time>A long day's distance</time> from the walls</l>
-                     <l rend="i4" n="2474">Stands ruined <placeName>Babylon</placeName>!</l>
+                     <l rend="i4" n="2474">Stands ruined <placeName ana="destin">Babylon</placeName>!</l>
                      <l rend="i2" n="2475">
                         <time>The time of action is at hand</time>,</l>
                      <l rend="i2" n="2476">The hope that for <time>so many a year</time>
@@ -7502,7 +7499,7 @@
                                  Domes covered with <rs type="art" subtype="arch">varnished tiles of
                                     different colours</rs>.</p>
                            </note>
-                         domes</l>
+                         <rs type="place" ref="Bagdad" ana="hereNow">domes</rs></l>
                      <l rend="i4" n="2484">Yet wore one dusky hue,</l>
                      <l rend="i4" n="2485">The Cranes upon <rs type="building" subtype="temple">the
                            Mosque</rs>
@@ -7554,10 +7551,10 @@
                      <l rend="i4" n="2490">Distinct in darkness seen</l>
                      <l rend="i0" n="2491">Above the low horizon's lingering light</l>
                      <l rend="i0" n="2492">Rose the near ruins of old
-                        <placeName>Babylon</placeName>.</l>
+                        <placeName ana="destin">Babylon</placeName>.</l>
                   </lg>
                   <lg xml:id="B5_lg320">
-                     <l rend="i0" n="2493">Once from <rs type="place" ref="Babylon">her lofty <rs type="building" subtype="wall">walls</rs>
+                     <l rend="i0" n="2493">Once from <rs type="place" ref="Babylon" ana="hereNow">her lofty <rs type="building" subtype="wall">walls</rs>
                         </rs>
                            <note type="author" anchored="true" xml:id="N_95">
                               <p> </p>
@@ -7592,16 +7589,16 @@
                          the Charioteer</l>
                      <l rend="i0" n="2507">
                         <rs type="imp" subtype="invade">Looked down on swarming
-                           myriads; once <rs type="place" ref="Babylon">she</rs> flung</rs>
+                           myriads; once <rs type="place" ref="Babylon" ana="hereNow">she</rs> flung</rs>
                      </l>
                      <l rend="i0" n="2508">
                         <rs type="imp" subtype="invade">
-                           <rs type="place" ref="Babylon">Her <rs type="building" subtype="tower">arches</rs>
+                           <rs type="place" ref="Babylon" ana="hereNow">Her <rs type="building" subtype="tower">arches</rs>
                            </rs>
                            o'er <placeName>Euphrates</placeName> conquered tide,</rs>
                      </l>
                      <l rend="i0" n="2509">
-                        <rs type="imp" subtype="invade">And <rs type="place" ref="Babylon">thro' <rs type="building" subtype="portal">her brazen
+                        <rs type="imp" subtype="invade">And <rs type="place" ref="Babylon" ana="hereNow">thro' <rs type="building" subtype="portal">her brazen
                                  portals</rs> when she poured</rs>
                         </rs>
                      </l>
@@ -7617,8 +7614,8 @@
                      <l rend="i0" n="2512">
                         <rs type="imp" subtype="invade">Lest it should burst
                            above them.</rs>
-                        <rs type="place" ref="Babylon">She</rs> was fallen,</l>
-                     <l rend="i0" n="2513">The Queen of Cities, <placeName>Babylon</placeName> was
+                        <rs type="place" ref="Babylon" ana="hereNow">She</rs> was fallen,</l>
+                     <l rend="i0" n="2513">The Queen of Cities, <placeName ana="hereNow">Babylon</placeName> was
                         fallen!</l>
                      <l rend="i0" n="2514">Low lay <rs type="building" subtype="fort">her
                            bulwarks</rs>; the black scorpion basked</l>
@@ -7835,8 +7832,8 @@
                      <l rend="i4" n="2546">
                         <rs type="religion" subtype="idol">
                            <orgName>The
-                                 <placeName>Assyria</placeName>n slaves</orgName> adored</rs>?</l>
-                     <l rend="i0" n="2547">A labyrinth of ruins, <placeName>Babylon</placeName>
+                                 <placeName ana="rel">Assyria</placeName>n slaves</orgName> adored</rs>?</l>
+                     <l rend="i0" n="2547">A labyrinth of ruins, <placeName ana="hereNow">Babylon</placeName>
                      </l>
                      <l rend="i4" n="2548">Spreads o'er the blasted plain:</l>
                      <l rend="i0" n="2549">The wandering <orgName>Arab</orgName> never sets his
@@ -7858,7 +7855,7 @@
                      <l rend="i0" n="2551">Her evil Towers, and devious drives his flock.</l>
                      <l rend="i0" n="2552">Alone unchanged, a free and bridgeless tide</l>
                      <l rend="i4" n="2553">
-                        <placeName>Euphrates</placeName> rolls along,</l>
+                        <placeName ana="hereNow">Euphrates</placeName> rolls along,</l>
                      <l rend="i4" n="2554">Eternal <name type="myth">Nature</name>'s work.</l>
                   </lg>
                   <lg xml:id="B5_lg324">
@@ -7904,7 +7901,7 @@
                      <l rend="i4" n="2589">Perused the Arab youth.</l>
                      <l rend="i4" n="2590">"And who art thou," he cried,</l>
                      <l rend="i4" n="2591">"That at an hour like this</l>
-                     <l rend="i4" n="2592">"Wanderest in Babylon?</l>
+                     <l rend="i4" n="2592">"Wanderest in <placeName ana="hereNow">Babylon</placeName>?</l>
                      <l rend="i0" n="2593">"A way-bewildered traveller, seekest thou</l>
                      <l rend="i4" n="2594">"The ruinous shelter here?</l>
                      <l rend="i4" n="2595">"Or comest thou to hide</l>
@@ -7917,8 +7914,7 @@
                                  treasures is well known, it is difficult or even dangerous for a
                                  traveller to copy an inscription in sight of those barbarians. </p>
                               <q>
-                                 <p> "On a rising ground, at a league's distance from the river
-                                    Shelliff, is <hi rend="italic">Memoun-turroy</hi>, as they call
+                                 <p> "On a rising ground, at a league's distance from the <placeName>river Shelliff</placeName>, is <hi rend="italic"><placeName>Memoun-turroy</placeName></hi>, as they call
                                     an old square tower, formerly a sepulchral monument of the
                                     Romans. This, like many more ancient edifices, is supposed by
                                     the Arabs, to have been built over a treasure. Agreeably to
@@ -7936,7 +7932,7 @@
                                        <author>Shaw</author>.</bibl>
                                  </q>
                                  <q>
-                                    <p> So of the ruines of ancient Tubuna. </p>
+                                    <p> So of the ruines of ancient <placeName>Tubuna</placeName>. </p>
                                  </q>
                                  <p> The Treasure of Tubnah lyeth under the shade of what is shaded.
                                     Dig for it? alas! it is not there. </p>
@@ -7952,7 +7948,7 @@
                      <l rend="i4" n="2606">"Nor skilled in spells am I.</l>
                      <l rend="i4" n="2607">"I seek the Angels here,</l>
                      <l rend="i0" n="2608">"Haruth and Maruth. Stranger in thy turn,</l>
-                     <l rend="i2" n="2609">"Why wanderest thou in Babylon,</l>
+                     <l rend="i2" n="2609">"Why wanderest thou in <placeName ana="hereNow">Babylon</placeName>,</l>
                      <l rend="i2" n="2610">"And who art thou, the Questioner?"</l>
                   </lg>
                   <lg xml:id="B5_lg329">
@@ -8035,12 +8031,12 @@
                   <lg xml:id="B5_lg340">
                      <l rend="i4" n="2665">From Ait's bitumen
                            <note type="author" anchored="true" xml:id="N_100">
-                              <p> The springs of bitumen called <hi rend="italic">Oyun Hit</hi>, the
+                              <p> The springs of bitumen called <hi rend="italic"><placeName>Oyun Hit</placeName></hi>, the
                                     <hi rend="italic">fountains of Hit</hi>, are much celebrated by
                                  the <hi rend="italic">Arabs</hi> and <hi rend="italic">Persians</hi>; the latter call it <hi rend="italic">Cheshmeh
                                     kir</hi>, the <hi rend="italic">fountain of pitch</hi>. This
                                  liquid bitumen they call <hi rend="italic">Nafta</hi>; and the <hi rend="italic">Turks</hi>, to distinguish it from pitch, give it
-                                 the name of <hi rend="italic">hara sakiz</hi>, or <hi rend="italic">black mastich</hi>. A <hi rend="italic">Persia n</hi>
+                                 the name of <hi rend="italic">hara sakiz</hi>, or <hi rend="italic">black mastich</hi>. A <hi rend="italic">Persian</hi>
                                  geographer says, that <hi rend="italic">Nafta</hi> issues out of
                                  the springs of the earth as ambergrise issues out of those of the
                                  sea. All the modern travellers, except Rauwolf, who went to <hi rend="italic">
@@ -8119,7 +8115,7 @@
                      <l rend="i4" n="2694">Shrieks, and wild yells that scared</l>
                      <l rend="i0" n="2695">The brooding Eagle from her midnight nest.</l>
                      <l rend="i4" n="2696">The affrighted countrymen</l>
-                     <l rend="i4" n="2697">Call it the <rs type="metaplace" subtype="divin">Mouth of
+                     <l rend="i4" n="2697">Call it the <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">Mouth of
                            Hell</rs>;</l>
                      <l rend="i2" n="2698">And ever when their way leads near</l>
                      <l rend="i2" n="2699">They hurry with averted eyes,</l>
@@ -8156,7 +8152,7 @@
                      <l rend="i4" n="2704">"Now darest thou enter in?"</l>
                      <l rend="i4" n="2705">"Behold!" the youth replied,</l>
                      <l rend="i0" n="2706">And leading in his turn the dangerous way</l>
-                     <l rend="i4" n="2707">Set foot within the cave.</l>
+                     <l rend="i4" n="2707">Set foot within <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">the cave</rs>.</l>
                   </lg>
                   <lg xml:id="B5_lg342">
                      <l rend="i0" n="2708">"Stay Madman!" cried his comrade. "Wouldst thou rush</l>
@@ -8181,9 +8177,9 @@
                               <p> "The scribe of decree chose to ornament the edicts on my forehead
                                  with these flourishes of disgrace." <bibl>Bahar-Danush.</bibl>
                               </p>
-                              <p> The Spanish physiognomical phrase, <hi rend="italic">traérlo
+                              <p> The <rs type="place" ref="Spain">Spanish</rs> physiognomical phrase, <hi rend="italic">traérlo
                                     escrito en la frente</hi>, to have it written on the forehead,
-                                 is perhaps of Arabian origin.</p>
+                                 is perhaps of <rs type="place" ref="Arabia">Arabian</rs> origin.</p>
                            </note>
                          upon thy brow</l>
                      <l rend="i4" n="2717">"The meeting of to-night;</l>
@@ -8288,18 +8284,18 @@
                            </note>
                          spell</l>
                      <l rend="i0" n="2746">"Shall lull his penal agony to sleep</l>
-                     <l rend="i4" n="2747">"And leave the passage free."</l>
+                     <l rend="i4" n="2747">"And leave <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">the passage</rs> free."</l>
                   </lg>
                   <lg xml:id="B5_lg345">
                      <l rend="i4" n="2748">Thalaba answered not.</l>
                      <l rend="i2" n="2749">Nor was there time for answer now,</l>
                      <l rend="i4" n="2750">For lo! Mohareb leads,</l>
-                     <l rend="i4" n="2751">And o'er the vaulted cave</l>
+                     <l rend="i4" n="2751">And o'er <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">the vaulted cave</rs></l>
                      <l rend="i0" n="2752">Trembles the accursed taper's feeble light.</l>
                      <l rend="i4" n="2753">There where the narrowing chasm</l>
                      <l rend="i4" n="2754">Rose loftier in the hill,</l>
                      <l rend="i0" n="2755">Stood Zohak, wretched man, condemned to keep</l>
-                     <l rend="i4" n="2756">His Cave of punishment.</l>
+                     <l rend="i4" n="2756">His <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">Cave of punishment</rs>.</l>
                      <l rend="i4" n="2757">His was the frequent scream</l>
                      <l rend="i0" n="2758">Which far away the prowling Chacal heard</l>
                      <l rend="i4" n="2759">And howled in terror back:</l>
@@ -8327,7 +8323,7 @@
                      <l rend="i0" n="2779">A sudden sleep fell on his vital powers.</l>
                   </lg>
                   <lg xml:id="B5_lg347">
-                     <l rend="i4" n="2780">Yet tho' along the cave</l>
+                     <l rend="i4" n="2780">Yet tho' along <rs type="metaplace" subtype="under" ref="bitumen_cave" ana="hereNow">the cave</rs></l>
                      <l rend="i4" n="2781">Lay Zohak's giant limbs,</l>
                      <l rend="i0" n="2782">The twin-born serpents kept the narrow pass,</l>
                      <l rend="i4" n="2783">Kindled their fiery eyes,</l>
@@ -8340,7 +8336,7 @@
                      <l rend="i4" n="2790">Inflamed their appetite.</l>
                   </lg>
                   <lg xml:id="B5_lg348">
-                     <l rend="i0" n="2791">Prepared for all the perils of the cave</l>
+                     <l rend="i0" n="2791">Prepared for all the perils of <rs type="metaplace" subtype="under" ref="bitumen_cave" ana="hereNow">the cave</rs></l>
                      <l rend="i0" n="2792">Mohareb came. He from his wallet drew</l>
                      <l rend="i4" n="2793">Two human heads yet warm.</l>
                      <l rend="i0" n="2794">O hard of heart! whom not the visible power</l>
@@ -8354,7 +8350,7 @@
                   </lg>
                   <lg xml:id="B5_lg349">
                      <l rend="i4" n="2802">And now before their path</l>
-                     <l rend="i4" n="2803">The opening cave dilates;</l>
+                     <l rend="i4" n="2803">The opening <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">cave</rs> dilates;</l>
                      <l rend="i4" n="2804">They reach a spacious vault</l>
                      <l rend="i0" n="2805">Where the black river fountains burst their way.</l>
                      <l rend="i4" n="2806">Now as a whirlwind's force</l>
@@ -8365,7 +8361,7 @@
                      <l rend="i4" n="2811">Left wide a dark abyss,</l>
                      <l rend="i0" n="2812">Adown whose fathomless gulphs the eye was lost.</l>
                      <l rend="i2" n="2813">Blue flames that hovered o'er the springs</l>
-                     <l rend="i0" n="2814">Flung thro' the Cavern their uncertain light</l>
+                     <l rend="i0" n="2814">Flung thro' <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">the Cavern</rs> their uncertain light</l>
                      <l rend="i2" n="2815">Now waving on the waves they lay,</l>
                      <l rend="i4" n="2816">And now their fiery curls</l>
                      <l rend="i4" n="2817">Flowed in long tresses up,</l>
@@ -8373,7 +8369,7 @@
                      <l rend="i4" n="2819">Then up they poured again</l>
                      <l rend="i0" n="2820">Darting pale flashes thro' the tremulous air;</l>
                      <l rend="i0" n="2821">The flames, the red and yellow sulphur-smoke,</l>
-                     <l rend="i2" n="2822">And the black darkness of the vault</l>
+                     <l rend="i2" n="2822">And the black darkness of <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">the vault</rs></l>
                      <l rend="i2" n="2823">Commingling indivisibly.</l>
                   </lg>
                   <lg xml:id="B5_lg350">
@@ -8488,7 +8484,7 @@
                      <l rend="i4" n="2883">And cast it in the gulph.</l>
                      <l rend="i4" n="2884">A skinny hand came up</l>
                      <l rend="i4" n="2885">And caught it as it fell,</l>
-                     <l rend="i0" n="2886">And peals of devilish laughter shook the Cave.</l>
+                     <l rend="i0" n="2886">And peals of devilish laughter shook <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">the Cave</rs>.</l>
                   </lg>
                   <lg xml:id="B5_lg354">
                      <l rend="i2" n="2887">Then joy suffused Mohareb's cheek,</l>
@@ -8518,7 +8514,7 @@
                      <l rend="i4" n="2909">He thrust him from his hold.</l>
                      <l rend="i4" n="2910">The upwhirling flood received</l>
                      <l rend="i4" n="2911">Mohareb, then, absorbed,</l>
-                     <l rend="i4" n="2912">Engulphed him in the abyss.</l>
+                     <l rend="i4" n="2912">Engulphed him in <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">the abyss</rs>.</l>
                   </lg>
                   <lg xml:id="B5_lg356">
                      <l rend="i4" n="2913">Thalaba's breath came fast,</l>
@@ -8530,12 +8526,12 @@
                      <l rend="i0" n="2919">"I, Thalaba, the Servant of the Lord,</l>
                      <l rend="i0" n="2920">"Invoke you. Hear me Angels! so may Heaven</l>
                      <l rend="i0" n="2921">"Accept and mitigate your penitence.</l>
-                     <l rend="i0" n="2922">"I go to root from <placeName ref="Earth_planet">earth</placeName> the Sorcerer brood,</l>
+                     <l rend="i0" n="2922">"I go to root from <placeName ref="Earth_planet" ana="rel">earth</placeName> the Sorcerer brood,</l>
                      <l rend="i2" n="2923">"Tell me the needful Talisman!"</l>
                   </lg>
                   <lg xml:id="B5_lg357">
                      <l rend="i0" n="2924">Thus as he spake, recumbent on the rock</l>
-                     <l rend="i4" n="2925">Beyond the black abyss,</l>
+                     <l rend="i4" n="2925">Beyond the black <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">abyss</rs>,</l>
                      <l rend="i4" n="2926">Their forms grew visible.</l>
                      <l rend="i0" n="2927">A settled sorrow sate upon their brows,</l>
                      <l rend="i0" n="2928">Sorrow alone, for trace of guilt and shame</l>
@@ -8559,7 +8555,7 @@
                   </lg>
                   <lg xml:id="B5_lg358">
                      <l rend="i0" n="2933">In awe the youth received the answering voice,</l>
-                     <l rend="i0" n="2934">"Son of Hodeirah! thou hast proved it here;</l>
+                     <l rend="i0" n="2934">"Son of Hodeirah! thou hast proved it <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">here</rs>;</l>
                      <l rend="i4" n="2935">"The Talisman is Faith."</l>
                   </lg>
 
@@ -8598,7 +8594,7 @@
                <div type="book" xml:id="Book_6">
                   <head>THE SIXTH BOOK.</head>
                   <lg xml:id="B6_lg359">
-                     <l rend="i0" n="2936">So from the inmost cavern, Thalaba</l>
+                     <l rend="i0" n="2936">So from the inmost <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">cavern</rs>, Thalaba</l>
                      <l rend="i2" n="2937">Retrod the windings of the rock.</l>
                      <l rend="i2" n="2938">Still on the ground the giant limbs</l>
                      <l rend="i4" n="2939">Of Zohak were outstretched;</l>
@@ -8609,7 +8605,7 @@
                      <l rend="i4" n="2944">Now lingering o'er their meal.</l>
                   </lg>
                   <lg xml:id="B6_lg360">
-                     <l rend="i0" n="2945">Oh then, emerging from that dreadful cave,</l>
+                     <l rend="i0" n="2945">Oh then, emerging from that dreadful <rs type="metaplace" subtype="under" ref="bitumen_pit" ana="hereNow">cave</rs>,</l>
                      <l rend="i2" n="2946">How grateful did the gale of night</l>
                      <l rend="i4" n="2947">Salute his freshened sense!</l>
                      <l rend="i4" n="2948">How full of lightsome joy,</l>
@@ -8630,7 +8626,7 @@
                      <l rend="i0" n="2961">Pure and unmingled, from the royal steeds</l>
                      <l rend="i4" n="2962">Of 
                            <note type="author" anchored="true" xml:id="N_108">
-                              <p> The arabian horses are divided into two great branches; the <hi rend="italic">Kadischi</hi> whose descent is unknown, and the
+                              <p> The <rs type="place" ref="Arabia">arabian horses</rs> are divided into two great branches; the <hi rend="italic">Kadischi</hi> whose descent is unknown, and the
                                     <hi rend="italic">Kochlani</hi>, of whom a written genealogy has
                                  been kept for 2000 years. These last are reserved for riding
                                  solely, they are highly esteemed and consequently very dear, they
@@ -8717,7 +8713,7 @@
                      <l rend="i4" n="3022">Left him with eyes bedimmed,</l>
                      <l rend="i0" n="3023">And now emerging
                            <note type="author" anchored="true" xml:id="N_109">
-                              <p> In travelling by night thro' the vallies of Mount Ephraim, we were
+                              <p> In travelling by night thro' the vallies of <placeName>Mount Ephraim</placeName>, we were
                                  attended, for above the space of an hour, with an Ignis Fatuus,
                                  that displayed itself in a variety of extraordinary appearances.
                                  For it was sometimes globular, or like the flame of a candle;
@@ -8734,7 +8730,7 @@
                                  skip about the masts and yards of ships, and are called
                                     Corpusánse
                                     <note style="double" type="author" anchored="true" xml:id="NN_i"> A corruption of Cuerpo Santo as this meteor is called by
-                                       the Spaniards.</note>
+                                       the <rs type="place" ref="Spain">Spaniards</rs>.</note>
                                   by the mariners. <bibl>Shaw.</bibl>
                               </p>
                            </note>
@@ -8773,7 +8769,7 @@
                      <l rend="i4" n="3051">Wandered a thousand streams;</l>
                      <l rend="i0" n="3052">They in their endless flow
                            <note type="author" anchored="true" xml:id="N_110">
-                              <p> The <hi rend="italic">Hammam Meskouteen</hi>, the Silent or
+                              <p> The <hi rend="italic"><placeName>Hammam Meskouteen</placeName></hi>, the Silent or
                                  Inchanted Baths, are situated on a low ground, surrounded with
                                  mountains. There are several fountains that furnish the water,
                                  which is of an intense heat, and falls afterwards into the Ze-nati.
@@ -8833,7 +8829,7 @@
                      <l rend="i2" n="3053">The rocky soil o'er which they ran,</l>
                      <l rend="i2" n="3054">Veining its thousand islet stones,</l>
                      <l rend="i0" n="3055">Like clouds that freckle o'er the summer sky,</l>
-                     <l rend="i0" n="3056">The blue etherial <placeName ref="Ocean">ocean</placeName> circling each</l>
+                     <l rend="i0" n="3056">The <rs type="place" ref="sky" ana="ana">blue etherial ocean</rs> circling each</l>
                      <l rend="i4" n="3057">And insulating all.</l>
                      <l rend="i0" n="3058">A thousand shapes they wore, those islet stones,</l>
                      <l rend="i2" n="3059">And <name type="myth">Nature</name> with her various
@@ -8853,7 +8849,7 @@
                   <lg xml:id="B6_lg367">
                      <l rend="i2" n="3071">This was a wild and wonderous scene,</l>
                      <l rend="i2" n="3072">Strange and beautiful, as where</l>
-                     <l rend="i0" n="3073">By <placeName ref="Hotun_Nor">Oton-tala</placeName>,
+                     <l rend="i0" n="3073">By <placeName ref="Hotun_Nor" ana="ana">Oton-tala</placeName>,
                         like a sea
                            <note type="author" anchored="true" xml:id="N_111">
                               <p> In the place where the Whang-ho rises, there are more than an
@@ -8887,7 +8883,7 @@
                         <rs type="place" ref="Hotun_Nor">The hundred sources</rs>
                         of <placeName ref="Whang-ho_River">Hoangho</placeName> burst.</l>
                      <l rend="i4" n="3075">
-                        <rs type="place" ref="Tartarian_Mts">High mountains
+                        <rs type="place" ref="Tartarian_Mts" ana="destin">High mountains
                            closed the vale</rs>,</l>
                      <l rend="i0" n="3076">Bare rocky mountains, to all living things</l>
                      <l rend="i0" n="3077">Inhospitable, on whose sides no herb</l>
@@ -8897,7 +8893,7 @@
                      <l rend="i4" n="3081">Sought in the vales his prey.</l>
                   </lg>
                   <lg xml:id="B6_lg368">
-                     <l rend="i0" n="3082">Thither towards <rs type="place" ref="Tartarian_Mts">those mountains</rs>, Thalaba</l>
+                     <l rend="i0" n="3082">Thither towards <rs type="place" ref="Tartarian_Mts" ana="destin">those mountains</rs>, Thalaba</l>
                      <l rend="i0" n="3083">Advanced, for well he weened that there had Fate</l>
                      <l rend="i4" n="3084">Destined the adventures end.</l>
                      <l rend="i0" n="3085">Up a wide vale winding amid their depths,</l>
@@ -8913,7 +8909,7 @@
                      <l rend="i0" n="3093">The winding vale now narrows on his way,</l>
                      <l rend="i4" n="3094">And steeper of ascent</l>
                      <l rend="i2" n="3095">
-                        <rs type="place" ref="Tartarian_Mts">Rightward and
+                        <rs type="place" ref="Tartarian_Mts" ana="hereNow">Rightward and
                            leftward rise the rocks</rs>,</l>
                      <l rend="i2" n="3096">And now they meet across the vale.</l>
                      <l rend="i2" n="3097">Was it the toil of human hands</l>
@@ -8954,12 +8950,12 @@
                      <l rend="i0" n="3109">The straining muscles, toiling slowly up.</l>
                      <l rend="i4" n="3110">At length again a rock</l>
                      <l rend="i4" n="3111">Stretched o'er the narrow vale.</l>
-                     <l rend="i2" n="3112">There also was a portal hewn,</l>
+                     <l rend="i2" n="3112">There also was <rs type="metaplace" subtype="barrier" ref="Paradise-Aloadin" ana="hereNow">a portal hewn</rs>,</l>
                      <l rend="i0" n="3113">But gates of massy iron barred the way,</l>
                      <l rend="i4" n="3114">Huge, solid, heavy-hinged.</l>
                   </lg>
                   <lg xml:id="B6_lg371">
-                     <l rend="i2" n="3115">There hung a horn beside the gate,</l>
+                     <l rend="i2" n="3115">There hung a horn beside <rs type="metaplace" subtype="barrier" ref="Paradise-Aloadin" ana="hereNow">the gate</rs>,</l>
                      <l rend="i2" n="3116">Ivory-tipt and brazen mouthed,</l>
                      <l rend="i4" n="3117">He took the ivory tip,</l>
                      <l rend="i2" n="3118">And thro' the brazen mouth he breathed;</l>
@@ -8968,14 +8964,14 @@
                      <l rend="i0" n="3121">The gates of iron, by no human arm</l>
                      <l rend="i0" n="3122">Unfolded, turning on their hinges slow,</l>
                      <l rend="i2" n="3123">Disclosed the passage of the rock.</l>
-                     <l rend="i2" n="3124">He entered, and the iron gates</l>
+                     <l rend="i2" n="3124">He entered, and <rs type="metaplace" subtype="barrier" ref="Paradise-Aloadin" ana="hereNow">the iron gates</rs></l>
                      <l rend="i4" n="3125">Fell to, and closed him in.</l>
                      <l rend="i2" n="3126">It was a narrow winding way,</l>
                      <l rend="i2" n="3127">Dim lamps suspended from the vault</l>
                      <l rend="i0" n="3128">Lent to the gloom an agitated light.</l>
                      <l rend="i4" n="3129">Winding it pierced the rock,</l>
                      <l rend="i4" n="3130">A long descending path</l>
-                     <l rend="i4" n="3131">By gates of iron closed;</l>
+                     <l rend="i4" n="3131">By <rs type="metaplace" subtype="barrier" ref="Paradise-Aloadin" ana="hereNow">gates of iron</rs> closed;</l>
                      <l rend="i2" n="3132">There also hung the horn beside</l>
                      <l rend="i2" n="3133">Of ivory tip and brazen mouth,</l>
                      <l rend="i2" n="3134">Again he took the ivory tip</l>
@@ -8986,10 +8982,10 @@
                      <l rend="i4" n="3139">Rushed on his dazzled eyes.</l>
                   </lg>
                   <lg xml:id="B6_lg372">
-                     <l rend="i0" n="3140">Was it to earthly <placeName>Eden</placeName> lost so
+                     <l rend="i0" n="3140">Was it to earthly <placeName ana="ana">Eden</placeName> lost so
                         long,</l>
                      <l rend="i2" n="3141">The youth had found the wonderous way?</l>
-                     <l rend="i4" n="3142">But earthly <placeName>Eden</placeName> boasts</l>
+                     <l rend="i4" n="3142">But earthly <placeName ana="ana">Eden</placeName> boasts</l>
                      <l rend="i4" n="3143">No terraced palaces,</l>
                      <l rend="i0" n="3144">No rich pavilions bright with woven
                            <note type="author" anchored="true" xml:id="N_113">
@@ -9003,30 +8999,30 @@
                               </p>
                            </note>
                          gold.</l>
-                     <l rend="i4" n="3145">Like these that in the vale</l>
+                     <l rend="i4" n="3145">Like these that in <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">the vale</rs></l>
                      <l rend="i4" n="3146">Rise amid odorous groves.</l>
                      <l rend="i4" n="3147">The astonished Thalaba</l>
                      <l rend="i0" n="3148">Doubting as tho' an unsubstantial dream</l>
                      <l rend="i4" n="3149">Beguiled his passive sense,</l>
                      <l rend="i4" n="3150">A moment closed his eyes;</l>
-                     <l rend="i0" n="3151">Still they were there ... the palaces and groves,</l>
+                     <l rend="i0" n="3151">Still they were <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">there</rs> ... the palaces and groves,</l>
                      <l rend="i0" n="3152">And rich pavilions glittering golden light.</l>
                   </lg>
                   <lg xml:id="B6_lg373">
                      <l rend="i0" n="3153">And lo! a man, reverend in comely age</l>
                      <l rend="i4" n="3154">Advancing meets the youth.</l>
                      <l rend="i2" n="3155">"Favoured of Fortune," he exclaimed,</l>
-                     <l rend="i2" n="3156">"Go taste the joys of <rs type="metaplace" subtype="divin">Paradise</rs>!</l>
-                     <l rend="i0" n="3157">"The reinless steed that ranges o'er <placeName ref="the_world">the world</placeName>
+                     <l rend="i2" n="3156">"Go taste the joys of <rs type="metaplace" subtype="divin" ana="rel">Paradise</rs>!</l>
+                     <l rend="i0" n="3157">"The reinless steed that ranges o'er <placeName ref="the_world" ana="rel">the world</placeName>
                      </l>
-                     <l rend="i0" n="3158">"Brings hither those alone for lofty deeds</l>
+                     <l rend="i0" n="3158">"Brings <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">hither</rs> those alone for lofty deeds</l>
                      <l rend="i0" n="3159">"Marked by their horoscope; permitted here</l>
                      <l rend="i0" n="3160">"A foretaste of the full beatitude,</l>
                      <l rend="i0" n="3161">"That in heroic acts they may go on</l>
                      <l rend="i0" n="3162">"More ardent, eager to return and reap</l>
                      <l rend="i0" n="3163">"Endless enjoyment here, their destined meed.</l>
                      <l rend="i4" n="3164">"Favoured of Fortune thou,</l>
-                     <l rend="i2" n="3165">"Go taste the joys of <rs type="metaplace" subtype="divin">Paradise</rs>!"</l>
+                     <l rend="i2" n="3165">"Go taste the joys of <rs type="metaplace" subtype="divin" ana="rel">Paradise</rs>!"</l>
                   </lg>
                   <lg xml:id="B6_lg374">
                      <l rend="i2" n="3166">This said, he turned away, and left</l>
@@ -9034,7 +9030,7 @@
                      <l rend="i4" n="3168">For Thalaba stood mute</l>
                      <l rend="i4" n="3169">And passively received</l>
                      <l rend="i0" n="3170">The mingled joy that flowed on every sense.</l>
-                     <l rend="i4" n="3171">Where'er his eye could reach</l>
+                     <l rend="i4" n="3171"><rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">Where'er</rs> his eye could reach</l>
                      <l rend="i2" n="3172">Fair structures, rain bow-hued, arose;</l>
                      <l rend="i0" n="3173">And rich pavilions thro' the opening woods</l>
                      <l rend="i0" n="3174">Gleamed from their waving curtains sunny gold;</l>
@@ -9076,7 +9072,7 @@
                            <note type="author" anchored="true" xml:id="N_115">
                               <p>
                                  <persName>Major Scott</persName> informs us that scars and wounds
-                                 by Persian writers are compared to the streaky tints of the tulip.
+                                 by <rs type="place" ref="Persia">Persian</rs> writers are compared to the streaky tints of the tulip.
                                  The simile here employed is equally obvious and more suited to its
                                  place.</p>
                            </note>
@@ -9107,15 +9103,15 @@
                      <l rend="i4" n="3193">Then on his ear what sounds</l>
                      <l rend="i4" n="3194">Of harmony arose!</l>
                      <l rend="i0" n="3195">Far music and the distance-mellowed song</l>
-                     <l rend="i4" n="3196">From bowers of merriment;</l>
+                     <l rend="i4" n="3196">From <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">bowers</rs> of merriment;</l>
                      <l rend="i4" n="3197">The waterfall remote;</l>
                      <l rend="i2" n="3198">The murmuring of the leafy groves;</l>
                      <l rend="i4" n="3199">The single nightingale</l>
                      <l rend="i0" n="3200">Perched in the Rosier by, so richly toned,</l>
                      <l rend="i0" n="3201">That never from that most melodious bird,</l>
                      <l rend="i0" n="3202">Singing a love-song to his brooding mate,</l>
-                     <l rend="i2" n="3203">Did <rs type="place" ref="Thrace">Thracian</rs> shepherd
-                        by <rs type="place" ref="Orpheus_grave">the grave</rs>
+                     <l rend="i2" n="3203">Did <rs type="place" ref="Thrace" ana="ana">Thracian</rs> shepherd
+                        by <rs type="place" ref="Orpheus_grave" ana="ana">the grave</rs>
                      </l>
                      <l rend="i2" n="3204">Of Orpheus
                            <note type="author" anchored="true" xml:id="N_118">
@@ -9142,13 +9138,13 @@
                               </q>
                            </note>
                          hear a sweeter song;</l>
-                     <l rend="i0" n="3213">Tho' there the Spirit of <rs type="metaplace" subtype="under" ref="Tombs">the Sepulchre</rs>
+                     <l rend="i0" n="3213">Tho' there the Spirit of <rs type="metaplace" subtype="under" ref="Tombs" ana="ana">the Sepulchre</rs>
                      </l>
                      <l rend="i2" n="3214">All his own power infuse, to swell</l>
                      <l rend="i4" n="3215">The incense that he loves.</l>
                   </lg>
                   <lg xml:id="B6_lg378">
-                     <l rend="i0" n="3216">And oh! what odours the voluptuous vale</l>
+                     <l rend="i0" n="3216">And oh! what odours the voluptuous <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">vale</rs></l>
                      <l rend="i4" n="3217">Scatters from jasmine bowers.</l>
                      <l rend="i4" n="3218">From yon rose wilderness,</l>
                      <l rend="i0" n="3219">From clustered henna, and from orange groves</l>
@@ -9163,7 +9159,7 @@
                      <l rend="i0" n="3228">Fly groaning with the torment, she the while</l>
                      <l rend="i4" n="3229">Inhales her fragrant
                            <note type="author" anchored="true" xml:id="N_119">
-                              <p> In the <hi rend="italic">Caherman Nameh</hi>, the Dives having
+                              <p> In the <hi rend="italic"><placeName>Caherman Nameh</placeName></hi>, the Dives having
                                  taken in war some of the Peris, imprisoned them in iron cages,
                                  which they hung from the highest trees they could find. There from
                                  time to time their companions visited them, with the most precious
@@ -9176,12 +9172,12 @@
                               </p>
                            </note>
                          food.</l>
-                     <l rend="i2" n="3230">Such odours flowed upon <placeName ref="the_world">the
+                     <l rend="i2" n="3230">Such odours flowed upon <placeName ref="the_world" ana="ana">the
                            world</placeName>
                      </l>
                      <l rend="i2" n="3231">When at Mohammed's nuptials, word</l>
-                     <l rend="i4" n="3232">Went forth in <rs type="metaplace" subtype="divin">Heaven</rs> to roll</l>
-                     <l rend="i0" n="3233">The everlasting gates of <rs type="metaplace" subtype="divin">Paradise</rs>
+                     <l rend="i4" n="3232">Went forth in <rs type="metaplace" subtype="divin" ana="ana">Heaven</rs> to roll</l>
+                     <l rend="i0" n="3233">The everlasting gates of <rs type="metaplace" subtype="divin" ana="ana">Paradise</rs>
                      </l>
                      <l rend="i0" n="3234">Back on their living hinges, that its gales</l>
                      <l rend="i0" n="3235">Might visit all below; the general bliss</l>
@@ -9210,7 +9206,7 @@
                   <lg xml:id="B6_lg379">
                      <l rend="i2" n="3238">Full of the joy, yet still awake</l>
                      <l rend="i2" n="3239">To wonder, on went Thalaba;</l>
-                     <l rend="i2" n="3240">On every side the song of mirth,</l>
+                     <l rend="i2" n="3240"><rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">On every side</rs> the song of mirth,</l>
                      <l rend="i2" n="3241">The music of festivity,</l>
                      <l rend="i4" n="3242">Invite the passing youth.</l>
                      <l rend="i0" n="3243">Wearied at length with hunger and with heat</l>
@@ -9227,11 +9223,11 @@
                               The event took place in the Ottoman city of Edirne in February 1568.
                               
                               --> received the Embassadors sitting upon a pallat which
-                                 the Turks call <hi rend="italic">Mastabe</hi> used by them in their
+                                 the <rs type="place" ref="Turkey">Turks</rs> call <hi rend="italic">Mastabe</hi> used by them in their
                                  chambers to sleep and to feed upon, covered with carpets of silk,
                                  as was the whole floor of the chamber also. <bibl>Knolles.</bibl>
                               </p>
-                              <p> <rs type="place" ref="Edirne">Among the presents that were exchanged between the Persian and
+                              <p> <rs type="place" ref="Edirne">Among the presents that were exchanged between the <rs type="place" ref="Persia">Persian</rs> and
                                  Ottoman Sovereigns in 1568</rs>, were carpets of silk, of camel's hair,
                                  lesser ones of silk and gold, and some called <hi rend="italic">Teftich</hi>; made of the finest lawn, and so large that seven
                                  men could scarcely carry one of them. <bibl>Knolles.</bibl>
@@ -9246,7 +9242,7 @@
                          carpets sate the festive train.</l>
                      <l rend="i4" n="3247">Instant thro' all his frame</l>
                      <l rend="i4" n="3248">Delightful coolness spread;</l>
-                     <l rend="i4" n="3249">The playing fount refreshed</l>
+                     <l rend="i4" n="3249">The playing <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">fount</rs> refreshed</l>
                      <l rend="i4" n="3250">The agitated air;</l>
                      <l rend="i0" n="3251">The very light came cooled thro' silvering panes</l>
                      <l rend="i0" n="3252">Of pearly
@@ -9256,7 +9252,7 @@
                                  is taken a vast quantity of oysters, of whose shells <rs type="place" ref="China">they make glass for the windows</rs>.
                                     <bibl>Gemelli Careri.</bibl>
                               </p>
-                              <p> In the Chinese Novel <hi rend="italic">Hau Kiou Choaan</hi>, we
+                              <p> In <bibl>the Chinese Novel <hi rend="italic"><title>Hau Kiou Choaan</title></hi></bibl>, we
                                  read Shueyping-sin ordered her servants to hang up a curtain of
                                  mother of pearl across the hall. She commanded the first table to
                                  be set for her guest without the curtain and two lighted tapers to
@@ -9269,7 +9265,7 @@
                               </p>
                               <q>
                                  <lg>
-                                    <l rend="i0">They have no English glasse; of slices of a
+                                    <l rend="i0">They have no <rs type="place" ref="England">English</rs> glasse; of slices of a
                                        rocke</l>
                                     <l rend="i0">Hight Sluda they their windows make, that English
                                        glasse doth mocke.</l>
@@ -9321,7 +9317,7 @@
                      <l rend="i0" n="3266">Ruby and amber, tinged its little waves.</l>
                      <l rend="i4" n="3267">From golden goblets there
                            <note type="author" anchored="true" xml:id="N_124">
-                              <p> The Cuptzi, or King of Persia's merchant, treated us with a
+                              <p> The Cuptzi, or King of <placeName>Persia</placeName>'s merchant, treated us with a
                                  collation, which was served in, in plate vermilion-gilt. </p>
                               <p> The Persians having left us, the Ambassadors sent to the Chief
                                  Weywode a present, which was a large drinking cup, vermilion-gilt.
@@ -9329,14 +9325,14 @@
                               </p>
                               <p> At <placeName>Ispahan</placeName> the King's horses were watered
                                  with silver pails thus coloured. </p>
-                              <p> The Turks and Persians seem wonderfully fond of gilding, we read
+                              <p> The <rs type="place" ref="Turkey">Turks</rs> and Persians seem wonderfully fond of gilding, we read
                                  of their gilt stirrups, gilt bridles, gilt maces, gilt scymetars,
                                  &amp;c. &amp;c.</p>
                            </note>
                         
                      </l>
                      <l rend="i0" n="3268">The guests sate quaffing the delicious juice</l>
-                     <l rend="i4" n="3269">Of Shiraz' golden grape.</l>
+                     <l rend="i4" n="3269">Of <placeName ana="rel">Shiraz</placeName>' golden grape.</l>
                   </lg>
                   <lg xml:id="B6_lg381">
                      <l rend="i2" n="3270">But Thalaba took not the draught</l>
@@ -9397,14 +9393,14 @@
                          vase</l>
                      <l rend="i0" n="3284">Came purer than it left its native bed.</l>
                      <l rend="i2" n="3285">And he partook the odorous fruits,</l>
-                     <l rend="i4" n="3286">For all rich fruits were there.</l>
+                     <l rend="i4" n="3286">For all rich fruits were <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">there</rs>.</l>
                      <l rend="i4" n="3287">Water-melons rough of rind,</l>
                      <l rend="i4" n="3288">Whose pulp the thirsty lip</l>
                      <l rend="i4" n="3289">Dissolved into a draught:</l>
                      <l rend="i0" n="3290">Pistachios from the heavy-clustered trees</l>
-                     <l rend="i0" n="3291">Of <placeName>Malavert</placeName>, or
-                           <placeName>Haleb</placeName>'s fertile soil,</l>
-                     <l rend="i0" n="3292">And <placeName>Casbin</placeName>'s
+                     <l rend="i0" n="3291">Of <placeName ana="rel">Malavert</placeName>, or
+                           <placeName ana="rel">Haleb</placeName>'s fertile soil,</l>
+                     <l rend="i0" n="3292">And <placeName ana="rel">Casbin</placeName>'s
                            <note type="author" anchored="true" xml:id="N_127">
                               <p>
                                  <placeName>Casbin</placeName> produces the fairest grape in
@@ -9432,9 +9428,9 @@
                      <l rend="i0" n="3297">The strong essential sweetness ripens there.</l>
                      <l rend="i2" n="3298">Here cased in ice, the 
                            <note type="author" anchored="true" xml:id="N_128">
-                              <p> Dr. Fryer received a present from the Caun of Bunder-Abassæ of
+                              <p> Dr. Fryer received a present from the Caun of <placeName>Bunder-Abassæ</placeName> of
                                  Apples candied in snow. </p>
-                              <p> When Tavernier made his first visit to the Kan at Erivan, he found
+                              <p> When Tavernier made his first visit to the Kan at <placeName>Erivan</placeName>, he found
                                  him with several of his Officers regaling in the <hi rend="italic">Chambers of the Bridge</hi>. They had wine which they cooled
                                  with ice, and all kinds of fruit and melons in large plates, under
                                  each of which was a plate of ice. </p>
@@ -9495,11 +9491,11 @@
                      <l rend="i0" n="3317">The loose suggestions of the scene impure.</l>
                      <l rend="i0" n="3318">Oneiza's image swam before his sight,</l>
                      <l rend="i4" n="3319">His own Arabian Maid.</l>
-                     <l rend="i0" n="3320">He rose, and from the banquet room he rushed,</l>
+                     <l rend="i0" n="3320">He rose, and from <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">the banquet room</rs> he rushed,</l>
                      <l rend="i2" n="3321">And tears ran down his burning cheek,</l>
                      <l rend="i0" n="3322">And nature for a moment woke the thought</l>
                      <l rend="i0" n="3323">And murmured, that from all domestic joys</l>
-                     <l rend="i2" n="3324">Estranged, he wandered o'er <placeName ref="the_world">the world</placeName>
+                     <l rend="i2" n="3324">Estranged, he wandered o'er <placeName ref="the_world" ana="rel">the world</placeName>
                      </l>
                      <l rend="i0" n="3325">A lonely being, far from all he loved.</l>
                      <l rend="i0" n="3326">Son of Hodeirah, not among thy crimes</l>
@@ -9507,7 +9503,7 @@
                   </lg>
                   <lg xml:id="B6_lg386">
                      <l rend="i4" n="3328">From tents of revelry,</l>
-                     <l rend="i0" n="3329">From festal bowers, to solitude he ran,</l>
+                     <l rend="i0" n="3329">From <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">festal bowers</rs>, to solitude he ran,</l>
                      <l rend="i2" n="3330">And now he reached where all the rills</l>
                      <l rend="i0" n="3331">Of that well-watered garden in one tide</l>
                      <l rend="i4" n="3332">Rolled their collected waves.</l>
@@ -9553,9 +9549,9 @@
                      <l rend="i4" n="3342">Come merry-make with them.</l>
                      <l rend="i0" n="3343">Unhearing or unheeding, Thalaba</l>
                      <l rend="i4" n="3344">Past o'er with hurried pace,</l>
-                     <l rend="i0" n="3345">And plunged amid the forest solitude.</l>
+                     <l rend="i0" n="3345">And plunged amid <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">the forest solitude</rs>.</l>
                      <l rend="i4" n="3346">
-                        <rs type="place" ref="desert">Deserts</rs> of <placeName ref="Arabia">Araby</placeName>!</l>
+                        <rs type="place" ref="desert" ana="pastVisit">Deserts</rs> of <placeName ref="Arabia" ana="pastVisit">Araby</placeName>!</l>
                      <l rend="i4" n="3347">His soul returned to you.</l>
                      <l rend="i2" n="3348">He cast himself upon the earth</l>
                      <l rend="i4" n="3349">And closed his eyes, and called</l>
@@ -9608,14 +9604,14 @@
                   </lg>
                   <lg xml:id="B7_lg391">
                      <l rend="i12" n="3383">We will seek him.</l>
-                     <l rend="i0" n="3384">We will return to <placeName ref="Arabia">Araby</placeName>.</l>
+                     <l rend="i0" n="3384">We will return to <placeName ref="Arabia" ana="pastVisit">Araby</placeName>.</l>
                   </lg>
                   <lg xml:id="B7_lg392">
                      <l rend="i8" n="3385">ONEIZA.</l>
                   </lg>
                   <lg xml:id="B7_lg393">
                      <l rend="i10" n="3386">Alas!</l>
-                     <l rend="i0" n="3387">We should not find him, Thalaba! our tent</l>
+                     <l rend="i0" n="3387">We should not find him, Thalaba! <rs type="place" ref="Isle_of_Palms" ana="pastVisit">our tent</rs></l>
                      <l rend="i0" n="3388">Is desolate, the wind hath heaped the sands</l>
                      <l rend="i0" n="3389">Within its door, the lizard's
                            <note type="author" anchored="true" xml:id="N_132">
@@ -9642,7 +9638,7 @@
                      <l rend="i0" n="3394">Seeking his child! old man, he will not rest,...</l>
                      <l rend="i0" n="3395">He cannot rest, his sleep is misery,</l>
                      <l rend="i0" n="3396">His dreams are of my wretchedness, my wrongs....</l>
-                     <l rend="i0" n="3397">O Thalaba! this is a wicked place!</l>
+                     <l rend="i0" n="3397">O Thalaba! this is <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">a wicked place</rs>!</l>
                      <l rend="i0" n="3398">Let us be gone!</l>
                   </lg>
                   <lg xml:id="B7_lg394">
@@ -9650,7 +9646,7 @@
                   </lg>
                   <lg xml:id="B7_lg395">
                      <l rend="i6" n="3400">But how to pass again</l>
-                     <l rend="i0" n="3401">The iron doors that opening at a breath</l>
+                     <l rend="i0" n="3401">The <rs type="metaplace" subtype="barrier" ref="Paradise-Aloadin" ana="hereNow">iron doors</rs> that opening at a breath</l>
                      <l rend="i0" n="3402">Gave easy entrance? armies in their strength,</l>
                      <l rend="i0" n="3403">Would fail to move those hinges for return!</l>
                   </lg>
@@ -9658,8 +9654,8 @@
                      <l rend="i8" n="3404">ONEIZA.</l>
                   </lg>
                   <lg xml:id="B7_lg397">
-                     <l rend="i0" n="3405">But we can climb the mountains that shut in</l>
-                     <l rend="i0" n="3406">This dreadful garden.</l>
+                     <l rend="i0" n="3405">But we can climb the <rs type="place" ref="Tartarian_Mts" ana="destin">mountains</rs> that shut in</l>
+                     <l rend="i0" n="3406">This dreadful <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">garden</rs>.</l>
                   </lg>
                   <lg xml:id="B7_lg398">
                      <l rend="i8" n="3407">THALABA.</l>
@@ -9677,23 +9673,23 @@
                      <l rend="i0" n="3413">And you are with me!</l>
                      <l rend="i8" n="3414">So she took his hand,</l>
                      <l rend="i0" n="3415">And gently drew him forward, and they went</l>
-                     <l rend="i4" n="3416">Towards <rs type="place" ref="Tartarian_Mts">the mountain
+                     <l rend="i4" n="3416">Towards <rs type="place" ref="Tartarian_Mts" ana="destin">the mountain
                            chain</rs>.</l>
                      <l rend="i0" n="3417">It was broad moonlight, and obscure or lost</l>
-                     <l rend="i4" n="3418">The garden beauties lay,</l>
+                     <l rend="i4" n="3418">The <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">garden</rs> beauties lay,</l>
                      <l rend="i0" n="3419">But the great boundary rose, distinctly marked.</l>
                      <l rend="i4" n="3420">These were no little hills,</l>
                      <l rend="i0" n="3421">No sloping uplands lifting to the sun</l>
                      <l rend="i0" n="3422">Their vine-yards, with fresh verdure, and the shade</l>
                      <l rend="i0" n="3423">Of ancient woods, courting the loiterer</l>
-                     <l rend="i0" n="3424">To win the easy ascent: <rs type="place" ref="Tartarian_Mts">stone mountains these</rs>
+                     <l rend="i0" n="3424">To win the easy ascent: <rs type="place" ref="Tartarian_Mts" ana="hereNow">stone mountains these</rs>
                      </l>
                      <l rend="i4" n="3425">Desolate rock on rock,</l>
-                     <l rend="i4" n="3426">The burthens of <placeName ref="Earth_planet">the
+                     <l rend="i4" n="3426">The burthens of <placeName ref="Earth_planet" ana="rel">the
                            earth</placeName>,</l>
                      <l rend="i0" n="3427">Whose snowy summits met the morning beam</l>
                      <l rend="i0" n="3428">When night was in the vale, whose feet were fixed</l>
-                     <l rend="i0" n="3429">In <placeName ref="the_world">the world</placeName>'s
+                     <l rend="i0" n="3429">In <placeName ref="the_world" ana="rel">the world</placeName>'s
                            <note type="author" anchored="true" xml:id="N_133">
                               <p> These lines are feebly adapted from a passage in <bibl>Burnet's
                                     Theory of <placeName ref="Earth_planet">the
@@ -9731,7 +9727,7 @@
                      <l rend="i4" n="3436">But soon again to hope</l>
                      <l rend="i4" n="3437">Revives the Arabian maid,</l>
                      <l rend="i0" n="3438">As Thalaba imparts the sudden thought.</l>
-                     <l rend="i2" n="3439">"I past <rs type="place" ref="river">a river</rs>," cried
+                     <l rend="i2" n="3439">"I past <rs type="place" ref="Tartarian_river" ana="pastVisit">a river</rs>," cried
                         the youth</l>
                      <l rend="i4" n="3440">"A full and copious stream.</l>
                      <l rend="i0" n="3441">"The flowing waters cannot be restrained</l>
@@ -9743,7 +9739,7 @@
                      <l rend="i4" n="3447">They turned them thitherward.</l>
                   </lg>
                   <lg xml:id="B7_lg403">
-                     <l rend="i0" n="3448">Silent and calm <rs type="place" ref="river">the
+                     <l rend="i0" n="3448">Silent and calm <rs type="place" ref="Tartarian_river" ana="hereNow">the
                            river</rs> rolled along,</l>
                      <l rend="i4" n="3449">And at the verge arrived</l>
                      <l rend="i0" n="3450">Of that fair garden, o'er a rocky bed</l>
@@ -9752,7 +9748,7 @@
                      <l rend="i4" n="3453">But the deep sound, the dash</l>
                      <l rend="i0" n="3454">Louder and louder in the distance rose,</l>
                      <l rend="i4" n="3455">As if it forced its stream</l>
-                     <l rend="i0" n="3456">Struggling with crags along a narrow pass.</l>
+                     <l rend="i0" n="3456">Struggling with <rs type="place" ref="Tartarian_Mts" ana="hereNow">crags</rs> along a narrow pass.</l>
                      <l rend="i0" n="3457">And lo! where raving o'er a hollow course</l>
                      <l rend="i4" n="3458">The ever-flowing tide</l>
                      <l rend="i0" n="3459">Foams in a thousand whirlpools! there adown</l>
@@ -9774,13 +9770,13 @@
                   <lg xml:id="B7_lg404">
                      <l rend="i4" n="3474">And the young Arab's soul</l>
                      <l rend="i0" n="3475">Arose within him; "what is he," he cried,</l>
-                     <l rend="i0" n="3476">"Who has prepared this garden of delight,</l>
+                     <l rend="i0" n="3476">"Who has prepared this <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">garden</rs> of delight,</l>
                      <l rend="i4" n="3477">"And wherefore are its snares?"</l>
                   </lg>
                   <lg xml:id="B7_lg405">
                      <l rend="i4" n="3478">The Arabian Maid replied,</l>
                      <l rend="i0" n="3479">"The Women when I entered, welcomed me</l>
-                     <l rend="i0" n="3480">"To <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">Paradise</rs>, by Aloadin's will</l>
+                     <l rend="i0" n="3480">"To <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">Paradise</rs>, by Aloadin's will</l>
                      <l rend="i0" n="3481">"Chosen like themselves, a Houri of <placeName ref="Earth_planet">the Earth</placeName>.</l>
                      <l rend="i0" n="3482">"They told me, credulous of his blasphemies,</l>
                      <l rend="i0" n="3483">"That Aloadin placed them to reward</l>
@@ -9834,7 +9830,7 @@
                      <l rend="i4" n="3524">Aloadin too might wear</l>
                      <l rend="i4" n="3525">Spell perchance of equal power</l>
                      <l rend="i4" n="3526">To blunt the weapon's edge!</l>
-                     <l rend="i4" n="3527">Beside <rs type="place" ref="river">the
+                     <l rend="i4" n="3527">Beside <rs type="place" ref="Tartarian_river">the
                         river-brink</rs>,</l>
                      <l rend="i0" n="3528">Rose a young poplar, whose unsteady leaves</l>
                      <l rend="i2" n="3529">Varying their verdure to the gale,</l>
@@ -9852,7 +9848,7 @@
                      <l rend="i0" n="3541">"Exulting turned to seek the voice of praise.</l>
                      <l rend="i0" n="3542">"Oh! yet again <persName>Oneiza</persName>, we shall
                         share</l>
-                     <l rend="i0" n="3543">"Our <rs type="place" ref="desert">desert</rs> joys!"</l>
+                     <l rend="i0" n="3543">"Our <rs type="place" ref="desert" ana="pastVisit">desert</rs> joys!"</l>
                      <l rend="i6" n="3544"> So saying to the bank</l>
                      <l rend="i4" n="3545">He moved, and stooping low,</l>
                      <l rend="i0" n="3546">With double grasp, hand below hand, he clenched</l>
@@ -9863,9 +9859,9 @@
                      <l rend="i4" n="3551">And boughs and lesser roots,</l>
                      <l rend="i4" n="3552">And lifting it aloft</l>
                      <l rend="i0" n="3553">Wielded with able sway the massy club.</l>
-                     <l rend="i0" n="3554">"Now for this child of <rs type="metaplace" subtype="divin">Hell</rs>!" quoth Thalaba,</l>
+                     <l rend="i0" n="3554">"Now for this child of <rs type="metaplace" subtype="divin" ana="rel">Hell</rs>!" quoth Thalaba,</l>
                      <l rend="i2" n="3555">"Belike he shall exchange to day</l>
-                     <l rend="i4" n="3556">"<rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">His dainty Paradise</rs>
+                     <l rend="i4" n="3556">"<rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">His dainty Paradise</rs>
                      </l>
                      <l rend="i2" n="3557">"For other dwelling, and the fruit</l>
                      <l rend="i4" n="3558">"Of Zaccoum,
@@ -9885,7 +9881,7 @@
                   </lg>
                   <lg xml:id="B7_lg409">
                      <l rend="i2" n="3559">With that the youth and Arab maid</l>
-                     <l rend="i2" n="3560">Towards <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">the garden centre</rs> past.</l>
+                     <l rend="i2" n="3560">Towards <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">the garden centre</rs> past.</l>
                      <l rend="i0" n="3561">It chanced that Aloadin had convoked</l>
                      <l rend="i4" n="3562">The garden-habitants,</l>
                      <l rend="i4" n="3563">And with the assembled throng</l>
@@ -9909,7 +9905,7 @@
                            </note>
                          Homerites,</l>
                      <l rend="i0" n="3569">"Or one who yet remembers with delight</l>
-                     <l rend="i0" n="3570">"Her native tents of <placeName>Himiar</placeName>!"
+                     <l rend="i0" n="3570">"Her native tents of <placeName ana="rel">Himiar</placeName>!"
                         "Nay!" rejoins</l>
                      <l rend="i0" n="3571">His comrade, "a love-pageant! for the man</l>
                      <l rend="i0" n="3572">"Mimics with that fierce eye and knotty club</l>
@@ -9917,7 +9913,7 @@
                      <l rend="i0" n="3574">"Must play the heroine of the years of old!"</l>
                   </lg>
                   <lg xml:id="B7_lg410">
-                     <l rend="i0" n="3575">Radiant with gems upon <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">his throne of gold</rs>
+                     <l rend="i0" n="3575">Radiant with gems upon <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">his throne of gold</rs>
                      </l>
                      <l rend="i4" n="3576">Aloadin sate.</l>
                      <l rend="i4" n="3577">O'er the Sorcerer's head</l>
@@ -9939,16 +9935,16 @@
                      <l rend="i2" n="3591">And bent the knee before him,</l>
                      <l rend="i4" n="3592">And shouted out his praise,</l>
                      <l rend="i0" n="3593">"Mighty art thou, the Bestower of joy,</l>
-                     <l rend="i4" n="3594">"The Lord of <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">Paradise</rs>!"</l>
+                     <l rend="i4" n="3594">"The Lord of <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">Paradise</rs>!"</l>
                      <l rend="i4" n="3595">Aloadin waved his hand,</l>
                      <l rend="i2" n="3596">In idolizing reverence</l>
                      <l rend="i4" n="3597">Moveless they stood and mute.</l>
-                     <l rend="i4" n="3598">"Children of <placeName ref="Earth_planet">Earth</placeName>," he cried,</l>
+                     <l rend="i4" n="3598">"Children of <placeName ref="Earth_planet" ana="rel">Earth</placeName>," he cried,</l>
                      <l rend="i4" n="3599">"Whom I have guided here</l>
-                     <l rend="i0" n="3600">"By easier passage than <rs type="metaplace" subtype="passage">the gate of Death</rs>,</l>
-                     <l rend="i2" n="3601">"The infidel Sultan to whose <rs type="place" ref="Sultanate">lands</rs>
+                     <l rend="i0" n="3600">"By easier passage than <rs type="metaplace" subtype="passage" ana="ana">the gate of Death</rs>,</l>
+                     <l rend="i2" n="3601">"The infidel Sultan to whose <rs type="place" ref="Tartarian-Sultanate" ana="rel">lands</rs>
                      </l>
-                     <l rend="i4" n="3602">"My <rs type="place" ref="Tartarian_Mts">mountains</rs> reach
+                     <l rend="i4" n="3602">"My <rs type="place" ref="Tartarian_Mts" ana="rel">mountains</rs> reach
                         their roots,</l>
                      <l rend="i2" n="3603">"Blasphemes and threatens me.</l>
                      <l rend="i0" n="3604">"Strong are his armies, many are his guards,</l>
@@ -9958,13 +9954,13 @@
                      <l rend="i2" n="3608">"With tales of a hereafter Heaven</l>
                      <l rend="i2" n="3609">"Whence never Traveller hath returned!</l>
                      <l rend="i0" n="3610">"Have ye not tasted of the cup of joy,</l>
-                     <l rend="i2" n="3611">"That in <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">these groves of happiness</rs>
+                     <l rend="i2" n="3611">"That in <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">these groves of happiness</rs>
                      </l>
                      <l rend="i2" n="3612">"For ever over-mantling tempts</l>
                      <l rend="i4" n="3613">"The ever-thirsty lip?</l>
                      <l rend="i2" n="3614">"Who is there here that by a deed</l>
                      <l rend="i4" n="3615">"Of danger will deserve</l>
-                     <l rend="i0" n="3616">"The eternal joys of actual <rs type="metaplace" subtype="divin">Paradise</rs>?</l>
+                     <l rend="i0" n="3616">"The eternal joys of actual <rs type="metaplace" subtype="divin" ana="rel">Paradise</rs>?</l>
                   </lg>
                   <lg xml:id="B7_lg412">
                      <l rend="i4" n="3617">"I!" Thalaba exclaimed,</l>
@@ -9989,11 +9985,11 @@
                      <l rend="i4" n="3634">It broke the Talisman.</l>
                      <l rend="i4" n="3635">Then darkness covered all,...</l>
                      <l rend="i0" n="3636">
-                        <placeName ref="Earth_planet">Earth</placeName> shook,
-                           <rs type="metaplace" subtype="divin">Heaven</rs> thundered, and amid the
+                        <placeName ref="Earth_planet" ana="rel">Earth</placeName> shook,
+                           <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs> thundered, and amid the
                         yells</l>
                      <l rend="i4" n="3637">Of Spirits accursed, destroyed</l>
-                     <l rend="i4" n="3638">The <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">Paradise</rs>
+                     <l rend="i4" n="3638">The <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="hereNow">Paradise</rs>
                            <note type="author" anchored="true" xml:id="N_136">
                               <p> In the N. E. parts of <placeName>Persia</placeName> there was <rs type="earthworks" subtype="garden">an old man named
                                        <persName>Aloadin</persName>, a Mahumetan, which had inclosed
@@ -10159,7 +10155,7 @@
                      <l rend="i0" n="3644">Stood the Destroyer and the Arabian Maid.</l>
                      <l rend="i2" n="3645">They looked around, the rocks were rent,</l>
                      <l rend="i0" n="3646">The path was open, late by magic closed.</l>
-                     <l rend="i0" n="3647">Awe-struck and silent down the stony glen</l>
+                     <l rend="i0" n="3647">Awe-struck and silent down <rs type="place" ref="Tartarian_Mts" ana="hereNow">the stony glen</rs></l>
                      <l rend="i4" n="3648">They wound their thoughtful way.</l>
                   </lg>
                   <lg xml:id="B7_lg415">
@@ -10170,27 +10166,27 @@
                      <l rend="i0" n="3653">Swarmed, far as eye could follow, o'er the plain.</l>
                      <l rend="i2" n="3654">There in his war pavilion sate</l>
                      <l rend="i4" n="3655">In council with his Chiefs</l>
-                     <l rend="i4" n="3656">The Sultan of <placeName ref="Sultanate">the
+                     <l rend="i4" n="3656">The Sultan of <placeName ref="Tartarian-Sultanate" ana="hereNow">the
                            Land</placeName>.</l>
                      <l rend="i0" n="3657">Before his presence there a Captain led</l>
                      <l rend="i2" n="3658">Oneiza and the appointed Youth.</l>
                   </lg>
                   <lg xml:id="B7_lg416">
                      <l rend="i0" n="3659">"Obedient to our Lord's command," said he,</l>
-                     <l rend="i0" n="3660">"We past towards <rs type="place" ref="Tartarian_Mts">the
+                     <l rend="i0" n="3660">"We past towards <rs type="place" ref="Tartarian_Mts" ana="rel">the
                            mountains</rs>, and began</l>
-                     <l rend="i0" n="3661">"The ascending strait; when suddenly <placeName ref="Earth_planet">Earth</placeName> shook,</l>
+                     <l rend="i0" n="3661">"The ascending strait; when suddenly <placeName ref="Earth_planet" ana="rel">Earth</placeName> shook,</l>
                      <l rend="i0" n="3662">"And darkness like the midnight fell around,</l>
                      <l rend="i2" n="3663">"And fire and thunder came from Heaven</l>
                      <l rend="i0" n="3664">"As tho' the Retribution day were come.</l>
                      <l rend="i0" n="3665">"After the terror ceased, and when with hearts</l>
                      <l rend="i0" n="3666">"Somewhat assured, again we ventured on,</l>
                      <l rend="i0" n="3667">"This youth and woman met us on the way.</l>
-                     <l rend="i0" n="3668">"They told us that from <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">Aloadin's haunt</rs>
+                     <l rend="i0" n="3668">"They told us that from <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="pastVisit">Aloadin's haunt</rs>
                      </l>
                      <l rend="i0" n="3669">"They came on whom the judgement-stroke has fallen;</l>
-                     <l rend="i0" n="3670">"He and his sinful <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">Paradise</rs> at once</l>
-                     <l rend="i0" n="3671">"Destroyed by them, the agents they of <rs type="metaplace" subtype="divin">Heaven</rs>.</l>
+                     <l rend="i0" n="3670">"He and his sinful <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin" ana="pastVisit">Paradise</rs> at once</l>
+                     <l rend="i0" n="3671">"Destroyed by them, the agents they of <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs>.</l>
                      <l rend="i0" n="3672">"Therefore I brought them hither, to repeat</l>
                      <l rend="i0" n="3673">"The tale before thy presence; that as search</l>
                      <l rend="i0" n="3674">"Shall prove it false or faithful, to their merit</l>
@@ -10250,7 +10246,7 @@
                      <l rend="i0" n="3706">And hung around his neck the golden chain,</l>
                      <l rend="i0" n="3707">And bound his forehead with the diadem,</l>
                      <l rend="i4" n="3708">And on the royal steed</l>
-                     <l rend="i4" n="3709">They led him thro' the camp,</l>
+                     <l rend="i4" n="3709">They led him thro' <rs type="place" ref="Tartarian-Sultanate" ana="hereNow">the camp</rs>,</l>
                      <l rend="i2" n="3710">And Heralds went before and cried</l>
                      <l rend="i4" n="3711">"Thus shall the Sultan reward</l>
                      <l rend="i4" n="3712">"The man who serves him well!"</l>
@@ -10264,7 +10260,7 @@
                      <l rend="i4" n="3718">His cheek inflamed with pride.</l>
                      <l rend="i4" n="3719">"Oneiza!" cried the youth,</l>
                      <l rend="i0" n="3720">"The King hath done according to his word,</l>
-                     <l rend="i4" n="3721">"And made me in <rs type="place" ref="Sultanate">the
+                     <l rend="i4" n="3721">"And made me in <rs type="place" ref="Tartarian-Sultanate" ana="hereNow">the
                            land</rs>
                      </l>
                      <l rend="i4" n="3722">"Next to himself be named!...</l>
@@ -10343,7 +10339,7 @@
                      <l rend="i8" n="3761">ONEIZA.</l>
                   </lg>
                   <lg xml:id="B7_lg439">
-                     <l rend="i8" n="3762">Take me to <placeName ref="desert">the
+                     <l rend="i8" n="3762">Take me to <placeName ref="desert" ana="pastVisit">the
                            Deserts</placeName>!</l>
                   </lg>
                   <lg xml:id="B7_lg440">
@@ -10358,7 +10354,7 @@
                      <l rend="i8" n="3767">ONEIZA.</l>
                   </lg>
                   <lg xml:id="B7_lg443">
-                     <l rend="i4" n="3768">Take me then to <placeName>Mecca</placeName>!</l>
+                     <l rend="i4" n="3768">Take me then to <placeName ana="rel">Mecca</placeName>!</l>
                      <l rend="i0" n="3769">There let me dwell a servant of the Temple.</l>
                      <l rend="i0" n="3770">Bind thou thyself my veil,... to human eye</l>
                      <l rend="i0" n="3771">It never shall be lifted. There, whilst thou</l>
@@ -10376,7 +10372,7 @@
                      <l rend="i0" n="3779">It led us here, and soon the common voice</l>
                      <l rend="i0" n="3780">Shall tell what we have done, and how we dwell</l>
                      <l rend="i0" n="3781">
-                        <rs type="place" ref="Sultanate">Under the shadow of the
+                        <rs type="place" ref="Tartarian-Sultanate" ana="hereNow">Under the shadow of the
                            Sultan's wing</rs>,</l>
                      <l rend="i0" n="3782">So shall thy father hear the fame, and find us</l>
                      <l rend="i0" n="3783">What he hath wished us ever.... Still in tears!</l>
@@ -10426,7 +10422,7 @@
                         <rs type="person">WOMAN</rs>.</l>
                   </lg>
                   <lg xml:id="B8_lg451">
-                     <l rend="i0" n="3813">Go not among the <rs type="metaplace" subtype="under" ref="Tombs">Tombs</rs>, <rs type="person" ref="Moath">Old Man</rs>!</l>
+                     <l rend="i0" n="3813">Go not among the <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">Tombs</rs>, <rs type="person" ref="Moath">Old Man</rs>!</l>
                      <l rend="i0" n="3814">There is <rs type="person" ref="Thalaba">a madman</rs>
                         there.</l>
                   </lg>
@@ -10446,7 +10442,7 @@
                            man</rs>!</l>
                      <l rend="i0" n="3819">But 'tis a wretched sight to see</l>
                      <l rend="i0" n="3820">His utter wretchedness.</l>
-                     <l rend="i0" n="3821">For all day long he lies on <rs type="metaplace" subtype="under" ref="Tombs">a grave</rs>,</l>
+                     <l rend="i0" n="3821">For all day long he lies on <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">a grave</rs>,</l>
                      <l rend="i0" n="3822">And never is he seen to weep,</l>
                      <l rend="i0" n="3823">And never is he heard to groan.</l>
                      <l rend="i0" n="3824">Nor ever at the hour of prayer</l>
@@ -10456,7 +10452,7 @@
                      <l rend="i0" n="3828">But yet so ghastly he looked</l>
                      <l rend="i0" n="3829">That I have awakened at night</l>
                      <l rend="i0" n="3830">With the dream of his ghastly eyes.</l>
-                     <l rend="i0" n="3831">Now go not among <rs type="metaplace" subtype="under" ref="Tombs">the Tombs</rs>, <rs type="person" ref="Moath">Old
+                     <l rend="i0" n="3831">Now go not among <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the Tombs</rs>, <rs type="person" ref="Moath">Old
                         Man</rs>!</l>
                   </lg>
                   <lg xml:id="B8_lg456">
@@ -10492,7 +10488,7 @@
                      <l rend="i0" n="3844">Since that hour <rs type="person" ref="Thalaba">a man
                            distracted</rs>
                      </l>
-                     <l rend="i0" n="3845">Among <rs type="metaplace" subtype="under" ref="Tombs">the sepulchres</rs> he wanders.</l>
+                     <l rend="i0" n="3845">Among <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the sepulchres</rs> he wanders.</l>
                      <l rend="i0" n="3846">
                         <persName>The Sultan</persName> when he heard the tale</l>
                      <l rend="i0" n="3847">Said that for some untold crime</l>
@@ -10518,8 +10514,8 @@
                   <lg xml:id="B8_lg463">
                      <l rend="i0" n="3855">
                         <rs type="person" ref="Thalaba">An Arab born</rs>, like you.</l>
-                     <l rend="i0" n="3856">But go not among <placeName ref="Tombs">the
-                           Tombs</placeName>,</l>
+                     <l rend="i0" n="3856">But go not among <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the
+                           Tombs</rs>,</l>
                      <l rend="i0" n="3857">For the sight of his wretchedness</l>
                      <l rend="i0" n="3858">Might make a hard heart ache!</l>
                   </lg>
@@ -10538,7 +10534,7 @@
                      </l>
                   </lg>
                   <lg xml:id="B8_lg466">
-                     <l rend="i2" n="3864">Then to <placeName ref="Tombs">the Sepulchre</placeName>
+                     <l rend="i2" n="3864">Then to <rs type="metaplace" subtype="under" ref="Tombs">the Sepulchre</rs>
                      </l>
                      <l rend="i2" n="3865">The <rs type="person">Woman</rs> pointed out,</l>
                      <l rend="i2" n="3866">Old <persName>Moath</persName> bent his way.</l>
@@ -10754,7 +10750,7 @@
                      <l rend="i2" n="3921">
                         <time>A night of darkness and of storms!</time>
                      </l>
-                     <l rend="i2" n="3922">Into <rs type="metaplace" subtype="under" ref="Tombs">the
+                     <l rend="i2" n="3922">Into <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the
                            Chamber</rs>
                            <note type="author" anchored="true" xml:id="N_140">
                               <p>
@@ -10822,7 +10818,7 @@
                                  </lg>
                               </q>
                            </note>
-                         of <placeName ref="Tombs">the Tomb</placeName>
+                         of <rs type="metaplace" subtype="under" ref="Tombs">the Tomb</rs>
                      </l>
                      <l rend="i4" n="3925">
                         <persName>Thalaba</persName> led the <rs type="person" ref="Moath">Old
@@ -11363,7 +11359,7 @@
                      <l rend="i0" n="4011">The <rs type="person" ref="Moath">Old Man</rs> answered
                         nothing, but he held</l>
                      <l rend="i4" n="4012">His garment and to the door</l>
-                     <l rend="i2" n="4013">Of the <placeName ref="Tombs">Tomb Chamber</placeName>
+                     <l rend="i2" n="4013">Of the <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">Tomb Chamber</rs>
                         followed him.</l>
                      <l rend="i2" n="4014">The rain had ceased, the sky was wild</l>
                      <l rend="i2" n="4015">Its black clouds broken by the storm.</l>
@@ -11375,6 +11371,7 @@
                         <rs type="science" subtype="astro">Leaving along its path continuous
                            light,</rs>
                      </l>
+                     <!--2015-02-03 ebb: REMARKED with @ana to here, books 1 through 7 complete, just started book 8. -->
                      <l rend="i0" n="4019">
                         <rs type="science" subtype="astro">Shot eastward. "See my guide!" quoth
                            Thalaba,</rs>
@@ -12032,7 +12029,7 @@
                      <l rend="i4" n="4276">Whom erst <rs type="person" subtype="Thalaba">his
                            arm</rs> had thrust</l>
                      <l rend="i4" n="4277">
-                        <rs type="place" ref="bitumen_pit">Down the <rs type="earthworks" subtype="mine">bitumen pit</rs>
+                        <rs type="metaplace" subtype="under" ref="bitumen_pit">Down the <rs type="earthworks" subtype="mine">bitumen pit</rs>
                         </rs>.</l>
                   </lg>
                </div>
@@ -12400,7 +12397,7 @@
                      <l rend="i0" n="4396">Till <persName>Thalaba</persName>, <rs type="script" subtype="holy">the perfect rite performed</rs>,</l>
                      <l rend="i0" n="4397">Raised his calm eye; then spake <persName ref="Mohareb">the Island-Chief</persName>.</l>
                      <l rend="i0" n="4398">"<rs type="person" ref="Thalaba">Arab!</rs> my guidance
-                        thro' <rs type="place" ref="bitumen_pit">the dangerous Cave</rs>,</l>
+                        thro' <rs type="metaplace" subtype="under" ref="bitumen_pit">the dangerous Cave</rs>,</l>
                      <l rend="i4" n="4399">"Thy service overpaid,</l>
                      <l rend="i0" n="4400">"<rs type="person" ref="Mohareb">An unintended friend in
                            enmity</rs>.</l>
