@@ -1911,16 +1911,16 @@
                   </lg>
                   <lg xml:id="B1_lg43">
                      <l rend="i4" n="550">"To <placeName ana="rel">Mecca</placeName> I repaired,</l>
-                     <!--ebb: added @ana tags to mark kinds of places in the body of the poem TO HERE 2015-01-11.-->
-                     <l rend="i4" n="551">"By the <placeName ref="Red_Hillock">Red
+                     <!--TO HERE 2015-01-11. ebb: added @ana tags to mark kinds of places in the body of the poem -->
+                     <l rend="i4" n="551">"By the <placeName ref="Red_Hillock" ana="rel">Red
                            Hillock</placeName> knelt</l>
                      <l rend="i4" n="552">"And called on<name type="divin">God</name>for rain.</l>
                      <l rend="i2" n="553">"My prayer ascended and was heard;</l>
-                     <l rend="i4" n="554">"Three clouds appeared in <rs type="metaplace" subtype="celest" ref="sky">heaven</rs>.</l>
+                     <l rend="i4" n="554">"Three clouds appeared in <rs type="metaplace" subtype="celest" ref="sky" ana="rel">heaven</rs>.</l>
                      <l rend="i0" n="555">"One white, and like the flying cloud of noon,</l>
                      <l rend="i0" n="556">"One red as it had drunk the evening beams,</l>
                      <l rend="i0" n="557">"One black and heavy with its load of rain.</l>
-                     <l rend="i4" n="558">"A voice went forth from <rs type="metaplace" subtype="divin" ref="Heaven">heaven</rs>
+                     <l rend="i4" n="558">"A voice went forth from <rs type="metaplace" subtype="divin" ref="Heaven" ana="rel">heaven</rs>
                      </l>
                      <l rend="i4" n="559">"Chuse <persName>Kail</persName> of the three!"</l>
                      <l rend="i4" n="560">"I thanked <name type="divin">the gracious
@@ -1932,8 +1932,8 @@
                   <lg xml:id="B1_lg44">
                      <l rend="i0" n="564">"Then stood the <persName ref="Houd">Prophet</persName> up
                         and cried aloud,</l>
-                     <l rend="i2" n="565">"Woe, woe, to <placeName>Irem</placeName>! woe to
-                           <placeName>Ad</placeName>!</l>
+                     <l rend="i2" n="565">"Woe, woe, to <placeName ref="hereNow">Irem</placeName>! woe to
+                           <placeName ana="rel">Ad</placeName>!</l>
                      <l rend="i0" n="566">"<name type="myth">
                            <hi rend="smallcap">Death</hi>
                         </name> is gone up into her palaces!</l>
@@ -2019,8 +2019,8 @@
                      <l rend="i0" n="601">"At length it opened, and.... O <name type="divin">God</name>! O <name type="divin">God</name>!</l>
                      <l rend="i4" n="602">"There were no waters there!</l>
                      <l rend="i4" n="603">"There fell no kindly rain!</l>
-                     <l rend="i2" n="604">"<name type="elemental">The Sarsar from its womb went
-                           forth,</name>
+                     <l rend="i2" n="604">"<name type="elemental">The Sarsar</name> from <rs type="metaplace" subtype="celest" ref="Sarsar_source" ana="rel">its womb</rs> went
+                           forth,
                      </l>
                      <l rend="i4" n="605">"<name type="elemental" ref="Sarsar">The Icy Wind of
                            Death.</name>"</l>
@@ -2050,12 +2050,12 @@
                      <l rend="i2" n="617">"The way was open, <rs type="person" ref="Aswad">I</rs>
                         beheld</l>
                      <l rend="i4" n="618">"No barrier to my steps.</l>
-                     <l rend="i2" n="619">"But <rs type="earthworks" subtype="garden">round <rs type="place" ref="Irem">these bowers</rs>
+                     <l rend="i2" n="619">"But <rs type="earthworks" subtype="garden">round <rs type="place" ref="Irem" ana="hereNow">these bowers</rs>
                         </rs> the Arm of<name type="divin">God</name>
                      </l>
 
-                     <l rend="i4" n="620"> "Had drawn <rs type="metaplace" subtype="barrier" ref="Irem_removed">a mighty chain</rs>,</l>
-                     <l rend="i0" n="621"> "<rs type="metaplace" subtype="barrier" ref="Irem_removed">A barrier</rs> that no human force might break. </l>
+                     <l rend="i4" n="620"> "Had drawn <rs type="metaplace" subtype="barrier" ref="Irem_removed" ana="hereNow">a mighty chain</rs>,</l>
+                     <l rend="i0" n="621"> "<rs type="metaplace" subtype="barrier" ref="Irem_removed" ana="hereNow">A barrier</rs> that no human force might break. </l>
 
                      <l rend="i4" n="622">"Twice <rs type="person" ref="Aswad">I</rs> essayed to
                         pass.</l>
@@ -2075,10 +2075,10 @@
                   </lg>
                   <lg xml:id="B1_lg51">
                      <l rend="i4" n="632">"A miserable man</l>
-                     <l rend="i4" n="633">"From <placeName ref="the_world">Earth</placeName> and <rs type="metaplace" subtype="divin">Heaven</rs> shut out,</l>
+                     <l rend="i4" n="633">"From <placeName ref="the_world" ana="rel">Earth</placeName> and <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs> shut out,</l>
                      <l rend="i4" n="634">"<rs type="person" ref="Aswad">I</rs> heard the dreadful
                         voice.</l>
-                     <l rend="i2" n="635">"<rs type="person" ref="Aswad">I</rs> looked around <rs type="metaplace" subtype="barrier" ref="Irem_removed">my prison
+                     <l rend="i2" n="635">"<rs type="person" ref="Aswad">I</rs> looked around <rs type="metaplace" subtype="barrier" ref="Irem_removed" ana="hereNow">my prison
                            place</rs>,</l>
                      <l rend="i2" n="636">"<orgName ref="Adites">The bodies of the dead</orgName>
                         were there,</l>
@@ -2107,7 +2107,7 @@
                      <l rend="i4" n="652"> "The pattering of the shower, </l>
                      <l rend="i4" n="653"> "Sounds dead and mournful all. </l>
                      <l rend="i2" n="654"> "No bird hath ever closed her wing </l>
-                     <l rend="i2" n="655"> "Upon <rs type="metaplace" subtype="barrier" ref="Irem_removed">these solitary bowers</rs>, </l>
+                     <l rend="i2" n="655"> "Upon <rs type="metaplace" subtype="barrier" ref="Irem_removed" ana="hereNow">these solitary bowers</rs>, </l>
                      <l rend="i0" n="656"> "No insect sweetly buzzed amid these groves, </l>
                      <l rend="i4" n="657"> "From all things that have life, </l>
                      <l rend="i4" n="658"> "Save only me, concealed. </l>
@@ -2143,7 +2143,7 @@
                         <time>"How often I have seen</time>
                      </l>
                      <l rend="i4" n="668">
-                        <time>"<rs type="metaplace" subtype="barrier" ref="Irem_removed">These
+                        <time>"<rs type="metaplace" subtype="barrier" ref="Irem_removed" ana="hereNow">These
                               antient trees</rs> renewed</time>,</l>
                      <l rend="i0" n="669">
                         <time>"What countless generations of mankind</time>
@@ -2265,7 +2265,7 @@
                <div type="book" xml:id="Book_2">
                   <head>THE SECOND BOOK.</head>
                   <lg xml:id="B2_lg60">
-                     <l rend="i4" n="723">Not in <rs type="place" ref="desert">the desert</rs>
+                     <l rend="i4" n="723">Not in <rs type="place" ref="desert" ana="hereNow">the desert</rs>
                      </l>
                      <l rend="i4" n="724">
                         <persName ref="Thalaba">Son of Hodeirah</persName>
@@ -2274,14 +2274,14 @@
                      <l rend="i4" n="726">
                         <rs type="image" subtype="human">The coexistent fire,</rs>
                      </l>
-                     <l rend="i0" n="727">That in <rs type="metaplace" subtype="under" ref="Domdaniel_Cave"> the Dens of Darkness </rs> burnt for thee,</l>
+                     <l rend="i0" n="727">That in <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel"> the Dens of Darkness </rs> burnt for thee,</l>
                      <l rend="i4" n="728">Burns yet, and yet shall burn.</l>
                   </lg>
                   <lg xml:id="B2_lg61">
-                     <l rend="i2" n="729">In <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">the Domdaniel caverns </rs>
+                     <l rend="i2" n="729">In <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">the Domdaniel caverns </rs>
                      </l>
                      <l rend="i2" n="730">
-                        <rs type="metaplace" subtype="under" ref="Under_Ocean">Under the Roots of
+                        <rs type="metaplace" subtype="under" ref="Under_Ocean" ana="rel">Under the Roots of
                            the Ocean</rs>, </l>
                      <l rend="i4" n="731">Met <orgName ref="Dom">the Masters of the
                         Spell</orgName>.</l>
@@ -2299,7 +2299,7 @@
                         <time>"This is the appointed hour,</time>
                      </l>
                      <l rend="i0" n="738">
-                        <time>"The hour that shall secure <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">these dens of night</rs>."</time>
+                        <time>"The hour that shall secure <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">these dens of night</rs>."</time>
                      </l>
                   </lg>
                   <lg xml:id="B2_lg62">
@@ -2476,7 +2476,7 @@
                      <l rend="i2" n="801">"But o'er <rs type="person" ref="Zeinab Thalaba">the two
                            remaining lives</rs>
                      </l>
-                     <l rend="i2" n="802"> "<rs type="metaplace" subtype="barrier" ref="impenetrable_cloud">A cloud unpierceable</rs> had risen, </l>
+                     <l rend="i2" n="802"> "<rs type="metaplace" subtype="barrier" ref="impenetrable_cloud" ana="hereNow">A cloud unpierceable</rs> had risen, </l>
                      <l rend="i2" n="803"> "A cloud that mocked my searching eyes. </l>
                      <l rend="i0" n="804"> "I would have probed it with the dagger-point, </l>
                      <l rend="i4" n="805"> "The dagger was repelled, </l>
@@ -2576,7 +2576,7 @@
                      <l rend="i2" n="831">The <orgName ref="Dom">children of Evil</orgName>
                         trembled</l>
                      <l rend="i4" n="832">And Terror smote their souls.</l>
-                     <l rend="i4" n="833">Over <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">the den</rs>
+                     <l rend="i4" n="833">Over <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">the den</rs>
                         <rs type="image" subtype="human">the fire</rs>
                      </l>
                      <l rend="i4" n="834">
@@ -2588,7 +2588,7 @@
                      </l>
                      <l rend="i0" n="836">Bright as the summer lightning when it spreads</l>
                      <l rend="i2" n="837">Its glory o'er the <time>midnight</time>
-                        <rs type="metaplace" subtype="celest" ref="sky">heaven</rs>.</l>
+                        <rs type="metaplace" subtype="celest" ref="sky" ana="ana">heaven</rs>.</l>
                      <l rend="i4" n="838">The <rs type="science" subtype="orac">
                            <name type="zomb">Teraphs</name> eyes</rs> were dimmed,</l>
                      <l rend="i4" n="839">That like two twinkling stars</l>
@@ -2597,7 +2597,7 @@
                         <orgName ref="Dom">The Sorcerers</orgName> on each other gazed,</l>
                      <l rend="i2" n="842">And every face all pale with fear,</l>
                      <l rend="i2" n="843">And ghastly in that light was seen</l>
-                     <l rend="i0" n="844">Like a dead man's <rs type="metaplace" subtype="under" ref="Tombs">by the sepulchral lamp</rs>.</l>
+                     <l rend="i0" n="844">Like a dead man's <rs type="metaplace" subtype="under" ref="Tombs" ana="ana">by the sepulchral lamp</rs>.</l>
                   </lg>
                   <lg xml:id="B2_lg71">
                      <l rend="i0" n="845">Even <persName>Khawla</persName> fiercest of <orgName ref="Dom">the enchanter brood</orgName>
@@ -2655,7 +2655,7 @@
                   </lg>
                   <lg xml:id="B2_lg72">
                      <l rend="i2" n="860">She said, and raised her skinny hand</l>
-                     <l rend="i2" n="861">As in defiance to high <rs type="metaplace" subtype="divin">Heaven</rs>,</l>
+                     <l rend="i2" n="861">As in defiance to high <rs type="metaplace" subtype="divin" ana="call">Heaven</rs>,</l>
                      <l rend="i2" n="862">And stretched her long lean finger forth</l>
                      <l rend="i2" n="863">
                         <rs type="science" subtype="orac">And spake aloud the words of power.</rs>
