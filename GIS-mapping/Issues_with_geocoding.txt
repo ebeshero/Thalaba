@@ -1,0 +1,47 @@
+Thalaba Disambiguation
+
+1) Two place names possibly referring to the same place:
+
+Aleppo       = Haleb
+Dar-Al-Salam = Paradise
+
+
+2) Some place names can refer to multiple places:
+
+Carthagena   = Cartagena, Spain; Cartagena, Colombia; Cartagena, Chile
+
+Imam = Emam, Iran several places with this name
+
+Malabar = too many to list
+
+Pegu = Bago, Burma or Pegu, Iran
+
+Santa Marta = Too many to list
+
+3) Some place names have no easily accessible information
+
+Dsjâf = ?
+
+Gradisch = ?
+
+4) Literary Cities
+
+Biblical cities: Sodom, Gomorrah
+Kuranic Cities: Irem/Iram
+
+5) Some place names suffer with a combination of problems.
+
+Dam = Dam, Bhutan or Dam, Afghanistan
+
+Although it seems likely to refer to Afghanistan, there is no information readily available.
+
+Furstemberg = ?, Furstenberg
+
+But Furstenberg can refer to many, many places.
+
+6) Some place names may refer to other kinds of objects
+
+Psylli = an ancient people
+
+Can't execute the point distance because of licensing restrictions!!!
+
