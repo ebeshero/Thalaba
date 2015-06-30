@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!--ebb: Note: I've commented out the local schema file before uploading to TAPAS. Probably not necessary, but we're having trouble with uploading.-->
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader type="text">
       <!--ebb: 10 Aug 2014: Commencing regularization of coding to TEI and coding cleanup for consistency. TEI prevents wrapping multiple lines in context coding. -->
