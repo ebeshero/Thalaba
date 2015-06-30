@@ -9,18 +9,18 @@
         </xsl:copy>
     </xsl:template>
 
-<xsl:template match="div[@type='part'][@n='1']/div[@type='canto']/lg">
+<xsl:template match="div[@type='canto']/lg">
   
-        <lg n="{count(preceding-sibling::lg[ancestor::div[@type='canto']/@n = ./ancestor::div[@type='canto']/@n])+1}"><xsl:apply-templates/></lg>
+        <lg xml:id="P{ancestor::div[@type='part']/@n}_C{ancestor::div[@type='canto']/@n}_lg{@n}"><xsl:apply-templates/></lg>
     
     </xsl:template>
     
-    <xsl:template match="div[@type='part'][@n='2']/div[@type='canto']/lg">
+   <!-- <xsl:template match="div[@type='part'][@n='2']/div[@type='canto']/lg">
         
         <lg n="{count(preceding-sibling::lg[ancestor::div[@type='part'][@n='2']][ancestor::div[@type='canto']/@n = ./ancestor::div[@type='canto']/@n])+1}"><xsl:apply-templates/></lg>
         
     </xsl:template>
-    
+    -->
     
   
 </xsl:stylesheet>
