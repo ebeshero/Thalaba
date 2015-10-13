@@ -406,7 +406,7 @@ Egypt	place	note	B1_lg35	the river Nilus	place
 Egypt	place	note	B1_lg35	the countries of the west	place	               
 Egypt	place	note	B1_lg35	the land Al-Said	place	               
 Egypt	place	note	B1_lg35	Abulfeda	place	               
-Egypt	place	note	B1_lg35	Ægypt	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
 Egypt	place	note	B1_lg35	the_world	place	               
 Egypt	place	note	B1_lg35	sky	metaplace	               
 Egypt	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -430,7 +430,7 @@ the whole earth	place	note	B1_lg35	the river Nilus	place
 the whole earth	place	note	B1_lg35	the countries of the west	place	               
 the whole earth	place	note	B1_lg35	the land Al-Said	place	               
 the whole earth	place	note	B1_lg35	Abulfeda	place	               
-the whole earth	place	note	B1_lg35	Ægypt	place	               
+the whole earth	place	note	B1_lg35	Egypt	place	               
 the whole earth	place	note	B1_lg35	the_world	place	               
 the whole earth	place	note	B1_lg35	sky	metaplace	               
 the whole earth	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -454,7 +454,7 @@ Egypt	place	note	B1_lg35	the river Nilus	place
 Egypt	place	note	B1_lg35	the countries of the west	place	               
 Egypt	place	note	B1_lg35	the land Al-Said	place	               
 Egypt	place	note	B1_lg35	Abulfeda	place	               
-Egypt	place	note	B1_lg35	Ægypt	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
 Egypt	place	note	B1_lg35	the_world	place	               
 Egypt	place	note	B1_lg35	sky	metaplace	               
 Egypt	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -478,7 +478,7 @@ the river Nilus	place	note	B1_lg35	Egypt	place
 the river Nilus	place	note	B1_lg35	the countries of the west	place	               
 the river Nilus	place	note	B1_lg35	the land Al-Said	place	               
 the river Nilus	place	note	B1_lg35	Abulfeda	place	               
-the river Nilus	place	note	B1_lg35	Ægypt	place	               
+the river Nilus	place	note	B1_lg35	Egypt	place	               
 the river Nilus	place	note	B1_lg35	the_world	place	               
 the river Nilus	place	note	B1_lg35	sky	metaplace	               
 the river Nilus	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -503,7 +503,7 @@ the land Al-Said	place	note	B1_lg35	Egypt	place
 the land Al-Said	place	note	B1_lg35	the river Nilus	place	               
 the land Al-Said	place	note	B1_lg35	the countries of the west	place	               
 the land Al-Said	place	note	B1_lg35	Abulfeda	place	               
-the land Al-Said	place	note	B1_lg35	Ægypt	place	               
+the land Al-Said	place	note	B1_lg35	Egypt	place	               
 the land Al-Said	place	note	B1_lg35	the_world	place	               
 the land Al-Said	place	note	B1_lg35	sky	metaplace	               
 the land Al-Said	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -528,7 +528,7 @@ Abulfeda	place	note	B1_lg35	Egypt	place
 Abulfeda	place	note	B1_lg35	the river Nilus	place	               
 Abulfeda	place	note	B1_lg35	the countries of the west	place	               
 Abulfeda	place	note	B1_lg35	the land Al-Said	place	               
-Abulfeda	place	note	B1_lg35	Ægypt	place	               
+Abulfeda	place	note	B1_lg35	Egypt	place	               
 Abulfeda	place	note	B1_lg35	the_world	place	               
 Abulfeda	place	note	B1_lg35	sky	metaplace	               
 Abulfeda	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -545,31 +545,31 @@ Abulfeda	place	note	B1_lg35	Damascus	place
 Abulfeda	place	note	B1_lg35	Irem_removed	metaplace	               
 Abulfeda	place	note	B1_lg35	Irem	place	               
 Abulfeda	place	note	B1_lg35	the East	place	               
-Ægypt	place	note	B1_lg35	Egypt	place	               
-Ægypt	place	note	B1_lg35	Egypt	place	               
-Ægypt	place	note	B1_lg35	the whole earth	place	               
-Ægypt	place	note	B1_lg35	Egypt	place	               
-Ægypt	place	note	B1_lg35	Egypt	place	               
-Ægypt	place	note	B1_lg35	the river Nilus	place	               
-Ægypt	place	note	B1_lg35	the countries of the west	place	               
-Ægypt	place	note	B1_lg35	the land Al-Said	place	               
-Ægypt	place	note	B1_lg35	Abulfeda	place	               
-Ægypt	place	note	B1_lg35	the_world	place	               
-Ægypt	place	note	B1_lg35	sky	metaplace	               
-Ægypt	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
-Ægypt	place	note	B1_lg35	Bologna	place	               
-Ægypt	place	note	B1_lg35	East Indies	place	               
-Ægypt	place	note	B1_lg35	Eden	metaplace	               
-Ægypt	place	note	B1_lg35	Eden	metaplace	               
-Ægypt	place	note	B1_lg35	Eden	metaplace	               
-Ægypt	place	note	B1_lg35	Egypt	place	               
-Ægypt	place	note	B1_lg35	Ad	place	               
-Ægypt	place	note	B1_lg35	Syria	place	               
-Ægypt	place	note	B1_lg35	Ormus	place	               
-Ægypt	place	note	B1_lg35	Damascus	place	               
-Ægypt	place	note	B1_lg35	Irem_removed	metaplace	               
-Ægypt	place	note	B1_lg35	Irem	place	               
-Ægypt	place	note	B1_lg35	the East	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	the whole earth	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	the river Nilus	place	               
+Egypt	place	note	B1_lg35	the countries of the west	place	               
+Egypt	place	note	B1_lg35	the land Al-Said	place	               
+Egypt	place	note	B1_lg35	Abulfeda	place	               
+Egypt	place	note	B1_lg35	the_world	place	               
+Egypt	place	note	B1_lg35	sky	metaplace	               
+Egypt	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
+Egypt	place	note	B1_lg35	Bologna	place	               
+Egypt	place	note	B1_lg35	East Indies	place	               
+Egypt	place	note	B1_lg35	Eden	metaplace	               
+Egypt	place	note	B1_lg35	Eden	metaplace	               
+Egypt	place	note	B1_lg35	Eden	metaplace	               
+Egypt	place	note	B1_lg35	Egypt	place	               
+Egypt	place	note	B1_lg35	Ad	place	               
+Egypt	place	note	B1_lg35	Syria	place	               
+Egypt	place	note	B1_lg35	Ormus	place	               
+Egypt	place	note	B1_lg35	Damascus	place	               
+Egypt	place	note	B1_lg35	Irem_removed	metaplace	               
+Egypt	place	note	B1_lg35	Irem	place	               
+Egypt	place	note	B1_lg35	the East	place	               
 the_world	place	main	B1_lg35	Egypt	place	               
 the_world	place	main	B1_lg35	Egypt	place	               
 the_world	place	main	B1_lg35	the whole earth	place	               
@@ -579,7 +579,7 @@ the_world	place	main	B1_lg35	the river Nilus	place
 the_world	place	main	B1_lg35	the countries of the west	place	               
 the_world	place	main	B1_lg35	the land Al-Said	place	               
 the_world	place	main	B1_lg35	Abulfeda	place	               
-the_world	place	main	B1_lg35	Ægypt	place	               
+the_world	place	main	B1_lg35	Egypt	place	               
 the_world	place	main	B1_lg35	sky	metaplace	               
 the_world	place	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
 the_world	place	main	B1_lg35	Bologna	place	               
@@ -604,7 +604,7 @@ Bologna	place	note	B1_lg35	the river Nilus	place
 Bologna	place	note	B1_lg35	the countries of the west	place	               
 Bologna	place	note	B1_lg35	the land Al-Said	place	               
 Bologna	place	note	B1_lg35	Abulfeda	place	               
-Bologna	place	note	B1_lg35	Ægypt	place	               
+Bologna	place	note	B1_lg35	Egypt	place	               
 Bologna	place	note	B1_lg35	the_world	place	               
 Bologna	place	note	B1_lg35	sky	metaplace	               
 Bologna	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -629,7 +629,7 @@ East Indies	place	note	B1_lg35	the river Nilus	place
 East Indies	place	note	B1_lg35	the countries of the west	place	               
 East Indies	place	note	B1_lg35	the land Al-Said	place	               
 East Indies	place	note	B1_lg35	Abulfeda	place	               
-East Indies	place	note	B1_lg35	Ægypt	place	               
+East Indies	place	note	B1_lg35	Egypt	place	               
 East Indies	place	note	B1_lg35	the_world	place	               
 East Indies	place	note	B1_lg35	sky	metaplace	               
 East Indies	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -652,7 +652,7 @@ Egypt	place	note	B1_lg35	the river Nilus	place
 Egypt	place	note	B1_lg35	the countries of the west	place	               
 Egypt	place	note	B1_lg35	the land Al-Said	place	               
 Egypt	place	note	B1_lg35	Abulfeda	place	               
-Egypt	place	note	B1_lg35	Ægypt	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
 Egypt	place	note	B1_lg35	the_world	place	               
 Egypt	place	note	B1_lg35	sky	metaplace	               
 Egypt	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -677,7 +677,7 @@ Ad	place	main	B1_lg35	the river Nilus	place
 Ad	place	main	B1_lg35	the countries of the west	place	               
 Ad	place	main	B1_lg35	the land Al-Said	place	               
 Ad	place	main	B1_lg35	Abulfeda	place	               
-Ad	place	main	B1_lg35	Ægypt	place	               
+Ad	place	main	B1_lg35	Egypt	place	               
 Ad	place	main	B1_lg35	the_world	place	               
 Ad	place	main	B1_lg35	sky	metaplace	               
 Ad	place	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -702,7 +702,7 @@ Syria	place	note	B1_lg35	the river Nilus	place
 Syria	place	note	B1_lg35	the countries of the west	place	               
 Syria	place	note	B1_lg35	the land Al-Said	place	               
 Syria	place	note	B1_lg35	Abulfeda	place	               
-Syria	place	note	B1_lg35	Ægypt	place	               
+Syria	place	note	B1_lg35	Egypt	place	               
 Syria	place	note	B1_lg35	the_world	place	               
 Syria	place	note	B1_lg35	sky	metaplace	               
 Syria	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -727,7 +727,7 @@ Ormus	place	note	B1_lg35	the river Nilus	place
 Ormus	place	note	B1_lg35	the countries of the west	place	               
 Ormus	place	note	B1_lg35	the land Al-Said	place	               
 Ormus	place	note	B1_lg35	Abulfeda	place	               
-Ormus	place	note	B1_lg35	Ægypt	place	               
+Ormus	place	note	B1_lg35	Egypt	place	               
 Ormus	place	note	B1_lg35	the_world	place	               
 Ormus	place	note	B1_lg35	sky	metaplace	               
 Ormus	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -752,7 +752,7 @@ Damascus	place	note	B1_lg35	the river Nilus	place
 Damascus	place	note	B1_lg35	the countries of the west	place	               
 Damascus	place	note	B1_lg35	the land Al-Said	place	               
 Damascus	place	note	B1_lg35	Abulfeda	place	               
-Damascus	place	note	B1_lg35	Ægypt	place	               
+Damascus	place	note	B1_lg35	Egypt	place	               
 Damascus	place	note	B1_lg35	the_world	place	               
 Damascus	place	note	B1_lg35	sky	metaplace	               
 Damascus	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -777,7 +777,7 @@ Irem	place	note	B1_lg35	the river Nilus	place
 Irem	place	note	B1_lg35	the countries of the west	place	               
 Irem	place	note	B1_lg35	the land Al-Said	place	               
 Irem	place	note	B1_lg35	Abulfeda	place	               
-Irem	place	note	B1_lg35	Ægypt	place	               
+Irem	place	note	B1_lg35	Egypt	place	               
 Irem	place	note	B1_lg35	the_world	place	               
 Irem	place	note	B1_lg35	sky	metaplace	               
 Irem	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -802,7 +802,7 @@ the East	place	main	B1_lg35	the river Nilus	place
 the East	place	main	B1_lg35	the countries of the west	place	               
 the East	place	main	B1_lg35	the land Al-Said	place	               
 the East	place	main	B1_lg35	Abulfeda	place	               
-the East	place	main	B1_lg35	Ægypt	place	               
+the East	place	main	B1_lg35	Egypt	place	               
 the East	place	main	B1_lg35	the_world	place	               
 the East	place	main	B1_lg35	sky	metaplace	               
 the East	place	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -882,42 +882,42 @@ the Abyss	place	main	B2_lg85	the_world	place
 the_world	place	main	B2_lg85	the inner den	metaplace	               
 the_world	place	main	B2_lg85	the Abyss	place	               
 Arabia	place	main	B2_lg87	Tchama	place	               
-Arabia	place	main	B2_lg87	Naïd	place	               
+Arabia	place	main	B2_lg87	NaÃ¯d	place	               
 Arabia	place	main	B2_lg87	Arud	place	               
 Arabia	place	main	B2_lg87	Yemen	place	               
 Arabia	place	main	B2_lg87	Hejaz	place	               
 Tchama	place	main	B2_lg87	Arabia	place	               
-Tchama	place	main	B2_lg87	Naïd	place	               
+Tchama	place	main	B2_lg87	NaÃ¯d	place	               
 Tchama	place	main	B2_lg87	Arud	place	               
 Tchama	place	main	B2_lg87	Yemen	place	               
 Tchama	place	main	B2_lg87	Hejaz	place	               
 Tchama	place	main	B2_lg87	Arabia	place	               
-Naïd	place	main	B2_lg87	Arabia	place	               
-Naïd	place	main	B2_lg87	Tchama	place	               
-Naïd	place	main	B2_lg87	Arud	place	               
-Naïd	place	main	B2_lg87	Yemen	place	               
-Naïd	place	main	B2_lg87	Hejaz	place	               
-Naïd	place	main	B2_lg87	Arabia	place	               
+NaÃ¯d	place	main	B2_lg87	Arabia	place	               
+NaÃ¯d	place	main	B2_lg87	Tchama	place	               
+NaÃ¯d	place	main	B2_lg87	Arud	place	               
+NaÃ¯d	place	main	B2_lg87	Yemen	place	               
+NaÃ¯d	place	main	B2_lg87	Hejaz	place	               
+NaÃ¯d	place	main	B2_lg87	Arabia	place	               
 Arud	place	main	B2_lg87	Arabia	place	               
 Arud	place	main	B2_lg87	Tchama	place	               
-Arud	place	main	B2_lg87	Naïd	place	               
+Arud	place	main	B2_lg87	NaÃ¯d	place	               
 Arud	place	main	B2_lg87	Yemen	place	               
 Arud	place	main	B2_lg87	Hejaz	place	               
 Arud	place	main	B2_lg87	Arabia	place	               
 Yemen	place	main	B2_lg87	Arabia	place	               
 Yemen	place	main	B2_lg87	Tchama	place	               
-Yemen	place	main	B2_lg87	Naïd	place	               
+Yemen	place	main	B2_lg87	NaÃ¯d	place	               
 Yemen	place	main	B2_lg87	Arud	place	               
 Yemen	place	main	B2_lg87	Hejaz	place	               
 Yemen	place	main	B2_lg87	Arabia	place	               
 Hejaz	place	main	B2_lg87	Arabia	place	               
 Hejaz	place	main	B2_lg87	Tchama	place	               
-Hejaz	place	main	B2_lg87	Naïd	place	               
+Hejaz	place	main	B2_lg87	NaÃ¯d	place	               
 Hejaz	place	main	B2_lg87	Arud	place	               
 Hejaz	place	main	B2_lg87	Yemen	place	               
 Hejaz	place	main	B2_lg87	Arabia	place	               
 Arabia	place	main	B2_lg87	Tchama	place	               
-Arabia	place	main	B2_lg87	Naïd	place	               
+Arabia	place	main	B2_lg87	NaÃ¯d	place	               
 Arabia	place	main	B2_lg87	Arud	place	               
 Arabia	place	main	B2_lg87	Yemen	place	               
 Arabia	place	main	B2_lg87	Hejaz	place	               
@@ -3671,7 +3671,7 @@ Egypt	place	main	B1_lg35	the river Nilus	place
 Egypt	place	main	B1_lg35	the countries of the west	place	               
 Egypt	place	main	B1_lg35	the land Al-Said	place	               
 Egypt	place	main	B1_lg35	Abulfeda	place	               
-Egypt	place	main	B1_lg35	Ægypt	place	               
+Egypt	place	main	B1_lg35	Egypt	place	               
 Egypt	place	main	B1_lg35	the_world	place	               
 Egypt	place	main	B1_lg35	sky	metaplace	               
 Egypt	place	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -3696,7 +3696,7 @@ Egypt	place	note	B1_lg35	the river Nilus	place
 Egypt	place	note	B1_lg35	the countries of the west	place	               
 Egypt	place	note	B1_lg35	the land Al-Said	place	               
 Egypt	place	note	B1_lg35	Abulfeda	place	               
-Egypt	place	note	B1_lg35	Ægypt	place	               
+Egypt	place	note	B1_lg35	Egypt	place	               
 Egypt	place	note	B1_lg35	the_world	place	               
 Egypt	place	note	B1_lg35	sky	metaplace	               
 Egypt	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -3721,7 +3721,7 @@ the countries of the west	place	note	B1_lg35	Egypt	place
 the countries of the west	place	note	B1_lg35	the river Nilus	place	               
 the countries of the west	place	note	B1_lg35	the land Al-Said	place	               
 the countries of the west	place	note	B1_lg35	Abulfeda	place	               
-the countries of the west	place	note	B1_lg35	Ægypt	place	               
+the countries of the west	place	note	B1_lg35	Egypt	place	               
 the countries of the west	place	note	B1_lg35	the_world	place	               
 the countries of the west	place	note	B1_lg35	sky	metaplace	               
 the countries of the west	place	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -3994,7 +3994,7 @@ sky	metaplace	main	B1_lg35	the river Nilus	place
 sky	metaplace	main	B1_lg35	the countries of the west	place	               
 sky	metaplace	main	B1_lg35	the land Al-Said	place	               
 sky	metaplace	main	B1_lg35	Abulfeda	place	               
-sky	metaplace	main	B1_lg35	Ægypt	place	               
+sky	metaplace	main	B1_lg35	Egypt	place	               
 sky	metaplace	main	B1_lg35	the_world	place	               
 sky	metaplace	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
 sky	metaplace	main	B1_lg35	Bologna	place	               
@@ -4019,7 +4019,7 @@ the subterranean palaces of Romance	metaplace	note	B1_lg35	the river Nilus	place
 the subterranean palaces of Romance	metaplace	note	B1_lg35	the countries of the west	place	               
 the subterranean palaces of Romance	metaplace	note	B1_lg35	the land Al-Said	place	               
 the subterranean palaces of Romance	metaplace	note	B1_lg35	Abulfeda	place	               
-the subterranean palaces of Romance	metaplace	note	B1_lg35	Ægypt	place	               
+the subterranean palaces of Romance	metaplace	note	B1_lg35	Egypt	place	               
 the subterranean palaces of Romance	metaplace	note	B1_lg35	the_world	place	               
 the subterranean palaces of Romance	metaplace	note	B1_lg35	sky	metaplace	               
 the subterranean palaces of Romance	metaplace	note	B1_lg35	Bologna	place	               
@@ -4044,7 +4044,7 @@ Eden	metaplace	main	B1_lg35	the river Nilus	place
 Eden	metaplace	main	B1_lg35	the countries of the west	place	               
 Eden	metaplace	main	B1_lg35	the land Al-Said	place	               
 Eden	metaplace	main	B1_lg35	Abulfeda	place	               
-Eden	metaplace	main	B1_lg35	Ægypt	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
 Eden	metaplace	main	B1_lg35	the_world	place	               
 Eden	metaplace	main	B1_lg35	sky	metaplace	               
 Eden	metaplace	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -4069,7 +4069,7 @@ Eden	metaplace	note	B1_lg35	the river Nilus	place
 Eden	metaplace	note	B1_lg35	the countries of the west	place	               
 Eden	metaplace	note	B1_lg35	the land Al-Said	place	               
 Eden	metaplace	note	B1_lg35	Abulfeda	place	               
-Eden	metaplace	note	B1_lg35	Ægypt	place	               
+Eden	metaplace	note	B1_lg35	Egypt	place	               
 Eden	metaplace	note	B1_lg35	the_world	place	               
 Eden	metaplace	note	B1_lg35	sky	metaplace	               
 Eden	metaplace	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -4094,7 +4094,7 @@ Eden	metaplace	main	B1_lg35	the river Nilus	place
 Eden	metaplace	main	B1_lg35	the countries of the west	place	               
 Eden	metaplace	main	B1_lg35	the land Al-Said	place	               
 Eden	metaplace	main	B1_lg35	Abulfeda	place	               
-Eden	metaplace	main	B1_lg35	Ægypt	place	               
+Eden	metaplace	main	B1_lg35	Egypt	place	               
 Eden	metaplace	main	B1_lg35	the_world	place	               
 Eden	metaplace	main	B1_lg35	sky	metaplace	               
 Eden	metaplace	main	B1_lg35	the subterranean palaces of Romance	metaplace	               
@@ -4119,7 +4119,7 @@ Irem_removed	metaplace	note	B1_lg35	the river Nilus	place
 Irem_removed	metaplace	note	B1_lg35	the countries of the west	place	               
 Irem_removed	metaplace	note	B1_lg35	the land Al-Said	place	               
 Irem_removed	metaplace	note	B1_lg35	Abulfeda	place	               
-Irem_removed	metaplace	note	B1_lg35	Ægypt	place	               
+Irem_removed	metaplace	note	B1_lg35	Egypt	place	               
 Irem_removed	metaplace	note	B1_lg35	the_world	place	               
 Irem_removed	metaplace	note	B1_lg35	sky	metaplace	               
 Irem_removed	metaplace	note	B1_lg35	the subterranean palaces of Romance	metaplace	               
