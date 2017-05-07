@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <!--ebb: DONE (2016): distinguish between analogous places and literal physical movement of characters, and write schema rules for this. -->
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801)</title>
+            <author>Robert Southey</author>
+            <editor>Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Integrated Digital Humanities</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+            </respStmt>
+
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability default="false" status="unknown">
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note anchored="true">Any special notes on this text? (optional)</note>
+            <note anchored="true">You can have multiple notes here.</note>
+         </notesStmt>
+         <sourceDesc default="false">
+            <!--Notice, this is simpler than the sourceDesc we used in our Letters file.-->
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release date: <date/>
+               [Ebook #39804] Public domain in the USA. </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl default="false">
+            <p>Describes our editorial practice.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <head>
+               <bibl>
+                  <title>Thalaba the Destroyer</title> (<date>1801</date>) by
+                  <author>Robert Southey</author>
+               </bibl>
+            </head>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

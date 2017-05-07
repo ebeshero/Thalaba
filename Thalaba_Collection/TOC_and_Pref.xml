@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801)</title>
+            <author>Robert Southey</author>
+
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+
+
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release date: <date/>
+               [Ebook #39804] Public domain in the USA. <ref
+                  target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/></p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext
+               structures. Southey's paratext notes are encoded as hierarchical descendants of the
+               line-group or other portion of Southey's main text on the spot where they are
+               signalled. This is not only conformant with TEI standard practice but also is
+               designed to help investigate semantic interlinkage of text and paratext in this
+               heavily annotated epic poem. Encoding of proper names, especially places, people, and
+               collectives is designed to trace associations made between text and paratext.
+               References to places in the main text are encoded to determine whether they are
+               mentioned literally, as places visited by the characters in the poem, or imagined
+               referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of
+               the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition
+               optimized for viewing text and paratext in association on a computer screen. This
+               encoding responds to the print edition's layout of footnotes positioned beneath the
+               main text, and is intended to assist experimental screen layouts that preserve this
+               association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc
+            changelog. Edited file to represent Center for the Digital Text as sponsoring
+            organization. Added a front element to move prefatory material inside in the single-file
+            edition to improve TEI conformance. Also prepared the original single-file edition to be
+            transformed into a collection of smaller files for ease of processing. Added @xml:ids to
+            number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places
+            and literal physical movement of characters, and wrote Schemtaron rules to control
+            this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title> (<date>1801</date>) by <author>Robert
+                  Southey</author>
+            </bibl>
+         </head>
+         <epigraph>
+
+            <q>
+               <lg xml:lang="grc">
+                  <l> Ποιηματων αϰρατης η ελευϑερια, ϰαι νομος εις,</l>
+                  <l>το δοξαν τω ϖοιητη.</l>
+               </lg>
+               <bibl>
+                  <author>Lucian</author>, <title>Quomodo Hist. scribenda.</title>
+               </bibl>
+            </q>
+         </epigraph>
+      </front>
+      <body>
+         <div type="toc">
+            <list>
+               <item>THE FIRST VOLUME.<list>
+                     <item><ref target="vol_1/Book_1.xml">THE FIRST BOOK.</ref></item>
+                     <item><ref target="vol_1/Book_2.xml">THE SECOND BOOK.</ref></item>
+                     <item><ref target="vol_1/Book_3.xml">THE THIRD BOOK.</ref></item>
+                     <item><ref target="vol_1/Book_4.xml">THE FOURTH BOOK.</ref></item>
+                     <item><ref target="vol_1/Book_5.xml">THE FIFTH BOOK.</ref></item>
+                  </list></item>
+               <item>THE SECOND VOLUME.<list>
+                     <item><ref target="vol_2/Book_6.xml">THE SIXTH BOOK.</ref></item>
+                     <item><ref target="vol_2/Book_7.xml">THE SEVENTH BOOK.</ref></item>
+                     <item><ref target="vol_2/Book_8.xml">THE EIGHTH BOOK.</ref></item>
+                     <item><ref target="vol_2/Book_9.xml">THE NINTH BOOK.</ref></item>
+                     <item><ref target="vol_2/Book_10.xml">THE TENTH BOOK.</ref></item>
+                     <item><ref target="vol_2/Book_11.xml">THE ELEVENTH BOOK.</ref></item>
+                     <item><ref target="vol_2/Book_12.xml">THE TWELFTH BOOK.</ref></item>
+                  </list></item>
+            </list>
+         </div>
+         <div type="preface">
+            <head>PREFACE</head>
+
+
+            <p>In the continuation of the <bibl>Arabian Tales</bibl>, the
+                  <orgName>Domdaniel</orgName> is mentioned; a Seminary for evil Magicians <rs
+                  type="metaplace" subtype="under" ref="Under_Ocean">under the Roots of the
+               Sea</rs>. From this seed the present Romance has grown. Let me not be supposed to
+               prefer the metre in which it is written, abstractedly considered, to the regular
+               blank verse; the noblest measure, in my judgement, of which our admirable language is
+               capable. For the following Poem I have preferred it, because it suits the varied
+               subject; it is the <hi rend="italic">Arabesque</hi> ornament of an Arabian tale.</p>
+
+            <p>The <bibl>dramatic sketches of <author>
+                     <persName>Dr. Sayer</persName>
+                  </author>
+               </bibl>, a volume which no lover of poetry will recollect without pleasure, induced
+               me when a young versifier, to practise in this metre. I felt that while it gave the
+               poet a wider range of expression, it satisfied the ear of the reader. It were easy to
+               make a parade of learning by enumerating the various feet which it admits; it is only
+               needful to observe that no two lines are employed in <hi rend="italic">sequence</hi>
+               which can be read into one. Two six-syllable lines (it will perhaps be answered)
+               compose an Alexandrine: the truth is that the Alexandrine, when harmonious, is
+               composed of two six-syllable lines.</p>
+
+            <p>One advantage this metre assuredly possesses; the dullest reader cannot distort it
+               into discord: he may read it with a <hi rend="italic">prose mouth</hi>, but its flow
+               and fall will still be perceptible. Verse is not enough favoured by the English
+               reader: perhaps this is owing to the obtrusiveness, the regular Jews-harp <hi
+                  rend="italic">twing-twang</hi>, of what has been foolishly called heroic measure.
+               I do not wish the <hi rend="italic">improvisatorè</hi> tune, but something that
+               denotes the sense of harmony, something like the accent of feeling; like the tone
+               which every Poet necessarily gives to Poetry.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

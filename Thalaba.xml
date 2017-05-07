@@ -6,19 +6,16 @@
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <!--ebb: 10 Aug 2014: Commencing regularization of coding to TEI and coding cleanup for consistency. TEI prevents wrapping multiple lines in context coding. -->
-      <!--ebb: To do: 1) distinguish between analogous places and literal physical movement of characters, and write schema rules for this. 
-         2) Extract distinct values of place names and assign xml:ids: Start a gazetteer/placeography file to facilitate mapping.-->
       <fileDesc>
          <titleStmt>
             <title>Thalaba the Destroyer (1801)</title>
             <author>Robert Southey</author>
 
-            <editor>Elisa E. Beshero-Bondar</editor>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
 
 
             <sponsor>
-               <orgName>Integrated Digital Humanities</orgName>
+               <orgName>Center for the Digital Text</orgName>
             </sponsor>
             <sponsor>University of Pittsburgh at Greensburg</sponsor>
             <principal>Elisa Beshero-Bondar</principal>
@@ -32,32 +29,18 @@
          </titleStmt>
          <editionStmt>
             <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
-
-
          </editionStmt>
-
-
-
          <publicationStmt>
-            <authority>Integrated Digital Humanities at the University of Pittsburgh at
+            <authority>Center for the Digital Text at the University of Pittsburgh at
                Greensburg</authority>
             <pubPlace>Greensburg, PA, USA</pubPlace>
             <date>2013</date>
-            <availability default="false" status="unknown">
+            <availability>
                <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
                   License</licence>
             </availability>
-
          </publicationStmt>
-
-
-         <notesStmt>
-            <note anchored="true">Any special notes on this text? (optional)</note>
-            <note anchored="true">You can have multiple notes here.</note>
-         </notesStmt>
-
-         <sourceDesc default="false">
-            <!--Notice, this is simpler than the sourceDesc we used in our Letters file.-->
+         <sourceDesc>
             <p>This text is based on the Project Gutenberg eBook of <bibl>
                   <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
                   <pubPlace>London</pubPlace>
@@ -65,27 +48,30 @@
                   <pubPlace>PATERNOSTER-ROW, London</pubPlace>
                   <publisher>BY BIGGS AND COTTLE</publisher>
                   <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
-               date: <date/> [Ebook #39804] Public domain in the USA. </p>
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/></p>
             <p>This eBook is for the use of anyone anywhere at no cost and with almost no
                restrictions whatsoever. You may copy it, give it away or re-use it under the terms
                of the Project Gutenberg License included with this eBook or online at
                www.gutenberg.org/license</p>
          </sourceDesc>
       </fileDesc>
-
       <encodingDesc>
-         <editorialDecl default="false">
-            <p>Describes our editorial practice.</p>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
          </editorialDecl>
       </encodingDesc>
-
+<revisionDesc>
+   <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+   <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+</revisionDesc>
    </teiHeader>
    <text>
-      <body>
-         <div type="poem">
+     
+<front><!--2017-05-07 ebb: I recognize that this encoding of the title, author, and publication date here is unorthodox. Perhaps it should be revised, but see the sourceDesc and encodingDesc in the teiHeader. I am preserving it because I can use this this structure in the headings of each member of a collection of files, as I convert this Thalaba edition from a single XML file to multiple files for ease of processing.-->
             <head>
                <bibl>
-                  <title>Thalaba the Destroyer</title> (<date>1801</date>) by
+                  <title level="m">Thalaba the Destroyer</title> (<date>1801</date>) by
                      <author>Robert Southey</author>
                </bibl>
             </head>
@@ -103,27 +89,6 @@
                   </bibl>
                </q>
             </epigraph>
-
-            <div type="volume">
-               <head>THE FIRST VOLUME.</head>
-
-
-               <!--<hr style="width: 100%;" />
-<h2><a name="CONTENTS" id="CONTENTS"></a><hi rend="italic">CONTENTS</hi></h2>
-
-
-
-<div class='center'>
-<table border="0" cellpadding="4" cellspacing="0" summary="" width="60%">
-<tr><td align='left'><a href="#PREFACE">Preface</a></td><td align='right'>vii.</td></tr>
-<tr><td align='left'><a href="#The_First_Book">The first Book</a></td><td align='right'>1</td></tr>
-<tr><td align='left'><a href="#The_Second_Book">The second Book</a></td><td align='right'>67</td></tr>
-<tr><td align='left'><a href="#The_Third_Book">The third Book</a></td><td align='right'>107</td></tr>
-<tr><td align='left'><a href="#The_Fourth_Book">The fourth Book</a></td><td align='right'>189</td></tr>
-<tr><td align='left'><a href="#The_Fifth_Book">The fifth Book</a></td><td align='right'>257</td></tr>
-</table></div>-->
-
-
                <div type="preface">
                   <head>PREFACE</head>
 
@@ -161,8 +126,11 @@
 
                </div>
 
-
-
+</front>
+<body>
+   <div type="poem">
+      <div type="volume" xml:id="vol_1">
+         <head>THE FIRST VOLUME.</head>
                <div type="book" xml:id="Book_1">
                   <head>THE FIRST BOOK.</head>
 
@@ -8563,34 +8531,10 @@
                   <p>END OF THE FIRST VOLUME.</p>
                </div>
             </div>
+ 
 
-
-            <div type="volume">
+      <div type="volume" xml:id="vol_2">
                <head>THE SECOND VOLUME.</head>
-
-               <!--<hr style="width: 100%;" />
-<h2><hi rend="italic">CONTENTS.</hi></h2>
-
-
-
-
-<div class='center'>
-<table border="0" cellpadding="4" cellspacing="0" summary="" width="60%">
-<tr><td align='left'><a href="#The_Sixth_Book">The sixth Book</a></td><td align='right'>1</td></tr>
-<tr><td align='left'><a href="#The_Seventh_Book">The seventh Book</a></td><td align='right'>51</td></tr>
-<tr><td align='left'><a href="#The_Eighth_Book">The eighth Book</a></td><td align='right'>89</td></tr>
-<tr><td align='left'><a href="#The_Ninth_Book">The ninth Book</a></td><td align='right'>139</td></tr>
-<tr><td align='left'><a href="#The_Tenth_Book">The tenth Book</a></td><td align='right'>203</td></tr>
-<tr><td align='left'><a href="#The_Eleventh_Book">The eleventh Book</a></td><td align='right'>261</td></tr>
-<tr><td align='left'><a href="#The_Twelfth_Book">The twelfth Book</a></td><td align='right'>299</td></tr>
-</table></div>-->
-
-
-
-
-
-
-
                <div type="book" xml:id="Book_6">
                   <head>THE SIXTH BOOK.</head>
                   <lg xml:id="B6_lg359">
@@ -17203,10 +17147,9 @@
                </div>
 
             </div>
-         </div>
+   </div>
+</body>
 
-
-
-      </body>
+      
    </text>
 </TEI>
