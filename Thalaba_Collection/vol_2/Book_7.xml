@@ -1,1 +1,957 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>Thalaba the Destroyer (1801), Volume 2: Book 7</titleStmt></fileDesc></teiHeader><text><front><head><bibl><title level="m">Thalaba the Destroyer</title><title level="a">, Volume 2: Book 7</title> () by <author>Robert Southey</author></bibl></head></front><body/></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801), Volume 2: Book 7</title>
+            <author>Robert Southey</author>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/>
+            </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title>
+               <title level="a">, Volume 2: Book 7</title> (<date>1801</date>) by <author>Robert Southey</author>
+            </bibl>
+         </head>
+      </front>
+      <body>
+         <div type="book" xml:id="Book_7">
+                  <head>THE SEVENTH BOOK.</head>
+                  <lg xml:id="B7_lg387">
+                     <l rend="i4" n="3367">From fear, amazement, joy,</l>
+                     <l rend="i0" n="3368">At length the Arabian Maid recovering speech,</l>
+                     <l rend="i0" n="3369">Threw around Thalaba her arms and cried,</l>
+                     <l rend="i0" n="3370">"My father! O my father!" Thalaba</l>
+                     <l rend="i0" n="3371">In wonder lost, yet fearful to enquire,</l>
+                     <l rend="i4" n="3372">Bent down his cheek on hers,</l>
+                     <l rend="i2" n="3373">And their tears mingled as they fell.</l>
+                  </lg>
+                  <lg xml:id="B7_lg388">
+                     <l rend="i8" n="3374">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg389">
+                     <l rend="i0" n="3375">At night they seized me, Thalaba! in my sleep,...</l>
+                     <l rend="i0" n="3376">Thou wert not near,... and yet when in their grasp</l>
+                     <l rend="i0" n="3377">I woke, my shriek of terror called on thee.</l>
+                     <l rend="i0" n="3378">My father could not save me,... an old man!</l>
+                     <l rend="i0" n="3379">And they were strong and many,... O my God,</l>
+                     <l rend="i0" n="3380">The hearts they must have had to hear his prayers,</l>
+                     <l rend="i0" n="3381">And yet to leave him childless!</l>
+                  </lg>
+                  <lg xml:id="B7_lg390">
+                     <l rend="i8" n="3382">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg391">
+                     <l rend="i12" n="3383">We will seek him.</l>
+                     <l rend="i0" n="3384">We will return to <placeName ref="Arabia" ana="pastVisit">Araby</placeName>.</l>
+                  </lg>
+                  <lg xml:id="B7_lg392">
+                     <l rend="i8" n="3385">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg393">
+                     <l rend="i10" n="3386">Alas!</l>
+                     <l rend="i0" n="3387">We should not find him, Thalaba! <rs type="place" ref="Isle_of_Palms" ana="pastVisit">our tent</rs>
+               </l>
+                     <l rend="i0" n="3388">Is desolate, the wind hath heaped the sands</l>
+                     <l rend="i0" n="3389">Within its door, the lizard's
+                           <note type="author" anchored="true" xml:id="N_132">
+                              <p> The dust which overspreads these beds of sand is so fine, that the
+                                 lightest animal, the smallest insect, leaves there as on snow, the
+                                 vestiges of its track. The varieties of these impressions produce a
+                                 pleasing effect, in spots where the saddened soul expects to meet
+                                 with nothing but symptoms of the proscriptions of nature. <hi rend="italic">It is impossible to see any thing more
+                                    beautiful</hi> than the traces of the passage of a species of
+                                 very small lizards extremely common in these desarts. The extremity
+                                 of their tail forms regular sinuosities, in the middle of two rows
+                                 of delineations, also regularly imprinted by their four feet, with
+                                 their five slender toes. These traces are multiplied and interwoven
+                                 near the subterranean retreats of these little animals, and present
+                                 a singular assemblage which is <hi rend="italic">not void of
+                                    beauty</hi>. <bibl>Sonnini.</bibl>
+                              </p>
+                           </note>
+                         track is left</l>
+                     <l rend="i0" n="3390">Fresh on the untrodden dust; prowling by night</l>
+                     <l rend="i0" n="3391">The tyger, as he passes hears no breath</l>
+                     <l rend="i0" n="3392">Of man, and turns to search its solitude.</l>
+                     <l rend="i0" n="3393">Alas! he strays a wretched wanderer</l>
+                     <l rend="i0" n="3394">Seeking his child! old man, he will not rest,...</l>
+                     <l rend="i0" n="3395">He cannot rest, his sleep is misery,</l>
+                     <l rend="i0" n="3396">His dreams are of my wretchedness, my wrongs....</l>
+                     <l rend="i0" n="3397">O Thalaba! this is <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">a wicked place</rs>!</l>
+                     <l rend="i0" n="3398">Let us be gone!</l>
+                  </lg>
+                  <lg xml:id="B7_lg394">
+                     <l rend="i8" n="3399">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg395">
+                     <l rend="i6" n="3400">But how to pass again</l>
+                     <l rend="i0" n="3401">The <rs type="metaplace"
+                      subtype="barrier"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">iron doors</rs> that opening at a breath</l>
+                     <l rend="i0" n="3402">Gave easy entrance? armies in their strength,</l>
+                     <l rend="i0" n="3403">Would fail to move those hinges for return!</l>
+                  </lg>
+                  <lg xml:id="B7_lg396">
+                     <l rend="i8" n="3404">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg397">
+                     <l rend="i0" n="3405">But we can climb the <rs type="place" ref="Tartarian_Mts" ana="destin">mountains</rs> that shut in</l>
+                     <l rend="i0" n="3406">This dreadful <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">garden</rs>.</l>
+                  </lg>
+                  <lg xml:id="B7_lg398">
+                     <l rend="i8" n="3407">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg399">
+                     <l rend="i8" n="3408">Are Oneiza's limbs</l>
+                     <l rend="i0" n="3409">Equal to that long toil?</l>
+                  </lg>
+                  <lg xml:id="B7_lg400">
+                     <l rend="i8" n="3410">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg401">
+                     <l rend="i8" n="3411"> Oh I am strong</l>
+                     <l rend="i0" n="3412">Dear Thalaba! for this ... fear gives me force,</l>
+                     <l rend="i0" n="3413">And you are with me!</l>
+                     <l rend="i8" n="3414">So she took his hand,</l>
+                     <l rend="i0" n="3415">And gently drew him forward, and they went</l>
+                     <l rend="i4" n="3416">Towards <rs type="place" ref="Tartarian_Mts" ana="destin">the mountain
+                           chain</rs>.</l>
+                     <l rend="i0" n="3417">It was broad moonlight, and obscure or lost</l>
+                     <l rend="i4" n="3418">The <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">garden</rs> beauties lay,</l>
+                     <l rend="i0" n="3419">But the great boundary rose, distinctly marked.</l>
+                     <l rend="i4" n="3420">These were no little hills,</l>
+                     <l rend="i0" n="3421">No sloping uplands lifting to the sun</l>
+                     <l rend="i0" n="3422">Their vine-yards, with fresh verdure, and the shade</l>
+                     <l rend="i0" n="3423">Of ancient woods, courting the loiterer</l>
+                     <l rend="i0" n="3424">To win the easy ascent: <rs type="place" ref="Tartarian_Mts" ana="hereNow">stone mountains these</rs>
+                     </l>
+                     <l rend="i4" n="3425">Desolate rock on rock,</l>
+                     <l rend="i4" n="3426">The burthens of <placeName ref="Earth_planet" ana="rel">the
+                           earth</placeName>,</l>
+                     <l rend="i0" n="3427">Whose snowy summits met the morning beam</l>
+                     <l rend="i0" n="3428">When night was in the vale, whose feet were fixed</l>
+                     <l rend="i0" n="3429">In <placeName ref="the_world" ana="rel">the world</placeName>'s
+                           <note type="author" anchored="true" xml:id="N_133">
+                              <p> These lines are feebly adapted from a passage in <bibl>Burnet's
+                                    Theory of <placeName ref="Earth_planet">the
+                                    Earth</placeName>
+                              </bibl>. </p>
+                              <p> Hæc autem dicta vellem de genuinis &amp; majoribus terræ montibus;
+                                 non gratos <hi rend="italic">Bacchi</hi> colles hîc intelligimus,
+                                 aut amœnos illos monticulos, qui viridi herbâ &amp; vicino fonte
+                                 &amp; arboribus, vim æstivi solis repellunt: hisce non deest sua
+                                 qualiscunque elegantia, &amp; jucunditas. Sed longe aliud hic
+                                 respicimus, nempe longæva illa, tristia &amp; squalentia corpora,
+                                 telluris pondera, quæ duro capiti rigent inter nubes, infixisque in
+                                 terram saxeis pedibus, ab innumeris seculis steterunt immobilia,
+                                 atque nudo pectore pertulerunt tot annorum ardentes soles, fulmina
+                                 &amp; procellas. Hi sunt primævi &amp; immortales illi montes, qui
+                                 non aliunde, quam ex fractâ mundi compage ortum suum ducere
+                                 potuerunt, nec nisi cum eâdem perituri sunt. </p>
+                              <p> The whole chapter <hi rend="italic">de montibus</hi> is written
+                                 with the eloquence of a Poet. Indeed Gibbon bestowed no exaggerated
+                                 praise on Burnet in saying that he had "blended scripture, history,
+                                 and tradition into one magnificent system, with a sublimity of
+                                 imagination scarcely inferior to Milton himself." This work should
+                                 be read in Latin, the Author's own translation is miserably
+                                 inferior. He lived in the worst age of English prose.</p>
+                           </note>
+                         foundations. Thalaba surveyed</l>
+                     <l rend="i4" n="3430">The heights precipitous,</l>
+                     <l rend="i0" n="3431">Impending crags, rocks unascendible,</l>
+                     <l rend="i0" n="3432">And summits that had tired the eagle's wing;</l>
+                     <l rend="i4" n="3433">"There is no way!" he cried.</l>
+                     <l rend="i4" n="3434">Paler Oneiza grew</l>
+                     <l rend="i0" n="3435">And hung upon his arm a feebler weight.</l>
+                  </lg>
+                  <lg xml:id="B7_lg402">
+                     <l rend="i4" n="3436">But soon again to hope</l>
+                     <l rend="i4" n="3437">Revives the Arabian maid,</l>
+                     <l rend="i0" n="3438">As Thalaba imparts the sudden thought.</l>
+                     <l rend="i2" n="3439">"I past <rs type="place" ref="Tartarian_river" ana="pastVisit">a river</rs>," cried
+                        the youth</l>
+                     <l rend="i4" n="3440">"A full and copious stream.</l>
+                     <l rend="i0" n="3441">"The flowing waters cannot be restrained</l>
+                     <l rend="i2" n="3442">"And where they find or force their way,</l>
+                     <l rend="i0" n="3443">"There we perchance may follow, thitherward</l>
+                     <l rend="i4" n="3444">"The current rolled along."</l>
+                     <l rend="i2" n="3445">So saying yet again in hope</l>
+                     <l rend="i4" n="3446">Quickening their eager steps</l>
+                     <l rend="i4" n="3447">They turned them thitherward.</l>
+                  </lg>
+                  <lg xml:id="B7_lg403">
+                     <l rend="i0" n="3448">Silent and calm <rs type="place" ref="Tartarian_river" ana="hereNow">the
+                           river</rs> rolled along,</l>
+                     <l rend="i4" n="3449">And at the verge arrived</l>
+                     <l rend="i0" n="3450">Of that fair garden, o'er a rocky bed</l>
+                     <l rend="i4" n="3451">Towards the mountain base,</l>
+                     <l rend="i0" n="3452">Still full and silent, held its even way,</l>
+                     <l rend="i4" n="3453">But the deep sound, the dash</l>
+                     <l rend="i0" n="3454">Louder and louder in the distance rose,</l>
+                     <l rend="i4" n="3455">As if it forced its stream</l>
+                     <l rend="i0" n="3456">Struggling with <rs type="place" ref="Tartarian_Mts" ana="hereNow">crags</rs> along a narrow pass.</l>
+                     <l rend="i0" n="3457">And lo! where raving o'er a hollow course</l>
+                     <l rend="i4" n="3458">The ever-flowing tide</l>
+                     <l rend="i0" n="3459">Foams in a thousand whirlpools! there adown</l>
+                     <l rend="i4" n="3460">The perforated rock</l>
+                     <l rend="i0" n="3461">Plunge the whole waters, so precipitous,</l>
+                     <l rend="i4" n="3462">So fathomless a fall</l>
+                     <l rend="i0" n="3463">That their earth-shaking roar came deadened up</l>
+                     <l rend="i0" n="3464">Like subterranean thunders.</l>
+                     <l rend="i10" n="3465"> "Allah save us!"</l>
+                     <l rend="i0" n="3466">Oneiza cried, "there is no path for man</l>
+                     <l rend="i4" n="3467">"From this accursed place!"</l>
+                     <l rend="i4" n="3468">And as she spake her joints</l>
+                     <l rend="i0" n="3469">Were loosened, and her knees sunk under her.</l>
+                     <l rend="i0" n="3470">"Cheer up, Oneiza!" Thalaba replied,</l>
+                     <l rend="i2" n="3471">"Be of good heart. We cannot fly</l>
+                     <l rend="i4" n="3472">"The dangers of the place,</l>
+                     <l rend="i4" n="3473">"But we can conquer them!"</l>
+                  </lg>
+                  <lg xml:id="B7_lg404">
+                     <l rend="i4" n="3474">And the young Arab's soul</l>
+                     <l rend="i0" n="3475">Arose within him; "what is he," he cried,</l>
+                     <l rend="i0" n="3476">"Who has prepared this <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">garden</rs> of delight,</l>
+                     <l rend="i4" n="3477">"And wherefore are its snares?"</l>
+                  </lg>
+                  <lg xml:id="B7_lg405">
+                     <l rend="i4" n="3478">The Arabian Maid replied,</l>
+                     <l rend="i0" n="3479">"The Women when I entered, welcomed me</l>
+                     <l rend="i0" n="3480">"To <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">Paradise</rs>, by Aloadin's will</l>
+                     <l rend="i0" n="3481">"Chosen like themselves, a Houri of <placeName ref="Earth_planet">the Earth</placeName>.</l>
+                     <l rend="i0" n="3482">"They told me, credulous of his blasphemies,</l>
+                     <l rend="i0" n="3483">"That Aloadin placed them to reward</l>
+                     <l rend="i0" n="3484">"His faithful servants with the joys of <rs type="metaplace" subtype="divin">Heaven</rs>.</l>
+                     <l rend="i0" n="3485">"O Thalaba, and all are ready here</l>
+                     <l rend="i0" n="3486">"To wreak his wicked will, and work all crimes!</l>
+                     <l rend="i4" n="3487">"How then shall we escape?"</l>
+                  </lg>
+                  <lg xml:id="B7_lg406">
+                     <l rend="i0" n="3488">"Woe to him!" cried the Appointed, a stern smile</l>
+                     <l rend="i0" n="3489">Darkening with stronger shades his countenance,</l>
+                     <l rend="i2" n="3490">"Woe to him! he hath laid his toils</l>
+                     <l rend="i4" n="3491">"To take the Antelope,</l>
+                     <l rend="i4" n="3492">"The Lion is come in!"</l>
+                     <l rend="i2" n="3493">She shook her head, "a Sorcerer he</l>
+                     <l rend="i0" n="3494">"And guarded by so many! Thalaba,...</l>
+                     <l rend="i0" n="3495">"And thou but one!"</l>
+                     <l rend="i8" n="3496">He raised his hand to Heaven,</l>
+                     <l rend="i4" n="3497">"Is there not God, Oneiza?</l>
+                     <l rend="i0" n="3498">"I have a Talisman, that, whoso bears,</l>
+                     <l rend="i0" n="3499">"Him, nor the Earthly, nor the Infernal Powers</l>
+                     <l rend="i4" n="3500">"Of Evil can cast down.</l>
+                     <l rend="i4" n="3501">"Remember Destiny</l>
+                     <l rend="i4" n="3502">"Hath marked me from mankind!</l>
+                     <l rend="i0" n="3503">"Now rest in faith, and I will guard thy sleep!"</l>
+                  </lg>
+                  <lg xml:id="B7_lg407">
+                     <l rend="i4" n="3504">So <rs type="place" ref="river">on a violet bank</rs>
+                     </l>
+                     <l rend="i4" n="3505">The Arabian Maid lay down,</l>
+                     <l rend="i0" n="3506">Her soft cheek pillowed upon moss and flowers.</l>
+                     <l rend="i4" n="3507">She lay in silent prayer,</l>
+                     <l rend="i2" n="3508">Till prayer had tranquillized her fears,</l>
+                     <l rend="i2" n="3509">And sleep fell on her. By her side</l>
+                     <l rend="i4" n="3510">Silent sate Thalaba,</l>
+                     <l rend="i4" n="3511">And gazed upon the Maid,</l>
+                     <l rend="i4" n="3512">And as he gazed, drew in</l>
+                     <l rend="i2" n="3513">New courage and intenser faith,</l>
+                     <l rend="i0" n="3514">And waited calmly for the eventful day.</l>
+                  </lg>
+                  <lg xml:id="B7_lg408">
+                     <l rend="i2" n="3515">Loud sung the Lark, the awakened Maid</l>
+                     <l rend="i0" n="3516">Beheld him twinkling in the morning light,</l>
+                     <l rend="i0" n="3517">And wished for wings and liberty like his.</l>
+                     <l rend="i2" n="3518">The flush of fear inflamed her cheek,</l>
+                     <l rend="i2" n="3519">But Thalaba was calm of soul,</l>
+                     <l rend="i4" n="3520">Collected for the work.</l>
+                     <l rend="i4" n="3521">He pondered in his mind</l>
+                     <l rend="i4" n="3522">How from <persName>Lobaba</persName>'s breast</l>
+                     <l rend="i4" n="3523">His blunted arrow fell.</l>
+                     <l rend="i4" n="3524">Aloadin too might wear</l>
+                     <l rend="i4" n="3525">Spell perchance of equal power</l>
+                     <l rend="i4" n="3526">To blunt the weapon's edge!</l>
+                     <l rend="i4" n="3527">Beside <rs type="place" ref="Tartarian_river">the
+                        river-brink</rs>,</l>
+                     <l rend="i0" n="3528">Rose a young poplar, whose unsteady leaves</l>
+                     <l rend="i2" n="3529">Varying their verdure to the gale,</l>
+                     <l rend="i4" n="3530">With silver glitter caught</l>
+                     <l rend="i4" n="3531">His meditating eye.</l>
+                     <l rend="i2" n="3532">Then to Oneiza turned the youth</l>
+                     <l rend="i4" n="3533">And gave his father's bow,</l>
+                     <l rend="i4" n="3534">And o'er her shoulders slung</l>
+                     <l rend="i4" n="3535">The quiver arrow-stored.</l>
+                     <l rend="i2" n="3536">"Me other weapon suits;" said he,</l>
+                     <l rend="i4" n="3537">"Bear thou the Bow: dear Maid!</l>
+                     <l rend="i0" n="3538">"The days return upon me, when these shafts,</l>
+                     <l rend="i0" n="3539">"True to thy guidance, from the lofty palm</l>
+                     <l rend="i0" n="3540">"Brought down the cluster, and thy gladdened eye</l>
+                     <l rend="i0" n="3541">"Exulting turned to seek the voice of praise.</l>
+                     <l rend="i0" n="3542">"Oh! yet again <persName>Oneiza</persName>, we shall
+                        share</l>
+                     <l rend="i0" n="3543">"Our <rs type="place" ref="desert" ana="pastVisit">desert</rs> joys!"</l>
+                     <l rend="i6" n="3544"> So saying to the bank</l>
+                     <l rend="i4" n="3545">He moved, and stooping low,</l>
+                     <l rend="i0" n="3546">With double grasp, hand below hand, he clenched</l>
+                     <l rend="i4" n="3547">And from its watry soil</l>
+                     <l rend="i4" n="3548">Uptore the poplar trunk.</l>
+                     <l rend="i2" n="3549">Then off he shook the clotted earth,</l>
+                     <l rend="i4" n="3550">And broke away the head</l>
+                     <l rend="i4" n="3551">And boughs and lesser roots,</l>
+                     <l rend="i4" n="3552">And lifting it aloft</l>
+                     <l rend="i0" n="3553">Wielded with able sway the massy club.</l>
+                     <l rend="i0" n="3554">"Now for this child of <rs type="metaplace" subtype="divin" ana="rel">Hell</rs>!" quoth Thalaba,</l>
+                     <l rend="i2" n="3555">"Belike he shall exchange to day</l>
+                     <l rend="i4" n="3556">"<rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">His dainty Paradise</rs>
+                     </l>
+                     <l rend="i2" n="3557">"For other dwelling, and the fruit</l>
+                     <l rend="i4" n="3558">"Of Zaccoum,
+                           <note type="author" anchored="true" xml:id="N_134">
+                              <p> The Zaccoum is a tree which issueth from the bottom of <rs type="metaplace" subtype="divin">Hell</rs>: the fruit thereof
+                                 resembleth the heads of Devils; and the damned shall eat of the
+                                 same, and shall fill their bellies therewith; and there shall be
+                                 given them thereon a mixture of boiling water to drink; afterwards
+                                 shall they return to Hell. <bibl>Koran. Chap. 37.</bibl>
+                              </p>
+                              <p> This hellish Zaccoum has its name from a thorny tree in Tehâma,
+                                 which bears fruit like an almond, but extremely bitter; therefore
+                                 the same name is given to the infernal tree. <bibl>Sale.</bibl>
+                              </p>
+                           </note>
+                         cursed tree."</l>
+                  </lg>
+                  <lg xml:id="B7_lg409">
+                     <l rend="i2" n="3559">With that the youth and Arab maid</l>
+                     <l rend="i2" n="3560">Towards <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">the garden centre</rs> past.</l>
+                     <l rend="i0" n="3561">It chanced that Aloadin had convoked</l>
+                     <l rend="i4" n="3562">The garden-habitants,</l>
+                     <l rend="i4" n="3563">And with the assembled throng</l>
+                     <l rend="i0" n="3564">Oneiza mingled, and the appointed youth.</l>
+                     <l rend="i2" n="3565">Unmarked they mingled, or if one</l>
+                     <l rend="i0" n="3566">With busier finger to his neighbour notes</l>
+                     <l rend="i2" n="3567">The quivered Maid, "haply," he says,</l>
+                     <l rend="i2" n="3568">"Some daughter of the
+                           <note type="author" anchored="true" xml:id="N_135">
+                              <p> When the sister of the famous Derar was made prisoner before
+                                    <placeName>Damascus</placeName> with many other Arabian women,
+                                 she excited them to mutiny, they seized the poles of the tents and
+                                 attacked their captors. This bold resolution, says Marigny, was not
+                                 inspired by impotent anger. Most of these women had military
+                                 inclinations already; particularly those who were of the tribe of
+                                 Hemiar or of the Homerites, where they are early exercised in
+                                 riding the horse, and in using the bow, the lance, and the javelin.
+                                 The revolt was successful, for during the engagement Derar came up
+                                 to their assistance. <bibl>Marigny.</bibl>
+                              </p>
+                           </note>
+                         Homerites,</l>
+                     <l rend="i0" n="3569">"Or one who yet remembers with delight</l>
+                     <l rend="i0" n="3570">"Her native tents of <placeName ana="rel">Himiar</placeName>!"
+                        "Nay!" rejoins</l>
+                     <l rend="i0" n="3571">His comrade, "a love-pageant! for the man</l>
+                     <l rend="i0" n="3572">"Mimics with that fierce eye and knotty club</l>
+                     <l rend="i0" n="3573">"Some savage lion-tamer, she forsooth</l>
+                     <l rend="i0" n="3574">"Must play the heroine of the years of old!"</l>
+                  </lg>
+                  <lg xml:id="B7_lg410">
+                     <l rend="i0" n="3575">Radiant with gems upon <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">his throne of gold</rs>
+                     </l>
+                     <l rend="i4" n="3576">Aloadin sate.</l>
+                     <l rend="i4" n="3577">O'er the Sorcerer's head</l>
+                     <l rend="i0" n="3578">Hovered a Bird, and in the fragrant air</l>
+                     <l rend="i4" n="3579">Waved his winnowing wings,</l>
+                     <l rend="i4" n="3580">A living canopy.</l>
+                     <l rend="i2" n="3581">Large as the plumeless Cassowar</l>
+                     <l rend="i4" n="3582">Was that o'ershadowing Bird;</l>
+                     <l rend="i2" n="3583">So huge his talons, in their grasp</l>
+                     <l rend="i0" n="3584">The Eagle would have hung a helpless prey.</l>
+                     <l rend="i2" n="3585">His beak was iron, and his plumes</l>
+                     <l rend="i4" n="3586">Glittered like burnished gold,</l>
+                     <l rend="i0" n="3587">And his eyes glowed, as tho' an inward fire</l>
+                     <l rend="i4" n="3588">Shone thro' a diamond orb.</l>
+                  </lg>
+                  <lg xml:id="B7_lg411">
+                     <l rend="i4" n="3589">The blinded multitude</l>
+                     <l rend="i4" n="3590">Adored the Sorcerer,</l>
+                     <l rend="i2" n="3591">And bent the knee before him,</l>
+                     <l rend="i4" n="3592">And shouted out his praise,</l>
+                     <l rend="i0" n="3593">"Mighty art thou, the Bestower of joy,</l>
+                     <l rend="i4" n="3594">"The Lord of <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">Paradise</rs>!"</l>
+                     <l rend="i4" n="3595">Aloadin waved his hand,</l>
+                     <l rend="i2" n="3596">In idolizing reverence</l>
+                     <l rend="i4" n="3597">Moveless they stood and mute.</l>
+                     <l rend="i4" n="3598">"Children of <placeName ref="Earth_planet" ana="rel">Earth</placeName>," he cried,</l>
+                     <l rend="i4" n="3599">"Whom I have guided here</l>
+                     <l rend="i0" n="3600">"By easier passage than <rs type="metaplace" subtype="passage" ana="ana">the gate of Death</rs>,</l>
+                     <l rend="i2" n="3601">"The infidel Sultan to whose <rs type="place" ref="Tartarian-Sultanate" ana="rel">lands</rs>
+                     </l>
+                     <l rend="i4" n="3602">"My <rs type="place" ref="Tartarian_Mts" ana="rel">mountains</rs> reach
+                        their roots,</l>
+                     <l rend="i2" n="3603">"Blasphemes and threatens me.</l>
+                     <l rend="i0" n="3604">"Strong are his armies, many are his guards,</l>
+                     <l rend="i4" n="3605">"Yet may a dagger find him.</l>
+                     <l rend="i2" n="3606">"Children of Earth, I tempt you not</l>
+                     <l rend="i0" n="3607">"With the vain promise of a bliss unseen,</l>
+                     <l rend="i2" n="3608">"With tales of a hereafter Heaven</l>
+                     <l rend="i2" n="3609">"Whence never Traveller hath returned!</l>
+                     <l rend="i0" n="3610">"Have ye not tasted of the cup of joy,</l>
+                     <l rend="i2" n="3611">"That in <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">these groves of happiness</rs>
+                     </l>
+                     <l rend="i2" n="3612">"For ever over-mantling tempts</l>
+                     <l rend="i4" n="3613">"The ever-thirsty lip?</l>
+                     <l rend="i2" n="3614">"Who is there here that by a deed</l>
+                     <l rend="i4" n="3615">"Of danger will deserve</l>
+                     <l rend="i0" n="3616">"The eternal joys of actual <rs type="metaplace" subtype="divin" ana="rel">Paradise</rs>?</l>
+                  </lg>
+                  <lg xml:id="B7_lg412">
+                     <l rend="i4" n="3617">"I!" Thalaba exclaimed,</l>
+                     <l rend="i0" n="3618">And springing forward, on the Sorcerer's head</l>
+                     <l rend="i4" n="3619">He dashed the knotty club.</l>
+                  </lg>
+                  <lg xml:id="B7_lg413">
+                     <l rend="i4" n="3620">He fell not, tho' the force</l>
+                     <l rend="i2" n="3621">Shattered his skull; nor flowed the blood.</l>
+                     <l rend="i2" n="3622">For by some hellish talisman</l>
+                     <l rend="i4" n="3623">His life imprisoned still</l>
+                     <l rend="i0" n="3624">Dwelt in the body. The astonished crowd</l>
+                     <l rend="i2" n="3625">Stand motionless with fear, and wait</l>
+                     <l rend="i0" n="3626">Immediate vengeance from the wrath of Heaven.</l>
+                     <l rend="i2" n="3627">And lo! the Bird ... the monster Bird</l>
+                     <l rend="i4" n="3628">Soars up ... then pounces down</l>
+                     <l rend="i4" n="3629">To seize on Thalaba!</l>
+                     <l rend="i4" n="3630">Now Oneiza, bend the bow,</l>
+                     <l rend="i4" n="3631">Now draw the arrow home!</l>
+                     <l rend="i0" n="3632">It fled, the arrow from Oneiza's hand,</l>
+                     <l rend="i4" n="3633">It pierced the monster Bird,</l>
+                     <l rend="i4" n="3634">It broke the Talisman.</l>
+                     <l rend="i4" n="3635">Then darkness covered all,...</l>
+                     <l rend="i0" n="3636">
+                        <placeName ref="Earth_planet" ana="rel">Earth</placeName> shook,
+                           <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs> thundered, and amid the
+                        yells</l>
+                     <l rend="i4" n="3637">Of Spirits accursed, destroyed</l>
+                     <l rend="i4" n="3638">The <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="hereNow">Paradise</rs>
+                           <note type="author" anchored="true" xml:id="N_136">
+                              <p> In the N. E. parts of <placeName>Persia</placeName> there was <rs type="earthworks" subtype="garden">an old man named
+                                       <persName>Aloadin</persName>, a Mahumetan, which had inclosed
+                                       <geogFeat>a goodly vally, situate between two
+                                       hilles</geogFeat>, and furnished it with all variety which
+                                       <name type="myth">Nature</name> and <name type="myth">Art</name> could yield, as fruits, pictures, rilles of milk,
+                                    wine, honey, water, pallaces, and beautifull damosells, richly
+                                    attired, and called it <rs type="metaplace" subtype="garden" ref="Paradise-Aloadin">Paradise</rs>
+                                 </rs>. To this was no passage but by <rs type="building" subtype="fort">an impregnable castle</rs>, and daily preaching
+                                 the pleasures of this Paradise to the youth which he kept in his
+                                 court, sometimes would minister a sleepy drinke to some of them,
+                                 and then conveigh them thither, where being entertained with these
+                                 pleasures 4 or 5 days they supposed themselves rapt into Paradise,
+                                 and then being again cast into a trance by the said drink, he
+                                 caused them to be carried forth, and then would examine them of
+                                 what they had seene, and by this delusion would make them resolute
+                                 for any enterprize which he should appoint them, as to murther any
+                                 Prince his enemy, for they feared not death in hope of their <rs type="metaplace" subtype="divin">Mahumetical Paradise</rs>. But
+                                    <persName>Haslor or Ulan</persName> after 3 years siege
+                                 destroyed him and this his fools Paradise. <bibl>
+                                    <author>Purchas</author>.</bibl>
+                              </p>
+                              <p> In another place <bibl>
+                                    <author>Purchas</author>
+                                 </bibl> tells the same tale, but calls the Impostor
+                                    <persName>Aladeules</persName>, and says that <persName>Selim
+                                    the Ottoman Emperor</persName>, destroyed his <rs type="metaplace" subtype="garden" ref="Paradise-Aladeules">Paradise</rs>. </p>
+                              <p> The story is told by so many writers and with such difference of
+                                 time and place, as wholly to invalidate its truth, even were the
+                                 circumstances more probable. </p>
+                              <p>
+                              <rs type="metaplace" subtype="garden" ref="Paradise-Senex">Travelling on further towards the south, I arrived at a
+                                    certaine countrey called <placeName>Melistorte</placeName>,
+                                    which is a very pleasant and fertile place. <rs type="building" subtype="wall">And in this countrey there was a certeine aged
+                                       man called <persName ref="Senex">Senex de monte</persName>,
+                                       who round about <geogFeat>two mountaines</geogFeat> had built
+                                       a wall to inclose the sayd mountaines.</rs> Within this wall
+                                    there were the fairest and most chrystall fountaines <rs type="place" ref="the_world">in the whole world</rs>: and
+                                    about the sayd fountaines there were most beautiful virgins in
+                                    great number, and goodly horses also, and in a word every thing
+                                    that could be devised for bodily solace and delight, and
+                                    therefore the inhabitants of the countrey call the same place by
+                                    the name of Paradise.</rs>
+                           </p>
+                              <p>
+                              <rs type="metaplace" subtype="garden" ref="Paradise-Senex">The sayd
+                                    olde <persName>Senex</persName>, when he saw any proper and
+                                    valiant young man, he would admit him into his paradise.
+                                    Moreover by certaine conducts he makes wine and milke to flow
+                                    abundantly. This Senex, when he hath a minde to revenge
+                                    himselfe, or to slay any king or baron, commandeth him that is
+                                    governor of the sayd paradise, to bring thereunto some of the
+                                    acquaintance of the sayd king or baron, permitting him awhile to
+                                    take his pleasure therein, and then to give him a certeine
+                                    potion being of force to cast him into such a slumber as should
+                                    make him quite voide of all sense, and so being in a profound
+                                    sleepe to convey him out of his paradise: who being awaked, and
+                                    seeing himselfe thrust out of the paradise, would become so
+                                    sorrowfull, that he could not in the world devise what to do, or
+                                    whither to turne him. Then would he go unto the foresaide old
+                                    man, beseeching him that he might be admitted againe into his
+                                    paradise: who saith unto him, you cannot be admitted thither,
+                                    unlesse you will slay such or such a man for my sake, and if you
+                                    will give the attempt onely whether you kill him or no, I wil
+                                    place you againe in paradise, that there you may remaine
+                                    alwayes: then would the party without faile put the same in
+                                    execution, indevouring to murther all those against whom the
+                                    sayd olde man had conceived any hatred. And therefore all the
+                                    kings of the east stood in awe of the sayd olde man, and gave
+                                    unto him great tribute.</rs>
+                           </p>
+                              <p>
+                                 <rs type="imp" subtype="invade">And when <orgName>the
+                                       Tartars</orgName> had subdued a great part of <placeName ref="the_world">the world</placeName>, they came unto <rs type="person" ref="Senex">the sayd olde man</rs>, and tooke
+                                    from him the custody of his paradise: who being incensed
+                                    thereat, sent abroad divers desperate and resolute persons out
+                                    of his forenamed paradise, and caused many of the Tartarian
+                                    nobles to be slaine. The Tartars seeing this, went and besieged
+                                    the city wherein the sayd olde man was, tooke him, and put him
+                                    to a most cruell and ignominious death.</rs>
+                                 <bibl>Odoricus.</bibl>
+                              </p>
+                              <p> The most particular account is given by that undaunted liar
+                                    <persName>Sir John Maundevile</persName>. </p>
+                              <p> "Beside the <placeName>Yle of Pentexoire</placeName>, that is the
+                                    <placeName>Lond of Prestre John</placeName>, is a gret Yle long
+                                 and brode, that men clepen Milsterak; and it is in the Lordschipe
+                                 of Prestre John. In that Yle is gret plentee of godes. There was
+                                 dwellinge somtyme a ryche man; and it is not long sithen, and men
+                                 clept him Gatholonabes; and he was full of cauteles and of sotylle
+                                 disceytes: and had a fulle fair Castelle and a strong, in a
+                                 mountayne, so strong and so noble that no man cowde devise a
+                                 fairere ne a strengere. And he had let muren all the mountayne
+                                 aboute with a strong walle and a fair. And with inne the walles he
+                                 had the fairest gardyn that ony man might behold; and therein were
+                                 trees beryinge all maner of frutes that ony man cowde devyse, and
+                                 therein were also alle maner vertuous herbes of gode smelle, and
+                                 alle other herbes also that beren faire floures, and he had also in
+                                 that gardyn many faire welles, and beside the welles he had lete
+                                 make faire halles and faire chambres, depeynted alle with gold and
+                                 azure. And there weren in that place many dyverse thinges, and many
+                                 dyverse stories: and of bestes and of bryddes that songen fulle
+                                 delectabely, and moveden be craft that it semede that thei weren
+                                 quyke. And he had also in his gardyn all maner of fowles and of
+                                 bestes, that ony man myghte thinke on, for to have pley or desport
+                                 to beholde hem. And he had also in that place, the faireste
+                                 Damyseles that myghte ben founde under the age of 15 Zere, and the
+                                 fairest zonge striplynges that men myghte gete of that same age:
+                                 and all thei weren clothed in clothes of Gold fully rychely, and he
+                                 seyde that tho weren Angeles. And he had also let make 3 welles
+                                 faire and noble and all envyround with ston of Jaspre, of
+                                 cristalle, dyapred with gold and sett with precious stones and
+                                 grete orient Perles. And he had made a conduyt under erthe, so that
+                                 the 3 Welles, at his list, on scholde renne milk, another wyn, and
+                                 another hony and that place he clept Paradys. And whan that ony
+                                 gode Knyght, that was hardy and noble, cam to see this Rialtee, he
+                                 would lede him into his Paradys, and schewen him theise wondirfulle
+                                 thinges to his desport, and the marveyllous and delicious song of
+                                 dyverse Bryddes, and the faire Damyseles and the faire welles of
+                                 mylk, wyn, and honey plentevous rennynge. And he woulde let make
+                                 dyverse instrumentes of musick to sownen in an high Tour, so merily
+                                 that it was joye for to here, and no man scholde see the craft
+                                 thereof: and tho, he sayde, weren Aungeles of God, and that place
+                                 was Paradys that<name type="divin">God</name>had behyghte to his
+                                 friendes, saying <hi rend="italic">Dabo vobis terram fluentem lacte
+                                    &amp; melle</hi>. And thanne wolde he maken hem to drynken of
+                                 certeyn drynk, whereof anon thei sholden be dronken, and thanne
+                                 wolde hem thinken gretter delyt than thei hadden before. And then
+                                 wolde he seye to hem that zif thei wolde dyen for him and for his
+                                 love, that after hire dethe thei scholde come to his Paradys, and
+                                 their scholde ben of the age of the Damyseles, and thei scholde
+                                 pleyen with hem and zit ben Maydenes. And after that zit scholde he
+                                 putten hem in a fayrere Paradys, where that thei scholde see<name type="divin">God</name>of nature visibely in his Magestee and in
+                                 his blisse. And than wolde he schewe hem his entent and seye hem,
+                                 that zif thei wolde go sle such a Lord, or such a man, that was his
+                                 Enemye or contrarious to his list, that thei scholde not drede to
+                                 don it, and for to be sleyn therefore hemself: for aftir hire dethe
+                                 he wolde putten hem into another Paradys, that was an 100 fold
+                                 fairere than ony of the tothere: and there scholde thei dwellen
+                                 with the most fairest Damyseles that myghte be, and pley with hem
+                                 ever more. And thus wenten many dyverse lusty Bacheleres for to sle
+                                 grete Lords, in dyverse Countrees, that weren his enemyes, and
+                                 maden hemself to ben slayn in hope to have that Paradys. And thus
+                                 often tyme he was revenged of his enemyes by his sotylle disceytes
+                                 and false cauteles. And whan the worthe men of the Contree hadden
+                                 perceyved this sotylle falshod of this Gatholonabes, thei assembled
+                                 hem with force, and assayleden his Castelle, and slowen him, and
+                                 destroyden all the faire places, and alle the nobletees of that
+                                 Paradys. The place of the welles and of the walles and of many
+                                 other thinges bene zit apertly sene, but the richesse is voyded
+                                 clene, and it is not long gon sithen that place was destroyed."
+                                    <bibl>Sir John Maundeville.</bibl>
+                              </p>
+                           </note>
+                         of Sin.</l>
+                  </lg>
+                  <lg xml:id="B7_lg414">
+                     <l rend="i4" n="3639">At last the earth was still;</l>
+                     <l rend="i2" n="3640">The yelling of the Demons ceased;</l>
+                     <l rend="i0" n="3641">Opening the wreck and ruin to their sight</l>
+                     <l rend="i0" n="3642">The darkness rolled away. Alone in life</l>
+                     <l rend="i0" n="3643">Amid the desolation and the dead</l>
+                     <l rend="i0" n="3644">Stood the Destroyer and the Arabian Maid.</l>
+                     <l rend="i2" n="3645">They looked around, the rocks were rent,</l>
+                     <l rend="i0" n="3646">The path was open, late by magic closed.</l>
+                     <l rend="i0" n="3647">Awe-struck and silent down <rs type="place" ref="Tartarian_Mts" ana="hereNow">the stony glen</rs>
+               </l>
+                     <l rend="i4" n="3648">They wound their thoughtful way.</l>
+                  </lg>
+                  <lg xml:id="B7_lg415">
+                     <l rend="i4" n="3649">Amid the vale below</l>
+                     <l rend="i4" n="3650">Tents rose, and streamers played</l>
+                     <l rend="i2" n="3651">And javelins sparkled in the sun,</l>
+                     <l rend="i4" n="3652">And multitudes encamped</l>
+                     <l rend="i0" n="3653">Swarmed, far as eye could follow, o'er the plain.</l>
+                     <l rend="i2" n="3654">There in his war pavilion sate</l>
+                     <l rend="i4" n="3655">In council with his Chiefs</l>
+                     <l rend="i4" n="3656">The Sultan of <placeName ref="Tartarian-Sultanate" ana="hereNow">the
+                           Land</placeName>.</l>
+                     <l rend="i0" n="3657">Before his presence there a Captain led</l>
+                     <l rend="i2" n="3658">Oneiza and the appointed Youth.</l>
+                  </lg>
+                  <lg xml:id="B7_lg416">
+                     <l rend="i0" n="3659">"Obedient to our Lord's command," said he,</l>
+                     <l rend="i0" n="3660">"We past towards <rs type="place" ref="Tartarian_Mts" ana="rel">the
+                           mountains</rs>, and began</l>
+                     <l rend="i0" n="3661">"The ascending strait; when suddenly <placeName ref="Earth_planet" ana="rel">Earth</placeName> shook,</l>
+                     <l rend="i0" n="3662">"And darkness like the midnight fell around,</l>
+                     <l rend="i2" n="3663">"And fire and thunder came from Heaven</l>
+                     <l rend="i0" n="3664">"As tho' the Retribution day were come.</l>
+                     <l rend="i0" n="3665">"After the terror ceased, and when with hearts</l>
+                     <l rend="i0" n="3666">"Somewhat assured, again we ventured on,</l>
+                     <l rend="i0" n="3667">"This youth and woman met us on the way.</l>
+                     <l rend="i0" n="3668">"They told us that from <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="pastVisit">Aloadin's haunt</rs>
+                     </l>
+                     <l rend="i0" n="3669">"They came on whom the judgement-stroke has fallen;</l>
+                     <l rend="i0" n="3670">"He and his sinful <rs type="metaplace"
+                      subtype="garden"
+                      ref="Paradise-Aloadin"
+                      ana="pastVisit">Paradise</rs> at once</l>
+                     <l rend="i0" n="3671">"Destroyed by them, the agents they of <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs>.</l>
+                     <l rend="i0" n="3672">"Therefore I brought them hither, to repeat</l>
+                     <l rend="i0" n="3673">"The tale before thy presence; that as search</l>
+                     <l rend="i0" n="3674">"Shall prove it false or faithful, to their merit</l>
+                     <l rend="i0" n="3675">"Thou mayest reward them."</l>
+                     <l rend="i11" n="3676">"Be it done to us,"</l>
+                     <l rend="i0" n="3677">Thalaba answered, "as the truth shall prove!"</l>
+                  </lg>
+                  <lg xml:id="B7_lg417">
+                     <l rend="i4" n="3678">The Sultan while he spake</l>
+                     <l rend="i0" n="3679">"Fixed on him the proud eye of sovereignty;</l>
+                     <l rend="i4" n="3680">"If thou hast played with us,</l>
+                     <l rend="i0" n="3681">"By <name type="divin">Allah</name> and by Ali, Death
+                        shall seal</l>
+                     <l rend="i0" n="3682">"The lying lips for ever! if the thing</l>
+                     <l rend="i0" n="3683">"Be as thou sayest it, Arab, thou shalt stand</l>
+                     <l rend="i2" n="3684">"Next to ourself!"...</l>
+                     <l rend="i10" n="3685">And hark! the cry</l>
+                     <l rend="i2" n="3686">The lengthening cry, the increasing shout</l>
+                     <l rend="i4" n="3687">Of joyful multitudes!</l>
+                  </lg>
+                  <lg xml:id="B7_lg418">
+                     <l rend="i2" n="3688">Breathless and panting to the tent</l>
+                     <l rend="i2" n="3689">The bearer of good tidings comes,</l>
+                     <l rend="i0" n="3690">"O Sultan, live for ever! be thy foes</l>
+                     <l rend="i4" n="3691">"Like Aloadin all!</l>
+                     <l rend="i2" n="3692">"The wrath of<name type="divin">God</name>hath smitten
+                        him."</l>
+                  </lg>
+                  <lg xml:id="B7_lg419">
+                     <l rend="i4" n="3693">Joy at the welcome tale</l>
+                     <l rend="i4" n="3694">Shone in the Sultan's cheek</l>
+                     <l rend="i2" n="3695">"Array the Arab in the robe</l>
+                     <l rend="i4" n="3696">"Of honour," he exclaimed,</l>
+                     <l rend="i0" n="3697">"And place a chain of gold around his neck,</l>
+                     <l rend="i0" n="3698">"And bind around his brow the diadem,</l>
+                     <l rend="i2" n="3699">"And mount him on my steed of state,</l>
+                     <l rend="i4" n="3700">"And lead him thro' the camp,</l>
+                     <l rend="i0" n="3701">"And let the Heralds go before and cry</l>
+                     <l rend="i4" n="3702">"Thus shall the Sultan reward</l>
+                     <l rend="i4" n="3703">"The man
+                           <note type="author" anchored="true" xml:id="N_137">
+                              <p> Let the royal apparel be brought which the King useth to wear, and
+                                 the horse that the King rideth upon, and the crown royal which is
+                                 set upon his head: </p>
+                              <p> And let this apparel and horse be delivered to the hand of one of
+                                 the King's most noble princes, that they may array the man withal
+                                 whom the King delighteth to honour, and bring him on horseback
+                                 thro' the street of the city, and proclaim before him, Thus shall
+                                 it be done to the man whom the King delighteth to honour.
+                                    <bibl>Esther.</bibl> VI. 8. 9. </p>
+                           </note>
+                         who serves him well!"</l>
+                  </lg>
+                  <lg xml:id="B7_lg420">
+                     <l rend="i4" n="3704">Then in the purple robe</l>
+                     <l rend="i4" n="3705">They vested Thalaba.</l>
+                     <l rend="i0" n="3706">And hung around his neck the golden chain,</l>
+                     <l rend="i0" n="3707">And bound his forehead with the diadem,</l>
+                     <l rend="i4" n="3708">And on the royal steed</l>
+                     <l rend="i4" n="3709">They led him thro' <rs type="place" ref="Tartarian-Sultanate" ana="hereNow">the camp</rs>,</l>
+                     <l rend="i2" n="3710">And Heralds went before and cried</l>
+                     <l rend="i4" n="3711">"Thus shall the Sultan reward</l>
+                     <l rend="i4" n="3712">"The man who serves him well!"</l>
+                  </lg>
+                  <lg xml:id="B7_lg421">
+                     <l rend="i2" n="3713">When from the pomp of triumph</l>
+                     <l rend="i4" n="3714">And presence of the King</l>
+                     <l rend="i0" n="3715">Thalaba sought the tent allotted him,</l>
+                     <l rend="i2" n="3716">Thoughtful the Arabian Maid beheld</l>
+                     <l rend="i4" n="3717">His animated eye,</l>
+                     <l rend="i4" n="3718">His cheek inflamed with pride.</l>
+                     <l rend="i4" n="3719">"Oneiza!" cried the youth,</l>
+                     <l rend="i0" n="3720">"The King hath done according to his word,</l>
+                     <l rend="i4" n="3721">"And made me in <rs type="place" ref="Tartarian-Sultanate" ana="hereNow">the
+                           land</rs>
+                     </l>
+                     <l rend="i4" n="3722">"Next to himself be named!...</l>
+                     <l rend="i0" n="3723">"But why that serious melancholy smile?</l>
+                     <l rend="i0" n="3724">"Oneiza when I heard the voice that gave me</l>
+                     <l rend="i0" n="3725">"Honour, and wealth, and fame, the instant thought</l>
+                     <l rend="i0" n="3726">"Arose to fill my joy, that thou wouldest hear</l>
+                     <l rend="i0" n="3727">"The tidings, and be happy."</l>
+                  </lg>
+                  <lg xml:id="B7_lg422">
+                     <l rend="i8" n="3728">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg423">
+                     <l rend="i11" n="3729">Thalaba</l>
+                     <l rend="i0" n="3730">Thou wouldest not have me mirthful! am I not</l>
+                     <l rend="i0" n="3731">An orphan,... among strangers?</l>
+                  </lg>
+                  <lg xml:id="B7_lg424">
+                     <l rend="i8" n="3732">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg425">
+                     <l rend="i12" n="3733">But with me.</l>
+                  </lg>
+                  <lg xml:id="B7_lg426">
+                     <l rend="i8" n="3734">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg427">
+                     <l rend="i0" n="3735">My Father,...</l>
+                  </lg>
+                  <lg xml:id="B7_lg428">
+                     <l rend="i8" n="3736">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg429">
+                     <l rend="i6" n="3737">Nay be comforted! last night</l>
+                     <l rend="i0" n="3738">To what wert thou exposed! in what a peril</l>
+                     <l rend="i0" n="3739">The morning found us! safety, honour, wealth</l>
+                     <l rend="i0" n="3740">These now are ours. This instant who thou wert</l>
+                     <l rend="i0" n="3741">The Sultan asked. I told him from our childhood</l>
+                     <l rend="i0" n="3742">We had been plighted;... was I wrong Oneiza?</l>
+                     <l rend="i0" n="3743">And when he said with bounties he would heap</l>
+                     <l rend="i0" n="3744">Our nuptials,... wilt thou blame me if I blest</l>
+                     <l rend="i0" n="3745">His will, that bade me fix the marriage day!</l>
+                     <l rend="i0" n="3746">In tears Oneiza?...</l>
+                  </lg>
+                  <lg xml:id="B7_lg430">
+                     <l rend="i8" n="3747">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg431">
+                     <l rend="i4" n="3748">Remember Destiny</l>
+                     <l rend="i4" n="3749">Hath marked thee from mankind!</l>
+                  </lg>
+                  <lg xml:id="B7_lg432">
+                     <l rend="i8" n="3750">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg433">
+                     <l rend="i0" n="3751">Perhaps when Aloadin was destroyed</l>
+                     <l rend="i0" n="3752">The mission ceased, else would wise Providence</l>
+                     <l rend="i0" n="3753">With its rewards and blessings strew my path</l>
+                     <l rend="i0" n="3754">Thus for accomplished service?</l>
+                  </lg>
+                  <lg xml:id="B7_lg434">
+                     <l rend="i8" n="3755">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg435">
+                     <l rend="i12" n="3756">Thalaba!</l>
+                  </lg>
+                  <lg xml:id="B7_lg436">
+                     <l rend="i8" n="3757">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg437">
+                     <l rend="i0" n="3758">Or if haply not, yet whither should I go?</l>
+                     <l rend="i0" n="3759">Is it not prudent to abide in peace</l>
+                     <l rend="i0" n="3760">Till I am summoned?</l>
+                  </lg>
+                  <lg xml:id="B7_lg438">
+                     <l rend="i8" n="3761">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg439">
+                     <l rend="i8" n="3762">Take me to <placeName ref="desert" ana="pastVisit">the
+                           Deserts</placeName>!</l>
+                  </lg>
+                  <lg xml:id="B7_lg440">
+                     <l rend="i8" n="3763">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg441">
+                     <l rend="i0" n="3764">But Moath is not there; and wouldest thou dwell</l>
+                     <l rend="i0" n="3765">In a Stranger's tent? thy father then might seek</l>
+                     <l rend="i0" n="3766">In long and fruitless wandering for his child.</l>
+                  </lg>
+                  <lg xml:id="B7_lg442">
+                     <l rend="i8" n="3767">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg443">
+                     <l rend="i4" n="3768">Take me then to <placeName ana="rel">Mecca</placeName>!</l>
+                     <l rend="i0" n="3769">There let me dwell a servant of the Temple.</l>
+                     <l rend="i0" n="3770">Bind thou thyself my veil,... to human eye</l>
+                     <l rend="i0" n="3771">It never shall be lifted. There, whilst thou</l>
+                     <l rend="i0" n="3772">Shalt go upon thine enterprize, my prayers,</l>
+                     <l rend="i0" n="3773">Dear Thalaba! shall rise to succour thee,</l>
+                     <l rend="i0" n="3774">And I shall live,... if not in happiness;</l>
+                     <l rend="i0" n="3775">Surely in hope.</l>
+                  </lg>
+                  <lg xml:id="B7_lg444">
+                     <l rend="i8" n="3776">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg445">
+                     <l rend="i6" n="3777">Oh think of better things!</l>
+                     <l rend="i0" n="3778">The will of <rs type="metaplace" subtype="divin">Heaven</rs> is plain: by wonderous ways</l>
+                     <l rend="i0" n="3779">It led us here, and soon the common voice</l>
+                     <l rend="i0" n="3780">Shall tell what we have done, and how we dwell</l>
+                     <l rend="i0" n="3781">
+                        <rs type="place" ref="Tartarian-Sultanate" ana="hereNow">Under the shadow of the
+                           Sultan's wing</rs>,</l>
+                     <l rend="i0" n="3782">So shall thy father hear the fame, and find us</l>
+                     <l rend="i0" n="3783">What he hath wished us ever.... Still in tears!</l>
+                     <l rend="i0" n="3784">Still that unwilling eye! nay ... nay.... Oneiza....</l>
+                     <l rend="i0" n="3785">Has then another since I left the tent....</l>
+                  </lg>
+                  <lg xml:id="B7_lg446">
+                     <l rend="i8" n="3786">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B7_lg447">
+                     <l rend="i0" n="3787">Thalaba! Thalaba!</l>
+                  </lg>
+                  <lg xml:id="B7_lg448">
+                     <l rend="i2" n="3788">With song, with music, and with dance</l>
+                     <l rend="i4" n="3789">The bridal pomp proceeds.</l>
+                     <l rend="i4" n="3790">Following on the veiled Bride</l>
+                     <l rend="i4" n="3791">Fifty female slaves attend</l>
+                     <l rend="i4" n="3792">In costly robes that gleam</l>
+                     <l rend="i4" n="3793">With interwoven gold,</l>
+                     <l rend="i4" n="3794">And sparkle far with gems.</l>
+                     <l rend="i2" n="3795">An hundred slaves behind them bear</l>
+                     <l rend="i2" n="3796">Vessels of silver and vessels of gold</l>
+                     <l rend="i2" n="3797">And many a gorgeous garment gay</l>
+                     <l rend="i2" n="3798">The presents that the Sultan gave.</l>
+                     <l rend="i2" n="3799">On either hand the pages go</l>
+                     <l rend="i2" n="3800">With torches flaring thro' the gloom,</l>
+                     <l rend="i2" n="3801">And trump and timbrel merriment</l>
+                     <l rend="i4" n="3802">Accompanies their way;</l>
+                     <l rend="i2" n="3803">And multitudes with loud acclaim</l>
+                     <l rend="i4" n="3804">Shout blessings on the Bride.</l>
+                     <l rend="i2" n="3805">And now they reach the palace pile,</l>
+                     <l rend="i2" n="3806">The palace home of Thalaba,</l>
+                     <l rend="i2" n="3807">And now the marriage feast is spread</l>
+                     <l rend="i2" n="3808">And from the finished banquet now</l>
+                     <l rend="i4" n="3809">The wedding guests are gone.</l>
+                  </lg>
+                  <lg xml:id="B7_lg449">
+                     <l rend="i2" n="3810">Who comes from the bridal chamber?</l>
+                     <l rend="i2" n="3811">It is Azrael, the Angel of Death.</l>
+                  </lg>
+               </div>
+      </body>
+   </text>
+</TEI>

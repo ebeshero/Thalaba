@@ -1,1 +1,1417 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>Thalaba the Destroyer (1801), Volume 2: Book 10</titleStmt></fileDesc></teiHeader><text><front><head><bibl><title level="m">Thalaba the Destroyer</title><title level="a">, Volume 2: Book 10</title> () by <author>Robert Southey</author></bibl></head></front><body/></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801), Volume 2: Book 10</title>
+            <author>Robert Southey</author>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/>
+            </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title>
+               <title level="a">, Volume 2: Book 10</title> (<date>1801</date>) by <author>Robert Southey</author>
+            </bibl>
+         </head>
+      </front>
+      <body>
+         <div type="book" xml:id="Book_10">
+                  <head>THE TENTH BOOK.</head>
+                  <lg xml:id="B10_lg560">
+                     <l rend="i0" n="4967">Alone, beside a rivulet it stands</l>
+                     <l rend="i4" n="4968">The Upas
+                           <note type="author" anchored="true" xml:id="N_161">
+                              <p> The fiction of the Upas is too well known from the Botanic Garden,
+                                 to need repetition. Suffice it here to remark that the Tree is said
+                                 to have sprung up as a punishment to the guilty Islanders. </p>
+                              <p> None of our early travellers mention this Tree, and they were too
+                                 fond of wonders to omit so monstrous a tale, had it been true. It
+                                 is curious that such a story should have been invented by a
+                                 Dutchman. </p>
+                              <p> Perhaps the seed of the Upas is contained in the following
+                                 passage. </p>
+                              <p> Neere unto the said Iland (Java) is another countrey called
+                                 Panten, or Tathalamasin. In this land there are trees yeelding
+                                 meale, hony and wine, and the most deadly poison in all <placeName ref="the_world">the whole world</placeName>: for against it
+                                 there is but one onley remedy; and that is this; if a man hath
+                                 taken of the poyson, and would be delivered from the danger
+                                 thereof, let him temper the dung of aman in water, and so drinke a
+                                 good quantity thereof and it expels the poyson immediately.
+                                    <bibl>Odoricus the Minorite Frier. In Hakluyt.</bibl>
+                              </p>
+                           </note>
+                         Tree of Death.</l>
+                     <l rend="i0" n="4969">Thro' barren banks the barren waters flow,</l>
+                     <l rend="i0" n="4970">The fish that meets them in the unmingling sea</l>
+                     <l rend="i4" n="4971">Floats poisoned on the waves.</l>
+                     <l rend="i0" n="4972">Tree grows not near, nor bush, nor flower, nor herb,</l>
+                     <l rend="i0" n="4973">
+                        <placeName ref="Earth_planet">The Earth</placeName> has
+                        lost its parent powers of life</l>
+                     <l rend="i0" n="4974">And the fresh dew of Heaven that there descends,</l>
+                     <l rend="i4" n="4975">Steams in rank poison up.</l>
+                  </lg>
+                  <lg xml:id="B10_lg561">
+                     <l rend="i0" n="4976">Before the appointed Youth and Maimuna</l>
+                     <l rend="i0" n="4977">Saw the first struggle of the dying throng,</l>
+                     <l rend="i4" n="4978">Crash sunk their prison wall!</l>
+                     <l rend="i4" n="4979">The whirlwind wrapt them round;</l>
+                     <l rend="i2" n="4980">Borne in the Chariot of the Winds</l>
+                     <l rend="i0" n="4981">Ere there was time to fear, their way was past,</l>
+                     <l rend="i4" n="4982">And lo! again they stand</l>
+                     <l rend="i0" n="4983">In the cave-dwelling of the blue-eyed Witch.</l>
+                  </lg>
+                  <lg xml:id="B10_lg562">
+                     <l rend="i0" n="4984">Then came the weakness of her natural age</l>
+                     <l rend="i4" n="4985">At once on Maimuna;</l>
+                     <l rend="i4" n="4986">The burthen of her years</l>
+                     <l rend="i4" n="4987">Fell on her, and she knew</l>
+                     <l rend="i0" n="4988">That her repentance in the sight of<name type="divin">God</name>
+                     </l>
+                     <l rend="i0" n="4989">Had now found favour, and her hour was come.</l>
+                     <l rend="i0" n="4990">Her death was like the righteous; "Turn my face</l>
+                     <l rend="i2" n="4991">"To <placeName>Mecca</placeName>!" in her languid
+                        eyes.</l>
+                     <l rend="i4" n="4992">The joy of certain hope</l>
+                     <l rend="i2" n="4993">Lit a last lustre, and in death</l>
+                     <l rend="i4" n="4994">The smile was on her cheek.</l>
+                  </lg>
+                  <lg xml:id="B10_lg563">
+                     <l rend="i2" n="4995">No faithful
+                           <note type="author" anchored="true" xml:id="N_162">
+                              <p> When any person is to be buried, it is usual to bring the corpse
+                                 at mid-day or afternoon prayers, to one or other of these Mosques,
+                                 from whence it is accompanied by the greatest part of the
+                                 congregation, <rs type="metaplace" subtype="under" ref="Tombs">to
+                                    the grave</rs>. Their processions, at these times, are not so
+                                 slow and solemn as in most parts of
+                                    <placeName>Christendom</placeName>: for the whole company make
+                                 what haste they can, singing as they go along, some select verses
+                                 of their Coran. That absolute submission which they pay to the will
+                                 of God, allows them not to use any consolatory words upon these
+                                 occasions: no loss or misfortune is to be hereupon regretted or
+                                 complained of: instead likewise of such expressions of sorrow and
+                                 condolence, as may regard the deceased, the compliments turn upon
+                                 the person, who is the nearest concerned, a blessing (say his
+                                 friends) be upon your head. <bibl>Shaw.</bibl>
+                              </p>
+                              <p> All Mahometans inter the dead at the hour set apart for prayer;
+                                 the defunct is not kept in the house, except he expires after
+                                 sunset, but the Body is transported to the Mosque, whither it is
+                                 carried by those who are going to prayer; each from a spirit of
+                                 devotion is desirous to carry in his turn. Women regularly go on
+                                 Friday to weep over, and pray <rs type="metaplace" subtype="under" ref="Tombs">at the sepulchres of the dead</rs>, whose memory
+                                 they hold dear. <bibl>Chenier.</bibl>
+                              </p>
+                              <p> This custom of crowding about a funeral contributes to spread the
+                                 plague in <placeName>Turkey</placeName>.—It is not many years
+                                 since, in some parts of Worcestershire, the mourners were
+                                 accustomed to kneel with their heads upon the coffin during the
+                                 burial service. </p>
+                              <p> The fullest account of a Mohammedan funeral is in the Lettres sur
+                                 la Grece, of M. Guys. Chance made him the spectator of a ceremony
+                                 which the Moslem will not suffer an Infidel to prophane by his
+                                 presence. </p>
+                              <p> "About ten in the morning I saw the grave-digger at work; the
+                                 slaves and the women of the family were seated in the burial
+                                 ground, many other women arrived, and then they all began to
+                                 lament. After this prelude they one after the other embraced one of
+                                 the little pillars which are placed upon the graves, crying out <hi rend="italic">Ogloum, ogloum, sœna Mussaphir gueldi</hi>, My
+                                 Son, my Son, a guest is coming to see thee. At these words their
+                                 tears and sobs began anew; but the storm did not continue long;
+                                 they all seated themselves, and entered into conversation. </p>
+                              <p> At noon I heard a confused noise, and cries of lamentation, it was
+                                 the funeral which arrived. A Turk preceded it, bearing upon his
+                                 head a small chest; four other Turks carried the bier upon their
+                                 shoulders, then came the father, the relations and the friends of
+                                 the dead in great numbers. Their cries ceased at the entrance of
+                                 the burial ground, but then they quarrelled—and for this. The man
+                                 who bore the chest opened it, it was filled with copies of the
+                                 Koran, a croud of Turks, young and old, threw themselves upon the
+                                 books and scrambled for them. Those who succeeded ranged themselves
+                                 around the Iman, and all at once began to recite the Koran, almost
+                                 as Boys say their lesson. Each of the readers received ten parats,
+                                 about fifteen sols, wrapt in paper. It was then for these fifteen
+                                 pence that these pious assistants had quarrelled, and in our own
+                                 country you might have seen them fight for less. </p>
+                              <p> The bier was placed by the grave, in which the grave-digger was
+                                 still working, and perfumes were burnt by it. After the reading of
+                                 the Koran the Iman chanted some Arabic prayers, and his full-chant
+                                 would, no doubt, have appeared to you, as it did to me, very
+                                 ridiculous. All the Turks were standing; they held their hands open
+                                 over the grave, and answered <hi rend="italic">Amen</hi> to all the
+                                 prayers which the Iman addressed to<name type="divin">God</name>for
+                                 the deceased. </p>
+                              <p> The prayers finished, a large chest was brought about six feet
+                                 long and three broad; its boards were very thick. The coffin is
+                                 usually made of cypress; thus literally is verified the phrase of <bibl>
+                                    <author>Horace</author>
+                                 </bibl> that the cypress is our last possession. </p>
+                              <q>
+                                 <lg xml:lang="la">
+                                    <l rend="i0">Neque harum, quas colis, arborum,</l>
+                                    <l rend="i0">Te, præter invisas cupressus,</l>
+                                    <l rend="i0">Ulla brevem dominum sequetur.</l>
+                                 </lg>
+                              </q>
+                              <p>
+                                 <rs type="metaplace" subtype="under" ref="Tombs">The
+                                    cemeteries</rs>
+                                 <rs type="place" ref="Turkey">of the Turks</rs> are usually planted
+                                 with these trees, to which they have a religious attachment. The
+                                 chest which was in loose pieces, having been placed in the grave,
+                                 the coffin was laid in it, and above planks, with other pieces of
+                                 wood. Then all the Turks, taking spades, cast earth upon the grave
+                                 to cover it. This is a part of the ceremony at which all the
+                                 bystanders assisted in their turn. </p>
+                              <p> Before the corpse is buried it is carried to the Mosque. Then
+                                 after having recited the <hi rend="italic">Fatka</hi> (a prayer
+                                 very similar to our Lord's prayer, which is repeated by all
+                                 present) the Iman asks the congregation what they have to testify
+                                 concerning the life and morals of the deceased. Each then in his
+                                 turn relates those good actions with which he was acquainted. The
+                                 body is then washed, and wrapped up like a mummy, so that it cannot
+                                 be seen. Drugs and spices are placed in the bier with it, and it is
+                                 carried to interment. Before it is lowered into the grave, the Iman
+                                 commands silence, saying, "Cease your lamentations for a moment,
+                                 and let me instruct this Moslem how to act, when he arrives in <rs type="metaplace" subtype="divin" ref="the_other_world">the other
+                                    world</rs>." Then in the ear of the corpse, he directs him how
+                                 to answer the Evil Spirit who will not fail to question him
+                                 respecting his religion, &amp;c. This lesson finished, he repeats
+                                 the <hi rend="italic">Fatka</hi> with all the assistants, and the
+                                 body is let down into the grave. After they have thrown earth three
+                                 times upon the grave, as the Romans used, they retire. The Iman
+                                 only remains, he approaches the grave, stoops down, inclines his
+                                 ear, and listens to hear if the Dead disputes when the Angel of
+                                 Death comes to take him: then he bids him farewell, and in order to
+                                 be well paid, never fails to report to the family the best news of
+                                 the dead.</p>
+                           </note>
+                         crowded round her bier,</l>
+                     <l rend="i2" n="4999">No tongue reported her good deeds,</l>
+                     <l rend="i2" n="5000">For her no mourners wailed and wept,</l>
+                     <l rend="i2" n="5001">No Iman o'er her perfumed corpse,</l>
+                     <l rend="i2" n="5002">For her soul's health intoned the prayer;</l>
+                     <l rend="i2" n="5003">No column
+                           <note type="author" anchored="true" xml:id="N_163">
+                              <p>
+                                 <rs type="place" ref="Turkey">The Turks bury not at all within the
+                                    walls of the city</rs>, but the great Turkish Emperors
+                                 themselves, with their wives and children about them, and some few
+                                 other of their great Bassaes, and those only in chappels by
+                                 themselves built for that purpose. All the rest of the Turks are
+                                 buried in the fields; some of the better sort in tombs of marble,
+                                 but the rest with tomb-stones laid upon them, or with two great
+                                 stones, one set up at the head and the other at the feet of every
+                                    <rs type="metaplace" subtype="under" ref="Tombs">grave</rs>; the
+                                 greatest part of them being of white marble, brought from the Isle
+                                 of Marmora. </p>
+                              <p> They will not bury any man where another hath been buried,
+                                 accounting it impiety to dig up another man's bones: by reason
+                                 whereof they cover all the best ground about the city with such
+                                 great white stones: which, for the infinite number of them, are
+                                 thought sufficient to make another wall about the city.
+                                    <bibl>Knolles.</bibl>
+                              </p>
+                              <p> The Turks bury by the way-side, believing that the passengers will
+                                 pray for the souls of the dead. <bibl>Tavernier.</bibl>
+                              </p>
+                           </note>
+                         raised by the way side</l>
+                     <l rend="i2" n="5004">Implored the passing traveller</l>
+                     <l rend="i2" n="5005">To say a requiem for the dead.</l>
+                     <l rend="i2" n="5006">Thalaba laid her in the snow,</l>
+                     <l rend="i2" n="5007">And took his weapons from the hearth,</l>
+                     <l rend="i2" n="5008">And then once more the youth began</l>
+                     <l rend="i2" n="5009">His weary way of solitude.</l>
+                  </lg>
+                  <lg xml:id="B10_lg565">
+                     <l rend="i2" n="5010">
+                        <rs type="place" ref="land_of_snow">The breath of the
+                           East is in his face</rs>
+                     </l>
+                     <l rend="i2" n="5011">And it drives the sleet and the snow.</l>
+                     <l rend="i2" n="5012">The air is keen, the wind is keen,</l>
+                     <l rend="i2" n="5013">His limbs are aching with the cold,</l>
+                     <l rend="i2" n="5014">His eyes are aching
+                           <note type="author" anchored="true" xml:id="N_164">
+                              <p> All that day we travelled over <rs type="place" ref="land_of_snow">plains all covered with snow</rs> as the day before, and indeed
+                                 it is not only troublesome but very dangerous to travel thro' these
+                                 deep snows. The mischief is that the beams of the sun which lie all
+                                 day long upon it, molest the eyes and face with such a scorching
+                                 beat as very much weakens the sight, whatever remedy a man can
+                                 apply, by wearing as the people of the country do, a thin
+                                 handkerchief of green or black silk, which no way abates the
+                                 annoyance. <bibl>Chardin.</bibl>
+                              </p>
+                              <p> When they have to travel many days thro' <rs type="place" ref="land_of_snow">a country covered with snow</rs>, Travellers
+                                 to preserve their sight, cover the face with a silk kerchief made
+                                 on purpose, like a sort of black crape. Others have large furred
+                                 bonnets, bordered with goat skin, and the long goat-hair hanging
+                                 over the face is as serviceable as the crape.
+                                    <bibl>Tavernier.</bibl>
+                              </p>
+                              <p> An Abyssinian historian says, that the village, called
+                                    <placeName>Zinzenam</placeName>, <hi rend="italic">rain upon
+                                    rain</hi>, has its name from an extraordinary circumstance that
+                                 once happened in these parts, for a shower of rain fell, which was
+                                 not properly of the nature of rain, as it did not run upon the
+                                 ground, but remained very light, having scarce the weight of
+                                 feathers, of a beautiful white colour like flower; it fell in
+                                 showers, and occasioned a darkness in the air more than rain, and
+                                 liker to mist. It covered the face of the whole country for several
+                                 days, retaining its whiteness the whole time, then went away like
+                                 dew, without leaving any smell, or unwholsome effect behind it. </p>
+                              <p> So the Dutch were formerly expelled from <rs type="place" ref="India">an East Indian Settlement</rs>, because their
+                                 Consul, in narrating to the Prince of the Country the wonders of
+                                    <placeName>Europe</placeName>, chanced to say that in his own
+                                 Country, Water became a solid body once a year, for some time: when
+                                 Men or even Horses might pass over it without sinking.—The prince
+                                 in a rage said that he had hitherto listened to his tales with
+                                 patience, but this was so palpable a Lie, that he would never more
+                                 be connected with Europeans, who only could assert such monstrous
+                                 falshoods.</p>
+                           </note>
+                         with the snow,</l>
+                     <l rend="i4" n="5015">His very heart is cold,</l>
+                     <l rend="i0" n="5016">His spirit chilled within him. He looks on</l>
+                     <l rend="i4" n="5017">If ought of life be near,</l>
+                     <l rend="i0" n="5018">But all is sky and the <placeName ref="land_of_snow">white wilderness</placeName>,</l>
+                     <l rend="i0" n="5019">And here and there a solitary pine,</l>
+                     <l rend="i0" n="5020">Its branches broken by the weight of snow.</l>
+                     <l rend="i2" n="5021">His pains abate, his senses dull</l>
+                     <l rend="i2" n="5022">With suffering, cease to suffer.</l>
+                     <l rend="i4" n="5023">Languidly, languidly,</l>
+                     <l rend="i4" n="5024">Thalaba drags along,</l>
+                     <l rend="i2" n="5025">A heavy weight is on his lids,</l>
+                     <l rend="i2" n="5026">His limbs move slow with heaviness,</l>
+                     <l rend="i4" n="5027">And he full fain would sleep.</l>
+                     <l rend="i2" n="5028">Not yet, not yet, O Thalaba!</l>
+                     <l rend="i4" n="5029">Thy hour of rest is come;</l>
+                     <l rend="i2" n="5030">Not yet may the Destroyer sleep</l>
+                     <l rend="i4" n="5031">The comfortable sleep,</l>
+                     <l rend="i2" n="5032">His journey is not over yet,</l>
+                     <l rend="i4" n="5033">His course not yet fulfilled;...</l>
+                     <l rend="i2" n="5034">Run thou thy race, O Thalaba!</l>
+                     <l rend="i4" n="5035">The prize is at the goal.</l>
+                  </lg>
+                  <lg xml:id="B10_lg566">
+                     <l rend="i4" n="5036">It was a Cedar-tree</l>
+                     <l rend="i0" n="5037">That woke him from the deadly drowsiness;</l>
+                     <l rend="i0" n="5038">Its broad, round-spreading
+                           <note type="author" anchored="true" xml:id="N_165">
+                              <p> A strange account of the Cedars of <placeName>Lebanon</placeName>
+                                 is given by <bibl>De la Roque. <hi rend="italic">Voyage de Syrie
+                                       &amp; du Mont Liban.</hi> 1722</bibl>. </p>
+                              <p> "This little forest is composed of twenty Cedars of a prodigious
+                                 size, so large indeed that the finest Planes, Sycamores, and other
+                                 large trees which we had seen could not be compared with them.
+                                 Besides these principal Cedars, there were a great number of lesser
+                                 ones, and some very small, mingled with the large trees, or in
+                                 little clumps near them. They differed not in their foliage, which
+                                 resembles the Juniper, and is green throughout the year: but the
+                                 great Cedars spread at their summit and form a perfect round,
+                                 whereas the small ones rise in a pyramidal form like the Cypress.
+                                 Both diffuse the same pleasant odour; the large ones only yield
+                                 fruit, a large cone in shape almost like that of the Pine, but of a
+                                 browner colour, and compacter shell. It gives a very pleasant
+                                 odour, and contains a sort of thick and transparent balm, which
+                                 oozes out thro' small apertures, and falls drop by drop. This fruit
+                                 which it is difficult to separate from the stalk, contains a nut
+                                 like that of the Cypress; it grows at the end of the boughs, and
+                                 turns its point upwards. </p>
+                              <p> The nature of this tree is not to elevate its trunk, or the part
+                                 between the root and the first branches; for the largest Cedars
+                                 which we saw did not in the height of their trunks exceed six or
+                                 seven feet. From this low but enormously thick body, prodigious
+                                 branches rise, spreading as they rise, and forming by the
+                                 disposition of their boughs and leaves which point upward, a sort
+                                 of wheel which appears to be the work of art. The bark of the
+                                 cedar, except at the trunk, is smooth and shining, of a brown
+                                 colour. Its wood white and soft immediately under the bark, but
+                                 hard and red within, and very bitter, which renders it
+                                 incorruptible and almost immortal. A fragrant gum issues from the
+                                 tree. </p>
+                              <p> The largest Cedar which we measured was seven feet in
+                                 circumference, wanting two inches, and the whole extent of its
+                                 branches, which it was easy to measure from their perfect
+                                 roundness, formed a circumference of about 120 feet. </p>
+                              <p> The Patriarch of the Maronites, fully persuaded of the rarity of
+                                 these Trees, and wishing by the preservation of those that remain
+                                 to shew his respect for a forest so celebrated in Scripture has
+                                 pronounced canonical pains, and even excommunication against any
+                                 Christians who shall dare to cut them; scarcely will he permit a
+                                 little to be sometimes taken for Crucifixes and little tabernacles
+                                 in the chapels of our Missionaries. </p>
+                              <p> The Maronites themselves have such a veneration for these Cedars,
+                                 that on the day of Transfiguration they celebrate the festival
+                                 under them with great solemnity, the Patriarch officiates and says
+                                 Mass pontifically, and among other exercises of devotion they
+                                 particularly honour the Virgin Mary there, and sing her praises,
+                                 because she is compared to the Cedars of
+                                    <placeName>Lebanon</placeName>, and Lebanon itself used as a
+                                 metaphor for the mother of Christ. </p>
+                              <p> The Maronites say that the snows have no sooner begun to fall than
+                                 these Cedars, whose boughs in their infinite number are all so
+                                 equal in height that they appear to have been shorn, and form, as
+                                 we have said, a sort of wheel or parasol,—than these Cedars, I say,
+                                 never fail at that time to change their figure. The branches which
+                                 before spread themselves rise insensibly, gathering together it may
+                                 be said, and turn their points upward towards Heaven, forming
+                                 altogether a pyramid. It is <name type="myth">Nature</name>, they
+                                 say, who inspires this movement, and makes them assume a new shape,
+                                 without which these Trees never could sustain the immense weight of
+                                 snow, remaining for so long a time. </p>
+                              <p> I have procured more particular information of this fact, and it
+                                 has been confirmed by the testimony of many persons, who have often
+                                 witnessed it. This is what the Secretary of the Maronite Patriarch
+                                 wrote to me in one of his letters, which I think it right to give
+                                 in his own words. <hi rend="italic">Cedri Libani quas plantavit
+                                    Deus, ut Psalmist: loquitur, sitae sunt in planitie quâdam,
+                                    aliquantulum infra altissimum Montis-Libani cacumen, ubi tempore
+                                    hyemali maxima nivium quantitas descendit, tribusque &amp;
+                                    ultra, mensibus mordaciter dominatur. Cedri in altum ascendunt
+                                    extensis tamen ramis in gyrum solo parallelis, confioientibus
+                                    suo gyro fere umbellam solarem. Sed superveniente nive, quia
+                                    coacervaretur in magnâ quantitate eos desuper, neque possent
+                                    pati tantum pondus tanto tempore premens, sine certo fractionis
+                                    discrimine, Natura, rerum omnium provida mater, ipsis concessit,
+                                    ut adveniente hyeme &amp; descendente nive, statim rami in altum
+                                    assurgant, &amp; secum invicem uniti constituant quasi conum, ut
+                                    melius sese ab adveniente hoste tueantur. Naturá enim ipsâ verum
+                                    est, virtutem quamlebet unitam simul reddi fortiorem.</hi>
+                              </p>
+                              <p> The Cedars of <placeName>Lebanon</placeName>, which, as the
+                                 Psalmist says, God himself planted, are situated in a little plain,
+                                 somewhat below the loftiest summit of mount Lebanon, where in the
+                                 winter a great quantity of snow falls, and continues for three
+                                 months, or longer. The Cedars are high, but their boughs spread out
+                                 parallel with the ground into a circle, forming almost a shield
+                                 against the sun. But when the snow falls, which would be heaped
+                                 upon them in so great a quantity, that they could not endure such a
+                                 weight so long a time, without the certain danger of breaking,
+                                    <name type="myth">Nature, the provident mother of all</name>,
+                                 has endued them with power, that when the winter comes and the snow
+                                 descends, their boughs immediately rise, and uniting together form
+                                 a cone, that they may be the better defended from the coming Enemy.
+                                 For in <name type="myth">Nature</name> itself it is true, that
+                                 virtue as it is united, becomes stronger.</p>
+                           </note>
+                         branches when they felt</l>
+                     <l rend="i0" n="5039">
+                        <rs type="place" ref="land_of_snow">The snow, rose
+                           upward</rs> in a point to <rs type="metaplace" subtype="celest" ref="Heaven">heaven</rs>,</l>
+                     <l rend="i2" n="5040">And standing in their strength erect,</l>
+                     <l rend="i4" n="5041">Defied the baffled storm.</l>
+                     <l rend="i2" n="5042">He knew the lesson <name type="myth">Nature</name>
+                        gave,</l>
+                     <l rend="i2" n="5043">And he shook off his heaviness,</l>
+                     <l rend="i4" n="5044">And hope revived within him.</l>
+                  </lg>
+                  <lg xml:id="B10_lg567">
+                     <l rend="i4" n="5045">Now sunk the evening sun,</l>
+                     <l rend="i4" n="5046">A broad, red, beamless orb,</l>
+                     <l rend="i4" n="5047">Adown the glowing sky;</l>
+                     <l rend="i0" n="5048">Thro' the red light the snow-flakes fell, like fire.</l>
+                     <l rend="i2" n="5049">Louder grows the biting wind,</l>
+                     <l rend="i2" n="5050">
+                        <rs type="place" ref="land_of_snow">And it drifts the
+                           dust of the snow</rs>.</l>
+                     <l rend="i2" n="5051">The snow is clotted in his hair,</l>
+                     <l rend="i4" n="5052">The breath of Thalaba</l>
+                     <l rend="i4" n="5053">Is iced upon his lips.</l>
+                     <l rend="i2" n="5054">He looks around, the darkness,</l>
+                     <l rend="i2" n="5055">The dizzy floating of the snow,</l>
+                     <l rend="i4" n="5056">Close in his narrow view.</l>
+                  </lg>
+                  <lg xml:id="B10_lg568">
+                     <l rend="i0" n="5057">At length thro' the thick atmosphere a light</l>
+                     <l rend="i4" n="5058">Not distant far appears.</l>
+                     <l rend="i0" n="5059">He doubting other wiles of enmity,</l>
+                     <l rend="i2" n="5060">With mingled joy and quicker step,</l>
+                     <l rend="i4" n="5061">Bends his way thitherward.</l>
+                  </lg>
+                  <lg xml:id="B10_lg569">
+                     <l rend="i0" n="5062">
+                        <rs type="metaplace" subtype="garden" ref="Laila_zone">It
+                           was a little, lowly dwelling place</rs>,</l>
+                     <l rend="i0" n="5063">Amid a garden, whose delightful air</l>
+                     <l rend="i0" n="5064">Felt mild and fragrant, as the evening wind</l>
+                     <l rend="i0" n="5065">Passing in summer o'er the coffee-groves
+                           <note type="author" anchored="true" xml:id="N_166">
+                              <p> The Coffee plant is about the size of the orange tree, the flower
+                                 in colour, size, and smell, resembles the white jessamine, the
+                                 berry is first green, then red, in which ripe state it is gathered. </p>
+                              <p> Olearius's description of Coffee is amusing. "They drink a certain
+                                 black water which they call Cahwa, made of a fruit brought out of
+                                    <placeName>Egypt</placeName>, and which is in colour like
+                                 ordinary wheat, and in taste like Turkish wheat, and is of the
+                                 bigness of a little bean. They fry, or rather burn it in an iron
+                                 pan without any liquor, beat it to powder, and boyling it with fair
+                                 water, they make this drink thereof, which hath as it were the
+                                 taste of a burnt crust, and is not pleasant to the palate. <bibl>
+                                    <hi rend="italic">Amb. Travels.</hi>
+                                 </bibl>
+                              </p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i0" n="5066">Of <placeName>Yemen</placeName> and its blessed bowers of
+                        balm.</l>
+                     <l rend="i0" n="5067">A Fount of Fire that in the centre played,</l>
+                     <l rend="i0" n="5068">Rolled all around its wonderous rivulets</l>
+                     <l rend="i0" n="5069">And fed <rs type="metaplace" subtype="garden" ref="Laila_zone">the garden</rs> with the heat of life.</l>
+                     <l rend="i0" n="5070">Every where magic! the Arabian's heart</l>
+                     <l rend="i2" n="5071">Yearned after human intercourse.</l>
+                     <l rend="i4" n="5072">A light!... the door unclosed!...</l>
+                     <l rend="i4" n="5073">All silent ... he goes in.</l>
+                  </lg>
+                  <lg xml:id="B10_lg570">
+                     <l rend="i0" n="5074">
+                        <rs type="metaplace" subtype="garden" ref="Laila_zone">There</rs> lay a Damsel sleeping on a couch,</l>
+                     <l rend="i0" n="5075">His step awoke her, and she gazed at him</l>
+                     <l rend="i4" n="5076">With pleased and wondering look,</l>
+                     <l rend="i2" n="5077">Fearlessly, like a yearling child</l>
+                     <l rend="i4" n="5078">Too ignorant to fear.</l>
+                     <l rend="i4" n="5079">With words of courtesy</l>
+                     <l rend="i4" n="5080">The young intruder spake.</l>
+                     <l rend="i2" n="5081">At the sound of his voice a joy</l>
+                     <l rend="i4" n="5082">Kindled her bright black eyes;</l>
+                     <l rend="i4" n="5083">She rose and took his hand,</l>
+                     <l rend="i0" n="5084">But at the touch the smile forsook her cheek,</l>
+                     <l rend="i4" n="5085">"Oh! it is cold!" she cried,</l>
+                     <l rend="i0" n="5086">"I thought I should have felt it warm like mine,</l>
+                     <l rend="i4" n="5087">"But thou art like the rest!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg571">
+                     <l rend="i4" n="5088">Thalaba stood mute awhile</l>
+                     <l rend="i4" n="5089">And wondering at her words:</l>
+                     <l rend="i0" n="5090">"Cold? Lady!" then he said; "I have travelled long</l>
+                     <l rend="i4" n="5091">"In this cold wilderness,</l>
+                     <l rend="i4" n="5092">"Till life is almost spent!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg572">
+                     <l rend="i8" n="5093">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg573">
+                     <l rend="i0" n="5094">Art thou a Man then?</l>
+                  </lg>
+                  <lg xml:id="B10_lg574">
+                     <l rend="i8" n="5095">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg575">
+                     <l rend="i8" n="5096">I did not think</l>
+                     <l rend="i0" n="5097">Sorrow and toil could so have altered me,</l>
+                     <l rend="i0" n="5098">That I seem otherwise.</l>
+                  </lg>
+                  <lg xml:id="B10_lg576">
+                     <l rend="i8" n="5099">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg577">
+                     <l rend="i8" n="5100"> And thou canst be warm</l>
+                     <l rend="i0" n="5101">Sometimes? life-warm as I am?</l>
+                  </lg>
+                  <lg xml:id="B10_lg578">
+                     <l rend="i8" n="5102">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg579">
+                     <l rend="i12" n="5103">Surely Lady</l>
+                     <l rend="i0" n="5104">As others are, I am, to heat and cold</l>
+                     <l rend="i0" n="5105">Subject like all, you see a Traveller,</l>
+                     <l rend="i0" n="5106">Bound upon hard adventure, who requests</l>
+                     <l rend="i0" n="5107">Only to rest him <rs type="metaplace" subtype="garden" ref="Laila_zone">here</rs> to-night, to-morrow</l>
+                     <l rend="i0" n="5108">He will pursue his way.</l>
+                  </lg>
+                  <lg xml:id="B10_lg580">
+                     <l rend="i8" n="5109">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg581">
+                     <l rend="i8" n="5110"> Oh ... not to-morrow!</l>
+                     <l rend="i0" n="5111">Not like a dream of joy, depart so soon!</l>
+                     <l rend="i0" n="5112">And whither wouldst thou go? for all around</l>
+                     <l rend="i0" n="5113">
+                        <rs type="place" ref="land_of_snow">Is everlasting
+                           winter, ice and snow</rs>,</l>
+                     <l rend="i0" n="5114">Deserts unpassable of endless frost.</l>
+                  </lg>
+                  <lg xml:id="B10_lg582">
+                     <l rend="i8" n="5115">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg583">
+                     <l rend="i0" n="5116">He who has led me <rs type="metaplace" subtype="garden" ref="Laila_zone">here</rs> will still sustain me</l>
+                     <l rend="i0" n="5117">Thro' cold and hunger.</l>
+                  </lg>
+                  <lg xml:id="B10_lg584">
+                     <l rend="i4" n="5118">"Hunger?" Laila cried;</l>
+                     <l rend="i4" n="5119">She clapt her lilly hands,</l>
+                     <l rend="i0" n="5120">And <rs type="metaplace" subtype="garden" ref="Laila_zone">whether from above or from below</rs>
+                     </l>
+                     <l rend="i4" n="5121">It came, sight could not see,</l>
+                     <l rend="i0" n="5122">So suddenly the floor was spread with food.</l>
+                  </lg>
+                  <lg xml:id="B10_lg585">
+                     <l rend="i8" n="5123">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg586">
+                     <l rend="i0" n="5124">Why dost thou watch with hesitating eyes</l>
+                     <l rend="i0" n="5125">The banquet? 'tis for thee! I bade it come.</l>
+                  </lg>
+                  <lg xml:id="B10_lg587">
+                     <l rend="i8" n="5126">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg588">
+                     <l rend="i0" n="5127">Whence came it?</l>
+                  </lg>
+                  <lg xml:id="B10_lg589">
+                     <l rend="i8" n="5128">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg590">
+                     <l rend="i6" n="5129"> Matters it from whence it came</l>
+                     <l rend="i0" n="5130">My father sent it: when I call, he hears.</l>
+                     <l rend="i0" n="5131">Nay ... thou hast fabled with me! and art like</l>
+                     <l rend="i0" n="5132">The forms that wait upon my solitude,</l>
+                     <l rend="i0" n="5133">Human to eye alone;... thy hunger would not</l>
+                     <l rend="i0" n="5134">Question so idly else.</l>
+                  </lg>
+                  <lg xml:id="B10_lg591">
+                     <l rend="i8" n="5135">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg592">
+                     <l rend="i8" n="5136">I will not eat!</l>
+                     <l rend="i0" n="5137">It came by magic! fool to think that aught</l>
+                     <l rend="i0" n="5138">But fraud and danger could await me here!</l>
+                     <l rend="i0" n="5139">Let loose my cloak!...</l>
+                  </lg>
+                  <lg xml:id="B10_lg593">
+                     <l rend="i8" n="5140">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg594">
+                     <l rend="i8" n="5141"> Begone then, insolent!</l>
+                     <l rend="i0" n="5142">Why dost thou stand and gaze upon my face?</l>
+                     <l rend="i0" n="5143">Aye! watch the features well that threaten thee</l>
+                     <l rend="i0" n="5144">With fraud and danger! in the wilderness</l>
+                     <l rend="i0" n="5145">They shall avenge me,... in the hour of want</l>
+                     <l rend="i2" n="5146">Rise on thy view, and make thee feel</l>
+                     <l rend="i4" n="5147">How innocent I am:</l>
+                     <l rend="i0" n="5148">And this remembered cowardice and insult</l>
+                     <l rend="i0" n="5149">With a more painful shame will burn thy cheek</l>
+                     <l rend="i0" n="5150">Than now beats mine in anger!</l>
+                  </lg>
+                  <lg xml:id="B10_lg595">
+                     <l rend="i8" n="5151">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg596">
+                     <l rend="i12" n="5152">Mark me Lady!</l>
+                     <l rend="i0" n="5153">Many and restless are my enemies;</l>
+                     <l rend="i0" n="5154">My daily paths have been beset with snares</l>
+                     <l rend="i0" n="5155">Till I have learnt suspicion, bitter sufferings</l>
+                     <l rend="i0" n="5156">Teaching the needful vice, if I have wronged you,</l>
+                     <l rend="i0" n="5157">And yours should be the face of innocence,</l>
+                     <l rend="i0" n="5158">I pray you pardon me! in the name of God,</l>
+                     <l rend="i0" n="5159">And of his Prophet, I partake your food.</l>
+                  </lg>
+                  <lg xml:id="B10_lg597">
+                     <l rend="i8" n="5160">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg598">
+                     <l rend="i0" n="5161">Lo now! thou wert afraid of sorcery,</l>
+                     <l rend="i0" n="5162">And yet hast said a charm!</l>
+                  </lg>
+                  <lg xml:id="B10_lg599">
+                     <l rend="i8" n="5163">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg600">
+                     <l rend="i10" n="5164">A charm?</l>
+                  </lg>
+                  <lg xml:id="B10_lg601">
+                     <l rend="i8" n="5165">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg602">
+                     <l rend="i14" n="5166">And wherefore?</l>
+                     <l rend="i0" n="5167">Is it not not delicate food? what mean thy words?</l>
+                     <l rend="i0" n="5168">I have heard many spells and many names</l>
+                     <l rend="i0" n="5169">That rule the Genii and the Elements,</l>
+                     <l rend="i0" n="5170">But never these.</l>
+                  </lg>
+                  <lg xml:id="B10_lg603">
+                     <l rend="i8" n="5171">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg604">
+                     <l rend="i6" n="5172">How! never heard the names</l>
+                     <l rend="i0" n="5173">Of<name type="divin">God</name>and of the Prophet?</l>
+                  </lg>
+                  <lg xml:id="B10_lg605">
+                     <l rend="i8" n="5174">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg606">
+                     <l rend="i11" n="5175">Never ... nay now</l>
+                     <l rend="i0" n="5176">Again that troubled eye? thou art a strange man</l>
+                     <l rend="i0" n="5177">And wonderous fearful ... but I must not twice</l>
+                     <l rend="i0" n="5178">Be charged with fraud! if thou suspectest still,</l>
+                     <l rend="i0" n="5179">Depart and leave me!</l>
+                  </lg>
+                  <lg xml:id="B10_lg607">
+                     <l rend="i8" n="5180">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg608">
+                     <l rend="i8" n="5181">And you do not know</l>
+                     <l rend="i0" n="5182">The<name type="divin">God</name>that made you?</l>
+                  </lg>
+                  <lg xml:id="B10_lg609">
+                     <l rend="i8" n="5183">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg610">
+                     <l rend="i10" n="5184">Made me, man! my Father</l>
+                     <l rend="i0" n="5185">Made me. He made <rs type="metaplace" subtype="garden" ref="Laila_zone">this dwelling, and the grove</rs>,</l>
+                     <l rend="i0" n="5186">And yonder fountain-fire, and every morn</l>
+                     <l rend="i0" n="5187">He visits me, and takes the snow, and moulds</l>
+                     <l rend="i0" n="5188">Women and men, like thee; and breathes into them</l>
+                     <l rend="i0" n="5189">Motion, and life, and sense,... but to the touch</l>
+                     <l rend="i0" n="5190">They are chilling cold, and ever when night closes</l>
+                     <l rend="i0" n="5191">They melt away again, and leave me here</l>
+                     <l rend="i0" n="5192">Alone and sad. Oh then how I rejoice</l>
+                     <l rend="i0" n="5193">When it is day and my dear Father comes,</l>
+                     <l rend="i0" n="5194">And chears me with kind words and kinder looks!</l>
+                     <l rend="i0" n="5195">My dear, dear, Father! were it not for him,</l>
+                     <l rend="i0" n="5196">I am so weary of this loneliness,</l>
+                     <l rend="i0" n="5197">That I should wish I also were of snow</l>
+                     <l rend="i0" n="5198">That I might melt away, and cease to be.</l>
+                  </lg>
+                  <lg xml:id="B10_lg611">
+                     <l rend="i8" n="5199">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg612">
+                     <l rend="i0" n="5200">And have you always had your dwelling <rs type="metaplace" subtype="garden" ref="Laila_zone">here</rs>
+                     </l>
+                     <l rend="i0" n="5201">Amid this solitude of snow?</l>
+                  </lg>
+                  <lg xml:id="B10_lg613">
+                     <l rend="i8" n="5202">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg614">
+                     <l rend="i11" n="5203">I think so.</l>
+                     <l rend="i0" n="5204">I can remember with unsteady feet</l>
+                     <l rend="i0" n="5205">Tottering from room to room, and finding pleasure</l>
+                     <l rend="i0" n="5206">In flowers and toys and sweetmeats, things that long</l>
+                     <l rend="i0" n="5207">Have lost their power to please; that when I see them</l>
+                     <l rend="i0" n="5208">Raise only now a melancholy wish</l>
+                     <l rend="i0" n="5209">I were the little trifler once again</l>
+                     <l rend="i0" n="5210">That could be pleased so lightly!</l>
+                  </lg>
+                  <lg xml:id="B10_lg615">
+                     <l rend="i8" n="5211">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg616">
+                     <l rend="i12" n="5212">Then you know not</l>
+                     <l rend="i0" n="5213">Your Father's art?</l>
+                  </lg>
+                  <lg xml:id="B10_lg617">
+                     <l rend="i8" n="5214">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg618">
+                     <l rend="i8" n="5215">No. I besought him once</l>
+                     <l rend="i0" n="5216">To give me power like his, that where he went</l>
+                     <l rend="i0" n="5217">I might go with him: but he shook his head,</l>
+                     <l rend="i0" n="5218">And said it was a power too dearly bought,</l>
+                     <l rend="i0" n="5219">And kist me with the tenderness of tears.</l>
+                  </lg>
+                  <lg xml:id="B10_lg619">
+                     <l rend="i8" n="5220">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg620">
+                     <l rend="i0" n="5221">And wherefore has he hidden you <rs type="metaplace" subtype="garden" ref="Laila_zone">thus far</rs>
+                     </l>
+                     <l rend="i0" n="5222">From all the ways of humankind?</l>
+                  </lg>
+                  <lg xml:id="B10_lg621">
+                     <l rend="i8" n="5223">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg622">
+                     <l rend="i12" n="5224">'Twas fear,</l>
+                     <l rend="i0" n="5225">Fatherly fear and love. He read
+                           <note type="author" anchored="true" xml:id="N_167">
+                              <p> It is well known how much the Orientalists are addicted to this
+                                 pretended science. There is a curious instance of public folly in
+                                 Sir John Chardin's travels. </p>
+                              <p> "Sephie-Mirza was born in the year of the <hi rend="italic">Egire</hi> 1057. for the superstition <rs type="place" ref="Persia">of the Persians</rs> will not let us know the month
+                                 or the day. Their addiction to Astrology is such that they
+                                 carefully conceal the moments of their Princes birth, to prevent
+                                 the casting their nativities, where they might meet perhaps with
+                                 something which they should be unwilling to know." </p>
+                              <p> At the coronation of this Prince two Astrologers were to be
+                                 present, with an Astrolabe in their hands, to take the fortunate
+                                 hour, as they term it, and observe the lucky moments that a happy
+                                 constellation should point out for proceedings of that importance. </p>
+                              <p> Sephie-Mirza having by debauchery materially injured his health,
+                                 the Chief Physician was greatly alarmed, "in regard his life
+                                 depended upon the King's, or if his life were spared yet he was
+                                 sure to lose his estate and his liberty, as happens to all those
+                                 who attend the Asiatic Sovereigns, when they die under their care.
+                                 The Queen Mother too accused him of treason or ignorance, believing
+                                 that since he was her Son's Physician he was obliged to cure him.
+                                 This made the Physician at his wits end, so that all his receipts
+                                 failing him, he bethought himself of one that was peculiarly his
+                                 own invention, and which few physicians would ever have found out,
+                                 as not being to be met with neither in Galen nor Hippocrates. What
+                                 does he then do, but out of an extraordinary fetch of his wit, he
+                                 begins to lay the fault upon the stars and the King's Astrologers,
+                                 crying out that they were altogether in the wrong, that if the King
+                                 lay in a languishing condition and could not recover his health it
+                                 was because they had failed to observe the happy hour, or the
+                                 Aspect of a fortunate constellation at the time of his coronation."
+                                 The stratagem succeeded, the King was recrowned and by the new name
+                                 of Solyman! <bibl>Chardin.</bibl>
+                              </p>
+                           </note>
+                        
+                        <rs type="metaplace" subtype="celest" ref="stars">the stars</rs>
+                     </l>
+                     <l rend="i0" n="5226">And saw a danger in my destiny,</l>
+                     <l rend="i0" n="5227">And therefore placed me here <rs type="place" ref="land_of_snow">amid the snows</rs>,</l>
+                     <l rend="i0" n="5228">And laid a spell that never human eye,</l>
+                     <l rend="i0" n="5229">If foot of man by chance should reach the depth</l>
+                     <l rend="i0" n="5230">Of this wide waste, shall see one trace of grove,</l>
+                     <l rend="i0" n="5231">
+                        <rs type="metaplace" subtype="garden" ref="Laila_zone">Garden, or dwelling-place, or yonder fire</rs>,</l>
+                     <l rend="i0" n="5232">That thaws and mitigates the frozen sky.</l>
+                     <l rend="i0" n="5233">And more than this, even if the enemy</l>
+                     <l rend="i0" n="5234">Should come, I have a guardian here.</l>
+                  </lg>
+                  <lg xml:id="B10_lg623">
+                     <l rend="i8" n="5235">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg624">
+                     <l rend="i14" n="5236">A guardian?</l>
+                  </lg>
+                  <lg xml:id="B10_lg625">
+                     <l rend="i8" n="5237">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg626">
+                     <l rend="i0" n="5238">'Twas well that when my sight unclosed upon thee</l>
+                     <l rend="i0" n="5239">There was no dark suspicion in thy face.</l>
+                     <l rend="i0" n="5240">Else I had called his succour! wilt thou see him?</l>
+                     <l rend="i0" n="5241">But if a Woman can have terrified thee,</l>
+                     <l rend="i0" n="5242">How wilt thou bare his unrelaxing brow</l>
+                     <l rend="i0" n="5243">And lifted lightnings?</l>
+                  </lg>
+                  <lg xml:id="B10_lg627">
+                     <l rend="i8" n="5244">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg628">
+                     <l rend="i8" n="5245">Lead me to him, Lady!</l>
+                  </lg>
+                  <lg xml:id="B10_lg629">
+                     <l rend="i4" n="5246">She took him by the hand</l>
+                     <l rend="i4" n="5247">And thro' the porch they past.</l>
+                     <l rend="i2" n="5248">Over <rs type="metaplace" subtype="garden" ref="Laila_zone">the garden and the grove</rs>
+                     </l>
+                     <l rend="i4" n="5249">The fountain streams of fire</l>
+                     <l rend="i4" n="5250">Poured a broad light like noon.</l>
+                     <l rend="i4" n="5251">A broad unnatural light</l>
+                     <l rend="i0" n="5252">That made the Rose's blush of beauty pale,</l>
+                     <l rend="i0" n="5253">And dimmed the rich Geranium's scarlet blaze.</l>
+                     <l rend="i2" n="5254">The various verdure of the grove</l>
+                     <l rend="i0" n="5255">Now wore one undistinguishable grey,</l>
+                     <l rend="i4" n="5256">Checqured with blacker shade.</l>
+                     <l rend="i4" n="5257">Suddenly Laila stopt,</l>
+                     <l rend="i0" n="5258">"I do not think thou art the enemy,"</l>
+                     <l rend="i4" n="5259">She said, "but He will know!</l>
+                     <l rend="i2" n="5260">"If thou hast meditated wrong</l>
+                     <l rend="i4" n="5261">"Stranger, depart in time....</l>
+                     <l rend="i2" n="5262">"I would not lead thee to thy death!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg630">
+                     <l rend="i4" n="5263">The glance of Laila's eye</l>
+                     <l rend="i0" n="5264">Turned anxiously toward the Arabian youth.</l>
+                     <l rend="i0" n="5265">"So let him pierce my heart," cried Thalaba,</l>
+                     <l rend="i0" n="5266">"If it hide thought to harm you!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg631">
+                     <l rend="i8" n="5267">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg632">
+                     <l rend="i12" n="5268">'Tis a figure,</l>
+                     <l rend="i0" n="5269">Almost I fear to look at!... yet come on.</l>
+                     <l rend="i0" n="5270">'Twill ease me of a heaviness that seems</l>
+                     <l rend="i0" n="5271">To sink my heart; and thou mayest dwell here then.</l>
+                     <l rend="i0" n="5272">In safety;... for thou shalt not go to-morrow,</l>
+                     <l rend="i0" n="5273">Nor on the after, nor the after day,</l>
+                     <l rend="i0" n="5274">Nor ever! it was only solitude</l>
+                     <l rend="i4" n="5275">That made my misery here,...</l>
+                     <l rend="i0" n="5276">And now that I can see a human face,</l>
+                     <l rend="i4" n="5277">And hear a human voice....</l>
+                     <l rend="i4" n="5278">Oh no! thou wilt not leave me!</l>
+                  </lg>
+                  <lg xml:id="B10_lg633">
+                     <l rend="i8" n="5279">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg634">
+                     <l rend="i4" n="5280">Alas I must not rest!</l>
+                     <l rend="i0" n="5281">
+                        <rs type="metaplace" subtype="celest" ref="stars">The
+                           star that ruled at my nativity</rs>
+                     </l>
+                     <l rend="i0" n="5282">Shone with a strange and blasting influence.</l>
+                     <l rend="i0" n="5283">O gentle Lady! I should draw upon you</l>
+                     <l rend="i0" n="5284">A killing curse.</l>
+                  </lg>
+                  <lg xml:id="B10_lg635">
+                     <l rend="i8" n="5285">LAILA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg636">
+                     <l rend="i6" n="5286">But I will ask my Father</l>
+                     <l rend="i0" n="5287">To save you from all danger, and you know not</l>
+                     <l rend="i0" n="5288">The wonders he can work, and when I ask</l>
+                     <l rend="i0" n="5289">It is not in his power to say me nay.</l>
+                     <l rend="i0" n="5290">Perhaps thou knowest the happiness it is</l>
+                     <l rend="i0" n="5291">To have a tender father?</l>
+                  </lg>
+                  <lg xml:id="B10_lg637">
+                     <l rend="i8" n="5292">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B10_lg638">
+                     <l rend="i10" n="5293">He was one</l>
+                     <l rend="i0" n="5294">Whom like a loathsome leper I have tainted</l>
+                     <l rend="i0" n="5295">With my contagious destiny. At evening</l>
+                     <l rend="i0" n="5296">He kist me as he wont, and laid his hands</l>
+                     <l rend="i0" n="5297">Upon my head, and blest me ere I slept.</l>
+                     <l rend="i0" n="5298">His dying groan awoke me, for the Murderer</l>
+                     <l rend="i0" n="5299">Had stolen upon our sleep! for me was meant</l>
+                     <l rend="i0" n="5300">The midnight blow of death; my father died,</l>
+                     <l rend="i0" n="5301">The brother play-mates of my infancy,</l>
+                     <l rend="i0" n="5302">The baby at the breast, they perished all,</l>
+                     <l rend="i0" n="5303">All in that dreadful hour: but I was saved</l>
+                     <l rend="i4" n="5304">To remember and revenge.</l>
+                  </lg>
+                  <lg xml:id="B10_lg639">
+                     <l rend="i4" n="5305">She answered not, for now</l>
+                     <l rend="i0" n="5306">Emerging from the o'er-arched avenue</l>
+                     <l rend="i2" n="5307">The finger of her upraised hand</l>
+                     <l rend="i0" n="5308">Marked where the Guardian of <rs type="metaplace" subtype="garden" ref="Laila_zone">the garden</rs> stood.</l>
+                     <l rend="i0" n="5309">It was a brazen
+                           <note type="author" anchored="true" xml:id="N_168">
+                              <p> We have now to refute their errour who are persuaded that Brazen
+                                 Heads made under certain constellations may give answers, and be as
+                                 it were guides and counsellors, upon all occasions, to those that
+                                 had them in their possession. Among these is one Yepes who affirms
+                                 that Henry de Villeine made such a one at
+                                    <placeName>Madrid</placeName>, broken to pieces afterwards by
+                                 order of John 2. King of Castile. The same thing is affirmed by
+                                 Bartholomew Sibillus, and the Author of <title>the <hi rend="italic">Image of the World</hi>
+                              </title>, of Virgil; by
+                                 William of Malmsbury of Sylvester; by John Gower of Robert of
+                                    <placeName>Lincoln</placeName>; by the common people of
+                                    <placeName>England</placeName> of Roger Bacon; and by Tostatus
+                                 Bishop of <placeName>Avilla</placeName>, George of
+                                    <placeName>Venice</placeName>, Delrio, Sibillus, Raguseus,
+                                 Delancre and others, too many to mention, of Albertus Magnus; who
+                                 as the most expert, had made an entire man of the same metal, and
+                                 had spent thirty years without any interruption in forming him <rs type="metaplace" subtype="celest" ref="stars">under several
+                                    aspects and constellations</rs>. For example, he formed the
+                                 eyes, according to the said Tostatus in his commentaries upon
+                                 Exodus, when the Sun was in a sign of the Zodiac correspondent to
+                                 that part, casting them out of divers metals mixt together and
+                                 mark'd with the characters of the same signs and planets, and their
+                                 several and necessary aspects. The same method he observed in the
+                                 head, neck, shoulders, thighs, and legs, all which were fashioned
+                                 at several times, and being put and fastened together in the form
+                                 of a man, had the faculty to reveal to the said Albertus the
+                                 solutions of all his principal difficulties. To which they add
+                                 (that nothing be lost of the story of the statue) that it was
+                                 battered to pieces by St. Thomas, meerely because he could not
+                                 endure its excesse of prating. </p>
+                              <p> But to give a more rational account of this Androides of Albertus,
+                                 as also of all these miraculous heads, I conceive the original of
+                                 this fable may well be deduced from the Teraph of the Hebrews, by
+                                 which as Mr. Selden affirms, many are of opinion, that we must
+                                 understand what is said in Genesis concerning Laban's Gods, and in
+                                 the first book of Kings concerning the image which Michol put into
+                                 the bed in David's place. For R. Eleazar holds that it was made of
+                                 the head of a male child, the first born and that dead-born, under
+                                 whose tongue they applyed a lamen of Gold, whereon were engraved
+                                 the characters and inscriptions of certain planets, which the Jews
+                                 superstitiously wandered up and down with, instead of the Urim and
+                                 Thummim, or the Ephod of the High Priest. And that this original is
+                                 true and well deduced, there is a manifest indicium, in that Henry
+                                 D'Assia, and Bartholomæus Sibillus affirm, that the Androides of
+                                 Albertus, and the Head made by Virgil, were composed of flesh and
+                                 bone, yet not by nature, but by art. But this being judged
+                                 impossible by modern Authors, and the vertue of Images, Annulets,
+                                 and planetary Sigills being in great reputation, men have thought
+                                 ever since (taking their opinion from Trismegistus affirming in his
+                                 Asclepion, that of the Gods, some were made by the Sovereign God,
+                                 and others by men, who, by some art, had the power to unite the
+                                 invisible Spirits to things visible and corporeal, as is explained
+                                 at large by St. Augustine) that such figures were made of copper or
+                                 some other metal, whereon men had wrought under some favourable
+                                 Aspects of Heaven and the planets. </p>
+                              <p> My design is not absolutely to deny that he might compose some
+                                 head or statue of man, like that of Memnon, from which proceeded a
+                                 small sound and pleasant noise, when the rising Sun came by his
+                                 heat to rarify and force out, by certain small conduits, the air
+                                 which in the cold of the night was condensed within it. Or haply
+                                 they might be like those statues of Boetius, whereof Cassiodorus
+                                 speaking said, <hi rend="italic">Metalla mugiunt</hi>, <hi rend="italic">Diomedis in ære grues buccinant, ænus anguis
+                                    insibilat, aves simulatæ fritinniunt, et quæ propriam vocem
+                                    nesciunt, ab ære dulcedinem probantur emittere cantilenæ</hi>;
+                                 for such I doubt not but may be made by the help of that part of
+                                 Natural Magic which depends on the Mathematics. <bibl>History of
+                                    Magic.</bibl>
+                              </p>
+                              <p> The title page to this book is wanting;, but the Epistle
+                                 Dedicatory is signed J. Davies. By the stile, spelling, and <hi rend="italic">extensive reading of the author</hi>, it appears
+                                 to be a work of the last century.</p>
+                           </note>
+                         Image, every limb</l>
+                     <l rend="i0" n="5310">And swelling vein and muscle, true to life:</l>
+                     <l rend="i4" n="5311">The left knee bending on,</l>
+                     <l rend="i0" n="5312">The other straight, firm planted, and his hand</l>
+                     <l rend="i4" n="5313">Lifted on high to hurl</l>
+                     <l rend="i4" n="5314">The Lightning that it grasped.</l>
+                  </lg>
+                  <lg xml:id="B10_lg640">
+                     <l rend="i4" n="5315">When Thalaba approached,</l>
+                     <l rend="i0" n="5316">The charmed Image knew Hodeirah's son,</l>
+                     <l rend="i0" n="5317">And hurled the lightning at the dreaded foe.</l>
+                     <l rend="i4" n="5318">The Ring! the saviour Ring!</l>
+                     <l rend="i0" n="5319">Full in his face the lightning-bolt was driven,</l>
+                     <l rend="i4" n="5320">The scattered fire recoiled.</l>
+                     <l rend="i0" n="5321">Like the flowing of a summer gale he felt</l>
+                     <l rend="i4" n="5322">Its ineffectual force,</l>
+                     <l rend="i2" n="5323">His countenance was not changed,</l>
+                     <l rend="i2" n="5324">Nor a hair of his head was singed.</l>
+                  </lg>
+                  <lg xml:id="B10_lg641">
+                     <l rend="i4" n="5325">He started and his glance</l>
+                     <l rend="i2" n="5326">Turned angrily upon the Maid,</l>
+                     <l rend="i0" n="5327">The sight disarmed suspicion ... breathless, pale,</l>
+                     <l rend="i4" n="5328">Against a tree she stood.</l>
+                     <l rend="i2" n="5329">Her wan lips quivering, and her eye</l>
+                     <l rend="i0" n="5330">Upraised, in silent supplicating fear.</l>
+                  </lg>
+                  <lg xml:id="B10_lg642">
+                     <l rend="i2" n="5331">She started with a scream of joy</l>
+                     <l rend="i4" n="5332">Seeing her Father there,</l>
+                     <l rend="i0" n="5333">And ran and threw her arms around his neck,</l>
+                     <l rend="i0" n="5334">"Save me!" she cried, "the Enemy is come!</l>
+                     <l rend="i4" n="5335">"Save me! save me! Okba!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg643">
+                     <l rend="i4" n="5336">"Okba!" repeats the youth,</l>
+                     <l rend="i4" n="5337">For never since that hour</l>
+                     <l rend="i0" n="5338">When in the Tent the Spirit told his name,</l>
+                     <l rend="i4" n="5339">Had Thalaba let slip</l>
+                     <l rend="i0" n="5340">The memory of his Father's murderer;</l>
+                     <l rend="i4" n="5341">"Okba!"... and in his hand</l>
+                     <l rend="i4" n="5342">He graspt an arrow-shaft.</l>
+                     <l rend="i2" n="5343">And he rushed on to strike him.</l>
+                  </lg>
+                  <lg xml:id="B10_lg644">
+                     <l rend="i0" n="5344">"Son of Hodeirah!" the Old Man replied,</l>
+                     <l rend="i4" n="5345">"My hour is not yet come."</l>
+                     <l rend="i4" n="5346">And putting forth his hand</l>
+                     <l rend="i2" n="5347">Gently he repelled the Youth.</l>
+                     <l rend="i4" n="5348">"My hour is not yet come!</l>
+                     <l rend="i0" n="5349">"But thou mayest shed this innocent Maiden's blood,</l>
+                     <l rend="i2" n="5350">"That vengeance<name type="divin">God</name>allows
+                        thee."</l>
+                  </lg>
+                  <lg xml:id="B10_lg645">
+                     <l rend="i4" n="5351">Around her Father's neck</l>
+                     <l rend="i4" n="5352">Still Laila's hands were clasped.</l>
+                     <l rend="i2" n="5353">Her face was turned to Thalaba,</l>
+                     <l rend="i0" n="5354">A broad light floated o'er its marble paleness,</l>
+                     <l rend="i2" n="5355">As the wind waved <rs type="metaplace" subtype="garden" ref="Laila_zone">the fountain fire</rs>.</l>
+                     <l rend="i0" n="5356">Her large, dilated eye in horror raised</l>
+                     <l rend="i4" n="5357">Watched his every movement.</l>
+                     <l rend="i4" n="5358">"Not upon her," said he,</l>
+                     <l rend="i0" n="5359">"Not upon her Hodeirah's blood cries out</l>
+                     <l rend="i0" n="5360">"For vengeance!" and again his lifted arm</l>
+                     <l rend="i4" n="5361">Threatened the Sorcerer,</l>
+                     <l rend="i4" n="5362">Again withheld it felt</l>
+                     <l rend="i0" n="5363">The barrier that no human strength could burst.</l>
+                  </lg>
+                  <lg xml:id="B10_lg646">
+                     <l rend="i0" n="5364">"Thou dost not aim the blow more eagerly,"</l>
+                     <l rend="i0" n="5365">Okba replied, "than I would rush to meet it!</l>
+                     <l rend="i4" n="5366">"But that were poor revenge.</l>
+                     <l rend="i4" n="5367">"O Thalaba, thy<name type="divin">God</name>
+                     </l>
+                     <l rend="i4" n="5368">"Wreaks on the innocent head</l>
+                     <l rend="i0" n="5369">"His vengeance;... I must suffer in my child!</l>
+                     <l rend="i0" n="5370">"Why dost thou pause to strike thy victim? <name type="divin">Allah</name>
+                     </l>
+                     <l rend="i4" n="5371">"Permits, commands the deed."</l>
+                  </lg>
+                  <lg xml:id="B10_lg647">
+                     <l rend="i4" n="5372">"Liar!" quoth Thalaba.</l>
+                     <l rend="i4" n="5373">And Laila's wondering eye</l>
+                     <l rend="i0" n="5374">Looked up, all anguish to her Father's face,</l>
+                     <l rend="i0" n="5375">"By <name type="divin">Allah</name> and the Prophet," he
+                        replied,</l>
+                     <l rend="i4" n="5376">"I speak the words of truth.</l>
+                     <l rend="i4" n="5377">"Misery, misery,</l>
+                     <l rend="i0" n="5378">"That I must beg mine enemy to speed</l>
+                     <l rend="i0" n="5379">"The inevitable vengeance now so near!</l>
+                     <l rend="i2" n="5380">"I read it in her horoscope,</l>
+                     <l rend="i0" n="5381">"<rs type="metaplace" subtype="celest" ref="stars">Her
+                           birth-star</rs> warned me of Hodeirah's race.</l>
+                     <l rend="i0" n="5382">"I laid a spell, and called a Spirit up.</l>
+                     <l rend="i4" n="5383">"He answered one must die</l>
+                     <l rend="i4" n="5384">"Laila or Thalaba....</l>
+                     <l rend="i2" n="5385">"Accursed Spirit! even in truth</l>
+                     <l rend="i4" n="5386">"Giving a lying hope!</l>
+                     <l rend="i2" n="5387">"Last, I ascended <rs type="metaplace" subtype="divin" ref="7th_Heaven">the seventh Heaven</rs>
+                     </l>
+                     <l rend="i0" n="5388">"And on the everlasting
+                           <note type="author" anchored="true" xml:id="N_169">
+                              <p> This Table is suspended in <rs type="metaplace" subtype="divin" ref="7th_Heaven">the Seventh Heaven</rs>, and guarded from the
+                                 Demons, lest they should change or corrupt any thing thereon. Its
+                                 length is so great as is the space between <rs type="metaplace" subtype="divin">Heaven</rs> and <placeName ref="Earth_planet">Earth</placeName>, its breadth equal to the distance from the
+                                 East to the West, and it is made of one pearl. The divine Pen was
+                                 created by the finger of God: that also is of pearls, and of such
+                                 length and breadth that a swift horse could scarcely gallop round
+                                 it in five hundred years. It is so endowed, that self-moved it
+                                 writes all things, past, present, and to come. Light, is its ink,
+                                 and the language which it uses, only the Angel Seraphael
+                                 understands. <bibl>Maracci.</bibl>
+                              </p>
+                           </note>
+                         Table there</l>
+                     <l rend="i4" n="5389">"In characters of light,</l>
+                     <l rend="i4" n="5390">"I read her written doom.</l>
+                     <l rend="i0" n="5391">"The years that it has gnawn me! and the load</l>
+                     <l rend="i0" n="5392">"Of sin that it has laid upon my soul!</l>
+                     <l rend="i0" n="5393">"Curse on this hand that in the only hour</l>
+                     <l rend="i4" n="5394">"The favouring stars allowed</l>
+                     <l rend="i2" n="5395">"Reeked with other blood than thine.</l>
+                     <l rend="i0" n="5396">"Still dost thou stand and gaze incredulous?</l>
+                     <l rend="i0" n="5397">"Young man, be merciful, and keep her not</l>
+                     <l rend="i4" n="5398">"Longer in agony!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg648">
+                     <l rend="i2" n="5399">Thalaba's unbelieving frown</l>
+                     <l rend="i4" n="5400">Scowled on the Sorcerer,</l>
+                     <l rend="i0" n="5401">When in the air the rush of wings was heard</l>
+                     <l rend="i4" n="5402">And Azrael stood among them.</l>
+                     <l rend="i2" n="5403">In equal terror at the sight</l>
+                     <l rend="i2" n="5404">The Enchanter, the Destroyer stood,</l>
+                     <l rend="i4" n="5405">And Laila, the victim maid.</l>
+                  </lg>
+                  <lg xml:id="B10_lg649">
+                     <l rend="i0" n="5406">"Son of Hodeirah!" said the Angel of Death,</l>
+                     <l rend="i4" n="5407">"The accursed fables not.</l>
+                     <l rend="i2" n="5408">"When from the Eternal Hand I took</l>
+                     <l rend="i4" n="5409">"The yearly
+                           <note type="author" anchored="true" xml:id="N_170">
+                              <p> They celebrate the night Léïleth-ul-beraeth on the 15th of the
+                                 month of Schabann, with great apprehension and terror, because they
+                                 consider it as the tremendous night on which the angels
+                                 Kiramenn-keatibinn, placed on each side of mankind to write down
+                                 their good and bad actions, deliver up their books and receive
+                                 fresh ones for the continuance of the same employment. It is
+                                 believed also, that on that night the archangel Azrail, the angel
+                                 of death, gives up also his records and receives another book in
+                                 which are written the names of all those destined to die in the
+                                 following year. <bibl>D'Ohsson.</bibl>
+                              </p>
+                           </note>
+                         scroll of fate,</l>
+                     <l rend="i4" n="5410">"Her name was written there.</l>
+                     <l rend="i2" n="5411">"This is the hour, and from thy hands</l>
+                     <l rend="i0" n="5412">"Commissioned to receive the Maid I come."</l>
+                  </lg>
+                  <lg xml:id="B10_lg650">
+                     <l rend="i0" n="5413">"Hear me O Angel!" Thalaba replied,</l>
+                     <l rend="i4" n="5414">"To avenge my Father's death,</l>
+                     <l rend="i4" n="5415">"To work the will of <rs type="metaplace" subtype="divin">Heaven</rs>,</l>
+                     <l rend="i0" n="5416">"To root from <placeName ref="Earth_planet">earth</placeName> the accursed sorcerer race,</l>
+                     <l rend="i2" n="5417">"I have dared danger undismayed,</l>
+                     <l rend="i2" n="5418">"I have lost all my soul held dear,</l>
+                     <l rend="i0" n="5419">"I am cut off from all the ties of life,</l>
+                     <l rend="i0" n="5420">"Unmurmuring; for whate'er awaits me still,</l>
+                     <l rend="i0" n="5421">"Pursuing to the end the enterprize,</l>
+                     <l rend="i0" n="5422">"Peril or pain, I bear a ready heart.</l>
+                     <l rend="i2" n="5423">"But strike this Maid! this innocent!</l>
+                     <l rend="i4" n="5424">"Angel, I dare not do it."</l>
+                  </lg>
+                  <lg xml:id="B10_lg651">
+                     <l rend="i0" n="5425">"Remember," answered Azrael, "all thou sayest</l>
+                     <l rend="i0" n="5426">"Is written down for judgement! every word</l>
+                     <l rend="i0" n="5427">"In the balance of
+                           <note type="author" anchored="true" xml:id="N_171">
+                              <p> The Balance of the Dead is an article in almost every creed.
+                                 Mohammed borrowed it from the Persians. I know not from whence the
+                                 Monks introduced it; probably they were ignorant enough to have
+                                 invented the obvious fiction. </p>
+                              <p> In the Vision of Thurcillus the ceremony is accurately described.
+                                    <q>"At the end of the north wall, within the church, sate St.
+                                    Paul, and opposite him, without, was <name type="divin">the
+                                       Devil</name>and his Angels. At the feet of <name type="divin">the Devil</name>a burning pit flamed up, which was the mouth
+                                    of the Pit of Hell. A Balance equally poised, was fixed upon the
+                                    wall between <name type="divin">the Devil</name>and the Apostle,
+                                    one scale hanging before each. The Apostle had two weights, a
+                                    greater and a less, all shining and like gold, and <name type="divin">the Devil</name>also had two smoky and black
+                                    ones. Therefore the Souls that were all black came one after
+                                    another, with great fear and trembling, to behold the weighing
+                                    of their good and evil works: for these weights weighed the
+                                    works of all the souls, according to the good or evil which they
+                                    had done. When the scale inclined to the Apostle, he took the
+                                    Soul, and introduced it thro' the Eastern gate, into the fire of
+                                    Purgatory, that there it might expiate its crimes. But when the
+                                    scale inclined and sunk towards the Devil, then he and his
+                                    Angels snatched the soul miserably howling and cursing the
+                                    father and mother that begot it to eternal torments, and cast it
+                                    with laughter and grinning into the deep and fiery pit which was
+                                    at the feet of <name type="divin">the Devil</name>. Of this
+                                    Balance of good and evil much may be found in the writings of
+                                    the holy Fathers." <bibl>
+                                       <author>Matthew Paris</author>
+                                    </bibl>.</q>
+                              </p>
+                              <q>
+                                 <p> "Concerning the salvation of Charlemagne, Archbishop Turpin, a
+                                    man of holy life, wrote thus. "I, Turpin, Archbishop of Rheims,
+                                    being in my chamber, in the city of Vienna, saying my prayers,
+                                    saw a legion of Devils in the air, who were making a great
+                                    noise. I adjured one of them to tell me from whence they came,
+                                    and wherefore they made so great an uproar. And he replied that
+                                    they came from <placeName>Aix la Chapelle</placeName>, where a
+                                    great Lord had died, and that they were returning in anger
+                                    because they had not been able to carry away his soul. I asked
+                                    him who the great Lord was, and why they had not been able to
+                                    carry away his soul. He replied that it was Charlemagne, and
+                                    that Saint Jago had been greatly against them. And I asked him
+                                    how St. Jago had been against them; and he replied, we were
+                                    weighing the good and the evil which he had done <placeName ref="the_world">in this world</placeName>, and Saint Jago
+                                    brought so much timber and so many stones from the churches
+                                    which he had founded in his name, that they greatly
+                                    over-balanced all his evil works; and so we had no power over
+                                    his soul. And having said this <name type="divin">the
+                                       Devil</name>disappeared." </p>
+                              </q>
+                              <p> We must understand from this vision of Archbishop Turpin, that
+                                 they who build or repair churches <placeName ref="the_world">in
+                                    this world</placeName>, erect resting places and inns for their
+                                 salvation. </p>
+                              <p>
+                                 <bibl>
+                                    <title>
+                                       <hi rend="italic">Historia do Imperador Carlos Magno, &amp;
+                                          dos Doze Pares de França.</hi>
+                                    </title>
+                                 </bibl>
+                              </p>
+                              <p> Two other corollaries follow from the vision. The Devil's way home
+                                 from <placeName>Aix la Chapelle</placeName> lay thro'
+                                    <placeName>Vienna</placeName>;—and as churches go by weight, an
+                                 architect of Sir John Vanbrugh's school should always be employed. </p>
+                              <p> This Balance of the Dead was an easy and apt metaphor, but
+                                 clumsily imagined as an actual mode of trial. </p>
+                              <q>
+                                 <lg>
+                                    <l rend="i0">"For take thy Ballaunce, if thou be so wise,</l>
+                                    <l rend="i1">"And weigh the winde that under heaven doth
+                                       blow;</l>
+                                    <l rend="i0">"Or weigh the light that in the East doth rise:</l>
+                                    <l rend="i1">"Or weigh the thought that from man's mind doth
+                                       flow</l>
+                                    <l rend="i1">"But if the weight of these thou canst not
+                                       show,</l>
+                                    <l rend="i0">"Weigh but one word which from thy lips doth
+                                       fall."</l>
+                                 </lg>
+                                 <bibl>
+                                    <author>Spenser</author>. </bibl>
+                              </q>
+                           </note>
+                         thy trial must be weighed!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg653">
+                     <l rend="i4" n="5434">"So be it!" said the Youth.</l>
+                     <l rend="i0" n="5435">"He who can read the secrets of the heart</l>
+                     <l rend="i2" n="5436">"Will judge with righteousness!</l>
+                     <l rend="i4" n="5437">"This is no doubtful path,</l>
+                     <l rend="i0" n="5438">"The voice of<name type="divin">God</name>within me
+                        cannot lie....</l>
+                     <l rend="i2" n="5439">"I will not harm the innocent."</l>
+                  </lg>
+                  <lg xml:id="B10_lg654">
+                     <l rend="i4" n="5440">He said, and from above,</l>
+                     <l rend="i2" n="5441">As tho' it were the Voice of Night,</l>
+                     <l rend="i4" n="5442">The startling answer came.</l>
+                     <l rend="i2" n="5443">"Son of Hodeirah, think again!</l>
+                     <l rend="i4" n="5444">"One must depart from <rs type="metaplace" subtype="garden" ref="Laila_zone">hence</rs>,</l>
+                     <l rend="i4" n="5445">"Laila, or Thalaba;</l>
+                     <l rend="i2" n="5446">"She dies for thee, or thou for her,</l>
+                     <l rend="i4" n="5447">"It must be life for life!</l>
+                     <l rend="i2" n="5448">"Son of Hodeirah, weigh it well,</l>
+                     <l rend="i4" n="5449">"While yet the choice is thine!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg655">
+                     <l rend="i4" n="5450">He hesitated not,</l>
+                     <l rend="i0" n="5451">But looking upward spread his hands to <rs type="metaplace" subtype="divin">Heaven</rs>,</l>
+                     <l rend="i0" n="5452">"Oneiza, in thy bower of <rs type="metaplace" subtype="divin">Paradise</rs>
+                     </l>
+                     <l rend="i4" n="5453">"Receive me, still unstained!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg656">
+                     <l rend="i0" n="5454">"What!" exclaimed Okba, "darest thou disobey,</l>
+                     <l rend="i4" n="5455">"Abandoning all claim</l>
+                     <l rend="i4" n="5456">"To <name type="divin">Allah</name>'s longer aid?"</l>
+                  </lg>
+                  <lg xml:id="B10_lg657">
+                     <l rend="i0" n="5457">The eager exultation of his speech</l>
+                     <l rend="i0" n="5458">
+                        <rs type="place" ref="the_world">Earthward</rs> recalled
+                        the thoughts of Thalaba.</l>
+                     <l rend="i0" n="5459">"And dost thou triumph, Murderer? dost thou deem</l>
+                     <l rend="i0" n="5460">"Because I perish, that the unsleeping lids</l>
+                     <l rend="i0" n="5461">"Of Justice shall be closed upon thy crime?</l>
+                     <l rend="i0" n="5462">"Poor, miserable man! that thou canst live</l>
+                     <l rend="i0" n="5463">"With such beast-blindness in the present joy</l>
+                     <l rend="i2" n="5464">"When o'er thy head the sword of<name type="divin">God</name>
+                     </l>
+                     <l rend="i4" n="5465">"Hangs for the certain stroke!"</l>
+                  </lg>
+                  <lg xml:id="B10_lg658">
+                     <l rend="i0" n="5466">"Servant of <name type="divin">Allah</name>, thou hast
+                        disobeyed,</l>
+                     <l rend="i4" n="5467">"<name type="divin">God</name> hath abandoned thee,</l>
+                     <l rend="i4" n="5468">"This hour is mine!" cried Okba,</l>
+                     <l rend="i4" n="5469">And shook his Daughter off,</l>
+                     <l rend="i2" n="5470">And drew the dagger from his vest.</l>
+                     <l rend="i4" n="5471">And aimed the deadly blow.</l>
+                  </lg>
+                  <lg xml:id="B10_lg659">
+                     <l rend="i0" n="5472">All was accomplished. Laila rushed between</l>
+                     <l rend="i4" n="5473">To save the saviour Youth.</l>
+                     <l rend="i0" n="5474">She met the blow and sunk into his arms,</l>
+                     <l rend="i0" n="5475">And Azrael from the hands
+                           <note type="author" anchored="true" xml:id="N_172">
+                              <p> This double meaning is in the spirit of oracular prediction. The
+                                 classical reader will remember the equivocations of Apollo, the
+                                 fable of the young man and the Lion in the tapestry will be more
+                                 generally recollected: we have many buildings in England to which
+                                 this story has been applied,—<placeName>Cook's Folly near
+                                       <placeName>Bristol</placeName>
+                              </placeName> derives its name
+                                 from a similar tradition. </p>
+                              <p> The History of the Buccaneers affords a remarkable instance of
+                                 prophecy occasioning its own accomplishment. </p>
+                              <p> "Before my first going over into the <hi rend="italic">
+                                 <placeName>South-Seas</placeName>
+                              </hi> with Captain <hi rend="italic">Sharp</hi> (and indeed before any Privateers, at
+                                 least since <hi rend="italic">Drake</hi> and <hi rend="italic">Oxengham</hi>) had gone that way which we afterwards went,
+                                 except <hi rend="italic">La Sound</hi>, a <hi rend="italic">French</hi> Captain, who by Capt. <hi rend="italic">Wright's</hi> instructions had ventured as far as <hi rend="italic">
+                                 <placeName>Cheapo</placeName>
+                              </hi> town with a
+                                 body of men, but was driven back again, I being then on board Capt.
+                                    <hi rend="italic">Coxon</hi>, in company with three or four more
+                                 Privateers, about four leagues to the East of <hi rend="italic">
+                                 <placeName>Portobel</placeName>
+                              </hi>, we took the packets
+                                 bound thither from <hi rend="italic">
+                                 <placeName>Carthagena</placeName>
+                              </hi>. We opened a great
+                                 quantity of the Merchant's letters, and found the contents of many
+                                 of them to be very surprizing, the Merchants of several parts of
+                                    <hi rend="italic">
+                                 <placeName ref="Spain">Old-Spain</placeName>
+                              </hi> thereby informing their
+                                 correspondents of <hi rend="italic">
+                                 <placeName>Panama</placeName>
+                              </hi>, and elsewhere, of a certain
+                                 prophecy that went about <hi rend="italic">
+                                 <placeName>Spain</placeName>
+                              </hi> that year, the tenor of
+                                 which was, <hi rend="italic">that there would be</hi> English <hi rend="italic">privateers that year in the</hi>
+                                 <placeName ref="West_Indies">West-Indies</placeName>, <hi rend="italic">who would make such great discoveries, as to open
+                                    a door into the</hi>
+                                 <placeName>South-Seas</placeName>; which they supposed was fastest
+                                 shut: and the letters were accordingly full of cautions to their
+                                 friends to be very watchful and careful of their coasts. </p>
+                              <p> This door they spake of we all concluded must be the passage over
+                                 land through <rs type="place" ref="West_Indies">the country of the
+                                       <hi rend="italic">Indians</hi> of <hi rend="italic">Darien</hi>
+                              </rs>, who were a little before this become our
+                                 friends, and had lately fallen out with the <hi rend="italic">Spaniards</hi>, breaking off the intercourse which for some
+                                 time they had with them: And upon calling also to mind the frequent
+                                 invitations we had from those <hi rend="italic">Indians</hi> a
+                                 little before this time, to pass through their Country, and fall
+                                 upon the <hi rend="italic">Spaniards</hi> in the <hi rend="italic">South-Seas</hi>, we from henceforward began to entertain such
+                                 thoughts in earnest, and soon came to a resolution to make those
+                                 attempts which we afterwards did with Capt. <hi rend="italic">Sharp, Coxon, &amp;c.</hi> So that the taking these letters
+                                 gave the first life to those bold undertakings: And we took the
+                                 advantage of the fears the <hi rend="italic">Spaniards</hi> were in
+                                 from that prophecy, or probable conjecture, or whatever it were;
+                                 for we sealed up most of the letters again, and sent them ashore to
+                                    <hi rend="italic">
+                                 <placeName>Portobel</placeName>
+                              </hi>.
+                                    <bibl>Dampier.</bibl>
+                              </p>
+                           </note>
+                         of Thalaba</l>
+                     <l rend="i4" n="5476">
+                        <rs type="metaplace" subtype="divin" ref="the_other_world">Received her parting soul</rs>.</l>
+                  </lg>
+               </div>
+      </body>
+   </text>
+</TEI>

@@ -1,1 +1,734 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>Thalaba the Destroyer (1801), Volume 2: Book 12</titleStmt></fileDesc></teiHeader><text><front><head><bibl><title level="m">Thalaba the Destroyer</title><title level="a">, Volume 2: Book 12</title> () by <author>Robert Southey</author></bibl></head></front><body/></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801), Volume 2: Book 12</title>
+            <author>Robert Southey</author>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/>
+            </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title>
+               <title level="a">, Volume 2: Book 12</title> (<date>1801</date>) by <author>Robert Southey</author>
+            </bibl>
+         </head>
+      </front>
+      <body>
+         <div type="book" xml:id="Book_12">
+                  <head>THE TWELFTH BOOK.</head>
+                  <lg xml:id="B12_lg702">
+                     <l rend="i0" n="6010">Then Thalaba drew off Abdaldar's ring,</l>
+                     <l rend="i0" n="6011">And cast it in <rs type="place" ref="Ocean">the sea</rs>,
+                        and cried aloud,</l>
+                     <l rend="i0" n="6012">"Thou art my shield, my trust, my hope, O God!</l>
+                     <l rend="i4" n="6013">"Behold and guard me now,</l>
+                     <l rend="i4" n="6014">"Thou who alone canst save.</l>
+                     <l rend="i0" n="6015">"If from my childhood up, I have looked on</l>
+                     <l rend="i0" n="6016">"With exultation to my destiny,</l>
+                     <l rend="i0" n="6017">"If, in the hour of anguish, I have felt</l>
+                     <l rend="i0" n="6018">"The justice of the hand that chastened me,</l>
+                     <l rend="i0" n="6019">"If, of all selfish passions purified,</l>
+                     <l rend="i0" n="6020">"I go to work thy will, and from <placeName ref="the_world">the world</placeName>
+                     </l>
+                     <l rend="i4" n="6021">"Root up the ill-doing race,</l>
+                     <l rend="i0" n="6022">"Lord! let not thou the weakness of my arm</l>
+                     <l rend="i4" n="6023">"Make vain the enterprize!"</l>
+                  </lg>
+                  <lg xml:id="B12_lg703">
+                     <l rend="i0" n="6024">The Sun was rising all magnificent,</l>
+                     <l rend="i0" n="6025">
+                        <placeName>Ocean</placeName> and <rs type="metaplace" subtype="celest">Heaven</rs> rejoicing in his beams.</l>
+                     <l rend="i4" n="6026">And now had Thalaba</l>
+                     <l rend="i0" n="6027">Performed his last ablutions, and he stood</l>
+                     <l rend="i2" n="6028">And gazed upon the little boat</l>
+                     <l rend="i4" n="6029">Riding the billows near,</l>
+                     <l rend="i0" n="6030">Where, like a sea-bird breasting the broad waves,</l>
+                     <l rend="i2" n="6031">It rose and fell upon the surge;</l>
+                     <l rend="i0" n="6032">Till from the glitterance of the sunny main</l>
+                     <l rend="i4" n="6033">He turned his aching eyes,</l>
+                     <l rend="i0" n="6034">And then upon the beach he laid him down</l>
+                     <l rend="i4" n="6035">And watched the rising tide.</l>
+                     <l rend="i0" n="6036">He did not pray, he was not calm for prayer;</l>
+                     <l rend="i0" n="6037">His spirit troubled with tumultuous hope</l>
+                     <l rend="i4" n="6038">Toiled with futurity.</l>
+                     <l rend="i2" n="6039">His brain, with busier workings, felt</l>
+                     <l rend="i0" n="6040">The roar and raving of the restless sea,</l>
+                     <l rend="i0" n="6041">The boundless waves that rose and rolled and rocked;</l>
+                     <l rend="i4" n="6042">The everlasting sound</l>
+                     <l rend="i0" n="6043">Opprest him, and the heaving infinite,</l>
+                     <l rend="i4" n="6044">He closed his lids for rest.</l>
+                  </lg>
+                  <lg xml:id="B12_lg704">
+                     <l rend="i0" n="6045">Meantime with fuller reach and stronger swell</l>
+                     <l rend="i4" n="6046">Wave after wave advanced;</l>
+                     <l rend="i0" n="6047">Each following billow lifted the last foam</l>
+                     <l rend="i0" n="6048">That trembled on the sand with rainbow hues;</l>
+                     <l rend="i0" n="6049">The living flower, that, rooted to the rock,</l>
+                     <l rend="i2" n="6050">Late from the thinner element</l>
+                     <l rend="i0" n="6051">Shrunk down within its purple stem to sleep,</l>
+                     <l rend="i2" n="6052">Now feels the water, and again</l>
+                     <l rend="i4" n="6053">Awakening blossoms out</l>
+                     <l rend="i4" n="6054">All its green anther-necks.</l>
+                  </lg>
+                  <lg xml:id="B12_lg705">
+                     <l rend="i2" n="6055">Was there a Spirit in the gale</l>
+                     <l rend="i4" n="6056">That fluttered o'er his cheek?</l>
+                     <l rend="i0" n="6057">For it came on him like the gentle sun</l>
+                     <l rend="i0" n="6058">That plays and dallies o'er the night-closed flower,</l>
+                     <l rend="i0" n="6059">And woos it to unfold anew to joy;</l>
+                     <l rend="i0" n="6060">For it came on him as the dews of eve</l>
+                     <l rend="i2" n="6061">Descend with healing and with life</l>
+                     <l rend="i4" n="6062">Upon the summer mead;</l>
+                     <l rend="i0" n="6063">Or liker the first sound of seraph song</l>
+                     <l rend="i4" n="6064">And Angel hail, to him</l>
+                     <l rend="i0" n="6065">Whose latest sense had shuddered at the groan</l>
+                     <l rend="i0" n="6066">Of anguish, kneeling by his death bed-side.</l>
+                  </lg>
+                  <lg xml:id="B12_lg706">
+                     <l rend="i2" n="6067">He starts and gazes round to seek</l>
+                     <l rend="i0" n="6068">The certain presence. "Thalaba!" exclaimed</l>
+                     <l rend="i4" n="6069">The Voice of the Unseen;...</l>
+                     <l rend="i0" n="6070">"Father of my Oneiza!" he replied,</l>
+                     <l rend="i0" n="6071">"And have thy years been numbered? art thou too</l>
+                     <l rend="i2" n="6072">"Among the Angels?" "Thalaba!"</l>
+                     <l rend="i0" n="6073">A second and a dearer voice repeats,</l>
+                     <l rend="i2" n="6074">"Go in the favour of the Lord</l>
+                     <l rend="i4" n="6075">"My Thalaba go on!</l>
+                     <l rend="i0" n="6076">"My husband. I have drest our bower of bliss.</l>
+                     <l rend="i4" n="6077">"Go and perform the work,</l>
+                     <l rend="i0" n="6078">"Let me not longer suffer hope in heaven!"</l>
+                  </lg>
+                  <lg xml:id="B12_lg707">
+                     <l rend="i0" n="6079">He turned an eager glance towards the sea,</l>
+                     <l rend="i2" n="6080">"Come!" quoth the Damsel, and she drove</l>
+                     <l rend="i4" n="6081">Her little boat to land.</l>
+                     <l rend="i2" n="6082">Impatient thro' the rising wave</l>
+                     <l rend="i4" n="6083">He rushed to meet its way,</l>
+                     <l rend="i0" n="6084">His eye was bright, his cheek was flushed with joy.</l>
+                     <l rend="i0" n="6085">"Hast thou had comfort in thy prayers?" she cried,</l>
+                     <l rend="i4" n="6086">"Yea," answered Thalaba,</l>
+                     <l rend="i0" n="6087">"A heavenly visitation." "<name type="divin">God</name>
+                        be praised!"</l>
+                     <l rend="i0" n="6088">She uttered, "then I do not hope in vain!"</l>
+                     <l rend="i2" n="6089">And her voice trembled, and her lips</l>
+                     <l rend="i4" n="6090">Quivered, and tears ran down.</l>
+                     <l rend="i2" n="6091">"Stranger," quoth she, "in years long past</l>
+                     <l rend="i4" n="6092">"Was one who vowed himself</l>
+                     <l rend="i2" n="6093">"The Champion of the Lord like thee</l>
+                     <l rend="i4" n="6094">"Against the race of Hell.</l>
+                     <l rend="i4" n="6095">"Young was he, as thyself,</l>
+                     <l rend="i4" n="6096">"Gentle, and yet so brave!</l>
+                     <l rend="i4" n="6097">"A lion-hearted man.</l>
+                     <l rend="i0" n="6098">"Shame on me, Stranger! in the arms of love</l>
+                     <l rend="i0" n="6099">"I held him from his calling, till the hour</l>
+                     <l rend="i0" n="6100">"Was past, and then the Angel who should else</l>
+                     <l rend="i2" n="6101">"Have crowned him with his glory-wreath,</l>
+                     <l rend="i0" n="6102">"Smote him in anger ... years and years are gone....</l>
+                     <l rend="i0" n="6103">"And in his place of penance he awaits</l>
+                     <l rend="i0" n="6104">"Thee the Deliverer, surely thou art he!</l>
+                     <l rend="i2" n="6105">"It was my righteous punishment</l>
+                     <l rend="i0" n="6106">"In the same youth unchanged and changeless love,</l>
+                     <l rend="i0" n="6107">"And fresh affliction and keen penitence</l>
+                     <l rend="i0" n="6108">"To abide the written hour when I should waft</l>
+                     <l rend="i0" n="6109">"The doomed Destroyer and Deliverer here.</l>
+                     <l rend="i0" n="6110">"Remember thou that thy success involves</l>
+                     <l rend="i0" n="6111">"No single fate, no common misery."</l>
+                  </lg>
+                  <lg xml:id="B12_lg708">
+                     <l rend="i0" n="6112">As thus she spake, the entrance of the cave</l>
+                     <l rend="i4" n="6113">Darkened the boat below.</l>
+                     <l rend="i4" n="6114">Around them from their nests,</l>
+                     <l rend="i4" n="6115">The screaming sea-birds fled.</l>
+                     <l rend="i4" n="6116">Wondering at that strange shape</l>
+                     <l rend="i0" n="6117">Yet unalarmed at sight of living man,</l>
+                     <l rend="i0" n="6118">Unknowing of his sway and power misused;</l>
+                     <l rend="i4" n="6119">The clamours of their young</l>
+                     <l rend="i4" n="6120">Echoed in shriller yells</l>
+                     <l rend="i0" n="6121">That rung in wild discordance round the rock.</l>
+                     <l rend="i4" n="6122">And farther as they now advanced</l>
+                     <l rend="i0" n="6123">The dim reflection of the darkened day</l>
+                     <l rend="i4" n="6124">Grew fainter, and the dash</l>
+                     <l rend="i0" n="6125">Of the out-breakers deadened; farther yet</l>
+                     <l rend="i4" n="6126">And yet more faint the gleam,</l>
+                     <l rend="i0" n="6127">And there the waters at their utmost bound</l>
+                     <l rend="i0" n="6128">Silently rippled on the rising rock.</l>
+                     <l rend="i0" n="6129">They landed and advanced, and deeper in</l>
+                     <l rend="i4" n="6130">Two adamantine doors</l>
+                     <l rend="i4" n="6131">Closed up the cavern pass.</l>
+                  </lg>
+                  <lg xml:id="B12_lg709">
+                     <l rend="i2" n="6132">Reclining on the rock beside</l>
+                     <l rend="i4" n="6133">Sate a grey-headed man</l>
+                     <l rend="i4" n="6134">Watching an hour-glass by.</l>
+                     <l rend="i4" n="6135">To him the Damsel spake,</l>
+                     <l rend="i0" n="6136">"Is it the hour appointed?" the old man</l>
+                     <l rend="i4" n="6137">Nor answered her awhile,</l>
+                     <l rend="i2" n="6138">Nor lifted he his downward eye,</l>
+                     <l rend="i4" n="6139">For now the glass ran low,</l>
+                     <l rend="i4" n="6140">And like the days of age</l>
+                     <l rend="i4" n="6141">With speed perceivable,</l>
+                     <l rend="i4" n="6142">The latter sands descend:</l>
+                     <l rend="i4" n="6143">And now the last are gone.</l>
+                     <l rend="i0" n="6144">Then he looked up, and raised his arm, and smote</l>
+                     <l rend="i4" n="6145">The adamantine gates.</l>
+                  </lg>
+                  <lg xml:id="B12_lg710">
+                     <l rend="i4" n="6146">The gates of adamant</l>
+                     <l rend="i4" n="6147">Unfolding at the stroke</l>
+                     <l rend="i0" n="6148">Opened and gave the entrance. Then She turned</l>
+                     <l rend="i4" n="6149">To Thalaba and said</l>
+                     <l rend="i4" n="6150">"Go in the name of God!</l>
+                     <l rend="i0" n="6151">"I cannot enter,... I must wait the end</l>
+                     <l rend="i4" n="6152">"In hope and agony.</l>
+                     <l rend="i2" n="6153">"<name type="divin">God</name> and Mohammed prosper
+                        thee,</l>
+                     <l rend="i4" n="6154">"For thy sake and for ours!"</l>
+                  </lg>
+                  <lg xml:id="B12_lg711">
+                     <l rend="i4" n="6155">He tarried not,... he past</l>
+                     <l rend="i0" n="6156">The threshold, over which was no return.</l>
+                     <l rend="i2" n="6157">All earthly thoughts, all human hopes</l>
+                     <l rend="i4" n="6158">And passions now put off,</l>
+                     <l rend="i4" n="6159">He cast no backward glance</l>
+                     <l rend="i4" n="6160">Towards the gleam of day.</l>
+                     <l rend="i4" n="6161">There was a light within,</l>
+                     <l rend="i0" n="6162">A yellow light, as when the autumnal Sun</l>
+                     <l rend="i4" n="6163">Through travelling rain and mist</l>
+                     <l rend="i4" n="6164">Shines on the evening hills.</l>
+                     <l rend="i2" n="6165">Whether from central fires effused,</l>
+                     <l rend="i2" n="6166">Or if the sunbeams day by day,</l>
+                     <l rend="i0" n="6167">From earliest generations, there absorbed,</l>
+                     <l rend="i0" n="6168">Were gathering for the wrath-flame. Shade was</l>
+                     <l rend="i4" n="6169">In those portentous vaults;</l>
+                     <l rend="i0" n="6170">Crag overhanging, nor the column-rock</l>
+                     <l rend="i4" n="6171">Cast its dark outline there.</l>
+                     <l rend="i0" n="6172">For with the hot and heavy atmosphere</l>
+                     <l rend="i0" n="6173">The light incorporate, permeating all,</l>
+                     <l rend="i0" n="6174">Spread over all its equal yellowness.</l>
+                     <l rend="i0" n="6175">There was no motion in the lifeless air,</l>
+                     <l rend="i2" n="6176">He felt no stirring as he past</l>
+                     <l rend="i4" n="6177">Adown the long descent,</l>
+                     <l rend="i0" n="6178">He heard not his own footsteps on the rock</l>
+                     <l rend="i0" n="6179">That thro' the thick stagnation sent no sound.</l>
+                     <l rend="i4" n="6180">How sweet it were, he thought,</l>
+                     <l rend="i4" n="6181">To feel the flowing wind!</l>
+                     <l rend="i4" n="6182">With what a thirst of joy</l>
+                     <l rend="i0" n="6183">He should breathe in the open gales of heaven!</l>
+                  </lg>
+                  <lg xml:id="B12_lg712">
+                     <l rend="i0" n="6184">Downward and downward still, and still the way,</l>
+                     <l rend="i4" n="6185">The long, long, way is safe.</l>
+                     <l rend="i4" n="6186">Is there no secret wile</l>
+                     <l rend="i4" n="6187">No lurking enemy?</l>
+                     <l rend="i0" n="6188">His watchful eye is on the wall of rock,...</l>
+                     <l rend="i2" n="6189">And warily he marks the roof</l>
+                     <l rend="i4" n="6190">And warily surveyed</l>
+                     <l rend="i4" n="6191">The path that lay before.</l>
+                     <l rend="i0" n="6192">Downward and downward still, and still the way,</l>
+                     <l rend="i4" n="6193">The long, long, way is safe;</l>
+                     <l rend="i4" n="6194">Rock only, the same light,</l>
+                     <l rend="i4" n="6195">The same dead atmosphere,</l>
+                     <l rend="i0" n="6196">And solitude, and silence like the grave.</l>
+                  </lg>
+                  <lg xml:id="B12_lg713">
+                     <l rend="i4" n="6197">At length the long descent</l>
+                     <l rend="i4" n="6198">Ends on a precipice;</l>
+                     <l rend="i0" n="6199">No feeble ray entered its dreadful gulphs,</l>
+                     <l rend="i4" n="6200">For in the pit profound</l>
+                     <l rend="i4" n="6201">Black Darkness, utter Night,</l>
+                     <l rend="i4" n="6202">Repelled the hostile gleam,</l>
+                     <l rend="i0" n="6203">And o'er the surface the light atmosphere</l>
+                     <l rend="i4" n="6204">Floated and mingled not.</l>
+                     <l rend="i0" n="6205">Above the depth four overawning wings,</l>
+                     <l rend="i4" n="6206">Unplumed and huge and strong,</l>
+                     <l rend="i4" n="6207">Bore up a little car;</l>
+                     <l rend="i0" n="6208">Four living pinions, headless, bodyless,</l>
+                     <l rend="i2" n="6209">Sprung from one stem that branched below</l>
+                     <l rend="i4" n="6210">In four down-arching limbs,</l>
+                     <l rend="i0" n="6211">And clenched the car-rings endlong and aside</l>
+                     <l rend="i4" n="6212">With claws of griffin grasp.</l>
+                  </lg>
+                  <lg xml:id="B12_lg714">
+                     <l rend="i0" n="6213">But not on these, the depths so terrible,</l>
+                     <l rend="i0" n="6214">The wonderous wings, fixed Thalaba his eye,</l>
+                     <l rend="i4" n="6215">For there upon the brink,</l>
+                     <l rend="i0" n="6216">With fiery fetters fastened to the rock,</l>
+                     <l rend="i0" n="6217">A man, a living man, tormented lay,</l>
+                     <l rend="i0" n="6218">The young Othatha; in the arms of love,</l>
+                     <l rend="i0" n="6219">He who had lingered out the auspicious hour</l>
+                     <l rend="i4" n="6220">Forgetful of his call.</l>
+                     <l rend="i0" n="6221">In shuddering pity Thalaba exclaimed</l>
+                     <l rend="i0" n="6222">"Servant of God, can I not succour thee?"</l>
+                     <l rend="i2" n="6223">He groaned and answered, "Son of Man,</l>
+                     <l rend="i0" n="6224">"I sinned and am tormented; I endure</l>
+                     <l rend="i4" n="6225">"In patience and in hope.</l>
+                     <l rend="i0" n="6226">"The hour that shall destroy the Race of Hell,</l>
+                     <l rend="i4" n="6227">"That hour shall set me free."</l>
+                  </lg>
+                  <lg xml:id="B12_lg715">
+                     <l rend="i2" n="6228">"Is it not come?" quoth Thalaba,</l>
+                     <l rend="i0" n="6229">"Yea! by this omen." And with fearless hand</l>
+                     <l rend="i0" n="6230">He grasped the burning fetters, "in the name</l>
+                     <l rend="i4" n="6231">"Of God!" and from the rock</l>
+                     <l rend="i0" n="6232">Rooted the rivets, and adown the gulph</l>
+                     <l rend="i2" n="6233">Hurled them. The rush of flames roared up,</l>
+                     <l rend="i2" n="6234">For they had kindled in their fall</l>
+                     <l rend="i0" n="6235">The deadly vapours of the pit profound,</l>
+                     <l rend="i0" n="6236">And Thalaba bent on and looked below.</l>
+                     <l rend="i4" n="6237">But vainly he explored</l>
+                     <l rend="i4" n="6238">The deep abyss of flame</l>
+                     <l rend="i0" n="6239">That sunk beyond the plunge of mortal eye,</l>
+                     <l rend="i0" n="6240">Now all ablaze as if infernal fires</l>
+                     <l rend="i4" n="6241">Illumed the world beneath.</l>
+                     <l rend="i2" n="6242">Soon was the poison-fuel spent,</l>
+                     <l rend="i4" n="6243">The flame grew pale and dim,</l>
+                     <l rend="i0" n="6244">And dimmer now it fades and now is quenched,</l>
+                     <l rend="i4" n="6245">And all again is dark,</l>
+                     <l rend="i4" n="6246">Save where the yellow air</l>
+                     <l rend="i0" n="6247">Enters a little in and mingles slow.</l>
+                  </lg>
+                  <lg xml:id="B12_lg716">
+                     <l rend="i0" n="6248">Meantime the freed Othatha clasped his knees</l>
+                     <l rend="i2" n="6249">And cried, "Deliverer!" struggling then</l>
+                     <l rend="i0" n="6250">With joyful hope, "and where is she," he cried,</l>
+                     <l rend="i0" n="6251">"Whose promised coming for so many a year...."</l>
+                     <l rend="i4" n="6252">"Go!" answered Thalaba,</l>
+                     <l rend="i4" n="6253">"She waits thee at the gates."</l>
+                     <l rend="i2" n="6254">"And in thy triumph," he replied,</l>
+                     <l rend="i0" n="6255">"There thou wilt join us?" the Deliverer's eye</l>
+                     <l rend="i2" n="6256">Glanced on the abyss, way else was none....</l>
+                     <l rend="i2" n="6257">The depth was unascendable.</l>
+                     <l rend="i4" n="6258">"Await not me," he cried,</l>
+                     <l rend="i0" n="6259">"My path hath been appointed, go ... embark!</l>
+                     <l rend="i0" n="6260">"Return to life,... live happy!"</l>
+                  </lg>
+                  <lg xml:id="B12_lg717">
+                     <l rend="i8" n="6261">OTHATHA.</l>
+                  </lg>
+                  <lg xml:id="B12_lg718">
+                     <l rend="i12" n="6262">But thy name,...</l>
+                     <l rend="i0" n="6263">That thro' the nations we may blazon it,</l>
+                     <l rend="i0" n="6264">That we may bless thee.</l>
+                  </lg>
+                  <lg xml:id="B12_lg719">
+                     <l rend="i8" n="6265">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B12_lg720">
+                     <l rend="i10" n="6266">Bless the Merciful!</l>
+                  </lg>
+                  <lg xml:id="B12_lg721">
+                     <l rend="i0" n="6267">Then Thalaba pronounced the name of<name type="divin">God</name>
+                     </l>
+                     <l rend="i4" n="6268">And leapt into the car.</l>
+                     <l rend="i4" n="6269">Down, down, it sunk,... down down....</l>
+                     <l rend="i4" n="6270">He neither breathes nor sees;</l>
+                     <l rend="i2" n="6271">His eyes are closed for giddiness</l>
+                     <l rend="i2" n="6272">His breath is sinking with the fall.</l>
+                     <l rend="i2" n="6273">The air that yields beneath the car</l>
+                     <l rend="i4" n="6274">Inflates the wings above.</l>
+                     <l rend="i4" n="6275">Down ... down ... a mighty depth!...</l>
+                     <l rend="i0" n="6276">And was the Simorgh with the Powers of ill</l>
+                     <l rend="i4" n="6277">Associate to destroy?</l>
+                     <l rend="i2" n="6278">And was that lovely mariner</l>
+                     <l rend="i4" n="6279">A fiend as false as fair?</l>
+                     <l rend="i4" n="6280">For still he sinks down ... down....</l>
+                     <l rend="i2" n="6281">But ever the uprushing wind</l>
+                     <l rend="i4" n="6282">Inflates the wings above,</l>
+                     <l rend="i4" n="6283">And still the struggling wings</l>
+                     <l rend="i4" n="6284">Repel the rushing wind.</l>
+                     <l rend="i4" n="6285">Down ... down ... and now it strikes.</l>
+                  </lg>
+                  <lg xml:id="B12_lg722">
+                     <l rend="i2" n="6286">He stands and totters giddily,</l>
+                     <l rend="i4" n="6287">All objects round, awhile,</l>
+                     <l rend="i4" n="6288">Float dizzy on his sight.</l>
+                     <l rend="i0" n="6289">Collected soon he gazes for the way.</l>
+                     <l rend="i0" n="6290">There was a distant light that led his search;</l>
+                     <l rend="i4" n="6291">The torch a broader blaze,</l>
+                     <l rend="i0" n="6292">The unpruned taper flames a longer flame,</l>
+                     <l rend="i0" n="6293">But this was fierce as is the noon-tide sun,</l>
+                     <l rend="i0" n="6294">So in the glory of its rays intense</l>
+                     <l rend="i4" n="6295">It quivered with green glow.</l>
+                     <l rend="i4" n="6296">Beyond was all unseen,</l>
+                     <l rend="i4" n="6297">No eye could penetrate</l>
+                     <l rend="i0" n="6298">That unendurable excess of light.</l>
+                     <l rend="i0" n="6299">It veiled no friendly form, thought Thalaba,</l>
+                     <l rend="i4" n="6300">And wisely did he deem,</l>
+                     <l rend="i0" n="6301">For at the threshold of the rocky door,</l>
+                     <l rend="i0" n="6302">Hugest and fiercest of his kind accurst,</l>
+                     <l rend="i2" n="6303">Fit warden of the sorcery gate</l>
+                     <l rend="i4" n="6304">A rebel Afreet lay.</l>
+                     <l rend="i0" n="6305">He scented the approach of human food</l>
+                     <l rend="i0" n="6306">And hungry hope kindled his eye of flame.</l>
+                     <l rend="i0" n="6307">Raising his hand to save the dazzled sense</l>
+                     <l rend="i4" n="6308">Onward held Thalaba,</l>
+                     <l rend="i0" n="6309">And lifted still at times a rapid glance.</l>
+                     <l rend="i4" n="6310">Till, the due distance gained,</l>
+                     <l rend="i4" n="6311">With head abased, he laid</l>
+                     <l rend="i4" n="6312">The arrow in its rest.</l>
+                     <l rend="i0" n="6313">With steady effort and knit forehead then,</l>
+                     <l rend="i4" n="6314">Full on the painful light</l>
+                     <l rend="i0" n="6315">He fixed his aching eye, and loosed the bow.</l>
+                  </lg>
+                  <lg xml:id="B12_lg723">
+                     <l rend="i4" n="6316">An anguish yell ensued,</l>
+                     <l rend="i0" n="6317">And sure no human voice had scope or power</l>
+                     <l rend="i4" n="6318">For that prodigious shriek</l>
+                     <l rend="i0" n="6319">Whose pealing echoes thundered up the rock.</l>
+                     <l rend="i4" n="6320">Dim grew the dying light,</l>
+                     <l rend="i0" n="6321">But Thalaba leapt onward to the doors</l>
+                     <l rend="i4" n="6322">Now visible beyond,</l>
+                     <l rend="i0" n="6323">And while the Afreet warden of the way</l>
+                     <l rend="i0" n="6324">Was writhing with his death-pangs, over him</l>
+                     <l rend="i4" n="6325">Sprung and smote the stony doors,</l>
+                     <l rend="i0" n="6326">And bade them in the name of<name type="divin">God</name>give way.</l>
+                  </lg>
+                  <lg xml:id="B12_lg724">
+                     <l rend="i0" n="6327">The dying Fiend beneath him at that name</l>
+                     <l rend="i4" n="6328">Tossed in worse agony,</l>
+                     <l rend="i0" n="6329">And the rocks shuddered, and the rocky doors</l>
+                     <l rend="i0" n="6330">Rent at the voice asunder. Lo ... within....</l>
+                     <l rend="i4" n="6331">The Teraph and the fire,</l>
+                     <l rend="i2" n="6332">And Khawla, and in mail complete</l>
+                     <l rend="i4" n="6333">Mohareb for the strife.</l>
+                     <l rend="i2" n="6334">But Thalaba with numbing force</l>
+                     <l rend="i2" n="6335">Smites his raised arm, and rushes by,</l>
+                     <l rend="i0" n="6336">For now he sees the fire amid whose flames</l>
+                     <l rend="i0" n="6337">On the white ashes of Hodeirah lies</l>
+                     <l rend="i4" n="6338">Hodeirah's holy Sword.</l>
+                  </lg>
+                  <lg xml:id="B12_lg725">
+                     <l rend="i4" n="6339">He rushes to the fire,</l>
+                     <l rend="i4" n="6340">Then Khawla met the youth</l>
+                     <l rend="i0" n="6341">And leapt upon him, and with clinging arms</l>
+                     <l rend="i0" n="6342">Clasps him, and calls Mohareb now to aim</l>
+                     <l rend="i0" n="6343">The effectual vengeance. O fool! fool! he sees</l>
+                     <l rend="i0" n="6344">His Father's Sword, and who shall bar his way?</l>
+                     <l rend="i0" n="6345">Who stand against the fury of that arm</l>
+                     <l rend="i4" n="6346">That spurns her to the earth?</l>
+                     <l rend="i0" n="6347">She rises half, she twists around his knees,</l>
+                     <l rend="i2" n="6348">A moment ... and he vainly strives</l>
+                     <l rend="i4" n="6349">To shake her from her hold,</l>
+                     <l rend="i0" n="6350">Impatient then into her cursed breast</l>
+                     <l rend="i4" n="6351">He stamps his crushing heel,</l>
+                     <l rend="i0" n="6352">And from her body, heaving now in death</l>
+                     <l rend="i4" n="6353">Springs forward to the Sword.</l>
+                  </lg>
+                  <lg xml:id="B12_lg726">
+                     <l rend="i4" n="6354">The co-existent flame</l>
+                     <l rend="i0" n="6355">Knew the Destroyer; it encircled him,</l>
+                     <l rend="i0" n="6356">Rolled up his robe and gathered round his head,</l>
+                     <l rend="i0" n="6357">Condensing to intenser splendour there,</l>
+                     <l rend="i0" n="6358">His crown of glory and his light of life</l>
+                     <l rend="i4" n="6359">Hovered the irradiate wreath.</l>
+                     <l rend="i0" n="6360">The moment Thalaba had laid his hand</l>
+                     <l rend="i4" n="6361">Upon his Father's Sword,</l>
+                     <l rend="i0" n="6362">The Living Image in the inner cave</l>
+                     <l rend="i0" n="6363">Smote the Round Altar. The <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">Domdaniel</rs> rocked</l>
+                     <l rend="i4" n="6364">Thro' all its thundering vaults;</l>
+                     <l rend="i0" n="6365">Over the surface of the reeling <placeName ref="Earth_planet">Earth</placeName>
+                     </l>
+                     <l rend="i4" n="6366">The alarum shock was felt:</l>
+                     <l rend="i0" n="6367">The Sorcerer brood, all, all, where'er dispersed,</l>
+                     <l rend="i0" n="6368">Perforce obeyed the summons; all, they came</l>
+                     <l rend="i4" n="6369">Compelled by <rs type="metaplace" subtype="divin">Hell</rs> and <rs type="metaplace" subtype="divin">Heaven</rs>,</l>
+                     <l rend="i4" n="6370">By Hell compelled to keep</l>
+                     <l rend="i4" n="6371">Their baptism-covenant,</l>
+                     <l rend="i2" n="6372">And with the union of their strength</l>
+                     <l rend="i0" n="6373">Oppose the common danger; forced by Heaven</l>
+                     <l rend="i4" n="6374">To share the common doom.</l>
+                  </lg>
+                  <lg xml:id="B12_lg727">
+                     <l rend="i2" n="6375">Vain are all spells! the Destroyer</l>
+                     <l rend="i4" n="6376">Treads the <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">Domdaniel floor</rs>.</l>
+                     <l rend="i0" n="6377">They crowd with human arms and human force</l>
+                     <l rend="i4" n="6378">To crush the single foe;</l>
+                     <l rend="i4" n="6379">Vain is all human force!</l>
+                     <l rend="i4" n="6380">He wields his Father's Sword,</l>
+                     <l rend="i0" n="6381">The vengeance of awakened Deity!</l>
+                     <l rend="i0" n="6382">But chief on Thalaba Mohareb prest,</l>
+                     <l rend="i2" n="6383">The language of the inspired Witch</l>
+                     <l rend="i2" n="6384">Announced one fatal blow for both,</l>
+                     <l rend="i0" n="6385">And desperate of self-safety, yet he hoped</l>
+                     <l rend="i0" n="6386">To serve the cause of <name type="divin">Eblis</name>,
+                        and uphold</l>
+                     <l rend="i4" n="6387">
+                        <rs type="metaplace" subtype="divin" ref="Hell">His
+                           empire</rs> true in death.</l>
+                  </lg>
+                  <lg xml:id="B12_lg728">
+                     <l rend="i4" n="6388">Who shall withstand his way?</l>
+                     <l rend="i0" n="6389">Scattered before the sword of Thalaba</l>
+                     <l rend="i4" n="6390">The sorcerer throng recede</l>
+                     <l rend="i0" n="6391">And leave him space for combat. Wretched man</l>
+                     <l rend="i0" n="6392">What shall the helmet or the shield avail</l>
+                     <l rend="i0" n="6393">Against Almighty anger! wretched man,</l>
+                     <l rend="i0" n="6394">Too late Mohareb finds that he has chosen</l>
+                     <l rend="i2" n="6395">The evil part! he rears his shield</l>
+                     <l rend="i4" n="6396">To meet the Arabian's sword,...</l>
+                     <l rend="i0" n="6397">Under the edge of that fire-hardened steel</l>
+                     <l rend="i2" n="6398">The shield falls severed; his cold arm</l>
+                     <l rend="i4" n="6399">Rings with the jarring blow,...</l>
+                     <l rend="i4" n="6400">He lifts his scymetar,</l>
+                     <l rend="i0" n="6401">A second stroke, and lo! the broken hilt</l>
+                     <l rend="i4" n="6402">Hangs from his palsied hand!</l>
+                     <l rend="i2" n="6403">And now he bleeds! and now he flies!</l>
+                     <l rend="i0" n="6404">And fain would hide himself amid the throng,</l>
+                     <l rend="i2" n="6405">But they feel the sword of Hodeirah,</l>
+                     <l rend="i2" n="6406">But they also fly from the ruin!</l>
+                     <l rend="i2" n="6407">And hasten to the inner cave,</l>
+                     <l rend="i4" n="6408">And fall all fearfully</l>
+                     <l rend="i2" n="6409">Around the Giant Idol's feet,</l>
+                     <l rend="i0" n="6410">Seeking salvation from the Power they served.</l>
+                  </lg>
+                  <lg xml:id="B12_lg729">
+                     <l rend="i0" n="6411">It was a Living Image, by the art</l>
+                     <l rend="i0" n="6412">Of magic hands of flesh and bones composed,</l>
+                     <l rend="i0" n="6413">And human blood thro' veins and arteries</l>
+                     <l rend="i0" n="6414">That flowed with vital action. In the shape</l>
+                     <l rend="i4" n="6415">Of <name type="divin">Eblis</name> it was made,</l>
+                     <l rend="i2" n="6416">Its stature such and such its strength</l>
+                     <l rend="i2" n="6417">As when among the Sons of<name type="divin">God</name>
+                     </l>
+                     <l rend="i0" n="6418">Pre-eminent, he raised his radiant head,</l>
+                     <l rend="i2" n="6419">Prince of the Morning. On his brow</l>
+                     <l rend="i2" n="6420">A coronet of meteor flames,</l>
+                     <l rend="i4" n="6421">Flowing in points of light.</l>
+                     <l rend="i4" n="6422">Self-poised in air before him,</l>
+                     <l rend="i0" n="6423">Hung the Round Altar, rolling like <placeName ref="Earth_planet">the World</placeName>
+                     </l>
+                     <l rend="i0" n="6424">On its diurnal axis, like <placeName ref="Earth_planet">the World</placeName>
+                     </l>
+                     <l rend="i4" n="6425">Checquered with sea and shore,</l>
+                     <l rend="i4" n="6426">The work of Demon art.</l>
+                     <l rend="i0" n="6427">For where the sceptre in the Idol's hand</l>
+                     <l rend="i0" n="6428">Touched <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">the Round Altar</rs>, in its answering realm</l>
+                     <l rend="i0" n="6429">
+                        <placeName ref="Earth_planet">Earth</placeName> felt the
+                        stroke, and <placeName>Ocean</placeName> rose in storms,</l>
+                     <l rend="i0" n="6430">And ruining Cities shaken from their seat</l>
+                     <l rend="i4" n="6431">Crushed all their habitants.</l>
+                     <l rend="i0" n="6432">His other arm was raised, and its spread palm</l>
+                     <l rend="i4" n="6433">Up-bore the ocean-weight</l>
+                     <l rend="i0" n="6434">
+                        <rs type="place" ref="Ocean-Vault">Whose naked waters
+                           arched the sanctuary</rs>,</l>
+                     <l rend="i4" n="6435">Sole prop and pillar he.</l>
+                  </lg>
+                  <lg xml:id="B12_lg730">
+                     <l rend="i2" n="6436">Fallen on the ground around his feet</l>
+                     <l rend="i0" n="6437">The Sorcerers lay. Mohareb's quivering arms</l>
+                     <l rend="i4" n="6438">Clung to the Idol's knees;</l>
+                     <l rend="i4" n="6439">The Idol's face was pale</l>
+                     <l rend="i2" n="6440">And calm in terror he beheld</l>
+                     <l rend="i2" n="6441">The approach of the Destroyer.</l>
+                  </lg>
+                  <lg xml:id="B12_lg731">
+                     <l rend="i0" n="6442">Sure of his stroke, and therefore in pursuit</l>
+                     <l rend="i0" n="6443">Following, nor blind, nor hasty on his foe,</l>
+                     <l rend="i0" n="6444">Moved the Destroyer. Okba met his way,</l>
+                     <l rend="i4" n="6445">Of all that brotherhood</l>
+                     <l rend="i0" n="6446">He only fearless, miserable man,</l>
+                     <l rend="i4" n="6447">The one that had no hope.</l>
+                     <l rend="i0" n="6448">"On me, on me," the childless Sorcerer cried,</l>
+                     <l rend="i0" n="6449">"Let fall the weapon! I am he who stole</l>
+                     <l rend="i0" n="6450">"Upon the midnight of thy Father's tent,</l>
+                     <l rend="i0" n="6451">"This is the hand that pierced Hodeirah's heart,</l>
+                     <l rend="i0" n="6452">"That felt thy brethren's and thy sister's blood</l>
+                     <l rend="i0" n="6453">"Gush round the dagger-hilt. Let fall on me</l>
+                     <l rend="i0" n="6454">"The fated sword! the vengeance hour is come!</l>
+                     <l rend="i4" n="6455">"Destroyer, do thy work!"</l>
+                  </lg>
+                  <lg xml:id="B12_lg732">
+                     <l rend="i0" n="6456">Nor wile, nor weapon, had the desperate wretch,</l>
+                     <l rend="i2" n="6457">He spread his bosom to the stroke.</l>
+                     <l rend="i0" n="6458">"Old man, I strike thee not!" said Thalaba,</l>
+                     <l rend="i0" n="6459">"The evil thou hast done to me and mine</l>
+                     <l rend="i2" n="6460">"Brought its own bitter punishment.</l>
+                     <l rend="i0" n="6461">"For thy dear Daughter's sake I pardon thee,</l>
+                     <l rend="i0" n="6462">"As I do hope <rs type="metaplace" subtype="divin">Heaven</rs>'s pardon. For her sake</l>
+                     <l rend="i0" n="6463">"Repent while time is yet! thou hast my prayers</l>
+                     <l rend="i0" n="6464">"To aid thee; thou poor sinner, cast thyself</l>
+                     <l rend="i0" n="6465">"Upon the goodness of offended God!</l>
+                     <l rend="i0" n="6466">"I speak in Laila's name, and what if now</l>
+                     <l rend="i0" n="6467">"Thou canst not think to join in <rs type="metaplace" subtype="divin">Paradise</rs>
+                     </l>
+                     <l rend="i0" n="6468">"Her spotless Spirit,... hath not <name type="divin">Allah</name> made</l>
+                     <l rend="i0" n="6469">"<rs type="metaplace" subtype="barrier" ref="Al-Araf">Al-Araf</rs>
+                        
+                           <note type="author" anchored="true" xml:id="N_176">
+                              <p>
+                                 <rs type="metaplace" subtype="barrier" ref="Al-Araf">Araf is a
+                                    place between the <rs type="metaplace" subtype="divin">Paradise</rs> and the <rs type="metaplace" subtype="divin">Hell</rs> of the <orgName>Mohammedans</orgName>, some deem
+                                    it a veil of separation, some a strong wall; others hold it to
+                                    be a <rs type="metaplace" subtype="barrier">Purgatory</rs> in
+                                    which those believers will remain, whose good and evil works
+                                    have been so equal that they were neither virtuous enough to
+                                    enter <rs type="metaplace" subtype="divin">Paradise</rs>, nor
+                                    guilty enough to be condemned to the fire of Hell. From thence
+                                    they see the glory of <orgName>the Blessed</orgName>, and are
+                                    near enough to congratulate them; but their ardent desire to
+                                    partake the same happiness becomes a great pain. <rs type="religion" subtype="Islam">At length at <time>the Day of
+                                          Judgement</time>, when <orgName>all men</orgName> before
+                                       they are judged, shall be cited to render homage to their
+                                          <name type="divin">Creator</name>, those who are here
+                                       confined shall prostrate themselves before the face of <name type="divin">the Lord</name>, in adoration: and by this
+                                       act of religion which shall be accounted a merit, the number
+                                       of their good works will exceed their evil ones, and they
+                                       will enter into glory.</rs>
+                                 </rs>
+                              </p>
+                              <p>
+                                 <persName>Saadi</persName> says that <rs type="metaplace" subtype="barrier" ref="Al-Araf">Araf</rs> appears a <rs type="metaplace" subtype="divin" ref="Hell">hell</rs> to the
+                                 happy, and a <rs type="metaplace" subtype="divin">Paradise</rs> to
+                                 the damned. <bibl>
+                                    <author>D'Herbelot</author>.</bibl>
+                              </p>
+                           </note>
+                         in his wisdom? where the sight</l>
+                     <l rend="i0" n="6470">"Of <rs type="metaplace" subtype="divin">Heaven</rs>
+                        shall kindle in the penitent</l>
+                     <l rend="i0" n="6471">"The strong and purifying fire of hope,</l>
+                     <l rend="i0" n="6472">"Till at <time>the day of judgement</time> he shall
+                        see</l>
+                     <l rend="i4" n="6473">"The <rs type="myth">Mercy-Gates</rs> unfold."</l>
+                  </lg>
+                  <lg xml:id="B12_lg733">
+                     <l rend="i0" n="6474">The astonished man stood gazing as he spake,</l>
+                     <l rend="i0" n="6475">At length his heart was softened, and the tears</l>
+                     <l rend="i4" n="6476">Gushed, and he sobbed aloud.</l>
+                     <l rend="i4" n="6477">Then suddenly was heard</l>
+                     <l rend="i0" n="6478">The all-beholding <persName>Prophet</persName>'s aweful
+                        voice,</l>
+                     <l rend="i4" n="6479">"Thou hast done well, my Servant!</l>
+                     <l rend="i4" n="6480">"Ask and receive thy reward!"</l>
+                  </lg>
+                  <lg xml:id="B12_lg734">
+                     <l rend="i4" n="6481">A deep and aweful joy</l>
+                     <l rend="i0" n="6482">Seemed to distend the heart of
+                           <persName>Thalaba</persName>;</l>
+                     <l rend="i0" n="6483">With arms in reverence crost upon his breast,</l>
+                     <l rend="i0" n="6484">Upseeking eyes suffused with transport-tears</l>
+                     <l rend="i0" n="6485">He answered to the Voice, "Prophet of God,</l>
+                     <l rend="i2" n="6486">"Holy, and good, and bountiful!</l>
+                     <l rend="i0" n="6487">"One only earthly wish have I, to work</l>
+                     <l rend="i0" n="6488">"Thy will, and thy protection grants me that.</l>
+                     <l rend="i0" n="6489">"Look on this Sorcerer! heavy are his crimes,</l>
+                     <l rend="i0" n="6490">"But infinite is mercy! if thy servant</l>
+                     <l rend="i0" n="6491">"Have now found favour in the sight of God,</l>
+                     <l rend="i0" n="6492">"Let him be touched with penitence, and save</l>
+                     <l rend="i4" n="6493">"His soul from utter death."</l>
+                  </lg>
+                  <lg xml:id="B12_lg735">
+                     <l rend="i0" n="6494">"The groans of penitence," replied the Voice</l>
+                     <l rend="i4" n="6495">"Never arise unheard!</l>
+                     <l rend="i2" n="6496">"But for thyself prefer the prayer,</l>
+                     <l rend="i4" n="6497">"The <rs type="metaplace" subtype="divin" ref="Heaven">Treasure-house of Heaven</rs>
+                     </l>
+                     <l rend="i4" n="6498">"Is open to thy will."</l>
+                  </lg>
+                  <lg xml:id="B12_lg736">
+                     <l rend="i0" n="6499">"Prophet of God!" then answered Thalaba,</l>
+                     <l rend="i4" n="6500">"I am alone on <placeName ref="Earth_planet">earth</placeName>.</l>
+                     <l rend="i0" n="6501">"Thou knowest the secret wishes of my heart!</l>
+                     <l rend="i0" n="6502">"Do with me as thou wilt! thy will is best."</l>
+                  </lg>
+                  <lg xml:id="B12_lg737">
+                     <l rend="i0" n="6503">There issued forth no Voice to answer him,</l>
+                     <l rend="i0" n="6504">But lo! <persName>Hodeirah</persName>'s Spirit comes to
+                        see</l>
+                     <l rend="i0" n="6505">His vengeance, and beside him, a pure form</l>
+                     <l rend="i0" n="6506">Of roseate light, <rs type="person" ref="Zeinab">the
+                           Angel mother</rs> hangs.</l>
+                     <l rend="i0" n="6507">"<rs type="person" ref="Thalaba">My Child</rs>, my dear,
+                        my glorious, blessed Child,</l>
+                     <l rend="i0" n="6508">"My promise is performed ... fufil thy work!"</l>
+                  </lg>
+                  <lg xml:id="B12_lg738">
+                     <l rend="i0" n="6509">
+                        <persName>Thalaba</persName> knew that his death-hour was come,</l>
+                     <l rend="i2" n="6510">And on he leapt, and springing up,</l>
+                     <l rend="i4" n="6511">Into <rs type="image" subtype="human">the Idol</rs>'s
+                        heart</l>
+                     <l rend="i4" n="6512">Hilt-deep he drove the Sword.</l>
+                     <l rend="i0" n="6513">
+                        <rs type="metaplace" subtype="barrier" ref="Domdaniel_Cave">The
+                                 <geogFeat>
+                              <placeName>Ocean-Vault</placeName>
+                           </geogFeat> fell in,
+                           and all were crushed.</rs>
+                     </l>
+                     <l rend="i2" n="6514">
+                        <time>In the same moment</time>
+                        <rs type="metaplace" subtype="divin" ref="Paradise">at the gate</rs>
+                     </l>
+                     <l rend="i0" n="6515">Of <rs type="metaplace" subtype="divin">Paradise</rs>,
+                           <persName>Oneiza's Houri-form</persName>
+                     </l>
+                     <l rend="i0" n="6516">Welcomed <rs type="person" ref="Thalaba">her Husband</rs>
+                        to <rs type="metaplace" subtype="divin" ref="Paradise">eternal
+                        bliss</rs>.</l>
+                  </lg>
+
+
+                  <p> END.</p>
+               </div>
+      </body>
+   </text>
+</TEI>

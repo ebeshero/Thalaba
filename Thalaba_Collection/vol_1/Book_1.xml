@@ -1,1 +1,2192 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>Thalaba the Destroyer (1801), Volume 1: Book 1</titleStmt></fileDesc></teiHeader><text><front><head><bibl><title level="m">Thalaba the Destroyer</title><title level="a">, Volume 1: Book 1</title> () by <author>Robert Southey</author></bibl></head></front><body/></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801), Volume 1: Book 1</title>
+            <author>Robert Southey</author>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/>
+            </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title>
+               <title level="a">, Volume 1: Book 1</title> (<date>1801</date>) by <author>Robert Southey</author>
+            </bibl>
+         </head>
+      </front>
+      <body>
+         <div type="book" xml:id="Book_1">
+                  <head>THE FIRST BOOK.</head>
+
+                  <lg xml:id="B1_lg2">
+                     <l rend="i4" n="3">How beautiful is <time>night</time>!</l>
+                     <l rend="i0" n="4">A dewy freshness fills the silent air,</l>
+                     <l rend="i2" n="5">No mist obscures, no little cloud</l>
+                     <l rend="i2" n="6">Breaks the whole serene of heaven:</l>
+                     <l rend="i0" n="7">In full-orbed glory the majestic moon</l>
+                     <l rend="i4" n="8">Rolls <rs type="metaplace" subtype="celest" ref="sky">thro
+                           the dark blue depths</rs>.</l>
+                     <l rend="i4" n="9">Beneath her steady ray</l>
+                     <l rend="i4" n="10">The <rs type="place" ref="desert">desert circle</rs>
+                        spreads,</l>
+                     <l rend="i0" n="11">Like <rs type="place" ref="Ocean">the round ocean</rs>,
+                        girdled with the sky.</l>
+                     <l rend="i4" n="12">How beautiful is night!</l>
+                  </lg>
+                  <lg xml:id="B1_lg3">
+                     <l rend="i2" n="13">Who at <time>this untimely hour</time>
+                     </l>
+                     <l rend="i2" n="14">Wanders o'er the <rs type="place" ref="desert">desert
+                           sands</rs>?</l>
+                     <l rend="i4" n="15">No station is in view,</l>
+                     <l rend="i0" n="16">No palm-grove islanded amid the waste.</l>
+                     <l rend="i4" n="17">The mother and her child,</l>
+                     <l rend="i0" n="18">The widow and the orphan at this hour</l>
+                     <l rend="i2" n="19">Wander o'er the desert sands.</l>
+                  </lg>
+                  <lg xml:id="B1_lg4">
+                     <l rend="i4" n="20">Alas! <time>the setting sun</time>
+                     </l>
+                     <l rend="i4" n="21">Saw <persName>Zeinab</persName> in her bliss,</l>
+                     <l rend="i4" n="22">
+                        <persName>Hodeirah</persName>'s wife beloved.</l>
+                     <l rend="i4" n="23">Alas! the wife beloved,</l>
+                     <l rend="i4" n="24">The fruitful mother late,</l>
+                     <l rend="i0" n="25">Whom when <orgName>the daughters of
+                              <placeName>Arabia</placeName>
+                        </orgName> named</l>
+                     <l rend="i4" n="26">They wished their lot like her's;</l>
+                     <l rend="i2" n="27">She wanders o'er <rs type="place" ref="desert">the desert
+                           sands</rs>
+                     </l>
+                     <l rend="i4" n="28">
+                        <rs type="person" ref="Zeinab">A wretched widow now</rs>,</l>
+                     <l rend="i0" n="29">The fruitful mother of <orgName>so fair a
+                        race</orgName>,</l>
+                     <l rend="i4" n="30">With only one preserved,</l>
+                     <l rend="i2" n="31">She wanders o'er the wilderness.</l>
+                  </lg>
+                  <lg xml:id="B1_lg5">
+                     <l rend="i0" n="32">No tear relieved the burthen of her heart;</l>
+                     <l rend="i0" n="33">Stunned with the heavy woe she felt like one</l>
+                     <l rend="i0" n="34">Half-wakened from <rs type="dream">a <time>midnight</time>
+                           dream of blood</rs>.</l>
+                     <l rend="i4" n="35">But sometimes when <rs type="person" ref="Thalaba">her
+                           boy</rs>
+                     </l>
+                     <l rend="i4" n="36">Would wet her hand with tears,</l>
+                     <l rend="i0" n="37">And looking up to her fixed countenance,</l>
+                     <l rend="i4" n="38">Amid his bursting sobs</l>
+                     <l rend="i0" n="39">Say the dear name of <hi rend="smallcap">
+                           <rs type="person" ref="Zeinab">Mother</rs>
+                        </hi>, then would she</l>
+                     <l rend="i4" n="40">Utter a feeble groan.</l>
+                     <l rend="i0" n="41">At length collecting, <persName>Zeinab</persName> turned
+                        her eyes</l>
+                     <l rend="i0" n="42">
+                        <rs type="religion" subtype="Islam">To <rs type="metaplace" subtype="divin" ref="Heaven" ana="call">heaven</rs>, exclaiming, "praised be <name type="divin">the Lord</name>!</rs>
+                     </l>
+                     <l rend="i4" n="43">"<rs type="religion" subtype="Islam">He gave,
+                              <note type="author" anchored="true" xml:id="N_1">
+                                 <p>
+                                    <name type="divin">The Lord</name> gave, and the Lord taketh
+                                    away; blessed be the name of the Lord.——<bibl>
+                                       <hi rend="italic">
+                                          <title>Job</title>.</hi> i. 21.</bibl>
+                                 </p>
+                                 <p>
+                                    <rs type="religion" subtype="Islam">I have placed a <rs type="script" subtype="holy">scripture</rs> phrase in the
+                                       mouth of a <orgName>Mohammedan</orgName>; but it is a saying
+                                       of <persName>Job</persName>, and there can be no impropriety
+                                       in making <rs type="person" ref="Zeinab">a modern Arab</rs>
+                                       speak like an ancient one. Resignation is particularly
+                                       inculcated by <persName>Mohammed</persName>, and of all his
+                                       precepts it is that which his followers have best observed:
+                                       it is even the vice of <placeName ref="the_East">the
+                                          East</placeName>.</rs> It had been easy to have made
+                                       <persName>Zeinab</persName> speak from the <bibl>
+                                       <title>Koran</title>
+                                    </bibl>, if the tame language of the <bibl>
+                                       <title>Koran</title>
+                                    </bibl> could be remembered by the few who have toiled through
+                                    its dull tautology. I thought it better to express a feeling of
+                                    religion in that language with which <rs type="religion" subtype="Christian">our religious ideas</rs> are
+                                    connected.</p>
+                              </note>
+                            he takes away,</rs>
+                     </l>
+                     <l rend="i4" n="44">
+                        <rs type="religion" subtype="Islam">"The <name type="divin">Lord our
+                              God</name> is good!"</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B1_lg6">
+                     <l rend="i4" n="45">"Good is he?" cried <rs type="person" ref="Thalaba">the
+                           boy</rs>,</l>
+                     <l rend="i0" n="46">"Why are <orgName>my brethren and my sisters
+                           slain</orgName>?</l>
+                     <l rend="i4" n="47">"Why is <rs type="person" ref="Hodeirah">my father</rs>
+                        killed?</l>
+                     <l rend="i2" n="48">"Did ever we neglect our prayers,</l>
+                     <l rend="i0" n="49">"Or ever lift a hand unclean to <rs type="metaplace" subtype="divin" ref="Heaven">heaven</rs>?</l>
+                     <l rend="i2" n="50">"Did ever stranger from our tent</l>
+                     <l rend="i4" n="51">"Unwelcomed turn away?</l>
+                     <l rend="i4" n="52">"<rs type="person" ref="Zeinab">Mother</rs>, he is not
+                        good!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg7">
+                     <l rend="i0" n="53">Then <persName>Zeinab</persName> beat her breast in
+                        agony,</l>
+                     <l rend="i4" n="54">"O <name type="divin">God</name> forgive my child!</l>
+                     <l rend="i4" n="55">"He knows not what he says!</l>
+                     <l rend="i0" n="56">"Thou know'st I did not teach him thoughts like these,</l>
+                     <l rend="i2" n="57">
+                        <rs type="religion" subtype="Islam">"O <persName ana="Mohammed">Prophet</persName>, pardon him!"</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B1_lg8">
+                     <l rend="i0" n="58">She had not wept till that assuaging prayer....</l>
+                     <l rend="i0" n="59">The fountains of her eyes were opened then,</l>
+                     <l rend="i4" n="60">And tears relieved her heart.</l>
+                     <l rend="i2" n="61">She raised her swimming eyes to Heaven,</l>
+                     <l rend="i4" n="62">
+                        <rs type="religion" subtype="Islam">"<name type="divin">Allah</name>, thy
+                           will be done!</rs>
+                     </l>
+                     <l rend="i0" n="63">"Beneath the dispensation of thy wrath</l>
+                     <l rend="i4" n="64">"I groan, but murmur not.</l>
+                     <l rend="i2" n="65">"<time>The Day of the Trial</time> will come,</l>
+                     <l rend="i0" n="66">"When I shall understand how profitable</l>
+                     <l rend="i4" n="67">"It is to suffer now."</l>
+                  </lg>
+                  <lg xml:id="B1_lg9">
+                     <l rend="i0" n="68">Young <persName>Thalaba</persName> in silence heard
+                        reproof,</l>
+                     <l rend="i2" n="69">His brow in manly frowns was knit,</l>
+                     <l rend="i2" n="70">With manly thoughts his heart was full.</l>
+                     <l rend="i0" n="71">"Tell me who slew <rs type="person" subtype="Hodeirah">my
+                           father</rs>?" cried <rs type="person" subtype="Thalaba">the boy</rs>.</l>
+                     <l rend="i4" n="72">
+                        <persName>Zeinab</persName> replied and said,</l>
+                     <l rend="i0" n="73">"I knew not that there lived thy father's foe.</l>
+                     <l rend="i2" n="74">
+                        <rs type="religion" subtype="Islam">"The blessings of the poor for him</rs>
+                     </l>
+                     <l rend="i4" n="75">
+                        <rs type="religion" subtype="Islam">"Went daily up to <rs type="metaplace" subtype="divin">Heaven</rs>,</rs>
+                     </l>
+                     <l rend="i0" n="76">"In distant lands the traveller told his praise.</l>
+                     <l rend="i4" n="77">"I did not think there lived</l>
+                     <l rend="i4" n="78">"<persName>Hodeirah</persName>'s enemy."</l>
+                  </lg>
+                  <lg xml:id="B1_lg10">
+                     <l rend="i2" n="79">"But I will hunt him <rs type="place" ref="Earth_planet">thro' the earth</rs>!"</l>
+                     <l rend="i4" n="80">Young <persName>Thalaba</persName> exclaimed.</l>
+                     <l rend="i0" n="81">"Already I can bend <rs type="person" ref="Hodeirah">my
+                           father</rs>'s bow,</l>
+                     <l rend="i4" n="82">"Soon will my arm have strength</l>
+                     <l rend="i0" n="83">"To drive the arrow-feathers to his heart."</l>
+                  </lg>
+                  <lg xml:id="B1_lg11">
+                     <l rend="i0" n="84">
+                        <persName>Zeinab</persName> replied, "O <persName>Thalaba</persName>, my
+                        child,</l>
+                     <l rend="i2" n="85">"Thou lookest on to distant days,</l>
+                     <l rend="i0" n="86">"And we are in <rs type="place" ref="desert">the
+                           desert</rs> far from men!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg12">
+                     <l rend="i0" n="87">Not till that moment her afflicted heart</l>
+                     <l rend="i4" n="88">Had leisure for the thought.</l>
+                     <l rend="i4" n="89">She cast her eyes around,</l>
+                     <l rend="i4" n="90">Alas! no tents were there</l>
+                     <l rend="i4" n="91">Beside the bending sands;</l>
+                     <l rend="i0" n="92">No palm tree rose to spot the wilderness.</l>
+                     <l rend="i4" n="93">The dark blue sky closed round</l>
+                     <l rend="i4" n="94">And rested
+                           <note type="author" anchored="true" xml:id="N_2">
+                              <q>
+                                 <lg xml:lang="fr">
+                                    <l>
+                                       <geogFeat>La mer</geogFeat> n'est plus qu'un cercle aux yeux
+                                       des Matelots,</l>
+                                    <l>Ou le Ciel forme un dôme appuyé sur les flots.</l>
+                                 </lg>
+                                 <bibl>
+                                    <title>Le Nouveau Monde</title>. par <author>M. Le
+                                       Suire</author>.</bibl>
+                              </q>
+                           </note>
+                         like a dome</l>
+                     <l rend="i4" n="97">Upon <geogFeat>the circling waste</geogFeat>.</l>
+                     <l rend="i4" n="98">She cast her eyes around,</l>
+                     <l rend="i4" n="99">Famine and Thirst were there.</l>
+                     <l rend="i2" n="100">Then <rs type="person" ref="Zeinab">the mother</rs> bowed
+                        her head,</l>
+                     <l rend="i4" n="101">And wept upon <rs type="person" ref="Thalaba">her
+                           child</rs>.</l>
+                  </lg>
+                  <lg xml:id="B1_lg14">
+                     <l rend="i3" n="102">... Sudden a cry of wonder</l>
+                     <l rend="i4" n="103">From <persName>Thalaba</persName> aroused her,</l>
+                     <l rend="i4" n="104">She raised her head, and saw</l>
+                     <l rend="i0" n="105">Where high in air <rs type="building" subtype="palace">a
+                           stately palace</rs> rose.</l>
+                     <l rend="i4" n="106">Amid <rs type="earthworks" subtype="garden">a grove
+                           embowered</rs>
+                     </l>
+                     <l rend="i4" n="107">Stood <rs type="building" subtype="palace">the prodigious
+                           pile</rs>,</l>
+                     <l rend="i2" n="108">
+                        <geogFeat>Trees of such ancient majesty</geogFeat>
+                     </l>
+                     <l rend="i2" n="109">Towered not on <placeName ana="ana">Yemen</placeName>'s happy
+                           <geogFeat>hills</geogFeat>,</l>
+                     <l rend="i0" n="110">Nor crowned the stately brow of
+                           <placeName ana="ana">Lebanon</placeName>.</l>
+                     <l rend="i0" n="111">Fabric so vast, so lavishly enriched,</l>
+                     <l rend="i0" n="112">For Idol, or for Tyrant, never yet</l>
+                     <l rend="i4" n="113">Raised the slave race of men</l>
+                     <l rend="i0" n="114">In <placeName ana="ana">Rome</placeName>, nor in the elder
+                           <placeName ana="ana">Babylon</placeName>,</l>
+                     <l rend="i4" n="115">Nor old <placeName ana="ana">Persepolis</placeName>,</l>
+                     <l rend="i2" n="116">Nor where the family of <placeName ana="ana">Greece</placeName>
+                     </l>
+                     <l rend="i4" n="117">Hymned Eleutherian <name type="divin">Jove</name>.</l>
+                     <l rend="i2" n="118">Here studding azure
+                           <note type="author" anchored="true" xml:id="N_3">
+                              <p>The magnificent <rs type="building" subtype="temple">
+                                    <placeName>Mosque Tauris</placeName>
+                                 </rs> is faced with varnished bricks of various colours, <hi rend="italic">like most fine buildings in
+                                       <placeName>Persia</placeName>
+                                 </hi>, says <bibl>
+                                    <author>Tavernier</author>
+                                 </bibl>. One of its domes is covered with white flower work upon a
+                                 green ground, the other has a black ground, spotted with white
+                                 stars. Gilding is also common upon Oriental buildings. At
+                                    <placeName>Boghar</placeName> in <placeName>Bactria</placeName>
+                                 our old traveller <persName>Jenkinson</persName>
+                                 
+                                    <note style="double" type="author" anchored="true" xml:id="NN_a">
+                                       <bibl>
+                                          <author>Hakluyt</author>
+                                       </bibl>.</note>
+                                  saw <settlement>"many <rs type="building" subtype="house">houses</rs>, <rs type="building" subtype="temple">temples</rs>, and <rs type="building" subtype="monument">monuments of stone sumptuously builded and
+                                    gilt</rs>.</settlement>"</p>
+                              <p>
+                                 <rs type="building" subtype="temple">In <placeName>Pegu</placeName>
+                                    "they consume about their <rs type="building" subtype="temple">Varely</rs> or idol houses great store of leafe-gold, for
+                                    that they overlay all the tops of the houses with gold, and some
+                                    of them are covered with gold from the top to the foote; in
+                                    covering whereof there is great store of gold spent, for that
+                                    every ten years they new overlay them with gold, from the top to
+                                    the foote, so that with this vanetie they spend great aboundance
+                                    of golde. For every ten years the rain doeth consume the gold
+                                    from these houses."</rs>
+                                 <bibl>
+                                    <hi rend="italic">Cæsar Frederick</hi>, in
+                                       <author>Hakluyt</author>.</bibl>
+                              </p>
+                              <p> A waste of ornament and labour characterises all the works of
+                                    <orgName>the Orientalists</orgName>. I have seen <rs type="script" subtype="ms">illuminated Persian manuscripts</rs>
+                                 that must each have been the toil of many years, every page
+                                 painted, not with representations of life and manners, but usually
+                                 like <rs type="art" subtype="fiber">the curves and lines of a
+                                    Turkey carpet</rs>, conveying no idea whatever, as absurd to the
+                                 eye as nonsense-verses to the ear. The little of their literature
+                                 that has reached us is equally worthless. <orgName>Our <hi rend="italic">barbarian</hi> scholars</orgName> have called <bibl>
+                                    <author>Ferdusi</author> the Oriental <author>Homer</author>. We
+                                    have a specimen of his poem; the translation is said to be bad,
+                                    and certainly must be unfaithful, for it is in rhyme; but the
+                                    vilest copy of a picture at least represents the subject and the
+                                    composition. To make this <bibl>Iliad of <placeName ref="the_East">the East</placeName>
+                                    </bibl>, as they have sacrilegiously stiled it, a good poem,
+                                    would be realizing the <rs type="science" subtype="chem">dreams
+                                       of Alchemy, and transmuting lead into gold</rs>. </bibl>
+                              </p>
+                              <p>
+                                 <bibl>
+                                    <title>The Arabian Tales</title> certainly abound with genius;
+                                    they have lost their metaphorical rubbish in passing through the
+                                    filter of <bibl>a French translation</bibl>.</bibl>
+                              </p>
+                           </note>
+                         tablatures</l>
+                     <l rend="i4" n="119">
+                        <rs type="building" subtype="palace">And rayed with feeble light,</rs>
+                     </l>
+                     <l rend="i0" n="120">
+                        <rs type="building" subtype="palace">Star-like the ruby and the diamond
+                           shone:</rs>
+                     </l>
+                     <l rend="i4" n="121">
+                        <rs type="building" subtype="palace">Here on the golden towers</rs>
+                     </l>
+                     <l rend="i4" n="122">The yellow moon-beam lay;</l>
+                     <l rend="i0" n="123">
+                        <rs type="building" subtype="palace">Here with white splendour floods the
+                           silver wall.</rs>
+                     </l>
+                     <l rend="i0" n="124">
+                        <rs type="building" subtype="palace">Less wonderous pile and less
+                           magnificent</rs>
+                     </l>
+                     <l rend="i0" n="125">
+                        <persName>Sennamar</persName>
+                        
+                           <note type="author" anchored="true" xml:id="N_4">
+                              <p>The <orgName>Arabians</orgName> call <rs type="building" subtype="palace">this palace one of the wonders of the
+                                       <placeName ref="the_world">world</placeName>. It was built
+                                    for <persName>Nôman-al-Aôuar</persName>, one of those Arabian
+                                    Kings who reigned at <placeName>Hirah</placeName>. A single
+                                    stone fastened the whole structure; the colour of the walls
+                                    varied frequently in a day.</rs>
+                                 <persName>Nôman</persName> richly rewarded the architect
+                                    <persName>Sennamar</persName>; but recollecting afterwards that
+                                 he might build palaces equal, or superior in beauty for his rival
+                                 kings, ordered that he should be thrown from the highest tower of
+                                 the edifice. <bibl>
+                                    <author>D'Herbelot</author>.</bibl>
+                              </p>
+                           </note>
+                         built at <placeName ana="ana">Hirah</placeName>, tho' his art</l>
+                     <l rend="i0" n="126">
+                        <rs type="building" subtype="palace">Sealed with one stone the ample
+                           edifice</rs>
+                     </l>
+                     <l rend="i0" n="127">
+                        <rs type="building" subtype="palace">And made its colours, like the serpents
+                           skin</rs>
+                     </l>
+                     <l rend="i0" n="128">
+                        <rs type="building" subtype="palace">Play with a changeful beauty</rs>: him,
+                        its <rs type="person" ref="Nôman">Lord</rs>
+                     </l>
+                     <l rend="i0" n="129">Jealous lest after-effort might surpass</l>
+                     <l rend="i0" n="130">The now unequalled palace, from its height</l>
+                     <l rend="i4" n="131">Dashed on the pavement down.</l>
+                  </lg>
+                  <lg xml:id="B1_lg15">
+                     <l rend="i0" n="132">They entered, and through aromatic paths</l>
+                     <l rend="i4" n="133">Wondering they went along.</l>
+                     <l rend="i2" n="134">At length <geogFeat>upon a mossy bank</geogFeat>
+                     </l>
+                     <l rend="i2" n="135">
+                        <geogFeat>Beneath a tall mimosa's shade</geogFeat>
+                     </l>
+                     <l rend="i0" n="136">That o'er him bent its living canopy,</l>
+                     <l rend="i4" n="137">They saw <rs type="person" ref="Aswad">a man
+                        reclined</rs>.</l>
+                     <l rend="i0" n="138">Young he appeared, for on his cheek there shone</l>
+                     <l rend="i4" n="139">The morning glow of health,</l>
+                     <l rend="i0" n="140">And the brown beard curled close around his chin.</l>
+                     <l rend="i4" n="141">He slept, but at the sound</l>
+                     <l rend="i0" n="142">Of coming feet awakening, fixed his eyes</l>
+                     <l rend="i0" n="143">In wonder, on the wanderer and her child.</l>
+                     <l rend="i4" n="144">"Forgive us," <persName>Zeinab</persName> cried,</l>
+                     <l rend="i4" n="145">"Distress hath made us bold.</l>
+                     <l rend="i0" n="146">"Relieve the widow and the fatherless.</l>
+                     <l rend="i0" n="147">
+                        <rs type="religion" subtype="Islam">"Blessed are they who succour the
+                           distrest</rs>
+                     </l>
+                     <l rend="i0" n="148">
+                        <rs type="religion" subtype="Islam">"For them hath <name type="divin">God</name> appointed <rs type="metaplace" subtype="divin">Paradise</rs>."</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B1_lg16">
+                     <l rend="i2" n="149">He heard, and he looked up to <rs type="metaplace" subtype="divin" ref="Heaven" ana="call">heaven</rs>,</l>
+                     <l rend="i4" n="150">And tears ran down his cheeks:</l>
+                     <l rend="i4" n="151">"It is a human voice!</l>
+                     <l rend="i4" n="152">"I thank thee, O my <name type="divin">God</name>!</l>
+                     <l rend="i4" n="153">"How many an age has past</l>
+                     <l rend="i0" n="154">"Since the sweet sounds have visited mine ear!</l>
+                     <l rend="i4" n="155">"I thank thee, O my <name type="divin">God</name>,</l>
+                     <l rend="i4" n="156">"It is a human voice!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg17">
+                     <l rend="i2" n="157">To <persName>Zeinab</persName> turning then he cried</l>
+                     <l rend="i4" n="158">"O mortal who art thou</l>
+                     <l rend="i4" n="159">"Whose gifted eyes have pierced</l>
+                     <l rend="i0" n="160">"The shadow of concealment that hath wrapt</l>
+                     <l rend="i4" n="161">"These bowers, so many an age,</l>
+                     <l rend="i4" n="162">"From eye of mortal man?</l>
+                     <l rend="i4" n="163">"For countless years have past</l>
+                     <l rend="i4" n="164">"And never foot of man</l>
+                     <l rend="i4" n="165">"The <placeName ref="Irem" ana="hereNow">bowers of Irem</placeName>
+                        trod.</l>
+                     <l rend="i0" n="166">"Save only I, a miserable wretch</l>
+                     <l rend="i4" n="167">"From <rs type="metaplace" subtype="divin">Heaven</rs> and
+                           <placeName ref="the_world">Earth</placeName> shut out!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg18">
+                     <l rend="i4" n="168">Fearless, and scarce surprized,</l>
+                     <l rend="i4" n="169">For grief in <persName>Zeinab</persName>'s soul</l>
+                     <l rend="i0" n="170">All other feebler feelings overpowered,</l>
+                     <l rend="i4" n="171">She answered, "<time>Yesterday</time>
+                     </l>
+                     <l rend="i4" n="172">"I was a wife beloved,</l>
+                     <l rend="i0" n="173">"The fruitful mother of a numerous race.</l>
+                     <l rend="i4" n="174">"I am a widow now,</l>
+                     <l rend="i0" n="175">"Of all my offspring this alone is left.</l>
+                     <l rend="i4" n="176">
+                        <rs type="religion" subtype="Islam">"Praise to the <name type="divin">Lord
+                              our God</name>,</rs>
+                     </l>
+                     <l rend="i4" n="177">
+                        <rs type="religion" subtype="Islam">"He gave, he takes away!"</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B1_lg19">
+                     <l rend="i0" n="178">Then said <rs type="person" ref="Aswad">the stranger</rs>,
+                           <rs type="religion" subtype="Islam">"Not by Heaven unseen</rs>
+                     </l>
+                     <l rend="i4" n="179">
+                        <rs type="religion" subtype="Islam">"Nor with unguided feet</rs>
+                     </l>
+
+                     <l rend="i2" n="180"> "Thy steps have reached <rs type="metaplace"
+                      subtype="barrier"
+                      ref="Irem_removed"
+                      ana="hereNow">this secret place</rs>
+                     </l>
+                     <l rend="i2" n="181"> "Nor for light purpose is the Veil, </l>
+                     <l rend="i0" n="182"> "That from the <placeName>Universe</placeName> hath long
+                        shut out </l>
+                     <l rend="i4" n="183"> "<rs type="place" ref="Irem" ana="hereNow">These ancient bowers</rs>,
+                        withdrawn. </l>
+
+                     <l rend="i0" n="184"> "Hear thou my words, O mortal, in thy heart </l>
+                     <l rend="i2" n="185"> "Treasure the wonders I shall tell; </l>
+                     <l rend="i4" n="186"> "And when amid <placeName ref="the_world">the
+                           world</placeName>
+                     </l>
+                     <l rend="i4" n="187"> "Thou shall emerge again </l>
+                     <l rend="i4" n="188"> "Repeat the warning tale. </l>
+                     <l rend="i0" n="189"> "Why have <orgName>the Fathers</orgName> suffered, but to
+                        make </l>
+                     <l rend="i4" n="190"> "<orgName>The Children</orgName> wisely safe?" </l>
+                  </lg>
+                  <lg xml:id="B1_lg20">
+                     <l rend="i2" n="191">"<placeName ref="Irem" ana="hereNow">The Paradise of Irem</placeName>
+                        
+                           <note type="author" anchored="true" xml:id="N_5">
+                              <p> The <orgName>tribe of Ad</orgName> were descended from
+                                    <persName>Ad</persName>, the son of <persName>Aus or
+                                    Uz</persName>, the son of <persName>Irem</persName>, the son of
+                                    <persName>Shem</persName>, the son of <persName>Noah</persName>,
+                                 who after the confusion of tongues, settled in <placeName ref="Al_Ahkaf">Al Ahkâf</placeName>, or <geogFeat>the winding
+                                    sands</geogFeat>, in the <settlement>province of
+                                       <placeName>Hadramaut</placeName>
+                                 </settlement>, where his posterity greatly multiplied. Their first
+                                 King was <persName>Shedad</persName>, the son of
+                                    <persName>Ad</persName>, of whom the eastern writers deliver
+                                 many fabulous things, particularly that he finished the <settlement type="city">magnificent city</settlement> his father had begun,
+                                 wherein he built <rs type="building" subtype="palace">a fine
+                                    palace, <rs type="earthworks" subtype="garden">adorned with
+                                       delicious gardens</rs>, to embellish which he spared neither
+                                    cost nor labour, proposing thereby to create in his subjects <rs type="religion" subtype="autocrat">a superstitious veneration
+                                       of himself as a God</rs>. This <rs type="earthworks" subtype="garden">garden or paradise was called the <placeName ref="Irem">garden of Irem</placeName>
+                                    </rs>
+                                 </rs>, and is mentioned in the <bibl>
+                                    <title>Koran</title>
+                                 </bibl>, and often alluded to by <orgName>the Oriental
+                                    writers</orgName>. <settlement type="city">The city they tell
+                                    us, is still standing in <placeName>the desarts of
+                                       Aden</placeName>, <rs type="religion" subtype="Islam">being
+                                       preserved by providence as a monument of divine justice,
+                                       though it be invisible, unless very rarely, when <name type="divin">God</name> permits it to be seen</rs>
+                                 </settlement>: a favour one <persName>Colabah</persName> pretended
+                                 to have received in the reign of the <persName>Khalif
+                                    Moâwiyah</persName>, who sending for him to know the truth of
+                                 the matter, <persName>Colabah</persName> related his whole
+                                 adventure; that is he was seeking a Camel he had lost, <settlement type="city">he found himself on a sudden at the gates of this
+                                    city, and entering it, saw not one inhabitant, at which being
+                                    terrified, he stayed no longer than to take with him some fine
+                                    stones which he shewed the Khalif</settlement>. <bibl>
+                                    <author>Sale</author>.</bibl>
+                              </p>
+                              <p> The <orgName>descendants of Ad</orgName> in process of time
+                                 falling from the worship of <name type="divin">the true God</name>
+                                 into <rs type="religion" subtype="idol">idolatry</rs>, <name type="divin">God</name> sent the prophet
+                                    <persName>Houd</persName> (who is generally agreed to be
+                                    <persName>Heber</persName>) to <rs type="religion" subtype="Islam">preach the unity of his essence and reclaim
+                                    them. <persName>Houd</persName> preached for many years to this
+                                    people without effect, till <name type="divin">God</name> at
+                                    last was weary of waiting for their repentance. The first
+                                    punishment which he inflicted was a famine of three years
+                                    continuance, during all which time <rs type="metaplace" subtype="celest" ref="sky">the heavens</rs> were closed upon
+                                    them. This, with the evils which it caused, destroyed a great
+                                    part of this people, who were then the richest and most powerful
+                                    of all in <placeName>Arabia</placeName>.</rs>
+                              </p>
+                              <p> The <orgName>Adites</orgName> seeing themselves reduced to this
+                                 extremity, and <rs type="religion" subtype="idol">receiving no
+                                    succour from their false Gods</rs>, <rs type="religion" subtype="Islam">resolved to make a pilgrimage to a place in the <settlement>
+                                       <placeName ref="Hejaz">province of Hegiaz</placeName>
+                                    </settlement>, where at present <placeName>Mecca</placeName> is
+                                    situated</rs>. There was then <geogFeat>a hillock of red
+                                    sand</geogFeat> there, around which <rs type="religion" subtype="mixed">a great concourse of different people might
+                                    always be seen; and all these nations, the faithful as well as
+                                    the unfaithful, believed that by visiting this spot with
+                                    devotion, they should obtain from <name type="divin">God</name>
+                                    whatever they petitioned for, respecting the wants and
+                                    necessities of life.</rs>
+                              </p>
+                              <p>
+                                 <rs type="religion" subtype="Islam">The <orgName>Adites</orgName>
+                                    having then resolved to undertake this religious journey, chose
+                                    seventy men, at whose head they appointed
+                                       <persName>Mortadh</persName> and <persName>Kail</persName>,
+                                    the two most considerable personages of the country, to perform
+                                    this duty in the name of the whole nation, and by this means <rs type="miracle">procure rain from Heaven</rs>, without which
+                                    their country must be ruined.</rs> The deputees departed, and
+                                 were hospitably received by <persName>Moâwiyah</persName>, who at
+                                 that time reigned in the <placeName ref="Hejaz">province of
+                                    Hegiaz</placeName>. They explained to him the occasion of their
+                                 journey, and demanded leave to proceed and <rs type="religion" subtype="Islam">perform their devotions at the <placeName ref="Red_Hillock">Red Hillock</placeName>, that they might
+                                    procure rain</rs>. </p>
+                              <p>
+                                 <persName>Mortadh</persName>, who was the wisest of this company,
+                                 and who had been converted by the <persName>Prophet
+                                 Houd</persName>, often remonstrated with his associates that it was
+                                    <rs type="religion" subtype="Islam">useless to to take this
+                                    journey for the purpose of praying at this chosen spot, unless
+                                    they had previously adopted the truths which the Prophet
+                                    preached, and seriously repented of their unbelief. For how,
+                                    said he, can you hope that <name type="divin">God</name> will
+                                    shed upon us the abundant showers of his mercy, if we refuse to
+                                    hear the voice of <rs type="person" ref="Houd">him whom he hath
+                                       sent to instruct us</rs>?</rs>
+                              </p>
+                              <p>
+                                 <persName>Kail</persName> who was one of the most obstinate in
+                                 error, and consequently of the <persName ref="Houd">Prophets</persName> worst enemies, hearing the discourses of
+                                 his colleague, requested <persName>King Moâwiyah</persName> to
+                                 detain <persName>Mortadh</persName> prisoner, whilst he and the
+                                 remainder of his companions proceeded to make their prayers upon
+                                 the <placeName ref="Red_Hillock">Hillock</placeName>.
+                                    <persName>Moâwiyah</persName> consented, and detaining
+                                    <persName>Mortadh</persName> captive, permitted the others to
+                                 pursue their journey and accomplish their vow. </p>
+                              <p>
+                                 <persName>Kail</persName>, now the sole chief of <orgName>the
+                                    deputation</orgName>, having arrived at the place, prayed thus,
+                                    <name type="divin">Lord</name> give to <orgName>the people of
+                                    Ad</orgName> such rains as it shall please thee. <rs type="miracle">And he had scarcely finished when there appeared
+                                    three clouds in the sky, one white, one red, the third black. At
+                                    the same time these words were heard to proceed from Heaven,
+                                    chuse which of the three thou wilt.</rs>
+                                 <persName>Kail</persName> chose the black, which he imagined the
+                                 fullest, and most abundant in water, of which they were in extreme
+                                 want. After having chosen, he immediately quitted the place and
+                                 took the road to his own country, congratulating himself on the
+                                 happy success of <rs type="religion" subtype="Islam">his
+                                    pilgrimage</rs>. </p>
+                              <p> As soon as <persName>Kail</persName> arrived in <placeName ref="Magaith">the valley of Magaith</placeName>, a part of the
+                                    <settlement>territory of <orgName>the Adites</orgName>
+                                 </settlement>, he informed his countrymen of the favourable answer
+                                 he had received, and of the cloud which was soon to water all their
+                                 lands. The <orgName>senseless people</orgName> all came out of
+                                 their houses to receive it, but <rs type="miracle">this cloud,
+                                    which was big with the divine vengeance produced only a wind,
+                                    most cold and most violent, which the <orgName>Arabs</orgName>
+                                    call <name type="elemental">Sarsar</name>; it continued to blow
+                                    for <time>seven days and seven nights</time>,
+                                    and exterminated <orgName>all the unbelievers of the
+                                       country</orgName>, leaving only the <persName>Prophet
+                                       Houd</persName> alive, and <orgName>those who had heard him
+                                       and turned to the faith</orgName>.</rs>
+                                 <bibl>
+                                    <author>D'Herbelot</author>.</bibl>
+                              </p>
+                           </note>
+                         this,</l>
+                     <l rend="i4" n="192">"And that <rs type="building" subtype="palace">the palace
+                           pile</rs>
+                     </l>
+                     <l rend="i4" n="193">"Which <persName>Shedad</persName> built, the King.</l>
+                     <l rend="i2" n="194">"Alas! in the days of my youth</l>
+                     <l rend="i2" n="195">"<rs type="cosmopolitan">The hum of <placeName ref="the_world">the populous world</placeName>
+                        </rs>
+                     </l>
+                     <l rend="i2" n="196">"Was heard in <geogFeat>yon wilderness
+                        waste</geogFeat>!</l>
+                     <l rend="i4" n="197">"O'er all the <geogFeat>winding sands</geogFeat>
+                        
+                           <note type="author" anchored="true" xml:id="N_6">
+                              <p>
+                                 <placeName ref="Al_Ahkaf">Al-Ahkaf</placeName> signifies the
+                                    <geogFeat>Winding Sands</geogFeat>.</p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i4" n="198">"The <orgName>tents of Ad</orgName> were pitch'd;</l>
+                     <l rend="i4" n="199">"Happy <placeName ref="Al_Ahkaf">Al-Ahkaf</placeName>
+                        then,</l>
+                     <l rend="i2" n="200">"For many and brave were her sons,</l>
+                     <l rend="i2" n="201">"Her daughters were many and fair.</l>
+                  </lg>
+                  <lg xml:id="B1_lg21">
+                     <l rend="i4" n="202">"My name was <persName>Aswad</persName> then.</l>
+                     <l rend="i4" n="203">"Alas! alas! how strange</l>
+                     <l rend="i4" n="204">"The sound so long unheard!</l>
+                     <l rend="i4" n="205">"Of noble race I came,</l>
+                     <l rend="i0" n="206">
+                        <rs type="wealth">"One of the wealthy of <rs type="place" ref="the_world">the earth</rs>
+                           <rs type="person" ref="father_of_Aswad">my Sire</rs>,</rs>
+                     </l>
+                     <l rend="i0" n="207">
+                        <rs type="wealth">"An hundred horses in my father's stalls</rs>
+                     </l>
+                     <l rend="i4" n="208">
+                        <rs type="wealth">"Stood ready for his will;</rs>
+                     </l>
+                     <l rend="i4" n="209">
+                        <rs type="wealth">"Numerous his robes of silk,</rs>
+                     </l>
+                     <l rend="i0" n="210">
+                        <rs type="wealth">"The number of his camels was not known.</rs>
+                     </l>
+                     <l rend="i4" n="211">"These were my heritance,</l>
+                     <l rend="i4" n="212">"O <name type="divin">God</name>! thy gifts were
+                        these;</l>
+                     <l rend="i0" n="213">"But better had it been for <persName>Aswad</persName>'s
+                        soul</l>
+                     <l rend="i4" n="214">"To have asked alms <rs type="place" ref="the_world">on
+                           earth</rs>,</l>
+                     <l rend="i0" n="215">"And begged the crumbs that from his table fell,</l>
+                     <l rend="i4" n="216">"So he had known thy word.</l>
+                  </lg>
+                  <lg xml:id="B1_lg22">
+                     <l rend="i2" n="217">"Boy who hast reached this solitude,</l>
+                     <l rend="i2" n="218">"<rs type="religion" subtype="mixed">Fear the <name type="divin">Lord</name> in the days of thy youth!</rs>
+                     </l>
+                     <l rend="i4" n="219">"My knee was never taught</l>
+                     <l rend="i4" n="220">"To bend before my <name type="divin">God</name>,</l>
+                     <l rend="i4" n="221">"My voice was never taught</l>
+                     <l rend="i4" n="222">"<rs type="religion" subtype="mixed">To shape one holy
+                           prayer</rs>.</l>
+                     <l rend="i2" n="223">"<rs type="religion" subtype="idol">We worshipped Idols,
+                           wood and stone,</rs>
+                     </l>
+                     <l rend="i2" n="224">"<rs type="religion" subtype="idol">The work of our own
+                           foolish hands</rs>
+                     </l>
+                     <l rend="i2" n="225">"We worshipped in our foolishness.</l>
+                     <l rend="i4" n="226">"Vainly the <persName ref="Houd">Prophet</persName>'s
+                        voice</l>
+                     <l rend="i4" n="227">"Its frequent warning raised,</l>
+                     <l rend="i4" n="228">"<rs type="religion" subtype="Islam">
+                           <hi rend="smallcap">Repent, and be forgiven!</hi>"—</rs>
+                     </l>
+                     <l rend="i2" n="229">"We mocked <rs type="person" ref="Houd">the messenger of
+                           God</rs>,</l>
+                     <l rend="i0" n="230">"We mocked <name type="divin">the Lord</name>,
+                        long-suffering, slow to wrath.</l>
+                  </lg>
+                  <lg xml:id="B1_lg23">
+                     <l rend="i0" n="231">"A mighty work the pride of <persName>Shedad</persName>
+                        planned,</l>
+                     <l rend="i2" n="232">"Here in <geogFeat>the wilderness</geogFeat> to form</l>
+                     <l rend="i2" n="233">"<rs type="earthworks" subtype="garden">A garden</rs> more
+                        surpassing fair</l>
+
+                     <l rend="i4" n="234">"Than <rs type="metaplace" subtype="garden" ref="Eden" ana="ana">that before whose gate</rs>, </l>
+                     <l rend="i0" n="235"> "The lightning of the <persName type="meta">Cherub</persName>'s fiery sword </l>
+                     <l rend="i4" n="236"> "Waves wide to bar access </l>
+                     <l rend="i0" n="237"> "Since <persName>Adam</persName>, the transgressor, thence was driven. </l>
+
+                     <l rend="i4" n="238">"Here too would <persName>Shedad</persName> build</l>
+                     <l rend="i4" n="239">
+                        <rs type="building" subtype="palace">"A kingly pile sublime,</rs>
+                     </l>
+                     <l rend="i4" n="240">
+                        <rs type="building" subtype="palace">"The palace of his pride.</rs>
+                     </l>
+                     <l rend="i4" n="241">"For this <rs type="earthworks" subtype="mine">exhausted
+                           mines</rs>
+                     </l>
+                     <l rend="i4" n="242">
+                        <rs type="earthworks" subtype="mine">"Supplied their <rs type="wealth">golden store</rs>,</rs>
+                     </l>
+                     <l rend="i0" n="243">
+                        <rs type="earthworks" subtype="mine">"For this the central caverns gave
+                           their <rs type="wealth">gems</rs>;</rs>
+                     </l>
+                     <l rend="i4" n="244">
+                        <rs type="earthworks" subtype="lumber">"For this the woodman's axe</rs>
+                     </l>
+                     <l rend="i0" n="245">
+                        <rs type="earthworks" subtype="lumber">"Opened the cedar forest to the
+                           sun;</rs>
+                     </l>
+                     <l rend="i4" n="246">
+                        <rs type="husbandry" subtype="worm" ref="silk">"The silkworm of <placeName ref="the_East" ana="rel">the East</placeName>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="247">
+                        <rs type="husbandry" subtype="worm" ref="silk">"Spun her sepulchral
+                           egg;</rs>
+                     </l>
+                     <l rend="i4" n="248">
+                        <rs type="hunt">"<rs type="person">The <rs type="place" ref="Africa" ana="rel">hunter
+                                 African</rs>
+                           </rs>
+                        </rs>
+                     </l>
+                     <l rend="i0" n="249">
+                        <rs type="hunt" ref="elephant">
+                           <rs type="place" ref="Africa" ana="rel">"Provoked the danger of the elephant's
+                              wrath;</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="250">
+                        <rs type="earthworks" subtype="lumber">
+                           <rs type="place" ref="Ethiopia" ana="rel">"<rs type="person">The Ethiop</rs>, keen
+                              of scent</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="251">
+                        <rs type="place" ref="Ethiopia" ana="rel">
+                           <rs type="earthworks" subtype="lumber">"Detects the ebony,</rs>
+                        </rs>
+                        
+                           <note type="author" anchored="true" xml:id="N_7">
+                              <p>
+                                 <rs type="science" subtype="botany">I have heard from <rs type="person">a certain Cyprian botanist</rs>, that <rs type="place" ref="Ethiopia">the Ebony does not produce either
+                                       leaves or fruit, and that it is never seen exposed to the
+                                       sun: that its roots are indeed under the earth, which
+                                          <orgName>the Æthiopians</orgName> dig out, and that there
+                                       are men among them skilled in finding the place of its
+                                       concealment.</rs>
+                                 </rs>
+                                 <bibl>Pausanias, translated by Taylor.</bibl>
+                              </p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i2" n="252">
+                        <geogFeat>"That deep-inearthed, and hating light,</geogFeat>
+                     </l>
+                     <l rend="i0" n="253">
+                        <geogFeat>"A leafless tree and barren of all fruit,</geogFeat>
+                     </l>
+                     <l rend="i0" n="254">
+                        <geogFeat>"With darkness feeds her boughs of raven grain</geogFeat>....</l>
+                     <l rend="i0" n="255">"Such were the treasures lavished in <rs type="building" subtype="palace">yon pile</rs>;</l>
+                     <l rend="i4" n="256">"<time>Ages have past away</time>
+                     </l>
+                     <l rend="i4" n="257">"And never mortal eye</l>
+                     <l rend="i4" n="258">"Gazed on their vanity.</l>
+                  </lg>
+                  <lg xml:id="B1_lg24">
+                     <l rend="i4" n="259">
+                        <rs type="earthworks" subtype="garden">"The garden's copious springs</rs>
+                     </l>
+                     <l rend="i4" n="260">
+                        <rs type="earthworks" subtype="garden">"Blest that delightful spot,</rs>
+                     </l>
+                     <l rend="i2" n="261">
+                        <rs type="earthworks" subtype="garden">"And every flower was planted
+                           here</rs>
+                     </l>
+                     <l rend="i2" n="262">
+                        <rs type="earthworks" subtype="garden">"That makes the gale of evening
+                           sweet.</rs>
+                     </l>
+                     <l rend="i0" n="263">
+                        <rs type="earthworks" subtype="garden">"<rs type="person" ref="Shedad">He</rs> spake, and bade the full-grown forest rise</rs>
+                     </l>
+                     <l rend="i2" n="264">
+                        <rs type="earthworks" subtype="garden">"His own creation</rs>; should
+                           <persName ref="Shedad">the King</persName>
+                     </l>
+                     <l rend="i4" n="265">"Wait for slow <name type="myth">Nature</name>'s work?</l>
+                     <l rend="i2" n="266">
+                        <rs type="earthworks" subtype="garden">"All trees that bend with luscious
+                           fruit,</rs>
+                     </l>
+                     <l rend="i4" n="267">
+                        <rs type="earthworks" subtype="garden">"Or wave with feathery boughs,</rs>
+                     </l>
+                     <l rend="i2" n="268">
+                        <rs type="earthworks" subtype="garden">"Or point their spiring heads to <rs type="metaplace" subtype="celest" ref="sky">heaven</rs>,</rs>
+                     </l>
+                     <l rend="i2" n="269">
+                        <rs type="earthworks" subtype="garden">"Or spreading wide their shadowy
+                           arms</rs>
+                     </l>
+                     <l rend="i0" n="270">
+                        <rs type="earthworks" subtype="garden">"Invite <rs type="person">the
+                              traveller</rs> to repose at noon,</rs>
+                     </l>
+                     <l rend="i0" n="271">
+                        <rs type="earthworks" subtype="garden">"Hither, <rs type="imp" subtype="botany">uprooted with their native soil</rs>,</rs>
+                     </l>
+                     <l rend="i0" n="272">
+                        <rs type="earthworks" subtype="garden">
+                           <rs type="imp" subtype="slave">"The labour and the pain of
+                                 <orgName>multitudes</orgName>,</rs>
+                        </rs>
+                     </l>
+                     <l rend="i2" n="273">
+                        <rs type="earthworks" subtype="garden">
+                           <rs type="imp" subtype="botany">"Mature in beauty, bore them.</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="274">
+                        <rs type="earthworks" subtype="garden">"Here, frequent in the walks</rs>
+                     </l>
+                     <l rend="i4" n="275">
+                        <rs type="earthworks" subtype="garden">"The <rs type="image" subtype="human">marble statue</rs> stood</rs>
+                     </l>
+                     <l rend="i4" n="276">
+                        <rs type="earthworks" subtype="garden">"Of heroes and of chiefs.</rs>
+                     </l>
+                     <l rend="i4" n="277">
+                        <rs type="earthworks" subtype="garden">"The trees and flowers remain</rs>
+                     </l>
+                     <l rend="i0" n="278">
+                        <rs type="earthworks" subtype="garden">"By <name type="myth">Nature's</name>
+                           care perpetuate and self-sown.</rs>
+                     </l>
+                     <l rend="i0" n="279">
+                        <rs type="earthworks" subtype="garden">
+                           <rs type="image" subtype="human">"The <rs type="art" subtype="sculpt">marble statues</rs> long have lost all trace</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="280">
+                        <rs type="earthworks" subtype="garden">"Of heroes and of chiefs,</rs>
+                     </l>
+                     <l rend="i4" n="281">
+                        <rs type="earthworks" subtype="garden">
+                           <rs type="art" subtype="sculpt">"Huge shapeless stones they lie</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="282">
+                        <rs type="earthworks" subtype="garden">
+                           <rs type="art" subtype="sculpt">"O'er-grown with many a flower.</rs>
+                        </rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B1_lg25">
+                     <l rend="i4" n="283">"The work of pride went on....</l>
+                     <l rend="i4" n="284">"Often <persName ref="Houd">the Prophet</persName>'s
+                        voice</l>
+                     <l rend="i4" n="285">"Denounced impending woe....</l>
+                     <l rend="i2" n="286">"We mocked at the words of <persName ref="Houd">the
+                           Seer</persName>.</l>
+                     <l rend="i2" n="287">"We mocked at the wrath of <name type="divin">the
+                           Lord</name>.</l>
+                     <l rend="i0" n="288">"<rs type="devastation">A long continued drought</rs>
+                        first troubled us,</l>
+                     <l rend="i4" n="289">
+                        <rs type="devastation">"<time>Three years</time> no cloud had formed,</rs>
+                     </l>
+                     <l rend="i4" n="290">
+                        <rs type="devastation">"<time>Three years</time> no rain had fallen.</rs>
+                     </l>
+                     <l rend="i4" n="291">
+                        <rs type="devastation">"The wholesome herb was dry,</rs>
+                     </l>
+                     <l rend="i0" n="292">
+                        <rs type="devastation">"The corn matured not for the food of man,</rs>
+                     </l>
+                     <l rend="i4" n="293">
+                        <rs type="devastation">"The <rs type="earthworks" subtype="well">wells and
+                              fountains</rs> failed.</rs>
+                     </l>
+                     <l rend="i0" n="294">"<orgName ref="Adites">O hard of heart</orgName>, in whom
+                        the punishment</l>
+                     <l rend="i4" n="295">"Awoke <rs type="religion" subtype="Islam">no sense of
+                           guilt</rs>!</l>
+                     <l rend="i0" n="296">"Headstrong to ruin, obstinately blind,</l>
+                     <l rend="i2" n="297">
+                        <rs type="religion" subtype="idol">"To Idols
+                              <note type="author" anchored="true" xml:id="N_8">
+                                 <p> The <orgName>Adites</orgName> worshipped four Idols, <name type="divin">Sakiah the dispenser of rain</name>, <name type="divin">Hafedah the protector of travellers</name>,
+                                       <name type="divin">Razecah the giver of food</name>, and
+                                       <name type="divin">Salemah the preserver in sickness</name>.
+                                       <bibl>D'Herbelot. Sale.</bibl>
+                                 </p>
+                              </note>
+                            we applied for aid;</rs>
+                     </l>
+                     <l rend="i2" n="298">"<name type="divin">Sakia</name> we invoked for rain,</l>
+                     <l rend="i2" n="299">"We called on <name type="divin">Razeka</name> for
+                        food....</l>
+                     <l rend="i0" n="300">"They did not hear our prayers, they could not hear!</l>
+                     <l rend="i4" n="301">"No cloud appeared in Heaven,</l>
+                     <l rend="i4" n="302">"No nightly dews came down.</l>
+                  </lg>
+                  <lg xml:id="B1_lg26">
+                     <l rend="i0" n="303">"Then to <rs type="place" ref="Mecca" ana="rel">the place of
+                           concourse</rs>,
+                           <note type="author" anchored="true" xml:id="N_9">
+                              <p>
+                                 <placeName>Mecca</placeName> was thus called.
+                                    <persName>Mohammed</persName> destroyed the other superstitions
+                                 of the <orgName>Arabs</orgName>, but <rs type="religion" subtype="Islam">he was obliged to adopt <rs type="religion" subtype="idol">their old and rooted veneration for the Well
+                                       and the Black Stone</rs>, and transfer to
+                                       <placeName>Mecca</placeName> the respect and reverence which
+                                    he had designed for <placeName>Jerusalem</placeName>.</rs>
+                              </p>
+                           </note>
+                         messengers</l>
+                     <l rend="i0" n="304">"Were sent to <rs type="cosmopolitan">
+                           <placeName>Mecca</placeName>, where the nations came,</rs>
+                     </l>
+                     <l rend="i0" n="305">"Round the <placeName ref="Red_Hillock" ana="rel">Red
+                           Hillock</placeName>, kneeling, to implore</l>
+                     <l rend="i4" n="306">"<name type="divin">God</name> in his favoured place,</l>
+                     <l rend="i4" n="307">"We sent to call on <name type="divin">God</name>;</l>
+                     <l rend="i0" n="308">"Ah fools! unthinking that from <rs type="place" ref="the_world">all the earth</rs>
+                     </l>
+                     <l rend="i4" n="309">"The heart ascends to him.</l>
+                     <l rend="i4" n="310">"We sent to call on <name type="divin">God</name>;</l>
+                     <l rend="i4" n="311">"Ah fools! to think <name type="divin">the Lord</name>
+                     </l>
+                     <l rend="i4" n="312">"Would hear their prayers abroad</l>
+                     <l rend="i4" n="313">"Who made no prayers at home!</l>
+                  </lg>
+                  <lg xml:id="B1_lg27">
+                     <l rend="i2" n="314">"Meantime the work of pride went on,</l>
+                     <l rend="i0" n="315">
+                        <rs type="religion" subtype="idol">"And still before our Idols, wood and
+                           stone,</rs>
+                     </l>
+                     <l rend="i4" n="316">
+                        <rs type="religion" subtype="idol">"We bowed the impious knee.</rs>
+                     </l>
+                     <l rend="i0" n="317">"Turn <orgName>men of Ad</orgName>, and <rs type="religion" subtype="Islam">call upon <name type="divin">the
+                              Lord</name>
+                        </rs>,"</l>
+                     <l rend="i4" n="318">"The <persName>Prophet Houd</persName> exclaimed.</l>
+                     <l rend="i2" n="319">"Turn <orgName>men of Ad</orgName> and look to Heaven,</l>
+                     <l rend="i4" n="320">"And fly the wrath to come.</l>
+                     <l rend="i4" n="321">"We mocked <persName ref="Houd">the Prophet</persName>'s
+                        words;</l>
+                     <l rend="i4" n="322">"Now dost thou dream <rs type="person" ref="Houd">old
+                           man</rs>.</l>
+                     <l rend="i4" n="323">"Or art thou drunk with wine?</l>
+                     <l rend="i2" n="324">"Future woe and wrath to come,</l>
+                     <l rend="i2" n="325">"Still thy prudent voice forebodes;</l>
+                     <l rend="i2" n="326">
+                        <rs type="religion" subtype="Islam">"When it comes will we believe,</rs>
+                     </l>
+                     <l rend="i2" n="327">
+                        <rs type="religion" subtype="idol">"Till it comes will we go on</rs>
+                     </l>
+                     <l rend="i2" n="328">
+                        <rs type="religion" subtype="idol">"In the way our fathers went</rs>.</l>
+                     <l rend="i4" n="329">"Now are thy words from <name type="divin">God</name>?</l>
+                     <l rend="i4" n="330">"Or dost thou dream, <rs type="person" ref="Houd">old
+                           man</rs>,</l>
+                     <l rend="i4" n="331">"Or art thou drunk with wine?"</l>
+                  </lg>
+                  <lg xml:id="B1_lg28">
+                     <l rend="i4" n="332">"So spake <orgName ref="Adites">the stubborn
+                           race</orgName>
+                     </l>
+                     <l rend="i4" n="333">"<orgName ref="Adites">The unbelieving ones</orgName>,</l>
+                     <l rend="i0" n="334">"<rs type="person" ref="Aswad">I</rs> too of stubborn
+                        unbelieving heart</l>
+                     <l rend="i4" n="335">"Heard him and heeded not.</l>
+                     <l rend="i0" n="336">"It chanced <rs type="person" ref="Aswad">my father</rs>
+                        went the way of man,</l>
+                     <l rend="i4" n="337">"He perished in his sins.</l>
+                     <l rend="i2" n="338">"The <rs type="religion" subtype="mixed">funeral
+                           rites</rs> were duly paid,</l>
+                     <l rend="i2" n="339">"<rs type="religion" subtype="idol">We bound a camel to
+                              <rs type="metaplace" subtype="under" ref="Tombs" ana="rel">his grave</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="340">
+                        <rs type="religion" subtype="idol">"And left it there to die,</rs>
+                     </l>
+                     <l rend="i2" n="341">
+                        <rs type="religion" subtype="idol">"So if the <rs type="miracle">resurrection</rs>
+                           
+                              <note type="author" anchored="true" xml:id="N_10">
+                                 <p>
+                                    <rs type="metaplace" subtype="passage" ref="to_next_world">
+                                    <rs type="metaplace" subtype="under" ref="Tombs">Some of the
+                                             <orgName>Pagan Arabs</orgName> when they died, had
+                                          their Camel tied by their <rs type="metaplace" subtype="under" ref="Tombs">
+                                          <rs type="earthworks" subtype="grave">sepulchre</rs>
+                                       </rs>, and so left
+                                          without meat or drink to perish, and accompany them to <rs type="metaplace" subtype="divin" ref="the_other_world">the other world</rs>, lest they should be obliged at
+                                             <rs type="miracle">the Resurrection</rs> to go on foot,
+                                          which was accounted very scandalous.</rs>
+                                 </rs>
+                                 </p>
+                                 <p>
+                                    <persName>Ali</persName> affirmed that <rs type="miracle">the
+                                       pious when they come forth from their sepulchres shall find
+                                       ready prepared for them white-winged Camels with saddles of
+                                       gold</rs>. Here are some footsteps of the doctrine of the
+                                       <orgName>ancient Arabians</orgName>. <bibl>Sale.</bibl>
+                                 </p>
+                              </note>
+                            came</rs>
+                     </l>
+                     <l rend="i4" n="342">"Together they might rise.</l>
+                     <l rend="i4" n="343">"I past <rs type="metaplace" subtype="under" ref="Tombs" ana="rel">my father's grave</rs>,</l>
+                     <l rend="i4" n="344">"I heard the <persName>Camel</persName> moan.</l>
+                     <l rend="i4" n="345">"<rs type="person" ref="Camel">She was his favourite
+                           beast</rs>,</l>
+                     <l rend="i0" n="346">"One that carried me in infancy,</l>
+                     <l rend="i0" n="347">"The first that by myself <rs type="person" ref="Aswad">I</rs> learnt to mount.</l>
+                     <l rend="i0" n="348">"Her limbs were lean with famine, and her eyes</l>
+                     <l rend="i4" n="349">"Looked ghastlily with want.</l>
+                     <l rend="i4" n="350">"<rs type="person" ref="Camel">She</rs> knew me as I
+                        past,</l>
+                     <l rend="i4" n="351">"<rs type="person" ref="Camel">She</rs> stared
+                           <note type="author" anchored="true" xml:id="N_11">
+                              <p> </p>
+                              <q>
+                                 <lg>
+                                    <l>"She stared me in the face."</l>
+                                 </lg>
+                              </q>
+                              <p> This line is in one of the most beautiful passages of <rs type="song" subtype="English">our old Ballads</rs>, so full of
+                                 beauty. <rs type="person" ref="Southey">I</rs> have never seen <rs type="script" subtype="print">the Ballad in print</rs>, and with
+                                 some trouble, have procured only an imperfect copy from memory. It
+                                 is necessary to insert some of the preceding stanzas. The title is </p>
+                              <q>
+                                 <title>
+                                    <persName>Old Poulter</persName>'s <persName ref="Mare">mare</persName>.</title>
+                                 <lb/>
+                                 <lg>
+                                    <l rend="i0">At length old age came on <rs type="person" ref="Mare">her</rs>
+                                    </l>
+                                    <l rend="i1">And <rs type="person" ref="Mare">she</rs> grew
+                                       faint and poor,</l>
+                                    <l rend="i0">Her <rs type="person" ref="Poulter">master</rs> he
+                                       fell out with her</l>
+                                    <l rend="i1">And turned her out of door,</l>
+                                    <l rend="i0">Saying, if thou wilt not labour,</l>
+                                    <l rend="i1">I prithee go thy way,—</l>
+                                    <l rend="i0">And never let me see thy face</l>
+                                    <l rend="i1">Until thy dying day.</l>
+                                 </lg>
+                                 <lg>
+                                    <l rend="i0">These words <rs type="person" ref="Mare">she</rs>
+                                       took unkind</l>
+                                    <l rend="i1">And on her way <rs type="person" ref="Mare">she</rs> went,</l>
+                                    <l rend="i0">For to fulfill her master's will</l>
+                                    <l rend="i1">Always was her intent,</l>
+                                    <l rend="i0">The <geogFeat>hills were very high</geogFeat>
+                                    </l>
+                                    <l rend="i1">The <geogFeat>vallies very bare</geogFeat>,</l>
+                                    <l rend="i0">The summer it was hot and dry,—</l>
+                                    <l rend="i1">It starved <persName>Old Poulter</persName>'s
+                                          <persName>Mare</persName>.</l>
+                                 </lg>
+                                 <lg>
+                                    <l rend="i0">
+                                       <persName>Old Poulter</persName> he grew sorrowful</l>
+                                    <l rend="i1">And said to his kinsman
+                                       <persName>Will</persName>,</l>
+                                    <l rend="i0">I'd have thee go and seek the
+                                          <persName>Mare</persName>
+                                    </l>
+                                    <l rend="i1">O'er <geogFeat>valley</geogFeat> and o'er
+                                          <geogFeat>hill</geogFeat>,</l>
+                                    <l rend="i0">Go, go, go, go, says
+                                       <persName>Poulter</persName>,</l>
+                                    <l rend="i1">And make haste back again,</l>
+                                    <l rend="i0">For until thou hast found the
+                                          <persName>Mare</persName>
+                                    </l>
+                                    <l rend="i1">In grief <rs type="person" ref="Poulter">I</rs>
+                                       shall remain.</l>
+                                 </lg>
+                                 <lg>
+                                    <l rend="i0">Away went <persName>Will</persName> so
+                                       willingly,</l>
+                                    <l rend="i1">And all day long <rs type="person" ref="Will">he</rs> sought:</l>
+                                    <l rend="i0">Till when it grew towards the night,</l>
+                                    <l rend="i1">
+                                       <rs type="person" ref="Will">He</rs> in his mind
+                                       bethought,</l>
+                                    <l rend="i0">
+                                       <rs type="person" ref="Will">He</rs> would go home and rest
+                                       him</l>
+                                    <l rend="i1">And come again to-morrow,</l>
+                                    <l rend="i0">For if <rs type="person" ref="Will">he</rs> could
+                                       not find the <persName>Mare</persName>
+                                    </l>
+                                    <l rend="i1">His heart would break with sorrow.</l>
+                                 </lg>
+                                 <lg>
+                                    <l rend="i0">
+                                       <rs type="person" ref="Will">He</rs> went a little
+                                       farther</l>
+                                    <l rend="i1">And turned his head aside,</l>
+                                    <l rend="i0">And just by <persName>goodman
+                                       Whitfield</persName>'s gate</l>
+                                    <l rend="i1">Oh there the <persName>Mare</persName> he
+                                       spied.</l>
+                                    <l rend="i0">
+                                       <rs type="person" ref="Will">He</rs> asked her how <rs type="person" ref="Mare">she</rs> did,</l>
+                                    <l rend="i1">
+                                       <hi rend="italic">
+                                          <rs type="person" ref="Mare">She</rs> stared <rs type="person" ref="Will">him</rs> in the face,</hi>
+                                    </l>
+                                    <l rend="i0">
+                                       <hi rend="italic">Then down <rs type="person" ref="Mare">she</rs> laid her head again,—</hi>
+                                    </l>
+                                    <l rend="i1">
+                                       <hi rend="italic">
+                                          <rs type="person" ref="Mare">She</rs> was in wretched
+                                          case.</hi>
+                                    </l>
+                                 </lg>
+                              </q>
+                           </note>
+                         me in the face,</l>
+                     <l rend="i0" n="393">"My heart was touched, had it been human else?</l>
+                     <l rend="i0" n="394">"<rs type="person" ref="Aswad">I</rs> thought no eye was
+                        near, and broke her bonds,</l>
+                     <l rend="i0" n="395">"And drove <rs type="person" ref="Camel">her</rs> forth to
+                        liberty and life.</l>
+                     <l rend="i4" n="396">"The <persName>Prophet Houd</persName> beheld,</l>
+                     <l rend="i4" n="397">"He lifted up his voice,</l>
+                     <l rend="i4" n="398">"Blessed art thou, young man,</l>
+                     <l rend="i0" n="399">"Blessed art thou, O <persName>Aswad</persName>, for the
+                        deed!</l>
+                     <l rend="i2" n="400">"In the day of visitation,</l>
+                     <l rend="i2" n="401">"In the fearful hour of judgment,</l>
+                     <l rend="i4" n="402">"<name type="divin">God</name> will remember thee!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg35">
+                     <l rend="i0" n="403">"The day of visitation was at hand,</l>
+                     <l rend="i0" n="404">"The fearful hour of judgment hastened on.</l>
+                     <l rend="i2" n="405">"Lo <rs type="building" subtype="palace">
+                           <persName>Shedad</persName>'s mighty pile</rs> complete,</l>
+                     <l rend="i4" n="406">"The <rs type="building" subtype="palace">palace</rs> of
+                        his pride.</l>
+                     <l rend="i0" n="407">
+                        <rs type="building" subtype="palace">"Would ye behold its wonders, enter
+                           in!</rs>
+                     </l>
+                     <l rend="i2" n="408">"I have no heart to visit it!</l>
+                     <l rend="i0" n="409">"<time>Time hath not harmed <rs type="building" subtype="palace">the eternal monument</rs>
+                        </time>,</l>
+                     <l rend="i0" n="410">"<time>Time is not <rs type="metaplace"
+                         subtype="barrier"
+                         ref="Irem_removed"
+                         ana="hereNow">here</rs>, nor days, nor months, nor
+                           years,</time>
+                     </l>
+                     <l rend="i0" n="411">"<time>An everlasting <hi rend="smallcap">now</hi> of
+                           misery!</time>...</l>
+                     <l rend="i4" n="412">"Ye must have heard their fame,</l>
+                     <l rend="i4" n="413">"Or likely ye have seen</l>
+                     <l rend="i4" n="414">"The mighty <rs type="place" ref="Egypt" ana="ana">
+                           <rs type="building" subtype="monument">Pyramids</rs>
+                        </rs>,</l>
+                     <l rend="i0" n="415">"For sure those <rs type="building" subtype="monument">mighty piles</rs> shall overlive</l>
+                     <l rend="i0" n="416">"<time>The feeble generations of mankind</time>.</l>
+                     <l rend="i0" n="417">"What tho' unmoved they bore
+                           <note type="author" anchored="true" xml:id="N_12">
+                              <p> Concerning the <placeName ref="Pyramids">
+                                 <rs type="building" subtype="monument">Pyramids</rs>
+                              </placeName>, "I shall put
+                                 down, says Greaves, that which is confessed by <orgName>the Arabian
+                                    writers</orgName> to be the most probable relation, as is
+                                 reported by <bibl>
+                                    <author>Ibn Abd Alhokm</author>
+                                 </bibl>, whose words out of the Arabick are these. "the greatest
+                                 part of chronologers agree, that he which built the <rs type="building" subtype="monument">Pyramids</rs>, was,
+                                    <persName>Saurid Ibn Salhouk, King of
+                                       <placeName>Egypt</placeName>
+                                 </persName>, who lived <time>three hundred years before the
+                                    flood</time>. The occasion of this was, because <rs type="dream">he saw in his sleep, that <rs type="devastation">
+                                       <placeName ref="Earth_planet">the whole earth</placeName> was
+                                       turned over with the inhabitants of it, the men lying upon
+                                       their faces, and the stars falling down and striking one
+                                       another, with a terrible noise</rs>; and being troubled, he
+                                    concealed it. After this he saw <rs type="devastation">
+                                    <rs type="metaplace" subtype="celest" ref="stars">the fixed
+                                          stars</rs> falling to <placeName ref="Earth_planet">the
+                                          earth</placeName>, in the similitude of white fowl, and
+                                       they snatched up men, carrying them <geogFeat>between two
+                                          great mountains; and these mountains closed upon them, and
+                                          the shining stars were made dark</geogFeat>.</rs>
+                                 </rs> Awaking with great fear, he assembles <orgName>the chief
+                                    priests of all the provinces of <placeName>Egypt</placeName>, an
+                                    hundred and thirty priests</orgName>, the chief of them was
+                                 called <persName>Aclimum</persName>. Relating the whole matter to
+                                 them, <rs type="science" subtype="astro">they took the altitude of
+                                    the stars, and making their prognostication, foretold of a
+                                    deluge</rs>. <persName ref="Saurid">The King</persName> said,
+                                 will it come to <rs type="place" ref="Egypt">our country</rs>? they
+                                 answered, yea, and will destroy it. And there remained <time>a
+                                    certain number of years for to come</time>, and he commanded in
+                                 the mean space to build the <rs type="building" subtype="monument">Pyramids</rs>, and <rs type="earthworks" subtype="irrig">a
+                                    vault to be made, into which <placeName ref="Nile_River">the
+                                       river Nilus</placeName> entering should run into <rs type="place" ref="the_West">the countries of the west</rs>,
+                                    and into <placeName>the land Al-Said</placeName>
+                                 </rs>. And he filled them with <rs type="script" subtype="eng">
+                                    <hi rend="italic">telesmes</hi>
+                                 </rs>,
+                                    <note style="double" type="author" anchored="true" xml:id="NN_b">
+                                       <rs type="script" subtype="eng">That which <orgName>the
+                                             Arabians</orgName> commonly mean by <hi rend="italic">telesmes</hi>, are certain <hi rend="italic">sigilla</hi> or <hi rend="italic">amuleta</hi>, made
+                                          under such and such an aspect, or configuration of the
+                                          stars and planets, with several characters accordingly
+                                          inscribed.</rs>
+                                    </note>
+                                  and with strange things, and with <rs type="wealth">riches
+                                    and treasures</rs> and the like. <rs type="script" subtype="eng">He engraved in them all things that were told him by wise men,
+                                    as also all profound sciences, the names of <hi rend="italic">alakakirs</hi>,
+                                       <note style="double" type="author" anchored="true" xml:id="NN_c">
+                                          <hi rend="italic">Alakakir</hi>, amongst other
+                                          significations, is the name of a precious stone; and
+                                          therefore in <placeName>Abulfeda</placeName> it is joined
+                                          with <hi rend="italic">yacut</hi>, a ruby. I imagine it
+                                          here to signify some magical spell, which it may be was
+                                          engraven on this stone.</note>
+                                     the uses and hurts of them; the <rs type="science" subtype="astro">science of astrology</rs> and of <rs type="science" subtype="math">arithmetick, and of
+                                       geometry</rs>, and of <rs type="science" subtype="phys">physick</rs>. All this may be interpreted by him that knows
+                                    their characters and language.</rs> After he had given order for
+                                    <rs type="building" subtype="monument">this building, they cut
+                                    out vast columns and wonderful stones. They fetch massy stones
+                                    from the <orgName>Æthopians</orgName>, and made with these the
+                                    foundation of the three Pyramids, fastening them together with
+                                    lead and iron. They built the gates of them forty cubits under
+                                    ground, and they made the height of the Pyramids one hundred
+                                    royal cubits, which are fifty of ours in these times; he also
+                                    made each side of them an hundred royal cubits. The beginning of
+                                    this building was in a fortunate horoscope. After that he had
+                                    finished it, he covered it with coloured satten from the top to
+                                    the bottom; and he appointed a solemn festival, at which were
+                                    present all the inhabitants of his kingdom. Then he built in the
+                                    western Pyramid thirty treasures, filled with store of riches,
+                                    and utensils, and with signatures made of precious stones, and
+                                    with instruments of iron, and vessels of earth, and with arms
+                                    that rust not, and with glass which might be bended and yet not
+                                    broken, and with several kind of alakakirs, single and double,
+                                    and with deadly poisons, and with other things besides. He made
+                                    also in the east Pyramid <rs type="science" subtype="astro">divers celestial spheres and stars, and what they severally
+                                       operate in their aspects</rs>, and the perfumes which are to
+                                    be used to them, and <rs type="script" subtype="book">the
+                                       books</rs> which treat of these matters. He also put in the
+                                    coloured Pyramid <rs type="script" subtype="holy">the
+                                       commentaries of the Priests</rs>, in chests of black marble,
+                                    and <rs type="script" subtype="book">with every Priest a book,
+                                       in which were the wonders of his profession, and of his
+                                       actions, and of his nature, and what was done in his time,
+                                       and what is, and what shall be, from the beginning of time to
+                                       the end of it</rs>. He placed in every Pyramid a treasurer.
+                                       <rs type="image" subtype="human">The treasurer of the
+                                       westerly Pyramid was a statue of marble stone, standing
+                                       upright with a lance, and upon his head a serpent wreathed.
+                                       He that came near it, and stood still, the serpent bit him of
+                                       one side, and wreathing round about his throat and killing
+                                       him, returned to his place.</rs>
+                                    <rs type="image" subtype="human">He made the treasurer of the
+                                       east Pyramid, an idol of black agate, his eyes open and
+                                       shining, sitting upon a throne with a lance; when any looked
+                                       upon him, he heard of one side of him a voice, which took
+                                       away his sense, so that he fell prostrate upon his face, and
+                                       ceased not till he died.</rs>
+                                    <rs type="image" subtype="human">He made the treasurer of the
+                                       coloured Pyramid a statue of stone, called <hi rend="italic">Albut</hi>, sitting: he which looked towards it was drawn
+                                       by the statue, till he stuck to it, and could not be
+                                       separated from it, till such time as he died.</rs>
+                                    <rs type="script" subtype="book">The <orgName>Coptites</orgName>
+                                       write in their books, that there is <rs type="script" subtype="eng">an inscription engraven upon them, the
+                                          exposition of which in Arabick is this, <rs type="person" ref="Saurid">
+                                             <hi rend="italic">I</hi>
+                                          </rs>
+                                          <persName>
+                                             <hi rend="smallcap">King Saurid</hi>
+                                          </persName> built the Pyramids in such and such a time,
+                                          and finished them in six years: he that comes after me,
+                                          and says that he is equal to me, let him destroy them in
+                                          six hundred years; and yet it is known, that it is easier
+                                          to pluck down, than to build up: I also covered them, when
+                                          I had finished them, with satten; and let him cover them
+                                          with mats.</rs>
+                                    </rs> After that <persName>
+                                       <hi rend="smallcap">Almamon</hi> the Calif</persName> entered
+                                       <placeName ref="Egypt">Ægypt</placeName>, and saw the
+                                    Pyramids. He desired to know what was within, and therefore
+                                    would have them opened. They told him it could not possibly be
+                                    done. He replied <rs type="person" ref="Almamon">I</rs> will
+                                    have it certainly done. And that hole was opened for him, which
+                                    stands open to this day, with fire and vinegar. <rs type="machine">Two smiths prepared and sharpened the iron and
+                                       engines, which they forced in, and there was a great expence
+                                       in the opening of it.</rs> The thickness of the wall was
+                                    found to be twenty cubits; and when they came to the end of the
+                                    wall, behind the place they had digged, there was <rs type="wealth">an ewer of green emerald; in it were a thousand
+                                       dinars very weighty, every dinar was an ounce of our
+                                       ounces</rs>: they wondered at it, but knew not the meaning of
+                                    it. Then <persName>
+                                       <hi rend="smallcap">Almamon</hi>
+                                    </persName> said, cast up the account, how much hath been spent
+                                    in making the entrance; they cast it up, and lo it was the same
+                                    sum which they found, it neither exceeded nor was defective.
+                                    Within they found a square well, in the square of it there were
+                                    doors, every door opened into a house (or vault) in which there
+                                    were dead bodies wrapped up in linen. They found towards the top
+                                    of the Pyramid, a chamber, in which there was an hollow stone:
+                                    in it was <rs type="image" subtype="human">
+                                       <rs type="art" subtype="sculpt">a statue of stone like a man,
+                                          and within it a man</rs>
+                                    </rs>, upon whom was <rs type="wealth">
+                                       <rs type="art" subtype="gem">a breast-plate of gold set with
+                                          jewels</rs>; upon his breast was a sword of invaluable
+                                       price, and at his head a <rs type="art" subtype="gem">
+                                          <rs type="script" subtype="eng">carbuncle of the bigness
+                                             of an egg, shining like the light of the day; and upon
+                                             him were characters written with a pen, no man knows
+                                             what they signify</rs>
+                                       </rs>
+                                    </rs>. After <hi rend="smallcap">Almamon</hi> had opened it, men
+                                    entered into it for many years, and descended by the slippery
+                                    passage which is in it; and some of them came out safe, and
+                                    others died."</rs>
+                                 <bibl>
+                                    <author>Greaves</author>'s
+                                    <title>Pyramidographia</title>.</bibl>
+                              </p>
+                           </note>
+                         the deluge weight,</l>
+                     <l rend="i2" n="418">
+                        <rs type="devastation">"<rs type="building" subtype="monument">
+                              <time>Survivors of the ruined <placeName ref="the_world">world</placeName>
+                              </time>
+                           </rs>?</rs>
+                     </l>
+                     <l rend="i0" n="419">"What tho' <rs type="person" ref="Saurid">their
+                           founder</rs> filled with miracles</l>
+                     <l rend="i0" n="420">"And wealth miraculous their ample vaults?</l>
+                     <l rend="i0" n="421">"Compared with <rs type="building" subtype="palace">yonder
+                           fabric</rs>, and they shrink</l>
+                     <l rend="i0" n="422">"The baby wonders of a woman's work!</l>
+
+                     <l rend="i0" n="423">
+                        <rs type="building" subtype="palace">"Her <rs type="art" subtype="gem">emerald columns</rs> o'er the marble courts</rs>
+                     </l>
+
+                     <l rend="i0" n="424">
+                        <rs type="building" subtype="palace">" <rs type="art" subtype="gem">Fling
+                              their green rays</rs>
+                        </rs>, as when amid a shower</l>
+                     <l rend="i0" n="425">"The sun shines loveliest on the vernal corn.</l>
+
+                     <l rend="i0" n="426">"Here <persName>Shedad</persName> bade <rs type="building" subtype="palace">
+                           <rs type="art" subtype="gem">the sapphire floor</rs>
+                        </rs> be laid,</l>
+                     <l rend="i4" n="427">"As tho' with feet divine</l>
+                     <l rend="i4" n="428">"To trample azure light,</l>
+                     <l rend="i0" n="429">"Like <rs type="metaplace" subtype="celest" ref="sky" ana="ana">the
+                           blue pavement of the firmament</rs> .</l>
+                     <l rend="i2" n="430">"Here self-suspended hangs in air,</l>
+                     <l rend="i0" n="431">"As its pure substance loathed material touch,</l>
+                     <l rend="i4" n="432">"The living
+                           <note type="author" anchored="true" xml:id="N_13">
+                              <p> The <rs type="wealth">Carbuncle</rs> is to be found in most of<rs type="metaplace" subtype="under">
+                                 <rs type="building" subtype="palace">the subterranean palaces of Romance</rs>
+                                 </rs>. I have no where seen so circumstantial an account of its
+                                 wonderful properties as in <bibl>a passage of Thuanus, quoted by
+                                       <author>Setphanius</author> in his notes to <title>Saxo
+                                       Grammaticus</title>
+                                 </bibl>. </p>
+                              <p> "Whilst the King was at <placeName>Bologna</placeName> a stone
+                                 wonderful in its species and nature was brought to him from the
+                                    <placeName ref="East_Indies">East Indies</placeName>, by <rs type="person">a man unknown, who appeared by his manners to be a
+                                    Barbarian</rs>. It sparkled as tho' all burning with an
+                                 incredible splendour, flashing radiance, and shooting on every side
+                                 its beams, it filled the surrounding air to a great distance with a
+                                 light scarcely by any eyes endurable. In this also it was
+                                 wonderful, that being most impatient of <placeName ref="Earth_planet">the earth</placeName>, if it was confined, it
+                                 would force its way and immediately fly <rs type="metaplace" subtype="celest" ref="sky">aloft</rs>; neither could it be
+                                 contained by any art of man in a narrow place, but appeared only to
+                                 love those of ample extent. It was of the utmost purity stained by
+                                 no soil nor spot. Certain shape it had none, for its figure was
+                                 inconstant and momentarily changing, and tho' at a distance it was
+                                 beautiful to the eye, it would not suffer itself to be handled with
+                                 impunity, but hurt those who obstinately struggled with it, as many
+                                 persons before many spectators experienced. If by chance any part
+                                 of it was broken off, for it was not very hard, it become nothing
+                                 less. <bibl>Thuanus. Lib. 8.</bibl>
+                              </p>
+                              <p> In the <bibl>Mirror of Stones</bibl>, <rs type="myth">Carbuncles
+                                    are said to be male and female. The females throw out their
+                                    brightness: the stars appear burning within the males</rs>. </p>
+                              <p>
+                                 <rs type="myth">Like many other jewels the Carbuncle was supposed
+                                    to be an animal substance, formed in the serpent. The serpent's
+                                    ingenious method of preserving it from the song of the charmer
+                                    is related in an after note</rs>. <bibl>Book 9</bibl>.</p>
+                           </note>
+                         carbuncle;</l>
+                     <l rend="i4" n="433">
+                        <rs type="building" subtype="palace">
+                           <rs type="image" subtype="nature">"Sun of the lofty dome</rs>
+                        </rs>
+                     </l>
+                     <l rend="i0" n="434">
+                        <rs type="building" subtype="palace">
+                           <rs type="image" subtype="nature">"Darkness has no dominion o'er its
+                              beams;</rs>
+                        </rs>
+                     </l>
+                     <l rend="i0" n="435">
+                        <rs type="building" subtype="palace">
+                           <rs type="image" subtype="nature">"Intense it glows, an ever-flowing
+                              tide</rs>
+                        </rs>
+                     </l>
+                     <l rend="i0" n="436">
+                        <rs type="image" subtype="nature">"Of glory, like the day-flood in its
+                           source.</rs>
+                     </l>
+                     <l rend="i0" n="437">
+                        <rs type="religion" subtype="Islam">"Impious!</rs>
+                        <rs type="image" subtype="nature">the Trees of vegetable gold</rs>,</l>
+                     <l rend="i4" n="438">"Such as in <rs type="metaplace" subtype="garden" ref="Eden" ana="ana">Eden's groves</rs>
+                     </l>
+                     <l rend="i4" n="439">"Yet innocent it
+                           <note type="author" anchored="true" xml:id="N_14">
+                              <p>
+                                 <rs type="metaplace" subtype="garden" ref="Eden">
+                                    <persName>Adam</persName>, says <rs type="person" subtype="author">a Moorish Author</rs>, after having eaten
+                                    the forbidden fruit, sought to hide himself under the shade of
+                                    the trees that form the bowers of <rs type="metaplace" subtype="divin" ref="Eden">Paradise</rs>: <name type="myth">the Gold and Silver trees</name> refused their shade to the
+                                    father of the human race.<name type="divin">God</name>asked them
+                                    why they did so: because, replied the trees, Adam has
+                                    transgressed against your commandment. Ye have done well,
+                                    answered <name type="divin">the Creator</name>; and that your
+                                    fidelity may be rewarded, 'tis my decree that men shall
+                                    hereafter become your slaves, and that in search of you they
+                                    shall <rs type="earthworks" subtype="mine">dig into the very
+                                       bowels of the earth</rs>.</rs>
+                                 <bibl>Chenier.</bibl>
+                              </p>
+                           </note>
+                         grew,</l>
+                     <l rend="i0" n="440">"<rs type="religion" subtype="Islam">Impious!</rs> he made
+                        his boast, tho' <name type="divin">heaven</name> had hidden</l>
+                     <l rend="i4" n="441">"So deep <rs type="earthworks" subtype="mine">the baneful
+                           ore</rs>,</l>
+                     <l rend="i2" n="442">
+                        <rs type="art" subtype="gem">"That they should branch and bud for him,</rs>
+                     </l>
+                     <l rend="i0" n="443">
+                        <rs type="art" subtype="gem">"That art should force their blossoms and their
+                           fruit,</rs>
+                     </l>
+                     <l rend="i4" n="444">"And re-create for him,</l>
+                     <l rend="i2" n="445">"Whate'er was lost in <rs type="metaplace" subtype="garden" ref="Eden" ana="ana">Paradise</rs>.</l>
+                     <l rend="i4" n="446">"Therefore at <persName>Shedad</persName>'s voice</l>
+                     <l rend="i0" n="447">
+                        <rs type="image" subtype="nature">"Here towered the palm, a silver
+                           trunk,</rs>
+                     </l>
+                     <l rend="i0" n="448">"The fine gold net-work
+                           <note type="author" anchored="true" xml:id="N_15">
+                              <p> A great number of stringy fibres seem to stretch out from the
+                                 boughs of the Palm, on each side, which cross one another in such a
+                                 manner, that they take out from between the boughs, a sort of bark
+                                 like close net-work, and this they spin out with the hand, and with
+                                 it make cords of all sizes, which are mostly used in
+                                    <placeName>Egypt</placeName>. They also make of it a sort of
+                                 brush for cloaths. <bibl>
+                                    <author>Pococke</author>.</bibl>
+                              </p>
+                           </note>
+                         growing out</l>
+                     <l rend="i4" n="449">"Loose from its rugged boughs.</l>
+                     <l rend="i0" n="450">"<rs type="image" subtype="nature">Tall as the Cedar of
+                           the mountain, here</rs>
+                     </l>
+                     <l rend="i0" n="451">"<rs type="image" subtype="nature">Rose the gold branches,
+                           hung with emerald leaves,</rs>
+                     </l>
+                     <l rend="i0" n="452">
+                        <rs type="image" subtype="nature">"Blossomed with pearls, and rich with ruby
+                           fruit,</rs>
+                     </l>
+
+                     <l rend="i0" n="453">"O <placeName ana="rel">Ad</placeName>! my country! evil was the
+                        day</l>
+                     <l rend="i4" n="454">"That thy unhappy sons</l>
+                     <l rend="i4" n="455">"Crouched at <rs type="building" subtype="palace">this
+                              <persName>Nimrod</persName>'s throne</rs>,
+                           <note type="author" anchored="true" xml:id="N_16">
+                              <p>
+                                 <persName>Shedad</persName> was the first King of the
+                                    <orgName>Adites</orgName>. I have ornamented his <rs type="building" subtype="palace">palace</rs> less profusely than
+                                    <bibl>the oriental writers who describe it</bibl>. In the notes
+                                 to the <bibl>
+                                    <hi rend="italic">Bahar-Danush</hi>
+                                 </bibl> is the following account of its magnificence from the <bibl>
+                                    <hi rend="italic">Tofet al Mujalis</hi>
+                                 </bibl>. </p>
+                              <p>
+                                 <rs type="building" subtype="palace">
+                                    <geogFeat>A pleasant and elevated spot</geogFeat> being fixed
+                                    upon, <persName ref="Shedad">Shuddaud</persName> dispatched
+                                       <orgName>an hundred chiefs</orgName> to collect
+                                       <orgName>skilful artists and workmen from all
+                                       countries</orgName>. He also commanded the <orgName>monarchs
+                                       of <placeName>Syria</placeName> and
+                                          <placeName>Ormus</placeName>
+                                    </orgName> to send him all their <rs type="wealth">jewels and
+                                       precious stones. Forty camel loads of gold, silver, and
+                                       jewels</rs>, were daily used in the building, which contained
+                                    a thousand spacious quadrangles of many thousand rooms. <rs type="earthworks" subtype="garden">In the areas were <rs type="image" subtype="nature">artificial trees of gold and
+                                          silver, whose leaves were emeralds, and fruit clusters of
+                                          pearls and jewels</rs>. The ground was strewed with
+                                       ambergris, musk, and saffron. Between every two of the
+                                       artificial trees was planted one of delicious fruit.</rs>
+                                    This romantic abode took up <time>five hundred years</time> in
+                                    the completion.</rs> When finished, <persName ref="Shedad">Shuddaud</persName> marched to view it; and, when arrived near,
+                                 divided <orgName>two hundred thousand youthful slaves</orgName>,
+                                 whom he had brought with him from <placeName>Damascus</placeName>,
+                                 into four detachments, which were stationed in cantonments prepared
+                                 for their reception on each side of the <rs type="earthworks" subtype="garden">garden</rs>, towards which he proceeded with
+                                 his favourite courtiers. Suddenly was heard in the air a voice like
+                                 thunder, and <persName ref="Shedad">Shuddaud</persName> looking up,
+                                 beheld a personage of majestic figure and stern aspect, who said,
+                                 "I am the <persName type="meta">Angel of Death</persName>,
+                                 commissioned to seize thy impure soul." </p>
+                              <p>
+                                 <persName ref="Shedad">Shuddaud</persName> exclaimed, "give me
+                                 leisure to enter the <rs type="earthworks" subtype="garden">garden</rs>," and was descending from his horse, when the
+                                 seizer of life snatched away his impure spirit, and he fell dead
+                                 upon the ground. At the same time lightnings flashed and destroyed
+                                    <orgName>the whole army of <rs type="person" ref="Shedad">the
+                                       infidel</rs>
+                                 </orgName>; and <rs type="metaplace" subtype="garden" ref="Irem_removed">
+                                    <placeName ref="Irem">the rose garden of Irim</placeName> became
+                                    concealed from the sight of man.</rs>
+                              </p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i0" n="456">"And placed <rs type="person" ref="Shedad">him</rs> on the
+                        pedestal of power,</l>
+
+                     <l rend="i0" n="457"> "And laid their liberties beneath his feet, </l>
+                     <l rend="i0" n="458"> "Robbing their children of the heritance </l>
+                     <l rend="i4" n="459"> "Their fathers handed down. </l>
+
+                     <l rend="i2" n="460">"What was to <rs type="person" ref="Shedad">him</rs>
+                        <rs type="wealth">the squandered wealth</rs>?</l>
+                     <l rend="i0" n="461">"What was to <rs type="person" ref="Shedad">him</rs> the
+                        burthen of the land,</l>
+                     <l rend="i4" n="462">"The lavished misery?</l>
+                     <l rend="i4" n="463">"<rs type="person" ref="Shedad">He</rs> did but speak his
+                        will,</l>
+
+                     <l rend="i0" n="464">"And like <name type="elemental">the blasting Siroc of
+                              <placeName ref="the_East" ana="ana">the East</placeName>
+                        </name> ,</l>
+                     <l rend="i2" n="465"> "The ruin of the royal voice </l>
+                     <l rend="i4" n="466"> "Found its way every-where. </l>
+
+                     <l rend="i2" n="467">"<rs type="person" ref="Aswad">I</rs> marvel not that he,
+                        whose power</l>
+                     <l rend="i0" n="468">"No earthly law, no human feeling curbed,</l>
+                     <l rend="i4" n="469">"Mocked at <name type="divin">the living God</name>!</l>
+                  </lg>
+                  <lg xml:id="B1_lg36">
+                     <l rend="i2" n="470">"And now <persName ref="Shedad">the King</persName>'s
+                        command went forth</l>
+                     <l rend="i0" n="471">"Among the people, bidding old and young,</l>
+                     <l rend="i0" n="472">"Husband and wife, the master and the slave,</l>
+                     <l rend="i0" n="473">"<orgName>All the collected multitudes of
+                              <placeName ana="rel">Ad</placeName>
+                        </orgName>,</l>
+                     <l rend="i0" n="474">"Here to repair, and hold high festival,</l>
+                     <l rend="i0" n="475">"That he might see his people, they behold</l>
+                     <l rend="i2" n="476">"Their King's magnificence and power.</l>
+                     <l rend="i2" n="477">"The day of festival arrived,</l>
+                     <l rend="i0" n="478">"Hither they came, the old man and the boy,</l>
+                     <l rend="i0" n="479">"Husband and wife, the master and the slave,</l>
+                     <l rend="i0" n="480">"Hither they came. From yonder high tower top,</l>
+                     <l rend="i0" n="481">"The loftiest of the Palace, <persName>Shedad</persName>
+                        looked</l>
+                     <l rend="i0" n="482">"Down on <orgName>his tribe</orgName>: their tents on
+                        yonder sands</l>
+                     <l rend="i0" n="483">"Rose like <geogFeat>the countless billows of the
+                           sea</geogFeat>.</l>
+                     <l rend="i0" n="484">"Their tread and voices like <placeName ref="Ocean" ana="ana">the
+                           ocean</placeName> roar,</l>
+                     <l rend="i0" n="485">"One deep confusion of tumultuous sounds.</l>
+                     <l rend="i0" n="486">"They saw their <rs type="person" ref="Shedad">King</rs>'s
+                        magnificence; beheld</l>
+                     <l rend="i0" n="487">"<rs type="building" subtype="palace">His Palace sparkling
+                           like the Angel domes </rs>
+                     </l>
+                     <l rend="i0" n="488">"<rs type="metaplace" subtype="divin" ref="Paradise" ana="ana">Of
+                           Paradise</rs>; <rs type="earthworks" subtype="garden">his garden</rs>
+                        like <rs type="metaplace" subtype="garden" ref="Eden">the bowers</rs>
+                     </l>
+                     <l rend="i0" n="489">"<rs type="metaplace" subtype="garden" ref="Eden" ana="ana">Of early
+                           Eden</rs>, and they shouted out</l>
+                     <l rend="i0" n="490">"Great is the <persName ref="Shedad">King</persName>, <rs type="religion" subtype="idol">a<name type="divin">God</name>upon
+                              <placeName ref="the_world" ana="rel">the earth</placeName>
+                        </rs>!</l>
+                  </lg>
+                  <lg xml:id="B1_lg37">
+                     <l rend="i2" n="491">"Intoxicate with joy and pride</l>
+                     <l rend="i4" n="492">"<rs type="person" ref="Shedad">He</rs> heard <rs type="religion" subtype="idol">their blasphemies</rs>,</l>
+                     <l rend="i0" n="493">"And in his wantonness of heart he bade</l>
+                     <l rend="i4" n="494">"The <persName>Prophet Houd</persName> be brought,</l>
+                     <l rend="i4" n="495">"And o'er <rs type="building" subtype="palace">the marble
+                           courts</rs>,</l>
+                     <l rend="i4" n="496">"And o'er <rs type="building" subtype="palace">the
+                           gorgeous rooms</rs>
+                     </l>
+                     <l rend="i4" n="497">"<rs type="building" subtype="palace">Glittering with <rs type="wealth">gems and gold</rs>,</rs>
+                     </l>
+                     <l rend="i4" n="498">"He led <rs type="person" ref="Houd">the Man of
+                        God</rs>.</l>
+                     <l rend="i2" n="499">"Is not this <rs type="building" subtype="palace">a
+                           stately pile</rs>?"</l>
+                     <l rend="i2" n="500">"Cried <persName ref="Shedad">the Monarch</persName> in
+                        his joy.</l>
+                     <l rend="i4" n="501">"Hath ever eye beheld,</l>
+                     <l rend="i4" n="502">"Hath ever thought conceived,</l>
+                     <l rend="i4" n="503">"Place more magnificent?</l>
+                     <l rend="i2" n="504">"<persName>Houd</persName>, they saw that Heaven
+                        imparted</l>
+                     <l rend="i2" n="505">"To thy lips the words of wisdom!</l>
+                     <l rend="i4" n="506">"<rs type="wealth">Look at the riches round</rs>
+                     </l>
+                     <l rend="i4" n="507">"<rs type="wealth">And value them aright</rs>,</l>
+                     <l rend="i4" n="508">"If so thy wisdom can."</l>
+                  </lg>
+                  <lg xml:id="B1_lg38">
+                     <l rend="i4" n="509">"<persName ref="Houd">The Prophet</persName> heard his
+                        vaunt</l>
+                     <l rend="i2" n="510">"And answered with an aweful smile,</l>
+                     <l rend="i4" n="511">
+                        <rs type="building" subtype="palace">"Costly thy palace</rs>
+                        <persName ref="Shedad">King</persName>!</l>
+                     <l rend="i2" n="512">"But only in the hour
+                           <note type="author" anchored="true" xml:id="N_17">
+                              <p>
+                                 <bibl>
+                                    <author>Lamai</author>
+                                 </bibl> relates that <rs type="building" subtype="palace">a great
+                                    Monarch, whom he does not name, having erected a superb Palace,
+                                    wished to show it to every man of talents and taste in the city;
+                                    he therefore invited them to a banquet, and after the repast was
+                                    finished asked them if they knew any building more magnificent
+                                    and more perfect, in the architecture, in the ornaments and in
+                                    the furniture.</rs> All the guests contented themselves with
+                                 expressing their admiration, and lavishing praise, except one, who
+                                 led a retired and austere life, and was one of those persons whom
+                                    <orgName>the Arabians</orgName> call <persName>Zahed</persName>. </p>
+                              <p> This man spoke very freely to the Prince and said to him, <rs type="building" subtype="palace">I find a great defect in this
+                                    building, it is, that the foundation is not good, nor the walls
+                                    sufficiently strong, so that <persName type="meta">Azrael</persName> can enter on every side, and the <name type="elemental">Sarsar</name> can easily pass thro'. And
+                                    when they showed him the walls of the Palace ornamented with
+                                    azure and gold, of which the marvellous workmanship surpassed in
+                                    costliness the richness of the materials, he replied, there is
+                                    still a great inconvenience here! it is that we can never
+                                    estimate these works well, till we are laid backwards.</rs>
+                                 Signifying by these words that we never understand these things
+                                 rightly, till we are upon our death-bed, when we discover their
+                                 vanity. <bibl>
+                                    <author>D'Herbelot</author>.</bibl>
+                              </p>
+                           </note>
+                         of death</l>
+                     <l rend="i0" n="513">"Man learns to value things like these aright.</l>
+                  </lg>
+                  <lg xml:id="B1_lg39">
+                     <l rend="i4" n="514">"Hast thou a fault to find</l>
+                     <l rend="i4" n="515">"In all thine eyes have seen?</l>
+                     <l rend="i4" n="516">"Again the <persName ref="Shedad">King</persName>
+                        exclaimed.</l>
+                     <l rend="i4" n="517">"Yes!" said <rs type="person" ref="Houd">the man of
+                           God</rs>;</l>
+                     <l rend="i0" n="518">"The walls are weak, the building ill secured.</l>
+                     <l rend="i4" n="519">"<persName type="meta">Azrael</persName> can enter in!</l>
+                     <l rend="i4" n="520">"The <name type="elemental">Sarsar</name> can pierce
+                        thro',</l>
+                     <l rend="i4" n="521">"<name type="elemental" ref="Sarsar">The Icy Wind of
+                           Death</name>.</l>
+                  </lg>
+                  <lg xml:id="B1_lg40">
+                     <l rend="i0" n="522">"I was beside the <persName ref="Shedad">Monarch</persName> when he spake....</l>
+                     <l rend="i4" n="523">"Gentle the <persName ref="Houd">Prophet</persName>
+                        spake,</l>
+                     <l rend="i4" n="524">"But in his eye there dwelt</l>
+                     <l rend="i0" n="525">"A sorrow that disturbed me while I gazed,</l>
+                     <l rend="i2" n="526">"The countenance of <persName>Shedad</persName> fell,</l>
+                     <l rend="i0" n="527">"And anger sate upon his paler lips.</l>
+                     <l rend="i0" n="528">"He to the high tower top the <persName ref="Houd">Prophet</persName> led,</l>
+                     <l rend="i2" n="529">"And pointed to <orgName ref="Adites">the
+                           multitude</orgName>,</l>
+                     <l rend="i2" n="530">"And as again they shouted out</l>
+                     <l rend="i0" n="531">"Great is <persName ref="Shedad">the King</persName>! <rs type="religion" subtype="idol">a<name type="divin">God</name>
+                           <placeName ref="the_world" ana="rel">upon the Earth</placeName>!</rs>"</l>
+                     <l rend="i2" n="532">"Turned with a threatful smile to
+                           <persName>Houd</persName>,</l>
+                     <l rend="i0" n="533">"Say they aright, O <persName ref="Houd">Prophet</persName>? is the <persName ref="Shedad">King</persName>
+                     </l>
+                     <l rend="i0" n="534">"Great upon <placeName ref="the_world" ana="rel">earth</placeName>,
+                           <rs type="religion" subtype="idol">a<name type="divin">God</name>among
+                           mankind</rs>?"</l>
+                     <l rend="i4" n="535">"The <persName ref="Houd">Prophet</persName> answered
+                        not,</l>
+                     <l rend="i0" n="536">"His eye rolled round <orgName ref="Adites">the infinite
+                           multitude</orgName>,</l>
+                     <l rend="i4" n="537">"And into tears <rs type="person" ref="Houd">he</rs>
+                        burst.</l>
+                  </lg>
+                  <lg xml:id="B1_lg41">
+                     <l rend="i4" n="538">"Sudden an uproar rose,</l>
+                     <l rend="i4" n="539">"A cry of joy below,</l>
+                     <l rend="i4" n="540">"The <persName ref="Kail">Messenger</persName> is
+                        come!</l>
+                     <l rend="i4" n="541">"<persName>Kail</persName> from
+                           <placeName ana="rel">Mecca</placeName> comes,</l>
+                     <l rend="i4" n="542">"He brings the boon obtained!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg42">
+                     <l rend="i0" n="543">"Forth as we went we saw where overhead</l>
+                     <l rend="i4" n="544">"There hung a deep black cloud,</l>
+                     <l rend="i4" n="545">"On which the multitude</l>
+                     <l rend="i4" n="546">"With joyful eyes looked up</l>
+                     <l rend="i4" n="547">"And blest the coming rain.</l>
+                     <l rend="i2" n="548">"The <persName ref="Kail">Messenger</persName> addrest the
+                           <persName ref="Shedad">King</persName>
+                     </l>
+                     <l rend="i4" n="549">"And told his tale of joy.</l>
+                  </lg>
+                  <lg xml:id="B1_lg43">
+                     <l rend="i4" n="550">"To <placeName ana="rel">Mecca</placeName> I repaired,</l>
+                     <!--TO HERE 2015-01-11. ebb: added @ana tags to mark kinds of places in the body of the poem -->
+                     <l rend="i4" n="551">"By the <placeName ref="Red_Hillock" ana="rel">Red
+                           Hillock</placeName> knelt</l>
+                     <l rend="i4" n="552">"And called on<name type="divin">God</name>for rain.</l>
+                     <l rend="i2" n="553">"My prayer ascended and was heard;</l>
+                     <l rend="i4" n="554">"Three clouds appeared in <rs type="metaplace" subtype="celest" ref="sky" ana="rel">heaven</rs>.</l>
+                     <l rend="i0" n="555">"One white, and like the flying cloud of noon,</l>
+                     <l rend="i0" n="556">"One red as it had drunk the evening beams,</l>
+                     <l rend="i0" n="557">"One black and heavy with its load of rain.</l>
+                     <l rend="i4" n="558">"A voice went forth from <rs type="metaplace" subtype="divin" ref="Heaven" ana="rel">heaven</rs>
+                     </l>
+                     <l rend="i4" n="559">"Chuse <persName>Kail</persName> of the three!"</l>
+                     <l rend="i4" n="560">"I thanked <name type="divin">the gracious
+                        Power</name>,</l>
+                     <l rend="i0" n="561">"And chose the black cloud, heavy with its wealth."</l>
+                     <l rend="i2" n="562">"Right! right! a thousand tongues exclaimed,</l>
+                     <l rend="i2" n="563">"And all was merriment and joy.</l>
+                  </lg>
+                  <lg xml:id="B1_lg44">
+                     <l rend="i0" n="564">"Then stood the <persName ref="Houd">Prophet</persName> up
+                        and cried aloud,</l>
+                     <l rend="i2" n="565">"Woe, woe, to <placeName ana="hereNow">Irem</placeName>! woe to
+                           <placeName ana="rel">Ad</placeName>!</l>
+                     <l rend="i0" n="566">"<name type="myth">
+                           <hi rend="smallcap">Death</hi>
+                        </name> is gone up into her palaces!</l>
+                     <l rend="i0" n="567">"Woe! woe! a day of guilt and punishment,</l>
+                     <l rend="i0" n="568">"A day of desolation!"</l>
+                     <l rend="i8" n="569">"As he spake</l>
+                     <l rend="i0" n="570">"His large eye rolled in horror, and so deep</l>
+                     <l rend="i0" n="571">"His tone, it seemed some Spirit from within</l>
+                     <l rend="i0" n="572">"Breathed thro' his moveless lips
+                           <note type="author" anchored="true" xml:id="N_18">
+                              <p> </p>
+                              <q>
+                                 <lg xml:lang="es">
+                                    <l rend="i0">Las horrendas palabras parecian</l>
+                                    <l rend="i0">salir por una trompa resontane,</l>
+                                    <l rend="i0">y que los yertos labios no movian.</l>
+                                 </lg>
+                                 <bibl>
+                                    <author>Lupercio Leonardo</author>.</bibl>
+                              </q>
+                           </note>
+                         the unearthly voice.</l>
+                     <l rend="i0" n="576">"All looks were turned to him. "O
+                           <placeName>Ad</placeName>!" <rs type="person" ref="Houd">he</rs>
+                        cried,</l>
+                     <l rend="i0" n="577">"Dear native land, by all rememberances</l>
+                     <l rend="i0" n="578">"Of childhood, by all joys of manhood dear;</l>
+                     <l rend="i0" n="579">"<placeName ref="Ad">O Vale of many Waters</placeName>!
+                        morn and night</l>
+                     <l rend="i0" n="580">"My age must groan for you, and to the grave</l>
+                     <l rend="i0" n="581">"Go down in sorrow. Thou wilt give thy fruits,</l>
+                     <l rend="i0" n="582">"But who shall gather them? thy grapes will ripen,</l>
+                     <l rend="i0" n="583">"But who shall tread the wine-press? Fly the wrath,</l>
+                     <l rend="i0" n="584">"Ye who would live and save your souls alive!</l>
+                     <l rend="i0" n="585">"For <rs type="myth">strong is his right hand that bends
+                           the Bow</rs>,</l>
+                     <l rend="i2" n="586">"The Arrows that he shoots are sharp,</l>
+                     <l rend="i4" n="587">"And err not from their aim!"
+                           <note type="author" anchored="true" xml:id="N_19">
+                              <p>
+                                 <rs type="devastation">Death is come up into our windows, and
+                                    entered into our palaces, to cut off the children from without,
+                                    and the young men from the streets.</rs>
+                                 <bibl>Jeremiah</bibl> IX. 21.</p>
+                              <p> The Trees shall give fruit and who shall gather them? The Grapes
+                                 shall ripen and who shall tread them? for all places shall be
+                                 desolate of men. <bibl>2. <author>
+                                       <hi rend="italic">Esdras</hi>
+                                    </author>. XVI. 25.</bibl>
+                              </p>
+                              <p>
+                                 <rs type="devastation">For strong is <rs type="myth">his right hand
+                                       that bendeth the Bow</rs>, his arrows that he shooteth are
+                                    sharp, and shall not miss when they begin to be shot into
+                                       <placeName ref="the_world">the ends of the
+                                    world</placeName>.</rs> 2. <bibl>
+                                    <author>
+                                       <hi rend="italic">Esdras</hi>
+                                    </author>. XVI. 13.</bibl>
+                              </p>
+                           </note>
+                        
+                     </l>
+                  </lg>
+                  <lg xml:id="B1_lg46">
+                     <l rend="i4" n="588">"With that, a faithful few</l>
+                     <l rend="i0" n="589">"Prest thro' the throng to join him. Then arose</l>
+                     <l rend="i0" n="590">"Mockery and mirth; "go <rs type="person" ref="Houd">bald
+                           head</rs>!" and they mixed</l>
+                     <l rend="i0" n="591">"Curses with laughter. He set forth, yet once</l>
+                     <l rend="i0" n="592">"Looked back,—his eye fell on <rs type="person" ref="Aswad">me</rs>, and <rs type="person" ref="Houd">he</rs> called</l>
+                     <l rend="i0" n="593">"<persName>Aswad</persName>!"... it startled me,... it
+                        terrified,...</l>
+                     <l rend="i0" n="594">"<persName>Aswad</persName>!" again he called,... and <rs type="person" ref="Aswad">I</rs> almost</l>
+                     <l rend="i0" n="595">"Had followed him. O moment fled too soon!</l>
+                     <l rend="i0" n="596">"O moment irrecoverably lost!</l>
+                     <l rend="i0" n="597">"The shouts of mockery made a coward of me;</l>
+                     <l rend="i0" n="598">"He went, and I remained, in fear of <hi rend="smallcap">Man</hi>!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg47">
+                     <l rend="i4" n="599">"He went, and darker grew</l>
+                     <l rend="i4" n="600">"The deepening cloud above.</l>
+                     <l rend="i0" n="601">"At length it opened, and.... O <name type="divin">God</name>! O <name type="divin">God</name>!</l>
+                     <l rend="i4" n="602">"There were no waters there!</l>
+                     <l rend="i4" n="603">"There fell no kindly rain!</l>
+                     <l rend="i2" n="604">"<name type="elemental">The Sarsar</name> from <rs type="metaplace" subtype="celest" ref="Sarsar_source" ana="rel">its womb</rs> went
+                           forth,
+                     </l>
+                     <l rend="i4" n="605">"<name type="elemental" ref="Sarsar">The Icy Wind of
+                           Death.</name>"</l>
+                  </lg>
+                  <lg xml:id="B1_lg48">
+                     <l rend="i0" n="606">
+                        <rs type="devastation">"They fell around me, thousands fell around,</rs>
+                     </l>
+                     <l rend="i2" n="607">"The <persName ref="Shedad">King</persName> and
+                           <orgName>all his People</orgName> fell.</l>
+                     <l rend="i4" n="608">"All! all! they perished all!</l>
+                     <l rend="i4" n="609">"<rs type="person" ref="Aswad">I ... only I</rs> ... was
+                        left.</l>
+                     <l rend="i2" n="610">"There came <name type="divin">a Voice</name> to me and
+                        said,</l>
+                     <l rend="i2" n="611">"In <time>the Day of Visitation</time>,</l>
+                     <l rend="i2" n="612">"In <time>the fearful Hour of Judgement</time>,</l>
+                     <l rend="i4" n="613">"<name type="divin">God</name> hath remembered <rs type="person" ref="Aswad">thee</rs>."</l>
+                  </lg>
+                  <lg xml:id="B1_lg49">
+                     <l rend="i0" n="614">"When from <rs type="religion" subtype="Islam">an agony of
+                           prayer</rs>
+                        <rs type="person" ref="Aswad">I</rs> rose</l>
+                     <l rend="i4" n="615">"And from <rs type="devastation">the scene of death</rs>
+                     </l>
+                     <l rend="i4" n="616">"Attempted to go forth,</l>
+                     <l rend="i2" n="617">"The way was open, <rs type="person" ref="Aswad">I</rs>
+                        beheld</l>
+                     <l rend="i4" n="618">"No barrier to my steps.</l>
+                     <l rend="i2" n="619">"But <rs type="earthworks" subtype="garden">round <rs type="place" ref="Irem" ana="hereNow">these bowers</rs>
+                        </rs> the Arm of<name type="divin">God</name>
+                     </l>
+
+                     <l rend="i4" n="620"> "Had drawn <rs type="metaplace"
+                      subtype="barrier"
+                      ref="Irem_removed"
+                      ana="hereNow">a mighty chain</rs>,</l>
+                     <l rend="i0" n="621"> "<rs type="metaplace"
+                      subtype="barrier"
+                      ref="Irem_removed"
+                      ana="hereNow">A barrier</rs> that no human force might break. </l>
+
+                     <l rend="i4" n="622">"Twice <rs type="person" ref="Aswad">I</rs> essayed to
+                        pass.</l>
+                     <l rend="i4" n="623">"With that <name type="divin">the voice</name> was
+                        heard,</l>
+                     <l rend="i0" n="624">"O <persName>Aswad</persName> be content, and bless <name type="divin">the Lord</name>!</l>
+                  </lg>
+                  <lg xml:id="B1_lg50">
+                     <l rend="i4" n="625">"One righteous deed hath saved</l>
+                     <l rend="i4" n="626">"Thy soul from utter death.</l>
+                     <l rend="i4" n="627">"O <persName>Aswad</persName>, sinful man!</l>
+                     <l rend="i4" n="628">"When by long penitence</l>
+                     <l rend="i4" n="629">"Thou feelest thy soul prepared,</l>
+                     <l rend="i4" n="630">"Breathe up the wish to die,</l>
+                     <l rend="i0" n="631">"And <persName type="meta">Azrael</persName> comes,
+                        obedient to the prayer."</l>
+                  </lg>
+                  <lg xml:id="B1_lg51">
+                     <l rend="i4" n="632">"A miserable man</l>
+                     <l rend="i4" n="633">"From <placeName ref="the_world" ana="rel">Earth</placeName> and <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs> shut out,</l>
+                     <l rend="i4" n="634">"<rs type="person" ref="Aswad">I</rs> heard the dreadful
+                        voice.</l>
+                     <l rend="i2" n="635">"<rs type="person" ref="Aswad">I</rs> looked around <rs type="metaplace"
+                      subtype="barrier"
+                      ref="Irem_removed"
+                      ana="hereNow">my prison
+                           place</rs>,</l>
+                     <l rend="i2" n="636">"<orgName ref="Adites">The bodies of the dead</orgName>
+                        were there,</l>
+                     <l rend="i4" n="637">"Where'er <rs type="person" ref="Aswad">I</rs> looked they
+                        lay.</l>
+                     <l rend="i4" n="638">"They mouldered, mouldered here,...</l>
+                     <l rend="i0" n="639">"Their very bones have crumbled into dust,</l>
+                     <l rend="i4" n="640">"<time>So many years have past!</time>
+                     </l>
+                     <l rend="i0" n="641">"<time>So many weary ages have gone by!</time>
+                     </l>
+                     <l rend="i4" n="642">"And still <rs type="person" ref="Aswad">I</rs> linger
+                        here!</l>
+                     <l rend="i0" n="643">"Still groaning with the burthen of my sins</l>
+                     <l rend="i4" n="644">"Have never dared to breathe</l>
+                     <l rend="i4" n="645">"The prayer to be released."</l>
+                  </lg>
+
+                  <lg xml:id="B1_lg52">
+                     <l rend="i0" n="646">"Oh! who can tell the unspeakable misery</l>
+                     <l rend="i4" n="647">"Of solitude like this!</l>
+                     <l rend="i2" n="648"> "No sound hath ever reached my ear </l>
+                     <l rend="i4" n="649"> "Save of the passing wind.... </l>
+                     <l rend="i2" n="650"> "The fountain's everlasting flow; </l>
+                     <l rend="i4" n="651"> "The forest in the gale, </l>
+                     <l rend="i4" n="652"> "The pattering of the shower, </l>
+                     <l rend="i4" n="653"> "Sounds dead and mournful all. </l>
+                     <l rend="i2" n="654"> "No bird hath ever closed her wing </l>
+                     <l rend="i2" n="655"> "Upon <rs type="metaplace"
+                      subtype="barrier"
+                      ref="Irem_removed"
+                      ana="hereNow">these solitary bowers</rs>, </l>
+                     <l rend="i0" n="656"> "No insect sweetly buzzed amid these groves, </l>
+                     <l rend="i4" n="657"> "From all things that have life, </l>
+                     <l rend="i4" n="658"> "Save only me, concealed. </l>
+                     <l rend="i2" n="659"> "This Tree alone that o'er my head </l>
+                     <l rend="i2" n="660"> "Hangs, down its hospitable boughs, </l>
+                     <l rend="i4" n="661"> "And bends its whispering leaves </l>
+                     <l rend="i4" n="662"> "As tho' to welcome me, </l>
+                     <l rend="i4" n="663"> "Seems to partake
+                           <note type="author" anchored="true" xml:id="N_20">
+                              <p> There are <rs type="science" subtype="botany">several trees or
+                                    shrubs of the genus Mimosa</rs>. One of these trees drops its
+                                 branches whenever any person approaches it, seeming as if it
+                                 saluted those who retire under its shade, this mute hospitality has
+                                 so endeared this tree to the <orgName>Arabians</orgName> that the
+                                 injuring or cutting of it down is strictly prohibited. <bibl>
+                                    <author>
+                                       <hi rend="italic">Niebuhr</hi>
+                                    </author>.</bibl>
+                              </p>
+                           </note>
+                         of life; </l>
+                     <l rend="i0" n="664">"<rs type="person" ref="Aswad">I</rs> love it as my
+                        friend, my only friend!</l>
+                  </lg>
+
+                  <lg xml:id="B1_lg53">
+                     <l rend="i0" n="665">"<time>
+                           <rs type="person" ref="Aswad">I</rs> know not for what ages I have
+                           dragged</time>
+                     </l>
+                     <l rend="i4" n="666">"This miserable life,</l>
+                     <l rend="i4" n="667">
+                        <time>"How often I have seen</time>
+                     </l>
+                     <l rend="i4" n="668">
+                        <time>"<rs type="metaplace"
+                         subtype="barrier"
+                         ref="Irem_removed"
+                         ana="hereNow">These
+                              antient trees</rs> renewed</time>,</l>
+                     <l rend="i0" n="669">
+                        <time>"What countless generations of mankind</time>
+                     </l>
+                     <l rend="i4" n="670">
+                        <time>"Have risen and fallen asleep,</time>
+                     </l>
+
+                     <l rend="i4" n="671"> "And <rs type="person" ref="Aswad">I</rs> remain the
+                        same! </l>
+                     <l rend="i2" n="672"> "My garment hath not waxed old, </l>
+                     <l rend="i2" n="673"> "Nor the sole of my shoe hath worn. </l>
+
+                  </lg>
+                  <lg xml:id="B1_lg54">
+                     <l rend="i2" n="674">"<rs type="person" ref="Aswad">I</rs> dare not breathe the
+                        prayer to die,</l>
+                     <l rend="i4" n="675">"O <name type="divin">merciful Lord God</name>!...</l>
+                     <l rend="i4" n="676">"But when it is thy will,</l>
+                     <l rend="i4" n="677">"But when <rs type="person" ref="Aswad">I</rs> have
+                        atoned</l>
+                     <l rend="i4" n="678">"For mine iniquities,</l>
+                     <l rend="i4" n="679">"And sufferings have made pure</l>
+                     <l rend="i4" n="680">"My soul with sin defiled,</l>
+                     <l rend="i2" n="681">"Release me in thine own good time,...</l>
+                     <l rend="i0" n="682">"<rs type="person" ref="Aswad">I</rs> will not cease to
+                        praise thee, O <name type="divin">my God</name>!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg55">
+                     <l rend="i4" n="683">Silence ensued awhile,</l>
+                     <l rend="i4" n="684">Then <persName>Zeinab</persName> answered him.</l>
+                     <l rend="i0" n="685">"Blessed art thou, O <persName>Aswad</persName>! for <name type="divin">the Lord</name>
+                     </l>
+                     <l rend="i4" n="686">"Who saved thy soul from <rs type="metaplace" subtype="divin">Hell</rs>,</l>
+                     <l rend="i2" n="687">"Will call thee to him in his own good time.</l>
+                     <l rend="i4" n="688">"And would that when my heart</l>
+                     <l rend="i4" n="689">"Breathed up the wish to die,</l>
+                     <l rend="i4" n="690">"<persName type="meta">Azrael</persName> might visit
+                        me!</l>
+                     <l rend="i0" n="691">"Then would I follow where my babes are gone,</l>
+                     <l rend="i4" n="692">"And join <persName>Hodeirah</persName> now!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg56">
+                     <l rend="i2" n="693">She ceased, and the rushing of wings</l>
+                     <l rend="i2" n="694">Was heard in the stillness of night,</l>
+                     <l rend="i0" n="695">And <persName type="meta">Azrael</persName>, the
+                        Death-Angel stood before them.</l>
+                     <l rend="i4" n="696">His countenance was dark,</l>
+                     <l rend="i4" n="697">Solemn, but not severe,</l>
+                     <l rend="i0" n="698">It awed but struck no terror to the heart.</l>
+                     <l rend="i4" n="699">"<persName>Zeinab</persName>, thy wish is heard!</l>
+                     <l rend="i4" n="700">"<persName>Aswad</persName>, thy hour is come!"</l>
+                     <l rend="i0" n="701">They fell upon the ground and blest the voice,</l>
+                     <l rend="i4" n="702">And <persName type="meta">Azrael</persName> from his
+                        sword</l>
+                     <l rend="i0" n="703">Let drop
+                           <note type="author" anchored="true" xml:id="N_21">
+                              <p> The <persName type="meta" ref="Azrael">Angel of Death</persName>,
+                                 say <orgName>the Rabbis</orgName>, holdeth his sword in his hand at
+                                 the bed's head, having on the end thereof three drops of gall, the
+                                 sick man spying this deadly Angel, openeth his mouth with fear and
+                                 then those drops fall in, of which one killeth him, the second
+                                 maketh him pale, the third rotteth and putrifieth. <bibl>
+                                    <author>
+                                       <hi rend="italic">Purchas</hi>
+                                    </author>.</bibl>
+                              </p>
+                              <p> Possibly the expression to taste the bitterness of death, may
+                                 refer to this.</p>
+                           </note>
+                         the drops of bitterness and death.</l>
+                  </lg>
+                  <lg xml:id="B1_lg57">
+                     <l rend="i0" n="704">"Me too! me too!" young <persName>Thalaba</persName>
+                        exclaimed:</l>
+                     <l rend="i4" n="705">As wild with grief he kissed</l>
+                     <l rend="i4" n="706">
+                        <rs type="person" ref="Zeinab">His Mother</rs>'s livid hand,</l>
+                     <l rend="i4" n="707">
+                        <rs type="person" ref="Zeinab">His Mother</rs>'s quivering lips,</l>
+                     <l rend="i4" n="708">"O <persName type="meta" ref="Azrael">Angel</persName>!
+                        take me too!</l>
+                  </lg>
+                  <lg xml:id="B1_lg58">
+                     <l rend="i0" n="709">"<persName ref="Thalaba">Son of
+                              <persName>Hodeirah</persName>
+                        </persName>!" the <persName type="meta" ref="Azrael">Death-Angel</persName>
+                        cried,</l>
+                     <l rend="i4" n="710">
+                        <time>"It is not yet the hour.</time>
+                     </l>
+                     <l rend="i0" n="711">"<persName ref="Thalaba">Son of
+                              <persName>Hodeirah</persName>
+                        </persName>, thou art chosen forth</l>
+                     <l rend="i4" n="712">"To do the will of Heaven;</l>
+                     <l rend="i4" n="713">"To avenge <rs type="person" ref="Hodeirah">thy
+                           Father</rs>'s death,</l>
+                     <l rend="i4" n="714">"The murder of <orgName>thy race</orgName>,</l>
+                     <l rend="i2" n="715">"To work the mightiest enterprise</l>
+                     <l rend="i4" n="716">"That mortal man hath wrought.</l>
+                     <l rend="i2" n="717">"Live! and remember <name type="myth">Destiny</name>
+                     </l>
+                     <l rend="i4" n="718">"Hath marked thee from mankind!"</l>
+                  </lg>
+                  <lg xml:id="B1_lg59">
+                     <l rend="i4" n="719">
+                        <rs type="person" subtype="meta" ref="Azrael">He</rs> ceased, and he was
+                        gone.</l>
+                     <l rend="i4" n="720">Young <persName>Thalaba</persName> looked round,...</l>
+                     <l rend="i0" n="721">
+                        <rs type="building" subtype="palace">The Palace</rs> and <rs type="earthworks" subtype="garden">the groves</rs> were seen no more,</l>
+                     <l rend="i0" n="722">He stood amid <geogFeat>the Wilderness</geogFeat>,
+                        alone.</l>
+                  </lg>
+               </div>
+      </body>
+   </text>
+</TEI>

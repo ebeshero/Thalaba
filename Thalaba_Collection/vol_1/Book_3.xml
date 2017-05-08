@@ -1,1 +1,2068 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>Thalaba the Destroyer (1801), Volume 1: Book 3</titleStmt></fileDesc></teiHeader><text><front><head><bibl><title level="m">Thalaba the Destroyer</title><title level="a">, Volume 1: Book 3</title> () by <author>Robert Southey</author></bibl></head></front><body/></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801), Volume 1: Book 3</title>
+            <author>Robert Southey</author>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/>
+            </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title>
+               <title level="a">, Volume 1: Book 3</title> (<date>1801</date>) by <author>Robert Southey</author>
+            </bibl>
+         </head>
+      </front>
+      <body>
+         <div type="book" xml:id="Book_3">
+                  <head>THE THIRD BOOK.</head>
+                  <lg xml:id="B3_lg96">
+                     <l rend="i8" n="1144">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg97">
+                     <l rend="i0" n="1145">Oneiza, look! the dead man has a ring,...</l>
+                     <l rend="i0" n="1146">Should it be buried with him?</l>
+                  </lg>
+                  <lg xml:id="B3_lg98">
+                     <l rend="i8" n="1147">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg99">
+                     <l rend="i10" n="1148">Oh yes ... yes!</l>
+                     <l rend="i0" n="1149">A wicked man! all that he has must needs</l>
+                     <l rend="i0" n="1150">Be wicked too!</l>
+                  </lg>
+                  <lg xml:id="B3_lg100">
+                     <l rend="i8" n="1151">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg101">
+                     <l rend="i6" n="1152">But see,... the sparkling stone!</l>
+                     <l rend="i0" n="1153">How it has caught the glory of the Sun,</l>
+                     <l rend="i0" n="1154">And streams it back again in lines of light!</l>
+                  </lg>
+                  <lg xml:id="B3_lg102">
+                     <l rend="i8" n="1155">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg103">
+                     <l rend="i0" n="1156">Why do you take it from him Thalaba?...</l>
+                     <l rend="i0" n="1157">And look at it so near?... it may have charms</l>
+                     <l rend="i0" n="1158">To blind, or poison ... throw it in <rs type="metaplace" subtype="under" ref="Tombs" ana="rel">the grave</rs>!...</l>
+                     <l rend="i0" n="1159">I would not touch it!</l>
+                  </lg>
+                  <lg xml:id="B3_lg104">
+                     <l rend="i8" n="1160">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg105">
+                     <l rend="i8" n="1161">And around its rim</l>
+                     <l rend="i0" n="1162">Strange letters,...</l>
+                  </lg>
+                  <lg xml:id="B3_lg106">
+                     <l rend="i8" n="1163">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg107">
+                     <l rend="i8" n="1164">Bury it.... Oh! bury it!</l>
+                  </lg>
+                  <lg xml:id="B3_lg108">
+                     <l rend="i8" n="1165">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg109">
+                     <l rend="i0" n="1166">It is not written as the <bibl>Koran</bibl> is;</l>
+                     <l rend="i0" n="1167">Some other tongue perchance ... the accursed man</l>
+                     <l rend="i0" n="1168">Said he had been a traveller.</l>
+                  </lg>
+                  <lg xml:id="B3_lg110">
+                     <l rend="i8" n="1169">MOATH.</l>
+                  </lg>
+                  <lg xml:id="B3_lg111">
+                     <l rend="i6" n="1170">
+                        <hi rend="italic">coming from <placeName ref="Isle_of_Palms" ana="hereNow">the tent</placeName>.</hi>
+                     </l>
+                  </lg>
+                  <lg xml:id="B3_lg112">
+                     <l rend="i10" n="1171">Thalaba,</l>
+                     <l rend="i0" n="1172">What hast thou there?</l>
+                  </lg>
+                  <lg xml:id="B3_lg113">
+                     <l rend="i8" n="1173">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg114">
+                     <l rend="i8" n="1174">A ring the dead man wore,</l>
+                     <l rend="i0" n="1175">Perhaps my father, you can read its meaning.</l>
+                  </lg>
+                  <lg xml:id="B3_lg115">
+                     <l rend="i8" n="1176">MOATH.</l>
+                  </lg>
+                  <lg xml:id="B3_lg116">
+                     <l rend="i0" n="1177">No Boy,... the letters are not such as ours.</l>
+                     <l rend="i0" n="1178">Heap the sand over it! a wicked man</l>
+                     <l rend="i0" n="1179">Wears nothing holy.</l>
+                  </lg>
+                  <lg xml:id="B3_lg117">
+                     <l rend="i8" n="1180">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg118">
+                     <l rend="i8" n="1181">Nay! not bury it!</l>
+                     <l rend="i0" n="1182">It may be that some traveller who shall enter</l>
+                     <l rend="i0" n="1183">Our tent, may read them: or if we approach</l>
+                     <l rend="i0" n="1184">Cities where strangers dwell and learned men,</l>
+                     <l rend="i0" n="1185">They may interpret.</l>
+                  </lg>
+                  <lg xml:id="B3_lg119">
+                     <l rend="i8" n="1186">MOATH.</l>
+                  </lg>
+                  <lg xml:id="B3_lg120">
+                     <l rend="i8" n="1187">It were better hid</l>
+                     <l rend="i0" n="1188">Under <rs type="place" ref="desert">the desert
+                        sands</rs>. This wretched man,</l>
+                     <l rend="i0" n="1189">Whom <name type="divin">God</name>hath smitten in the very
+                        purpose</l>
+                     <l rend="i0" n="1190">And impulse of his unpermitted crime,</l>
+                     <l rend="i0" n="1191">Belike was some Magician, and these lines</l>
+                     <l rend="i0" n="1192">Are of the language that the Demons use.</l>
+                  </lg>
+                  <lg xml:id="B3_lg121">
+                     <l rend="i8" n="1193">ONEIZA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg122">
+                     <l rend="i0" n="1194">Bury it! bury it ... dear Thalaba!</l>
+                  </lg>
+                  <lg xml:id="B3_lg123">
+                     <l rend="i8" n="1195">MOATH.</l>
+                  </lg>
+                  <lg xml:id="B3_lg124">
+                     <l rend="i0" n="1196">Such cursed men there are upon <rs type="place" ref="Earth_planet" ana="rel">the earth</rs>,</l>
+                     <l rend="i0" n="1197">In league and treaty with the Evil powers,</l>
+                     <l rend="i0" n="1198">The covenanted enemies of<name type="divin">God</name>
+                     </l>
+                     <l rend="i0" n="1199">And of all good, dear purchase have they made</l>
+                     <l rend="i0" n="1200">Of rule, and riches, and their life-long sway,</l>
+                     <l rend="i0" n="1201">Masters, yet slaves of <rs type="metaplace" subtype="divin" ana="rel">Hell</rs>. <rs type="metaplace" subtype="under" ref="Under_Ocean" ana="rel">Beneath the Roots</rs>
+                     </l>
+                     <l rend="i0" n="1202">Of Ocean, <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">the Domdaniel caverns</rs> lie:</l>
+                     <l rend="i0" n="1203">Their impious meeting; there they learn the words</l>
+                     <l rend="i0" n="1204">Unutterable by man who holds his hope</l>
+                     <l rend="i0" n="1205">Of <rs type="metaplace" subtype="divin">Heaven</rs>, there brood the Pestilence, and let</l>
+                     <l rend="i0" n="1206">The Earthquake loose.</l>
+                  </lg>
+                  <lg xml:id="B3_lg125">
+                     <l rend="i8" n="1207">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg126">
+                     <l rend="i6" n="1208"> And he who would have killed me</l>
+                     <l rend="i0" n="1209">Was one of these?</l>
+                  </lg>
+                  <lg xml:id="B3_lg127">
+                     <l rend="i8" n="1210">MOATH.</l>
+                  </lg>
+                  <lg xml:id="B3_lg128">
+                     <l rend="i6" n="1211">I know not, but it may be</l>
+                     <l rend="i0" n="1212">That on the Table of Destiny, thy name</l>
+                     <l rend="i0" n="1213">Is written their Destroyer, and for this</l>
+                     <l rend="i0" n="1214">Thy life by yonder miserable man</l>
+                     <l rend="i0" n="1215">So sought; so saved by interfering <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs>.</l>
+                  </lg>
+                  <lg xml:id="B3_lg129">
+                     <l rend="i8" n="1216">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg130">
+                     <l rend="i0" n="1217">His ring has some strange power then?</l>
+                  </lg>
+                  <lg xml:id="B3_lg131">
+                     <l rend="i8" n="1218">MOATH.</l>
+                  </lg>
+                  <lg xml:id="B3_lg132">
+                     <l rend="i13" n="1219">Every gem,
+                           <note type="author" anchored="true" xml:id="N_36">
+                              <p> From the <hi rend="italic">Mirror of Stones</hi> I extract a few
+                                 specimens of the absurd ideas once prevalent respecting precious
+                                 stones. </p>
+                              <p>
+                                 <rs type="art" subtype="gem">The <hi rend="italic">Amethyst</hi>
+                                    drives away drunkenness; for being bound on the navel, it
+                                    restrains the vapour of the wine, and so disolves the ebriety.
+                                 </rs>
+                           </p>
+                              <p>
+                                 <rs type="art" subtype="gem">
+                                 <hi rend="italic">Alectoria</hi> is a
+                                    stone of a christalline colour, a little darkish, somewhat
+                                    resembling limpid water; and sometimes it has veins of the
+                                    colour of flesh. Some call it <hi rend="italic">Gallinaceus</hi>, from the place of its generation, the
+                                    intestines of capons, which were castrated at three years old,
+                                    and had lived seven, before which time the stone ought not to be
+                                    taken out, for the older it is, so much the better. When the
+                                    stone is become perfect in the Capon, he do'nt drink. However
+                                    tis never found bigger than a large bean. The virtue of this
+                                    stone is to render him who carries it invisible, being held in
+                                    the mouth it allays thirst, and therefore is proper for
+                                    wrestlers; makes a woman agreable to her husband; bestows honors
+                                    and preserves those already acquired; it frees such as are
+                                    bewitched; it renders a man eloquent, constant, agreable and
+                                    amiable; it helps to regain a lost Kingdom, and acquire a
+                                    foreign one.</rs>
+                              </p>
+                              <p>
+                                 <rs type="art" subtype="gem">
+                                 <rs type="science" subtype="phys">
+                                    <hi rend="italic">Borax</hi>, <hi rend="italic">Nos a</hi>,
+                                          <hi rend="italic">Crapondinus</hi>, are names of the same
+                                       stone, which is extracted from a toad. There are two species;
+                                       that which is the best is rarely found; the other is black or
+                                       dun with a cerluean glow, having in the middle the similitude
+                                       of an eye, and must be taken out while the dead toad is yet
+                                       panting, and these are better than those which are extracted
+                                       from it after a long continuance in the ground. They have a
+                                       wonderful efficacy in poisons. For whoever has taken poison,
+                                       let him swallow this; which being down, rolls about the
+                                       bowels, and drives out every poisonous quality that is lodged
+                                       in the intestines, and then passes thro' the fundament, and
+                                       is preserved.</rs>
+                              </rs>
+                              </p>
+                              <p>
+                                 <rs type="art" subtype="gem">
+                                 <hi rend="italic">Corvia</hi> or <hi rend="italic">Corvina</hi>, is a Stone of a reddish colour,
+                                    and accounted artificial. On the calends of April boil the eggs
+                                    taken out of a Crow's nest till they are hard: and being cold
+                                    let them be placed in the nest as they were before. When the
+                                    crow knows this, she flies a long way to find the stone, and
+                                    having found it returns to the nest, and the eggs being touched
+                                    with it, they become fresh and prolific, the Stone must
+                                    immediately be snatched out of the nest, its virtue is to
+                                    increase riches, to bestow honors, and to foretell many future
+                                    events.</rs>
+                              </p>
+                              <p>
+                                 <rs type="art" subtype="gem">
+                                 <hi rend="italic">Kinocetus</hi> is a
+                                    stone not wholly useless—since it will cast out Devils</rs>
+                           </p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i0" n="1220">So sages say, has virtue; but the science</l>
+                     <l rend="i0" n="1221">Of difficult attainment, some grow pale</l>
+                     <l rend="i0" n="1222">Conscious of poison,
+                           <note type="author" anchored="true" xml:id="N_37">
+                              <p> Giafar, the founder of the Barmecides, being obliged to fly from
+                                    <placeName>Persia</placeName> his native country, took refuge at
+                                    <placeName>Damascus</placeName>, and implored the protection of
+                                 the Caliph Soliman. When he was presented to that Prince, the
+                                 Caliph suddenly changed colour and commanded him to retire,
+                                 suspecting that he had poison about him. Soliman had discovered it
+                                 by means of ten stones which he wore upon his arm. They were
+                                 fastened there like a bracelet, and never failed to strike one
+                                 against the other and make a slight noise when any poison was near.
+                                 Upon enquiry it was found that Giafar carried poison in his ring,
+                                 for the purpose of self-destruction in case he had been taken by
+                                 his enemies. <bibl>Marigny.</bibl>
+                              </p>
+                              <p> These foolish old superstitions have died away, and gems are now
+                                 neither pounded as poison nor worn as antidotes. But the old
+                                 absurdities respecting poisons have been renewed in our days, by
+                                 Authors who have revived the calumnies alledged against the
+                                 Knights-Templar, with the hope of exciting a more extensive
+                                 persecution.</p>
+                           </note>
+                         or with sudden shade</l>
+                     <l rend="i0" n="1223">Of darkness, warn the wearer; same preserve</l>
+                     <l rend="i0" n="1224">From spells, or blunt the hostile weapon's
+                           <note type="author" anchored="true" xml:id="N_38">
+                              <p>
+                                 <rs type="science" subtype="botany">In the country called
+                                       <placeName>Panten</placeName> or Tathalamasin, "there be
+                                    canes called Cassan, which overspread the earth like glasse, and
+                                    out of every knot of them spring foorth certaine branches, which
+                                    are continued upon the ground almost for the space of a mile.
+                                       <rs type="science" subtype="phys">In the sayd canes there are
+                                       found certaine stones, one of which stones whosoever carryeth
+                                       about with him, cannot be wounded with any yron: and
+                                       therefore the men of that country for the most part carry
+                                       such stones with them, withersoever they goe. Many also cause
+                                       one of the armes of their children, while they are young, to
+                                       be launced, putting one of the said stones into the wound,
+                                       healing also, and closing up the said wound with the powder
+                                       of a certain fish (the name whereof I do not know) which
+                                       powder doth immediately consolidate and cure the said wound.
+                                       And by the vertue of these stones, the people aforesaid doe
+                                       for the most part triumph both on sea and land.</rs> Howbeit
+                                    there is one kind of stratageme which the enemies of this
+                                    nation, knowing the vertue of the sayd stones, doe practise
+                                    against them: namely, they provide themselves armour of yron or
+                                    steele against their arrowes, and weapons also poisoned with the
+                                    poyson of trees, and they carry in their hands wooden stakes
+                                    most sharp and hard-pointed, as if they were yron: likewise they
+                                    shoot arrowes without yron heades, and so they confound and slay
+                                    some of their unarmed foes trusting too securely unto the vertue
+                                    of their stones.</rs>
+                                 <bibl>Odoricus in Hakluyt.</bibl>
+                              </p>
+                              <p>
+                              <rs type="art" subtype="gem"> We are obliged to Jewellers for our
+                                    best accounts of <placeName ref="the_East">the
+                                    East</placeName>.</rs> In <bibl>Tavernier</bibl> there is a
+                                 passage curiously characteristic of his profession. <rs type="art" subtype="gem">A European at <placeName>Delhi</placeName>
+                                    complained to him that he had polished and set a large diamond
+                                    for <persName>Aureng-zebe</persName>, who had never paid him for
+                                    his work. But he did not understand his trade, says Tavernier,
+                                    for if he had been a skilful Jeweller he would have known how to
+                                    take two or three pieces out of the stone, and pay himself
+                                    better than the Mogul would have done.</rs>
+                           </p>
+                           </note>
+                         edge.</l>
+                     <l rend="i0" n="1225">Some open rocks and mountains, and lay bare</l>
+                     <l rend="i0" n="1226">Their buried treasures; others make the sight</l>
+                     <l rend="i0" n="1227">Strong to perceive the presence of all Beings</l>
+                     <l rend="i0" n="1228">Thro' whose pure substance the unaided eye</l>
+                     <l rend="i0" n="1229">Passes, like empty air ... and in <rs type="art" subtype="gem">yon stone</rs>
+                     </l>
+                     <l rend="i0" n="1230">I deem some such misterious quality.</l>
+                  </lg>
+                  <lg xml:id="B3_lg133">
+                     <l rend="i8" n="1231">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg134">
+                     <l rend="i0" n="1232">My father, I will wear it.</l>
+                  </lg>
+                  <lg xml:id="B3_lg135">
+                     <l rend="i8" n="1233">MOATH.</l>
+                  </lg>
+                  <lg xml:id="B3_lg136">
+                     <l rend="i10" n="1234">Thalaba!</l>
+                  </lg>
+                  <lg xml:id="B3_lg137">
+                     <l rend="i8" n="1235">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg138">
+                     <l rend="i0" n="1236">In God's name, and the Prophet's! be its power</l>
+                     <l rend="i0" n="1237">Good, let it serve the righteous: if for evil,</l>
+                     <l rend="i0" n="1238">God and my trust in him shall hallow it.</l>
+                  </lg>
+                  <lg xml:id="B3_lg139">
+                     <l rend="i4" n="1239">So Thalaba drew on</l>
+                     <l rend="i4" n="1240">
+                        <rs type="art" subtype="gem">
+                           <rs type="script" subtype="eng">The written ring of gold</rs>.</rs>
+                     </l>
+                     <l rend="i4" n="1241">Then in <rs type="metaplace" subtype="divin" ref="Tombs" ana="hereNow">the hollow grave</rs>
+                     </l>
+                     <l rend="i4" n="1242">They laid <persName>Abdaldar</persName>'s corpse,</l>
+                     <l rend="i0" n="1243">And levelled over him <rs type="place" ref="desert" ana="hereNow">the
+                           desert</rs> dust.</l>
+                  </lg>
+                  <lg xml:id="B3_lg140">
+                     <l rend="i0" n="1244">The Sun arose, ascending from beneath</l>
+                     <l rend="i4" n="1245">The horizon's circling line.</l>
+                     <l rend="i0" n="1246">As Thalaba to his ablutions went,</l>
+                     <l rend="i0" n="1247">Lo! <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the
+                           grave</rs> open, and the corpse exposed!</l>
+                     <l rend="i2" n="1248">It was not that the winds of night</l>
+                     <l rend="i0" n="1249">Had swept away the sands that covered it,</l>
+                     <l rend="i2" n="1250">For heavy with the undried dew</l>
+                     <l rend="i0" n="1251">
+                        <rs type="place" ref="desert">The desert dust</rs> was
+                        dark and close around;</l>
+                     <l rend="i0" n="1252">And the night air had been so moveless calm,</l>
+                     <l rend="i4" n="1253">It had not from the grove</l>
+                     <l rend="i4" n="1254">Shaken a ripe date down.</l>
+                  </lg>
+                  <lg xml:id="B3_lg141">
+                     <l rend="i4" n="1255">Amazed to hear the tale</l>
+                     <l rend="i0" n="1256">Forth from the tent came <persName>Moath</persName> and
+                        his child.</l>
+                     <l rend="i0" n="1257">Awhile the thoughtful man surveyed the corpse</l>
+                     <l rend="i4" n="1258">Silent with downward eyes,</l>
+                     <l rend="i0" n="1259">Then turning spake to <persName>Thalaba</persName> and
+                        said,</l>
+                     <l rend="i0" n="1260">"I have heard that there are places by the abode</l>
+                     <l rend="i0" n="1261">"Of holy men, so holily possessed,</l>
+                     <l rend="i0" n="1262">"That if a corpse be buried there, the ground</l>
+                     <l rend="i0" n="1263">"With a convulsive effort shakes it out,
+                           <note type="author" anchored="true" xml:id="N_39">
+                              <p> And <persName>Elisha</persName> died, and they buried him. And the
+                                 bands of the <orgName>Moabites</orgName> invaded the land at the
+                                 coming in of the year. </p>
+                              <p> And it came to pass as they were burying a man, that behold they
+                                 spied a band of men; and they cast the man into the <rs type="metaplace" subtype="under">sepulchre of Elisha</rs>: and
+                                 when the man was let down, and touched the bones of Elisha, he
+                                 revived and stood up on his feet. <bibl>II. <title>
+                                       <hi rend="italic">Kings.</hi>
+                                    </title> XIII. 20. 21. </bibl>
+                              </p>
+                              <p> I must remind my readers that an allusion to the <bibl>Old
+                                    Testament</bibl> is no ways improper in a Mohammedan. </p>
+                              <p> It happened the dead corps of a man was cast ashore at
+                                    <placeName>Chatham</placeName>, and being taken up was buried
+                                 decently in the Church yard; now there was an image or rood in the
+                                 Church called our Lady of Chatham, this Lady, say the Monks, went
+                                 the next night and roused up the Clerk, telling him that a sinful
+                                 person was buried near the place where she was worshipped, who
+                                 offended her eyes with his ghastly grinning, and unless he were
+                                 removed, to the great grief of good people she must remove from
+                                 thence and could work no more miracles. Therefore she desired him
+                                 to go with her to take him up, and throw him into the river again:
+                                 which being done, soon after the body floated again, and was taken
+                                 up and <rs type="metaplace" subtype="under" ref="Tombs">buried in
+                                    the Church yard</rs>; but from that time all miracles ceased,
+                                 and the place where he was buried did continually sink downwards.
+                                 This tale is still remembered by some aged people, receiving it by
+                                 tradition from the popish times of darkness and idolatry.
+                                    <bibl>Admirable Curiosities, Rarites and Wonders in
+                                       <placeName>England</placeName>.</bibl>
+                              </p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i0" n="1264">"Impatient of pollution. Have the feet</l>
+                     <l rend="i0" n="1265">"Of Prophet or Apostle blest this place?</l>
+                     <l rend="i0" n="1266">"<persName>Ishmael</persName>, or
+                           <persName>Houd</persName>, or <persName>Saleh</persName>, or than
+                        all,</l>
+                     <l rend="i0" n="1267">"<persName>Mohammed</persName>, holier name? or is the
+                        man</l>
+                     <l rend="i0" n="1268">"So foul with magic and all blasphemy,</l>
+                     <l rend="i0" n="1269">"That <placeName ref="Earth_planet" ana="hereNow">Earth</placeName>
+                           <note type="author" anchored="true" xml:id="N_40">
+                              <p>
+                                 <bibl>Matthew of Westminister</bibl> says the history of the Old
+                                 Woman of <placeName>Berkeley</placeName>, will not appear
+                                 incredible, if we read <bibl>the dialogue of St. Gregory</bibl> in
+                                 which he relates how the body of a man buried in the church was
+                                 thrown out by the Devils: <persName>Charles Martel</persName> also
+                                 because he had appropriated great part of the tythes to pay his
+                                 soldiers, was most miserably by the wicked Spirits taken bodily out
+                                 of <rs type="metaplace" subtype="under" ref="Tombs">his grave</rs>. </p>
+                              <p>
+                                 <rs type="place" ref="Turkey">The Turks </rs>report, as a certain
+                                 truth, that the corps of Heyradin Barbarossa was found, four or
+                                 five times, out of the ground, lying by <rs type="metaplace" subtype="under" ref="Tombs">his sepulchre</rs>, after he had
+                                 been there inhumed: nor could they possibly make him lie quiet in
+                                 his grave, till a Greek wizzard counselled them to bury a black dog
+                                 together with the body; which done, he lay still, and gave them no
+                                 farther trouble. <bibl>Morgan's History of Algiers.</bibl>
+                              </p>
+                              <p> In supernatural affairs dogs seem to possess a sedative virtue.
+                                 When peace was made, about the year 1170, between the Earls of
+                                    <placeName>Holland</placeName>, and
+                                    <placeName>Flanders</placeName>, "it was concluded that Count
+                                 Floris should send unto Count Philip, a thousand men, expert in
+                                 making of ditches, to stop the hole which had beene made neere unto
+                                 Dam, or the Sluce, whereby the countrey was drowned round about at
+                                 everie high sea; the which the Flemings could by no meanes fil up,
+                                 neither with wood, nor any other matter, for that all sunke as in a
+                                 gulfe without any bottome; whereby, in succession of time,
+                                    <placeName>Bruges</placeName> and all that jurisdiction, had
+                                 been in danger to have bin lost by inundation, and to become all
+                                 sea, if it were not speedily repaired. Count Floris having taken
+                                 possession of the isle of Walchran, returned into
+                                    <placeName>Holland</placeName>, from whence hee sent the best
+                                 workmen he could find in all his countries, into
+                                    <placeName>Flanders</placeName>, to make dikes and causeies, and
+                                 to stop the hole neere unto this Dam, or Sluce, and to recover the
+                                 drowned land. These diggers being come to the place, they found at
+                                 the entrie of this bottomlesse hole a Sea-dog, the which for six
+                                 dayes together, did nothing but crie out and howle very fearefully.
+                                 They, not knowing what it might signifie, having consulted of this
+                                 accident, they resolved to cast this dogge into the hole. There was
+                                 a mad-headed Hollander among the rest, who going into the bottome
+                                 of the dike, tooke the dogge by the taile, and cast him into the
+                                 middest of the gulfe; then speedily they cast earth and torfe into
+                                 it, so as they found a bottome, and by little and little filled it
+                                 up. And for that many workemen came to the repairing of this dike,
+                                 who for that they would not be far from their worke, coucht in
+                                 Cabines, which seemed to be a pretie towne. Count Philip gave unto
+                                 all these Hollanders, Zeelanders and others, that would inhabit
+                                 there, as much land as they could recover from
+                                    <placeName>Dam</placeName> to <placeName>Ardenbourg</placeName>,
+                                 for them and their successors, for ever, with many other immunities
+                                 and freedoms. By reason whereof many planted themselves there, and
+                                 in succession of time, made a good towne there, the which by reason
+                                 of this dog, which they cast into the hole, they named <hi rend="italic">Hondtsdam</hi>, that is to say, <hi rend="italic">a dog's sluce</hi>; <hi rend="italic">Dam</hi> in Flemish
+                                 signifying a sluce, and <hi rend="italic">Hondt</hi> a dog: and
+                                 therefore at this day, the said towne (which is simply called <hi rend="italic">Dam</hi>) carrieth a dog in their armes and
+                                 blason. <bibl>Grimestone's Historie of the
+                                       <placeName>Netherlands</placeName>
+                              </bibl>, 1608. </p>
+                           </note>
+                         like <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs> rejects him? it is best</l>
+                     <l rend="i0" n="1270">"Forsake the station. Let us strike our tent.</l>
+                     <l rend="i2" n="1271">"The place is tainted ... and behold</l>
+                     <l rend="i0" n="1272">"The Vulture
+                           <note type="author" anchored="true" xml:id="N_41">
+                              <p> The Vulture is very serviceable in <placeName>Arabia</placeName>,
+                                 clearing the earth of all carcases, which corrupt very rapidly in
+                                 hot countries. He also destroys the field mice which multiply so
+                                 prodigiously in some provinces, that were it not for this
+                                 assistance, the peasant might cease from the culture of the fields
+                                 as absolutely vain. Their performance of these important services
+                                 induced <rs type="place" ref="Egypt">the antient Egyptians</rs> to
+                                 pay those birds divine honours, and even at present it is held
+                                 unlawful to kill them in all the countries which they frequent.
+                                    <bibl>Niebuhr.</bibl>
+                              </p>
+                           </note>
+                         hovers yonder, and his scream</l>
+                     <l rend="i0" n="1273">"Chides us that we still we scare him from his
+                        banquet.</l>
+                     <l rend="i4" n="1274">"So let the accursed one</l>
+                     <l rend="i4" n="1275">"Find fitting sepulchre."</l>
+                  </lg>
+                  <lg xml:id="B3_lg142">
+                     <l rend="i2" n="1276">Then from the pollution of death</l>
+                     <l rend="i2" n="1277">With water they made themselves pure,</l>
+                     <l rend="i4" n="1278">And <persName>Thalaba</persName> drew up</l>
+                     <l rend="i4" n="1279">The fastening of the cords,</l>
+                     <l rend="i4" n="1280">And <persName>Moath</persName> furled the tent,</l>
+                     <l rend="i0" n="1281">And from the grove of palms <persName>Oneiza</persName>
+                        led</l>
+                     <l rend="i0" n="1282">The Camels, ready to receive their load.</l>
+                  </lg>
+                  <lg xml:id="B3_lg143">
+                     <l rend="i4" n="1283">The dews had ceased to steam</l>
+                     <l rend="i4" n="1284">Towards the climbing Sun,</l>
+                     <l rend="i0" n="1285">When from the <placeName ref="Isle_of_Palms" ana="hereNow">Isle of Palms</placeName> they
+                        went their way.</l>
+                     <l rend="i0" n="1286">And when the Sun had reached his southern height,</l>
+                     <l rend="i4" n="1287">As back they turned their eyes,</l>
+                     <l rend="i4" n="1288">The <placeName ref="Isle_of_Palms" ana="pastVisit">distant Palms</placeName> arose</l>
+                     <l rend="i0" n="1289">Like to the top-sails of some far-off fleet</l>
+                     <l rend="i4" n="1290">Distinctly seen, where else</l>
+                     <l rend="i0" n="1291">The <placeName ref="Ocean" ana="ana">Ocean</placeName> bounds had
+                        blended with <rs type="metaplace" subtype="celest" ref="sky" ana="ana">the
+                        sky</rs>.</l>
+                     <l rend="i4" n="1292">And when the eve came on</l>
+                     <l rend="i0" n="1293">The sight returning reached the grove no more.</l>
+                     <l rend="i2" n="1294">They planted the pole of their tent,</l>
+                     <l rend="i2" n="1295">And they laid them down to repose.</l>
+                  </lg>
+                  <lg xml:id="B3_lg144">
+                     <l rend="i2" n="1296">At midnight <persName>Thalaba</persName> started up,</l>
+                     <l rend="i0" n="1297">For he felt that the ring on his finger was moved.</l>
+                     <l rend="i4" n="1298">He called on <name type="divin">Allah</name> aloud,</l>
+                     <l rend="i4" n="1299">And he called on the Prophet's name.</l>
+                     <l rend="i4" n="1300">Moath arose in alarm,</l>
+                     <l rend="i4" n="1301">"What ails thee Thalaba?" he cried,</l>
+                     <l rend="i4" n="1302">"Is the Robber of night at hand?"</l>
+                     <l rend="i4" n="1303">"Dost thou not see," the youth exclaimed,</l>
+                     <l rend="i4" n="1304">"A Spirit in the Tent?"</l>
+                     <l rend="i4" n="1305">
+                        <persName>Moath</persName> looked round and said,</l>
+                     <l rend="i4" n="1306">"The moon beam shines in the Tent,</l>
+                     <l rend="i4" n="1307">"I see thee stand in the light,</l>
+                     <l rend="i4" n="1308">"And thy shadow is black on the ground."</l>
+                  </lg>
+                  <lg xml:id="B3_lg145">
+                     <l rend="i4" n="1309">Thalaba answered not.</l>
+                     <l rend="i4" n="1310">"Spirit!" he cried, "what brings thee here?</l>
+                     <l rend="i4" n="1311">"In the name of the Prophet, speak,</l>
+                     <l rend="i4" n="1312">"In the name of <name type="divin">Allah</name>,
+                        obey!"</l>
+                  </lg>
+                  <lg xml:id="B3_lg146">
+                     <l rend="i0" n="1313">He ceased, and there was silence in the Tent.</l>
+                     <l rend="i2" n="1314">"Dost thou not hear?" quoth
+                        <persName>Thalaba</persName>.</l>
+                     <l rend="i4" n="1315">The listening man replied,</l>
+                     <l rend="i4" n="1316">"I hear the wind, that flaps</l>
+                     <l rend="i4" n="1317">"The curtain of the Tent.</l>
+                  </lg>
+                  <lg xml:id="B3_lg147">
+                     <l rend="i2" n="1318">"The Ring! the Ring!" the youth exclaimed.</l>
+                     <l rend="i2" n="1319">"For that the Spirit of Evil comes,</l>
+                     <l rend="i2" n="1320">"By that I see, by that I hear.</l>
+                     <l rend="i2" n="1321">"In the name of <name type="divin">God</name>, I ask
+                        thee</l>
+                     <l rend="i2" n="1322">"Who was he that slew my Father?"</l>
+                  </lg>
+                  <lg xml:id="B3_lg148">
+                     <l rend="i8" n="1323">DEMON.</l>
+                  </lg>
+                  <lg xml:id="B3_lg149">
+                     <l rend="i2" n="1324">Master of the powerful Ring!</l>
+                     <l rend="i0" n="1325">
+                        <persName>Okba</persName>, the wise Magician, did the
+                        deed.</l>
+                  </lg>
+                  <lg xml:id="B3_lg150">
+                     <l rend="i8" n="1326">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg151">
+                     <l rend="i2" n="1327">Where does the Murderer dwell?</l>
+                  </lg>
+                  <lg xml:id="B3_lg152">
+                     <l rend="i8" n="1328">DEMON.</l>
+                  </lg>
+                  <lg xml:id="B3_lg153">
+                     <l rend="i4" n="1329">In the <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">Domdaniel caverns</rs>
+                     </l>
+                     <l rend="i4" n="1330">
+                        <rs type="metaplace" subtype="under" ref="Under_Ocean" ana="rel">Under the Roots of the Ocean</rs>.</l>
+                  </lg>
+                  <lg xml:id="B3_lg154">
+                     <l rend="i8" n="1331">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg155">
+                     <l rend="i0" n="1332">Why were my Father and my brethren slain?</l>
+                  </lg>
+                  <lg xml:id="B3_lg156">
+                     <l rend="i8" n="1333">DEMON.</l>
+                  </lg>
+                  <lg xml:id="B3_lg157">
+                     <l rend="i2" n="1334">We knew from the <orgName>race of Hodeirah</orgName>
+                     </l>
+                     <l rend="i2" n="1335">The destined destroyer would come.</l>
+                  </lg>
+                  <lg xml:id="B3_lg158">
+                     <l rend="i8" n="1336">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg159">
+                     <l rend="i2" n="1337">Bring me my father's sword.</l>
+                  </lg>
+                  <lg xml:id="B3_lg160">
+                     <l rend="i8" n="1338">DEMON.</l>
+                  </lg>
+                  <lg xml:id="B3_lg161">
+                     <l rend="i2" n="1339">A fire surrounds the fated-sword,</l>
+                     <l rend="i2" n="1340">No Spirit or Magician's hand</l>
+                     <l rend="i2" n="1341">Can pierce that guardian flame.</l>
+                  </lg>
+                  <lg xml:id="B3_lg162">
+                     <l rend="i8" n="1342">THALABA.</l>
+                  </lg>
+                  <lg xml:id="B3_lg163">
+                     <l rend="i2" n="1343">Bring me his bow and his arrows.</l>
+                  </lg>
+                  <lg xml:id="B3_lg164">
+                     <l rend="i0" n="1344">Distinctly <persName>Moath</persName> heard his voice,
+                        and She</l>
+                     <l rend="i0" n="1345">Who thro' <rs type="metaplace" subtype="barrier" ana="rel">the Veil
+                           of Separation</rs>, watched</l>
+                     <l rend="i0" n="1346">All sounds in listening terror, whose suspense</l>
+                     <l rend="i4" n="1347">Forbade the aid of prayer.</l>
+                     <l rend="i2" n="1348">They heard the voice of Thalaba;</l>
+                     <l rend="i0" n="1349">But when the Spirit spake, the motionless air</l>
+                     <l rend="i4" n="1350">Felt not the subtle sounds,</l>
+                     <l rend="i4" n="1351">Too fine for mortal sense.</l>
+                  </lg>
+                  <lg xml:id="B3_lg165">
+                     <l rend="i0" n="1352">On a sudden the rattle of arrows was heard,</l>
+                     <l rend="i0" n="1353">And the quiver was laid at the feet of the youth,</l>
+                     <l rend="i0" n="1354">And in his hand they saw Hodeirah's Bow.</l>
+                     <l rend="i2" n="1355">He eyed the Bow, he twanged the string,</l>
+                     <l rend="i0" n="1356">And his heart bounded to the joyous tone.</l>
+                     <l rend="i2" n="1357">Anon he raised his voice, and cried</l>
+                     <l rend="i4" n="1358">"Go thy way, and never more,</l>
+                     <l rend="i4" n="1359">"<name type="myth">Evil Spirit</name>, haunt our
+                        tent!</l>
+                     <l rend="i4" n="1360">"By the virtue of the Ring,</l>
+                     <l rend="i4" n="1361">"By <persName>Mohammed</persName>'s holier might,</l>
+                     <l rend="i4" n="1362">"By the holiest name of God,</l>
+                     <l rend="i4" n="1363">"Thee and all the Powers of Hell</l>
+                     <l rend="i4" n="1364">"I adjure and I command</l>
+                     <l rend="i4" n="1365">"Never more to trouble us!"</l>
+                  </lg>
+                  <lg xml:id="B3_lg166">
+                     <l rend="i4" n="1366">Nor ever from that hour</l>
+                     <l rend="i0" n="1367">Did <name type="myth">rebel Spirit</name> on the Tent
+                        intrude,</l>
+                     <l rend="i4" n="1368">Such virtue had the Spell.</l>
+                  </lg>
+                  <lg xml:id="B3_lg167">
+                     <l rend="i2" n="1369">And peacefully the vernal years</l>
+                     <l rend="i4" n="1370">Of <persName>Thalaba</persName> past on.</l>
+                     <l rend="i0" n="1371">Till now without an effort he could bend</l>
+                     <l rend="i4" n="1372">
+                        <persName>Hodeirah</persName>'s stubborn Bow.</l>
+                     <l rend="i4" n="1373">Black were his eyes and bright,</l>
+                     <l rend="i4" n="1374">The sunny hue of health</l>
+                     <l rend="i4" n="1375">Glowed on his tawny cheek,</l>
+                     <l rend="i0" n="1376">His lip was darkened by maturing life;</l>
+                     <l rend="i0" n="1377">Strong were his shapely limbs, his stature tall;</l>
+                     <l rend="i4" n="1378">He was a comely youth.</l>
+                  </lg>
+                  <lg xml:id="B3_lg168">
+                     <l rend="i4" n="1379">Compassion for the child</l>
+                     <l rend="i0" n="1380">Had first old <persName>Moath</persName>'s kindly heart
+                        possessed,</l>
+                     <l rend="i0" n="1381">An orphan, wailing in the wilderness.</l>
+                     <l rend="i0" n="1382">But when he heard his tale, his wonderous tale,</l>
+                     <l rend="i0" n="1383">Told by the Boy with such eye-speaking truth,</l>
+                     <l rend="i2" n="1384">Now with sudden bursts of anger,</l>
+                     <l rend="i2" n="1385">Now in the agony of tears,</l>
+                     <l rend="i0" n="1386">And now in flashes of prophetic joy.</l>
+                     <l rend="i0" n="1387">What had been pity became reverence,</l>
+                     <l rend="i2" n="1388">And like a sacred trust from Heaven</l>
+                     <l rend="i4" n="1389">The old man cherished him.</l>
+                     <l rend="i4" n="1390">Now with a father's love,</l>
+                     <l rend="i2" n="1391">Child of his choice, he loved the Boy,</l>
+                     <l rend="i0" n="1392">And like a father to the Boy was dear.</l>
+                     <l rend="i0" n="1393">
+                        <persName>Oneiza</persName> called him brother, and the
+                        youth,</l>
+                     <l rend="i0" n="1394">More fondly than a brother, loved the maid,</l>
+                     <l rend="i0" n="1395">The loveliest of Arabian maidens she.</l>
+                     <l rend="i4" n="1396">How happily the years</l>
+                     <l rend="i4" n="1397">Of Thalaba went by!</l>
+                  </lg>
+                  <lg xml:id="B3_lg169">
+                     <l rend="i0" n="1398">It was the wisdom and the will of <name type="divin">Heaven</name>
+                     </l>
+                     <l rend="i2" n="1399">That in a lonely tent had cast</l>
+                     <l rend="i4" n="1400">The lot of <persName>Thalaba</persName>.</l>
+                     <l rend="i2" n="1401">There might his soul develope best</l>
+                     <l rend="i4" n="1402">Its strengthening energies;</l>
+                     <l rend="i4" n="1403">There might he from <placeName ref="the_world" ana="rel">the
+                           world</placeName>
+                     </l>
+                     <l rend="i0" n="1404">Keep his heart pure and uncontaminate,</l>
+                     <l rend="i0" n="1405">Till at the written hour he should be found</l>
+                     <l rend="i0" n="1406">Fit servant of <name type="divin">the Lord</name>,
+                        without a spot.</l>
+                  </lg>
+                  <lg xml:id="B3_lg170">
+                     <l rend="i0" n="1407">Years of his youth, how rapidly ye fled</l>
+                     <l rend="i2" n="1408">In that beloved solitude!</l>
+                     <l rend="i0" n="1409">Is the morn fair, and does the freshening breeze</l>
+                     <l rend="i2" n="1410">Flow with cool current o'er his cheek?</l>
+                     <l rend="i0" n="1411">Lo! underneath the broad-leaved sycamore</l>
+                     <l rend="i4" n="1412">With lids half closed he lies,</l>
+                     <l rend="i4" n="1413">Dreaming of days to come.</l>
+                     <l rend="i0" n="1414">His dog
+                           <note type="author" anchored="true" xml:id="N_42">
+                              <p> The <orgName>Bedouins</orgName>, who, at all points, are less
+                                 superstitious than the <orgName>Turks</orgName>, have a breed of
+                                 very tall greyhounds, which likewise mount guard around their
+                                 tents; but they take great care of these useful servants, and have
+                                 such an affection for them, that to kill the dog of a Bedouin would
+                                 be to endanger your own life. <bibl>Sonnini.</bibl>
+                              </p>
+                           </note>
+                         beside him, in mute blandishment,</l>
+                     <l rend="i4" n="1415">Now licks his listless hand,</l>
+                     <l rend="i0" n="1416">Now lifts an anxious and expectant eye</l>
+                     <l rend="i4" n="1417">Courting the wonted caress.</l>
+                  </lg>
+                  <lg xml:id="B3_lg171">
+                     <l rend="i2" n="1418">Or comes the Father
+                           <note type="author" anchored="true" xml:id="N_43">
+                              <p> The <orgName>Arabs</orgName> call the West and South West winds
+                                 which prevail from November to February, <hi rend="italic">the
+                                    fathers of the rains.</hi>
+                                 <bibl>Volney.</bibl>
+                              </p>
+                           </note>
+                         of the Rains</l>
+                     <l rend="i2" n="1419">From his <rs type="metaplace" subtype="celest" ana="rel">Caves in
+                           the uttermost West</rs>,</l>
+                     <l rend="i4" n="1420">Comes he in darkness and storms?</l>
+                     <l rend="i6" n="1421">When the blast is loud,</l>
+                     <l rend="i6" n="1422">When the waters fill</l>
+                     <l rend="i4" n="1423">The Travellers tread in the sands,</l>
+                     <l rend="i6" n="1424">When the pouring shower</l>
+                     <l rend="i6" n="1425">Streams adown the roof,</l>
+                     <l rend="i0" n="1426">When the door-curtain hangs in heavier folds,</l>
+                     <l rend="i2" n="1427">When the outstrained tent flags loosely,</l>
+                     <l rend="i6" n="1428">Comfort is within,</l>
+                     <l rend="i4" n="1429">The embers chearful glow,</l>
+                     <l rend="i2" n="1430">The sound of the familiar voice,</l>
+                     <l rend="i4" n="1431">The song that lightens toil.</l>
+                     <l rend="i0" n="1432">Under the common shelter on dry sand</l>
+                     <l rend="i0" n="1433">The quiet Camels ruminate their food;</l>
+                     <l rend="i2" n="1434">From <persName>Moath</persName> falls the lengthening
+                        cord,</l>
+                     <l rend="i4" n="1435">As patiently the old Man</l>
+                     <l rend="i0" n="1436">Intwines the strong palm-fibers;
+                           <note type="author" anchored="true" xml:id="N_44">
+                              <p> See Note 15. Book I. </p>
+                              <p> Of the Palm leaves they make mattresses, baskets and brooms; and
+                                 of the branches, all sorts of cage work, square baskets for packing
+                                 that serve for many uses instead of boxes; and the ends of the
+                                 boughs that grow next to the trunk being beaten like flax, the
+                                 fibres separate, and being tied together at the narrow end, they
+                                 serve for brooms. <bibl>Pococke.</bibl>
+                              </p>
+                           </note>
+                         by the hearth</l>
+                     <l rend="i2" n="1437">The Damsel shakes the coffee-grains,</l>
+                     <l rend="i2" n="1438">That with warm fragrance fill the tent;</l>
+                     <l rend="i0" n="1439">And while with dextrous fingers,
+                           <persName>Thalaba</persName>
+                     </l>
+                     <l rend="i0" n="1440">Shapes the green basket,
+                           <note type="author" anchored="true" xml:id="N_45">
+                              <p>
+                                 <rs type="science" subtype="botany">The Doum, or wild palm tree,
+                                    grows in abundance, from which these people when necessity
+                                    renders them industrious, find great advantage. The shepherds,
+                                    mule drivers, camel drivers, and travellers, gather the leaves,
+                                    of which they make mats, fringes, baskets, hats, shooaris or
+                                    large wallets to carry corn, twine, ropes, girths and covers for
+                                    their pack saddles. This plant, with which also they heat their
+                                    ovens, produces a mild and resinous fruit, that ripens in Sept.
+                                    and Oct. It is in form like the raisin, contains a kernel and is
+                                    astringent, and very proper to temper and counteract the effects
+                                    of the watery and laxative fruits, of which these people in
+                                    summer make an immoderate use. That Power which is ever
+                                    provident to all, has spread this wild plant over <rs type="place" ref="Arabia">their deserts</rs> to supply an
+                                    infinity of wants that would otherwise heavily burthen a people
+                                    so poor. </rs>
+                              <bibl>Chenier.</bibl>
+                              </p>
+                           </note>
+                         haply at his feet</l>
+                     <l rend="i2" n="1441">Her favourite kidling gnaws the twig,</l>
+                     <l rend="i0" n="1442">Forgiven plunderer, for <persName>Oneiza</persName>'s
+                        sake!</l>
+                  </lg>
+                  <lg xml:id="B3_lg172">
+                     <l rend="i2" n="1443">Or when the winter torrent rolls</l>
+                     <l rend="i0" n="1444">Down the deep-channelled rain-course, foamingly,</l>
+                     <l rend="i4" n="1445">Dark with its mountain spoils,</l>
+                     <l rend="i2" n="1446">With bare feet pressing the wet sand</l>
+                     <l rend="i4" n="1447">There wanders <persName>Thalaba</persName>,</l>
+                     <l rend="i2" n="1448">The rushing flow, the flowing roar,</l>
+                     <l rend="i2" n="1449">Filling his yielded faculties;</l>
+                     <l rend="i0" n="1450">A vague, a dizzy, a tumultuous joy.</l>
+                     <l rend="i1" n="1451">... Or lingers it a vernal brook
+                           <note type="author" anchored="true" xml:id="N_46">
+                              <p> "We passed two of those vallies so common in
+                                    <placeName>Arabia</placeName>, which when heavy rains fall, are
+                                 filled with water, and are then called <hi rend="italic">wadi</hi>
+                                 or rivers, altho' perfectly dry at other times of the year.—We now
+                                 drew nearer to the river of which a branch was dry, and having its
+                                 channel filled with reeds growing to the height of 20 feet, served
+                                 as a line of road which was agreably shaded by the reeds.
+                                    <bibl>Niebuhr.</bibl>
+                              </p>
+                              <p> My brethren have dealt deceitfully as a brook, and as the stream
+                                 of brooks they pass away. </p>
+                              <p> Which are blackish by reason of the ice, and wherein the snow is
+                                 hid: </p>
+                              <p> What time they wax warm they vanish; when it is hot they are
+                                 consumed out of their place. </p>
+                              <p> The paths of their way are turned aside; they go to nothing and
+                                 perish. <bibl>Job.</bibl> VI. 15. </p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i4" n="1452">Gleaming o'er yellow sands?</l>
+                     <l rend="i2" n="1453">Beneath the lofty bank reclined,</l>
+                     <l rend="i0" n="1454">With idle eye he views its little waves,</l>
+                     <l rend="i0" n="1455">Quietly listening to the quiet flow;</l>
+                     <l rend="i0" n="1456">While in the breathings of the stirring gale</l>
+                     <l rend="i4" n="1457">The tall canes bend above,</l>
+                     <l rend="i2" n="1458">Floating like streamers on the wind</l>
+                     <l rend="i4" n="1459">Their lank uplifted leaves.</l>
+                  </lg>
+                  <lg xml:id="B3_lg173">
+                     <l rend="i0" n="1460">Nor rich,
+                           <note type="author" anchored="true" xml:id="N_47">
+                              <p> The simplicity, or, perhaps, more properly, the poverty, of the
+                                 lower class of the <orgName>Bedouins</orgName>, is proportionate to
+                                 that of their chiefs. All the wealth of a family consists of
+                                 moveables, of which the following is a pretty exact inventory. A
+                                 few male and female camels, some goats and poultry, a mare and her
+                                 bridle and saddle, a tent, a lance sixteen feet long, a crooked
+                                 sabre, a rusty musket, with a flint or matchlock; a pipe, a
+                                 portable mill, a pot for cooking, a leathern bucket, a small coffee
+                                 roaster, a mat, some clothes, a mantle of black woollen, and a few
+                                 glass or silver rings, which the women wear upon their legs and
+                                 arms; if none of these are wanting, their furniture is complete.
+                                 But what the poor man stands most in need of, and what he takes
+                                 most pleasure in, is his mare; for this animal is his principal
+                                 support. With his mare the Bedouin makes his excursions against
+                                 hostile tribes, or seeks plunder in the country, and on the
+                                 highways. The mare is preferred to the horse, because she does not
+                                 neigh, is more docile, and yields milk, which on occasion,
+                                 satisfies the thirst and even the hunger of her master.
+                                    <bibl>Volney.</bibl>
+                              </p>
+                              <p> The Shaik, says Volney, with whom I resided in the country of
+                                    <placeName>Gaza</placeName>, about the end of <date>1784</date>,
+                                 passed for one of the most powerful of those districts; yet it did
+                                 not appear to me that his expenditure was greater than that of an
+                                 opulent farmer. His personal effects, consisting in a few pelisses,
+                                 carpets, arms, horses, and camels, could not be estimated at more
+                                 than fifty thousand livres (a little above two thousand pounds);
+                                 and it must be observed that in this calculation four mares of the
+                                 breed of racers are valued at six thousand livres, (two hundred and
+                                 fifty pounds), and each camel at ten pounds sterling. We must not
+                                 therefore, when we speak of the <orgName>Bedouins</orgName>, affix
+                                 to the words Prince and Lord, the ideas they usually convey; we
+                                 should come nearer the truth by comparing them to substantial
+                                 farmers, in mountainous countries, whose simplicity they resemble
+                                 in their dress as well as in their domestic life and manners. A
+                                 Shaik, who has the command of five hundred horse, does not disdain
+                                 to saddle and bridle his own, nor to give him his barley and
+                                 chopped straw. In his tent, his wife makes the coffee, kneeds the
+                                 dough, and superintends the dressing of the victuals. His daughters
+                                 and kinswomen wash the linen, and go with pitchers on their heads,
+                                 and veils over their faces, to draw water from the fountain. These
+                                 manners agree precisely with the descriptions in
+                                 <bibl>Homer</bibl>, and the history of
+                                 <persName>Abraham</persName>, in <bibl>Genesis</bibl>. But it must
+                                 be owned that it is difficult to form a just idea of them without
+                                 having ourselves been eye witnesses. <bibl>Volney.</bibl>
+                              </p>
+                           </note>
+                         nor poor, was <persName>Moath</persName>;<name type="divin">God</name>had given</l>
+                     <l rend="i0" n="1461">Enough, and blest him with a mind content.</l>
+                     <l rend="i0" n="1462">No hoarded
+                           <note type="author" anchored="true" xml:id="N_48">
+                              <p> Thus confined to the most absolute necessaries of life, the
+                                    <orgName>Arabs</orgName> have as little industry as their wants
+                                 are few; all their arts consist in weaving their clumsy tents, and
+                                 in making mats and butter. Their whole commerce only extends to the
+                                 exchanging camels, kids, stallions and milk; for arms, clothing, a
+                                 little rice or corn, and money, <hi rend="italic">which they
+                                    bury.</hi>
+                                 <bibl>Volney.</bibl>
+                              </p>
+                           </note>
+                         gold disquieted his dreams;</l>
+                     <l rend="i0" n="1463">But ever round his station he beheld</l>
+                     <l rend="i4" n="1464">Camels that knew his voice,</l>
+                     <l rend="i0" n="1465">And home-birds, grouping at <persName>Oneiza</persName>'s
+                        call,</l>
+                     <l rend="i4" n="1466">And goats that, morn and eve,</l>
+                     <l rend="i0" n="1467">Came with full udders to the Damsel's hand.</l>
+                     <l rend="i0" n="1468">Dear child! the Tent beneath whose shade they dwelt</l>
+                     <l rend="i2" n="1469">That was her work; and she had twined</l>
+                     <l rend="i4" n="1470">His girdle's many-hues;</l>
+                     <l rend="i4" n="1471">And he had seen his robe</l>
+                     <l rend="i4" n="1472">Grow in Oneiza's loom.
+                           <note type="author" anchored="true" xml:id="N_49">
+                              <p> The chief manufacture among the <orgName>Arabs</orgName> is the
+                                 making <hi rend="italic">of Hykes</hi> as they call woollen
+                                 blankets, and webs of goat's hair for their Tents. The Women alone
+                                 are employed in this work, as <persName>Andromache</persName> and
+                                    <persName>Penelope</persName> were of old; who make no use of a
+                                 shuttle, but conduct every thread of the woof with their fingers.
+                                    <bibl>Shaw.</bibl>
+                              </p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i0" n="1473">How often with a memory-mingled joy</l>
+                     <l rend="i0" n="1474">That made her Mother live before his sight,</l>
+                     <l rend="i0" n="1475">He watched her nimble finders thread the woof!</l>
+                     <l rend="i0" n="1476">Or at the hand-mill
+                           <note type="author" anchored="true" xml:id="N_50">
+                              <p> </p>
+                              <q>
+                                 <p>If mine heart have been deceived by a woman, or if I have laid
+                                    wait at my neighbour's door.<lb/> Then let my wife grind unto
+                                    another. <bibl>
+                                       <title>Job</title>. XXXI. 9. 10.</bibl>
+                                 </p>
+                              </q>
+                           </note>
+                         when she knelt and toiled,</l>
+                     <l rend="i2" n="1477">Tost the thin cake on spreading palm,</l>
+                     <l rend="i0" n="1478">Or fixed it on the glowing oven's side</l>
+                     <l rend="i0" n="1479">With bare
+                           <note type="author" anchored="true" xml:id="N_51">
+                              <p>
+                                 <q>
+                                 <rs type="place" ref="Arabia">I was much amused by observing the
+                                       dexterity of the <orgName>Arab women</orgName> in baking
+                                       their bread.</rs> They have a small place built with clay,
+                                    between two and three feet high, having a hole at the bottom,
+                                    for the convenience of drawing out the ashes, something similar
+                                    to that of a lime kiln. The oven (which I think is the most
+                                    proper name for this place) is usually about fifteen inches wide
+                                    at the top, and gradually grows wider to the bottom. It is
+                                    heated with wood, and when sufficiently hot, and perfectly clear
+                                    from smoke, having nothing but clear embers at bottom (which
+                                    continue to reflect great heat), they prepare the dough in a
+                                    large bowl, and mould the cakes to the desired size on a board
+                                    or stone placed near the oven. After they have kneaded the cake
+                                    to a proper consistence, they pat it a little, then toss it
+                                    about with great dexterity in one hand, till it is as thin as
+                                    they choose to make it. They then wet one side of it with water,
+                                    at the same time wetting the hand and arm, with which they put
+                                    it into the oven. The wet side of the cake adheres fast to the
+                                    side of the oven till it is sufficiently baked when if not paid
+                                    sufficient attention to, it would fall down among the embers. If
+                                    they were not exceedingly quick at this work, the heat of the
+                                    oven would burn the skin from off their hands and arms; but with
+                                    such amazing dexterity do they perform it, that one woman will
+                                    continue keeping three or four cakes at a time in the oven till
+                                    she has done baking. This mode, let me add, does not require
+                                    half the fuel that is made use of in
+                                       <placeName>Europe</placeName>. <bibl>Jackson.</bibl>
+                                 </q>
+                              </p>
+                           </note>
+                         wet arm, in safe dexterity.</l>
+                  </lg>
+                  <lg xml:id="B3_lg174">
+                     <l rend="i4" n="1480">'Tis the cool evening hour:</l>
+                     <l rend="i4" n="1481">The Tamarind from the dew</l>
+                     <l rend="i4" n="1482">Sheaths
+                           <note type="author" anchored="true" xml:id="N_52">
+                              <p>
+                                 <rs type="science" subtype="botany">Tamarinds grow on great trees,
+                                    full of branches whereof the leaves are not bigger than, nor
+                                    unlike to the leaves of pimpernel, only something longer. The
+                                    flower at first is like the peaches, but at last turns white,
+                                    and puts forth its fruit at the end of certain strings: as soon
+                                    as the sun is set, the leaves close up the fruit, to preserve it
+                                    from the dew, and open as soon as that luminary appears again.
+                                    The fruit at first is green, but ripening it becomes of a dark
+                                    grey, drawing towards a red, inclosed in husks, brown or twany,
+                                    of taste a little bitter, like our prunelloes. The tree is as
+                                    big as a walnut-tree, full of leaves, bearing its fruit at the
+                                    branches, like the sheath of a knife, but not so straight,
+                                    rather bent like a bow.</rs>
+                                 <bibl>Mandelslo.</bibl>
+                              </p>
+                           </note>
+                         its young fruit, yet green.</l>
+                     <l rend="i2" n="1483">Before their Tent the mat is spread,</l>
+                     <l rend="i4" n="1484">The old man's aweful voice</l>
+                     <l rend="i4" n="1485">Intones
+                           <note type="author" anchored="true" xml:id="N_53">
+                              <p> I have often, says <persName>Niebuhr</persName>, heard the
+                                    <orgName>Sheiks</orgName> sing passages from the
+                                    <bibl>Koran</bibl>, they never strain the voice by attempting to
+                                 raise it too high, and this natural music pleased me very much.</p>
+                              <p>
+                                 <rs type="place" ref="the_East">The airs of the
+                                       <orgName>Orientals</orgName> are all grave and simple. They
+                                    chuse their singers to sing so distinctly that every word may be
+                                    comprehended. When several instruments are played at once and
+                                    accompanied by the voice, you hear them all render the same
+                                    melody, unless some one mingles a running base, either singing
+                                    or playing, always in the same key. If this music is not greatly
+                                    to our taste, ours is as little to the taste of the
+                                    Orientals.</rs>
+                                 <bibl>Niebuhr. Description.</bibl>
+                              </p>
+                           </note>
+                         the holy Book.</l>
+                     <l rend="i0" n="1486">What if beneath no lamp-illumined dome,</l>
+                     <l rend="i0" n="1487">Its marble walls
+                           <note type="author" anchored="true" xml:id="N_54">
+                              <p>
+                                 <rs type="building" subtype="temple">The Mosques, which they
+                                    pronounce Mesg jid, are built exactly in the fashion of our
+                                    Churches, where instead of such Seats and Benches as we make use
+                                    of, they only strew the Floor with Mats, upon which they perform
+                                    the several sittings and prostrations that are enjoyned in their
+                                    religion. Near the middle, particularly of the principal Mosque
+                                    of each city, there is a large pulpit erected, which is
+                                    ballustraded round, with about half a dozen steps leading up to
+                                    it.</rs> Upon these (for I am told none are permitted to enter
+                                 the pulpit) the Mufty or one of the <orgName>Im-ams</orgName>
+                                 placeth himself every Friday, the day of the congregation, as they
+                                 call it, and from thence either explaineth some part or other of
+                                 the <bibl>Coran</bibl>, or else exhorteth the people to piety and
+                                 good works. That end of these Mosques, which regards
+                                    <placeName>Mecca</placeName>, whither they direct themselves
+                                 throughout the whole course of their devotions, is called the
+                                 Kiblah, in which there is commonly a nich, representing as a
+                                 judicious writer conjectures, the presence, and at the same time
+                                 the invisibility of the <name type="divin">Deity</name>. There is
+                                 usually a square tower erected at the other end, with a flag-staff
+                                 upon the top of it. Hither the cryer ascends at the appointed
+                                 times, and displaying a small flag, advertised the people with a
+                                 loud voice, from each side of the battlements, of the hour of
+                                 prayer. These places of the <orgName>Mahometan</orgName> worship,
+                                 together with the Mufty, Im-ams and other persons belonging to
+                                 them, are maintained out of certain revenues arising from the rents
+                                 of lands and houses, either left by will or set apart by the public
+                                 for that use. <bibl>Shaw.</bibl>
+                              </p>
+                              <p>
+                                 <rs type="building" subtype="temple">All the Mosques are built
+                                    nearly in the same style. They are of an oblong square form, and
+                                    covered in the middle with a large dome, on the top of which is
+                                    fixed a gilt crescent. In front there is a handsome portico
+                                    covered with several small cupolas, and raised one step above
+                                    the pavement of the court. The Turks sometimes in the hot
+                                    season, perform their devotions there; and between the columns,
+                                    upon cross iron bars, are suspended a number of lamps, for
+                                    illuminations on the Thursday nights and on all festivals. The
+                                    entrance into the Mosque is by one large door. All these
+                                    edifices are solidly built of freestone, and in several the
+                                    domes are covered with lead. The minarets stand on one side
+                                    adjoining to the body of the Mosque. They are sometimes square,
+                                    but more commonly round and taper, the gallery for the maazeen,
+                                    or cryers, projecting a little from the column near the top, has
+                                    some resemblance to a rude capital; and from this the spire
+                                    tapering more in proportion than before, soon terminates in a
+                                    point crowned with a crescent.</rs>
+                                 <bibl>Russel's Aleppo.</bibl>
+                              </p>
+                           </note>
+                         bedecked with flourished truth,</l>
+                     <l rend="i0" n="1488">Azure and gold adornment? sinks the <rs type="script" subtype="holy">Word</rs>
+                     </l>
+                     <l rend="i0" n="1489">With deeper influence from the Imam's voice,</l>
+                     <l rend="i0" n="1490">Where in the day of congregation, crowds</l>
+                     <l rend="i4" n="1491">Perform the duty task?</l>
+                     <l rend="i4" n="1492">Their Father is their Priest,</l>
+                     <l rend="i2" n="1493">The <rs type="metaplace" subtype="celest" ana="rel">Stars of
+                           Heaven</rs> their point
+                           <note type="author" anchored="true" xml:id="N_55">
+                              <p>
+                                 <placeName ref="the_Keabé">The Keabé</placeName> is the point of
+                                 direction and the centre of union for the prayers of the
+                                    <orgName>whole human race</orgName>, as the Beïth-mâmour
+                                    <note style="double" type="author" anchored="true" xml:id="NN_d"> Beïth mâmour, which means the house of prosperity and
+                                       felicity, is the ancient Keabé of
+                                          <placeName>Mecca</placeName>, which according to
+                                       tradition, was taken up into heaven by the Angels at the
+                                       deluge, where it was placed perpendicularly over the present
+                                       sanctuary.</note>
+                                  is for those of all the celestial beings; <rs type="metaplace" subtype="celest" ref="the_Kursy">the
+                                    Kursy</rs>
+                                    <note style="double" type="author" anchored="true" xml:id="NN_e">
+                                       <rs type="metaplace" subtype="celest" ref="the_Kursy">Kursy,
+                                          which signifies a seat, is the <rs type="metaplace" subtype="celest" ref="8th_Firmament">8th
+                                          firmament</rs>.</rs>
+                              </note>
+                                  for those of the four Arch angels, and <rs type="metaplace" subtype="divin" ref="the_Arsch">the Arsch</rs>
+                                    <note style="double" type="author" anchored="true" xml:id="NN_f">
+                                       <rs type="metaplace" subtype="divin" ref="throne_of_God">Arsch is the throne of <name type="divin">the
+                                             Almighty</name>, which is thought to be placed on <rs type="metaplace" subtype="celest" ref="9th_Firmament">the ninth</rs>, which is the higher of the
+                                          firmaments.</rs>
+                              </note>
+                                  for those of the cherubims and seraphims who guard the <rs type="metaplace" subtype="divin" ref="throne_of_God">throne of the Almighty</rs>.
+                                 The inhabitants of <placeName>Mecca</placeName>, who enjoy the
+                                 happiness of contemplating <placeName ref="the_Keabé">the
+                                    Keabé</placeName>, are obliged when they pray to fix their eyes
+                                 upon the sanctuary; but they who are at a distance from this
+                                 valuable privilege are required only during prayer to direct their
+                                 attention towards that hallowed edifice. The believer who is
+                                 ignorant of the position of <placeName ref="the_Keabé">the
+                                    Keabé</placeName> must use every endeavour to gain a knowledge
+                                 of it; and after he has shown great solicitude, whatever be his
+                                 success, his prayer is valid. <bibl>D'Ohsson.</bibl>
+                              </p>
+                           </note>
+                         of prayer,</l>
+                     <l rend="i4" n="1494">And <rs type="metaplace" subtype="celest" ref="sky" ana="rel">blue
+                           Firmament</rs>
+                     </l>
+                     <l rend="i2" n="1495">The glorious Temple, where they feel</l>
+                     <l rend="i4" n="1496">
+                        <name type="divin">The present Deity</name>.</l>
+                  </lg>
+                  <lg xml:id="B3_lg175">
+                     <l rend="i2" n="1497">Yet thro' the purple glow of eve</l>
+                     <l rend="i4" n="1498">Shines dimly the white moon.</l>
+                     <l rend="i0" n="1499">The slackened bow, the quiver, the long lance,</l>
+                     <l rend="i2" n="1500">Rest on the pillar
+                           <note type="author" anchored="true" xml:id="N_56">
+                              <p> The <orgName>Bedoweens</orgName> live in <rs type="building" subtype="tent">tents</rs>, called <hi rend="italic">Hhymas</hi>,
+                                 from the shade they afford the inhabitants, and <rs type="building" subtype="tent">
+                                 <hi rend="italic">Beet el Shar</hi>, Houses of
+                                    hair</rs>, from the matter they are made of. They are the same
+                                 with what <orgName>the Antients</orgName> called <rs type="building" subtype="tent">Mapalia, which being then, as
+                                    they are to this day, secured from the heat and inclemency of
+                                    the weather, by a covering only of such hair cloth, as our coal
+                                    sacks are made of, might very justly be described by
+                                       <persName>Virgil</persName> to have thin roofs. When we find
+                                    any number of them together (and I have seen from 3 to 300) then
+                                    they are usually placed in a circle, and constitute a Dou-war.
+                                    The fashion of each tent is the same, being of an oblong figure,
+                                    not unlike the bottom of a ship turned upside down, as Satlust
+                                    hath long ago described them. However they differ in bigness,
+                                    according to the number of people who live in them: and are
+                                    accordingly supported, some with one pillar, others with two or
+                                    three: whilst a curtain or carpet placed, upon occasion, at each
+                                    of these divisions, separateth the whole into so many
+                                    apartments. The pillar which I have mentioned, is a straight
+                                    pole, 8 or 10 feet high and 3 or 4 inches in thickness, serving,
+                                    not only to support the tent, but being full of hooks fixd there
+                                    for the purpose, the Arabs hang upon it their cloaths, baskets,
+                                    saddles, and accoutrements of war. Holofernes, as we read in
+                                       <title>Judith, 13. 16</title>. made the like use of the
+                                    pillar of his tent, by hanging his fauchin upon it, it is there
+                                    called the <hi rend="italic">pillar of the bed</hi>, from the
+                                    custom perhaps, that hath always prevailed, of having the upper
+                                    end of the carpet, matrass, or whatever else they lie upon,
+                                    turned from the skirts of the tent that way. But the Κωνωπειον,
+                                    Canopy as we render it (ver. 9) should I presume, be rather
+                                    called the gnat or muskeeta net, which is a close curtain of
+                                    gauze or fine linnen, used all over <placeName ref="Levant">the
+                                       Levant</placeName>, by people of better fashion, to keep out
+                                    the flies. The Arabs have nothing of this kind; who in taking
+                                    their rest, lie horizontally upon the ground, without bed,
+                                    matrass or pillow, wrapping themselves up only in their <hi rend="italic">Hykes</hi>, and lying, as they find room upon a
+                                    mat or carpet, in the middle or corner of the tent. Those who
+                                    are married, have each of them a corner of the tent, cantoned
+                                    off with a curtain.</rs>
+                                 <bibl>Shaw.</bibl>
+                              </p>
+                              <p> The tents of <orgName>the Moors</orgName> are somewhat of a conic
+                                 form, are seldom more than 8 or 10 feet high in the centre, and
+                                 from 20 to 25 in length. Like those of the remotest antiquity,
+                                 their figure is that of a ship overset, the keel of which is only
+                                 seen. These tents are made of twine, composed of goat's hair,
+                                 camel's wool, and the leaves of the wild palm, so that they keep
+                                 out water; but, being black, they produce a disagreable effect at a
+                                 distant view. <bibl>Chenier.</bibl>
+                              </p>
+                           </note>
+                         of <rs type="building" subtype="tent">the Tent</rs>.</l>
+                     <l rend="i0" n="1501">Knitting light palm-leaves
+                           <note type="author" anchored="true" xml:id="N_57">
+                              <p> In the kingdom of <placeName>Imam</placeName> the men of all ranks
+                                 shave their heads. In some other countries of
+                                    <placeName>Yemen</placeName> all <orgName>the Arabs</orgName>,
+                                 even the <orgName>Sheiks</orgName> themselves, let their hair grow
+                                 and wear neither bonnet nor <hi rend="italic">Sasch</hi>, but a
+                                 handkerchief instead, in which they tie the hair behind. Some let
+                                 it fall upon their shoulders and bind a small cord round their
+                                 heads instead of a turban. The <orgName>Bedouins</orgName> upon the
+                                 frontiers of <placeName>Hedsjas</placeName> and of
+                                    <placeName>Yemen</placeName> wear a bonnet of palm leaves,
+                                 neatly platted. <bibl>Niebuhr.</bibl>
+                              </p>
+                           </note>
+                         for her brother's brow</l>
+                     <l rend="i4" n="1502">The dark-eyed damsel sits;</l>
+                     <l rend="i4" n="1503">The Old Man tranquilly</l>
+                     <l rend="i4" n="1504">Up his curled pipe inhales</l>
+                     <l rend="i4" n="1505">The tranquillizing herb.</l>
+                     <l rend="i0" n="1506">So listen they the reed
+                           <note type="author" anchored="true" xml:id="N_58">
+                              <p> The music of the <orgName>Bedoweens</orgName> rarely consists of
+                                 more than one strain, suitable to their homely instruments, and to
+                                 their simple invention. The Arabebbah as they call the bladder and
+                                 string, is in the highest vogue, and doubtless of great antiquity,
+                                 as is also the Gaspah, which is only a common reed, open at each
+                                 end, having the side of it bored, with three or more holes,
+                                 according to the ability of the Person who is to touch it: tho' the
+                                 compass of their tunes rarely or ever exceeds an octave. Yet
+                                 sometimes, even in this simplicity of harmony, they observe
+                                 something of method and ceremony, for in their historical <hi rend="italic">Cantatas</hi> especially, they have their preludes
+                                 and symphonies; each stanza being introduced with a flourish from
+                                 the Arabebbah, while the narration itself is accompanied with the
+                                 softest touches they are able to make, upon the Gaspah. The Tarr,
+                                 another of their instruments, is made like a Sive, consisting (as
+                                 Isidore describeth the Tympanum) of a thin rim or hoop of wood,
+                                 with a skin of parchment stretched over the top of it. This serves
+                                 for the Bass in all their Concerts, which they accordingly touch
+                                 very artfully with their fingers, and the knuckles or palms of
+                                 their hands, as the time and measure require, or as force and
+                                 softness are to be communicated to the several parts of the
+                                 performance. The Tarr is undoubtedly the Tympanum of the Antients,
+                                 which appears as well from the general use of it all over
+                                    <placeName>Barbary</placeName>, <placeName>Egypt</placeName> and
+                                    <placeName ref="Levant">the Levant</placeName>, as from the
+                                 method of playing upon it, and the figure of the instrument itself,
+                                 being exactly of the same fashion, with what we find in the hands
+                                 of Cybele and the Bacchanals among the Basso Relievos and Statues
+                                 of the Antiets. <bibl>Shaw.</bibl>
+                              </p>
+                              <p> The <orgName>Arabs</orgName> have the <hi rend="italic">Cussuba,</hi> or cane, which is only a piece of large cane, or
+                                 reed, with stops, or holes, like a flute, and somewhat longer,
+                                 which they adorn with tossels of black silk and play upon like the
+                                 German flute. <bibl>Morgan's Hist. of Algiers.</bibl>
+                              </p>
+                              <p> The young fellows, in several towns, play prettily enough on pipes
+                                 made, and sounding very much like our flagelet, of the thigh bones
+                                 of cranes, storks, or such large fowl. <bibl>Morgan's Hist. of
+                                    Algiers.</bibl>
+                              </p>
+                              <p>
+                                 <rs type="place" ref="Libya">How great soever may have been the
+                                    reputation the <orgName>Libyans</orgName> once had, of being
+                                    famous musicians, and of having invented the pipe or flute</rs>,
+                                 called by Greek author <hi rend="italic">Hippophorbos</hi>, I fancy
+                                 few of them would be now much liked at our Opera. As for this <hi rend="italic">tibicen</hi>, flute or pipe, it is certainly lost,
+                                 except it be the <hi rend="italic">gayta</hi>, somewhat like the
+                                 hautbois, called <hi rend="italic">zurna</hi>, in Turkish, a
+                                 martial instrument. Julius Pollux, in a chapter entitled <hi rend="italic">de tibiarum specie</hi>, says, <hi rend="italic">Hippophorbos quam quidem Libyes Scenetes invenerunt</hi>, and
+                                 again, shewing the use and quality thereof, <hi rend="italic">hæc
+                                    verò apud equorum pascua utuntur, ejusque materia decorticata
+                                    laurus est, cor enim ligni extractum acutissimam dat sonum</hi>.
+                                 The sound of the <hi rend="italic">gayta</hi> agrees well with this
+                                 description, tho' not the make. Several Poets mention the <hi rend="italic">tibicen Libycus</hi> and <hi rend="italic">Arabicus</hi>: and Alhenæus quotes Duris, and says, <hi rend="italic">Libycas tibia Poetæ appellant, ut inquit Duris,
+                                    libro secundo de rebus gestis Agathoclis, quod Scirites, primus,
+                                    ut credunt, tibicinum artis inventor, è gente Nomadum Libycorum
+                                    fuerit, primusque tibiä Cerealium hymnorum cantor.</hi>
+                                 <bibl>Morgan's Hist. of Algiers.</bibl>
+                              </p>
+                           </note>
+                         of Thalaba,</l>
+                     <l rend="i2" n="1507">While his skilled fingers modulate</l>
+                     <l rend="i0" n="1508">The low, sweet, soothing, melancholy tones,</l>
+                     <l rend="i0" n="1509">Or if he strung the pearls
+                           <note type="author" anchored="true" xml:id="N_59">
+                              <p> Persæ "pulcherrimâ usi translatione, pro <hi rend="italic">versús
+                                    facere</hi> dicunt <hi rend="italic">margaritas nectere;</hi>
+                                 quemadmodum in illo Ferdusii versiculo "<hi rend="italic">Siquidem
+                                    calami acumine adamantine</hi> margaritas nexi; <hi rend="italic">in scientiæ mare penitus me immersi</hi>."
+                                    <bibl>Poeseos Asiaticæ Commentarii.</bibl>
+                              </p>
+                              <p>
+                                 <rs type="place" ref="the_East">This is a favourite Oriental
+                                    figure</rs>. "After a little time lifting his head from the
+                                 collar of reflection, he removed the talisman of silence from the
+                                 treasure of speech, and scattered skirts-full of brilliant gems and
+                                 princely pearls before the company in his mirth-exciting
+                                 deliveries." <bibl>Bahar Danush.</bibl>
+                              </p>
+                              <p> Again in the same work—"he began to weigh his stored pearls in the
+                                 scales of delivery." </p>
+                              <p> Abu Temam, who was an excellent poet himself, used to say, that,
+                                 "fine sentiments delivered in prose were like gems scattered at
+                                 random; but that when they were confined in a poetical measure,
+                                 they resembled bracelets and strings of pearls." <bibl>Sir W.
+                                    Jones. <title>Essay on the Poetry of the Eastern
+                                       nations.</title>
+                              </bibl>
+                              </p>
+                              <p> In <bibl>Mr. Carlyle's translations from the Arabic</bibl>, a Poet
+                                 says of his friends and himself </p>
+                              <q>
+                                 <lg>
+                                    <l rend="i0">They are a row of Pearls, and I</l>
+                                    <l rend="i0">The silken thread on which they lie.</l>
+                                 </lg>
+                              </q>
+                              <p> I quote from memory, and recollect not the Author's name. It is
+                                 somewhat remarkable that the same metaphor is among the
+                                 quaintnesses of <bibl>
+                                    <author>Fuller</author>
+                                 </bibl>. <q>"Benevolence is the silken thread, that should run
+                                    thro' the pearl chain of our virtues."</q>
+                                 <bibl>Holy State.</bibl>
+                              </p>
+                              <p> It seems the <orgName>Arabs</orgName> are still great rhymers, and
+                                 their verses are sometimes rewarded, but I should not venture to
+                                 say that there are great Poets among them. Yet I was assured in
+                                    <placeName>Yemen</placeName> that it is not uncommon to find
+                                 them among the wandering Arabs in <placeName ref="Dsjâf">the
+                                    country of Dsjâf</placeName>. It is some few years since a Sheik
+                                 of these Arabs was in prison at <placeName>Sana</placeName>: seeing
+                                 by chance a bird upon a roof opposite to him, he recollected that
+                                 the devout <orgName>Mohammedans</orgName> believe they perform an
+                                 action agreable to<name type="divin">God</name>in giving liberty to
+                                 a bird encaged. He thought therefore he had as much right to
+                                 liberty as a bird, and made a poem upon the subject, which was
+                                 first learnt by his guards, and then became so popular that at last
+                                 it reached the Imam. He was so pleased with it that he liberated
+                                 the Sheik, whom he had arrested for his robberies. <bibl>Niebuhr.
+                                    Desc. de L'Arabie.</bibl>
+                              </p>
+                           </note>
+                         of Poetry</l>
+                     <l rend="i2" n="1512">Singing with agitated face</l>
+                     <l rend="i0" n="1513">And eloquent arms, and sobs that reach the heart,</l>
+                     <l rend="i4" n="1514">A tale
+                           <note type="author" anchored="true" xml:id="N_60">
+                              <p>
+                                 <rs type="place" ref="Arabia">They are fond of singing with a
+                                    forced voice in the high tones, and one must have lungs like
+                                    theirs to support the effort for a quarter of an hour.</rs>
+                                 Their airs, in point of character and execution, resemble nothing
+                                 we have heard in <placeName>Europe</placeName>, except the
+                                 Seguidillas of the <rs type="place" ref="Spain">
+                                 <orgName>Spaniards</orgName>
+                              </rs>. They have divisions more
+                                 laboured even than those of the <rs type="place" ref="Italy">
+                                 <orgName>Italians</orgName>
+                              </rs>, and cadences and
+                                 inflections of tone impossible to be imitated by European throats.
+                                 Their performance is accompanied with sighs and gestures, which
+                                 paint the passions in a more lively manner than we snould venture
+                                 to allow. They may be said to excell most in the melancholy strain.
+                                 To behold an Arab with his head inclined, his hand applied to his
+                                 ear, his eye brows knit, his eyes languishing; to hear his
+                                 plaintive tones, his lengthened notes, his sighs and sobs, it is
+                                 almost impossible to refrain from tears, which as their expression
+                                 is, are far from bitter: and indeed they must certainly find a
+                                 pleasure in shedding them, since among all their songs, they
+                                 constantly prefer that which excites them most, as among all
+                                 accomplishments singing is that they most admire.
+                                    <bibl>Volney.</bibl>
+                              </p>
+                              <p> All their literature consists in reciting tales and histories, in
+                                 the manner of <bibl>the Arabian Nights Entertainments</bibl>. They
+                                 have a peculiar passion for such stories: and employ in them almost
+                                 all their leisure, of which they have a great deal. In the evening
+                                 they seat themselves on the ground at the door of their tents, or
+                                 under cover if it be cold, and there, ranged in a circle, round a
+                                 little fire of dung, their pipes in their mouths, and their legs
+                                 crossed, they sit awhile in silent meditation, till, on a sudden,
+                                 one of them breaks forth with, <hi rend="italic">Once upon a
+                                    time</hi>,—and continues to recite the adventures of some young
+                                 Shaik and female <orgName ref="Bedouins">Bedouin</orgName>: he
+                                 relates in what manner the youth first got a secret glimpse of his
+                                 mistress, and how he became desperately enamoured of her: he
+                                 minutely describes the lovely fair, extols her black eyes, as large
+                                 and soft as those of the gazelle; her languid and empassioned
+                                 looks; her arched eye brows, resembling two bows of ebony; her
+                                 waist, straight and supple as a lance; he forgets not her steps,
+                                 light as those of the <hi rend="italic">young filley</hi>, nor her
+                                 eye-lashes blackened with <hi rend="italic">kohl</hi>, nor her lips
+                                 painted blue, nor her nails, tinged with the golden coloured <hi rend="italic">henna</hi>, nor her breasts, resembling two
+                                 pomegranates, nor her words, sweet as honey. He recounts the
+                                 sufferings of the young lover, <hi rend="italic">so wasted with
+                                    desire and passion, that his body no longer yields any
+                                    shadow</hi>. At length, after detailing his various attempts to
+                                 see his mistress, the obstacles on the part of the parents, the
+                                 invasions of the enemy, the captivity of the two lovers, &amp;c. he
+                                 terminates, to the satisfaction of the audience, by restoring them,
+                                 united and happy, to <rs type="building" subtype="tent">the
+                                    paternal tent</rs>, and by receiving the tribute paid to his
+                                 eloquence, in the <hi rend="italic">ma sha allah</hi>
+                                 
+                                    <note style="double" type="author" anchored="true" xml:id="NN_g"> An exclamation of praise, equivalent to <hi rend="italic">admirably well</hi>!</note>
+                                  he has merited. The <orgName>Bedouins</orgName> have
+                                 likewise their love songs, which have more sentiment and nature in
+                                 them than those of the <orgName>Turks</orgName>, and inhabitants of
+                                 the towns; doubtless because the former, whose manners are chaste,
+                                 know what love is; while the latter, abandoned to debauchery, are
+                                 acquainted only with enjoyment. <bibl>Volney.</bibl>
+                              </p>
+                           </note>
+                         of love and woe;</l>
+                     <l rend="i0" n="1515">Then, if the brightening Moon that lit his face</l>
+                     <l rend="i4" n="1516">In darkness favoured her's,</l>
+                     <l rend="i0" n="1517">Oh! even with such a look, as, fables say,</l>
+                     <l rend="i0" n="1518">The mother Ostrich
+                           <note type="author" anchored="true" xml:id="N_61">
+                              <p> We read in <bibl>an old Arabian Manuscript</bibl>, that when the
+                                 Ostrich would hatch her eggs, she does not cover them as other
+                                 fowls do, but both the male and female contribute to hatch them by
+                                 the efficacy of their looks only; and therefore when one has
+                                 occasion to go to look for food, it advertises its companion by its
+                                 cry, and the other never stirs during its absence, but remains with
+                                 its eyes fixed upon the eggs, till the return of its mate, and then
+                                 goes in its turn to look for food, and this care of theirs is so
+                                 necessary that it cannot be suspended for a moment, for if it
+                                 should their eggs would immediately become addle. <bibl>Vanslebe.
+                                    Harris's Collection.</bibl>
+                              </p>
+                              <p> This is said to emblem the perpetual attention of the Creator to
+                                 the <placeName>Universe</placeName>.</p>
+                           </note>
+                         fixes on her egg,</l>
+                     <l rend="i4" n="1519">Till that intense affection</l>
+                     <l rend="i4" n="1520">Kindle its light of life,</l>
+                     <l rend="i0" n="1521">Even in such deep and breathless tenderness</l>
+                     <l rend="i0" n="1522">
+                        <persName>Oneiza</persName>'s soul is centered on the
+                        youth,</l>
+                     <l rend="i0" n="1523">So motionless with such an ardent gaze,</l>
+                     <l rend="i4" n="1524">Save when from her full eyes</l>
+                     <l rend="i0" n="1525">Quickly she wipes away the gushing tears</l>
+                     <l rend="i4" n="1526">That dim his image there.</l>
+                  </lg>
+                  <lg xml:id="B3_lg177">
+                     <l rend="i0" n="1527">She called him brother: was it sister-love</l>
+                     <l rend="i4" n="1528">That made the silver rings</l>
+                     <l rend="i0" n="1529">Round her smooth ankles
+                           <note type="author" anchored="true" xml:id="N_62">
+                              <p> "She had laid aside the rings which used to grace her ankles, lest
+                                 the sound of them should expose her to calamity." <bibl>Asiatic
+                                    Researches.</bibl>
+                              </p>
+                              <p>
+                                 <rs type="place" ref="India">Most of the <orgName>Indian
+                                       women</orgName> have on each arm, and also above the ankle,
+                                    ten or twelve rings of gold, silver, ivory, or coral. They
+                                    spring on the leg, and when they walk make a noise with which
+                                    they are much pleased. Their hands and toes are generally
+                                    adorned with large rings.</rs>
+                                 <bibl>Sonnerat.</bibl>
+                              </p>
+                              <p> "In that day <name type="divin">the Lord</name> will take away the
+                                 bravery of <hi rend="italic">their tinkling ornaments about their
+                                    feet</hi>, and their cauls, and their round tires like the
+                                 moon." </p>
+                              <p> "The chains, and the bracelets and the mufflers, The bonnets, and
+                                    <hi rend="italic">the ornaments of the legs</hi>, &amp;c."
+                                    <bibl>Isaiah.</bibl> III. 18. </p>
+                           </note>
+                         and her twany arms,</l>
+                     <l rend="i0" n="1530">Shine daily brightened? for a brother's eye</l>
+                     <l rend="i4" n="1531">Were her long fingers
+                           <note type="author" anchored="true" xml:id="N_63">
+                              <p> His fingers, in beauty and slenderness appearing as the <hi rend="italic">Yed Bieza</hi>,
+                                    <note style="double" type="author" anchored="true" xml:id="NN_h"> The miraculously shining hand of
+                                       <persName>Moses</persName>.</note>
+                                  or the rays of the sun, being tinged with Hinna, seemed
+                                 branches of transparent red coral. <bibl>Bahar Danush.</bibl>
+                              </p>
+                              <p> She dispenses gifts with small delicate fingers, sweetly glowing
+                                 at their tips, like the white and crimson worm of
+                                    <placeName>Dabia</placeName>, or dentifrices made of Esel wood.
+                                    <bibl>Moallakat. Poem of Amriolkais.</bibl>
+                              </p>
+                              <p> The Hinna, says <bibl>the translator of the Bahar-Danush</bibl>,
+                                 is esteemed not merely ornamental, but medicinal: and I have myself
+                                 often experienced in <placeName>India</placeName> a most refreshing
+                                 coolness thro' the whole habit, from an embrocation, or rather
+                                 plaster of Hinna, applied to the soles of my feet, by prescription
+                                 of a native physician. The effect lasted for some days. </p>
+                              <p> This unnatural fashion is extended to animals. </p>
+                              <p> Departing from the <placeName>town of Anna</placeName> we met
+                                 about five hundred paces from the gate a young man of good family
+                                 followed by two servants, and mounted in the fashion of the
+                                 country, upon an Ass, whose rump was painted red.
+                                    <bibl>Tavernier.</bibl>
+                              </p>
+                              <p> In <placeName>Persia</placeName>, "they dye the tails of those
+                                 horses which are of a light colour with red or orange."
+                                    <bibl>Hanway.</bibl>
+                              </p>
+                              <p>
+                                 <persName>Ali the Moor</persName>, to whose capricious cruelty
+                                    <persName>Mungo Park</persName> was so long exposed, "always
+                                 rode upon a milk white horse, with its tail dyed red." </p>
+                              <p>
+                                 <hi rend="italic">Alfenado</hi>, a word derived from alfena the
+                                 Portugueze or Moorish name of this plant, is still used in
+                                    <placeName>Portugal</placeName> as a phrase of contempt for a
+                                 fop.</p>
+                           </note>
+                         tinged,</l>
+                     <l rend="i4" n="1532">As when she trimmed the lamp,</l>
+                     <l rend="i2" n="1533">And thro' the veins and delicate skin</l>
+                     <l rend="i0" n="1534">The light shone rosy? that the darkened lids
+                           <note type="author" anchored="true" xml:id="N_64">
+                              <p> The blackened eye-lids and the reddened fingers were <rs type="place" ref="the_East">Eastern customs</rs>, in use <rs type="place" ref="Greece">among <orgName>the Greeks</orgName>.
+                                    They are still among the tricks of the Grecian toilette</rs>,
+                                 the females of the rest of <placeName>Europe</placeName> have never
+                                 added them to their list of ornaments.</p>
+                           </note>
+                        
+                     </l>
+                     <l rend="i0" n="1535">Gave yet a softer lustre to her eye?</l>
+                     <l rend="i4" n="1536">That with such pride she tricked</l>
+                     <l rend="i0" n="1537">Her glossy tresses, and on holy day</l>
+                     <l rend="i0" n="1538">Wreathed the red flower-crown
+                           <note type="author" anchored="true" xml:id="N_65">
+                              <p>
+                                 <rs type="place" ref="Arabia">The Mimosa Selam produces splendid
+                                    flowers of a beautiful red colour with which the
+                                       <orgName>Arabians</orgName> crown their heads on their days
+                                    of festival.</rs>
+                                 <bibl>Niebuhr.</bibl>
+                              </p>
+                           </note>
+                         round their jetty waves?</l>
+                     <l rend="i4" n="1539">How happily the years</l>
+                     <l rend="i4" n="1540">Of <persName>Thalaba</persName> went by!</l>
+                  </lg>
+                  <lg xml:id="B3_lg178">
+                     <l rend="i2" n="1541">Yet was the heart of <persName>Thalaba</persName>
+                     </l>
+                     <l rend="i4" n="1542">Impatient of repose;</l>
+                     <l rend="i4" n="1543">Restless he pondered still</l>
+                     <l rend="i4" n="1544">The task for him decreed,</l>
+                     <l rend="i0" n="1545">The mighty and mysterious work announced.</l>
+                     <l rend="i2" n="1546">Day by day with youthful ardour</l>
+                     <l rend="i2" n="1547">He the call of <name type="divin">Heaven</name>
+                        awaits,</l>
+                     <l rend="i0" n="1548">And oft in visions o'er the Murderer's head</l>
+                     <l rend="i4" n="1549">He lifts the avenging arm,</l>
+                     <l rend="i4" n="1550">And oft in dreams he sees</l>
+                     <l rend="i2" n="1551">The Sword that is circled with fire.</l>
+                  </lg>
+                  <lg xml:id="B3_lg179">
+                     <l rend="i0" n="1552">One morn as was their wont, in sportive mood</l>
+                     <l rend="i0" n="1553">The youth and damsel bent <persName>Hodeirah</persName>'s
+                        bow,</l>
+                     <l rend="i0" n="1554">For with no feeble hand nor erring aim</l>
+                     <l rend="i0" n="1555">
+                        <persName>Oneiza</persName> could let loose the obedient
+                        shaft.</l>
+                     <l rend="i2" n="1556">With head back-bending, <persName>Thalaba</persName>
+                     </l>
+                     <l rend="i0" n="1557">Shot up the aimless arrow high in air,</l>
+                     <l rend="i0" n="1558">Whose line in vain the aching sight pursued</l>
+                     <l rend="i4" n="1559">Lost in the depth of heaven.</l>
+                     <l rend="i0" n="1560">"When will the hour arrive," exclaimed the youth,</l>
+                     <l rend="i2" n="1561">"That I shall aim these fated shafts</l>
+                     <l rend="i4" n="1562">"To vengeance long delayed?</l>
+                     <l rend="i0" n="1563">"Have I not strength, my father, for the deed?</l>
+                     <l rend="i2" n="1564">"Or can the will of <name type="divin">Providence</name>
+                     </l>
+                     <l rend="i4" n="1565">"Be mutable like man?</l>
+                     <l rend="i2" n="1566">"Shall I never be called to the task?"</l>
+                  </lg>
+                  <lg xml:id="B3_lg180">
+                     <l rend="i0" n="1567">"Impatient boy!" quoth <persName>Moath</persName>, with a
+                        smile:</l>
+                     <l rend="i0" n="1568">"Impatient Thalaba!" Oneiza cried,</l>
+                     <l rend="i2" n="1569">And she too smiled, but in her smile</l>
+                     <l rend="i0" n="1570">A mild reproachful melancholy mixed.</l>
+                  </lg>
+                  <lg xml:id="B3_lg181">
+                     <l rend="i2" n="1571">Then <persName>Moath</persName> pointed where a cloud</l>
+                     <l rend="i0" n="1572">Of Locusts, from the desolated fields</l>
+                     <l rend="i4" n="1573">Of <placeName ana="rel">Syria</placeName>, winged their way.</l>
+                     <l rend="i4" n="1574">"Lo! how created things</l>
+                     <l rend="i4" n="1575">"Obey the written doom!"</l>
+                  </lg>
+                  <lg xml:id="B3_lg182">
+                     <l rend="i0" n="1576">Onward they came, a dark continuous cloud</l>
+                     <l rend="i0" n="1577">Of congregated myriads numberless,</l>
+                     <l rend="i0" n="1578">The rushing of whose wings was as the sound</l>
+                     <l rend="i0" n="1579">Of a broad river, headlong in its course</l>
+                     <l rend="i0" n="1580">Plunged from a mountain summit, or the roar</l>
+                     <l rend="i0" n="1581">Of a wild <placeName ref="Ocean" ana="ana">ocean</placeName> in the
+                        autumn storm,</l>
+                     <l rend="i0" n="1582">Shattering its billows on a shore of rocks.</l>
+                     <l rend="i0" n="1583">Onward they came, the winds impelled them on,</l>
+                     <l rend="i0" n="1584">Their work was done, their path of
+                           <note type="author" anchored="true" xml:id="N_66">
+                              <p> The large locusts, which are near three inches long, are not the
+                                 most destructive; as they fly, they yield to the current of the
+                                 wind which hurries them into the sea, or into <rs type="place" ref="desert">sandy deserts</rs> where they perish with hunger or
+                                 fatigue. The young locusts, that cannot fly, are the most ruinous;
+                                 they are about fifteen lines in length; and the thickness of a
+                                 goose quill. They creep over the country in such multitudes that
+                                 they leave not a blade of grass behind; and the noise of their
+                                 feeding announces their approach at some distance. The devastations
+                                 of locusts increase the price of provisions, and often occasion
+                                 famines; but the Moors find a kind of compensation in making food
+                                 of these insects; prodigious quantities are brought to market
+                                 salted and dried like red herrings. They have an oily and rancid
+                                 taste, which habit only can render agreeable; they are eat here,
+                                 however, with pleasure. <bibl>Chenier.</bibl>
+                              </p>
+                              <p> In <date>1778</date> the empire of <placeName>Morocco</placeName>
+                                 was ravaged by these insects. In the summer of that year, such
+                                 clouds of locusts came from the south that they darkened the air,
+                                 and devoured a part of the harvest. Their offspring, which they
+                                 left on the ground, committed still much greater mischief. Locusts
+                                 appeared and bred anew in the following year, so that in the spring
+                                 the country was wholly covered, and they crawled one over the other
+                                 in search of their subsistence. </p>
+                              <p> It has been remarked, in speaking of the climate of
+                                    <placeName>Morocco</placeName>, that the young locusts are those
+                                 which are the most mischievous; and that it seems almost impossible
+                                 to rid the land of these insects and their ravages, when the
+                                 country once becomes thus afflicted. In order to preserve the
+                                 houses and gardens in the neighbourhood of cities, they dig a ditch
+                                 two feet in depth and as much in width. This they pallisade with
+                                 reeds close to each other, and inclined inward toward the ditch; so
+                                 that the insects unable to climb up the slippery reed, fall back
+                                 into the ditch, where they devour one another. </p>
+                              <p> This was the means by which the gardens and vineyards of
+                                    <placeName>Rabat</placeName>, and the city itself were delivered
+                                 from this scourge, in 1779. The intrenchment, which was, at least,
+                                 a league in extent, formed a semicircle from the sea to river,
+                                 which separates Rabat from Sallee. The quantity of young locusts
+                                 here assembled was so prodigious that, on the third day, the ditch
+                                 could not be approached because of the stench. The whole country
+                                 was eaten up, the very bark of the fig, pomegranate, and orange
+                                 tree, bitter, hard, and corrosive as it was could not escape the
+                                 voracity of these insects. </p>
+                              <p> The lands, ravaged throughout all the western provinces, produced
+                                 no harvest, and the <orgName>Moors</orgName> being obliged to live
+                                 on their stores, which the exportation of corn (permitted till
+                                    <date>1774</date>) had drained, began to feel a dearth. Their
+                                 cattle, for which they make no provision, and which in these
+                                 climates, have no other subsistance than that of daily grazing,
+                                 died with hunger; nor could any be preserved but those which were
+                                 in the neighbourhood of mountains, or in marshy grounds, where the
+                                 regrowth of pasturage is more rapid. </p>
+                              <p> In <date>1780</date>, the distress was still farther increased.
+                                 The dry winter had checked the products of the earth, and given
+                                 birth to a new generation of locusts, who devoured whatever had
+                                 escaped from the inclemency of the season. The husbandman did not
+                                 reap even what he had sowed, and found himself destitute of food,
+                                 cattle, or seed corn. In this time of extreme wretchedness the poor
+                                 felt all the horrors of famine. They were seen wandering over the
+                                 country to devour roots, and, perhaps, abridged their days by
+                                 digging into the entrails of the earth in search of the crude means
+                                 by which they might be preserved. </p>
+                              <p> Vast numbers perished of indigestible food and want. I have beheld
+                                 country people in the roads, and in the streets, who had died of
+                                 hunger, and who were thrown across asses to be taken and buried.
+                                 Fathers sold their children. The husband, with the consent of his
+                                 wife, would take her into another province, there to bestow her in
+                                 marriage as if she were his sister, and afterwards come and reclaim
+                                 her when his wants were no longer so great. I have seen women and
+                                 children run after camels, and rake in their dung to seek for some
+                                 indigested grain of barley, which, if they found, they devoured
+                                 with avidity. <bibl>Chenier.</bibl>
+                              </p>
+                           </note>
+                         ruin past,</l>
+                     <l rend="i0" n="1585">Their graves were ready in the wilderness.</l>
+                     <l rend="i0" n="1586">"Behold the mighty army!" Moath cried,</l>
+                     <l rend="i4" n="1587">"Blindly they move, impelled</l>
+                     <l rend="i4" n="1588">"By the blind Element.</l>
+                     <l rend="i0" n="1589">"And yonder Birds our welcome visitants,</l>
+                     <l rend="i0" n="1590">"Lo! where they soar above the embodied host,</l>
+                     <l rend="i0" n="1591">"Pursue their way, and hang upon their rear,</l>
+                     <l rend="i4" n="1592">"And thin their spreading flanks,</l>
+                     <l rend="i0" n="1593">"Rejoicing o'er their banquet! deemest thou</l>
+                     <l rend="i0" n="1594">"The scent of water, on the <placeName ref="Syria" ana="rel">Syrian
+                           mosque</placeName>
+                     </l>
+                     <l rend="i0" n="1595">"Placed with priest-mummery, and the jargon-rites</l>
+                     <l rend="i0" n="1596">"That fool the multitude, has led them here</l>
+                     <l rend="i0" n="1597">"From far <placeName ana="rel">Khorasan</placeName>?
+                           <note type="author" anchored="true" xml:id="N_67">
+                              <p> The Abmelec or eater of Locusts, or grasshoppers, is a bird which
+                                 better deserves to be described, perhaps, than most others of which
+                                 travellers have given us an account, because the facts relating to
+                                 it are not only strange, in themselves, but so well and distinctly
+                                 attested, that however surprising they may seem, we cannot but
+                                 afford them our belief. The food of this creature is the locust, or
+                                 the grasshopper: it is of the size of an ordinary hen, its feathers
+                                 black, its wings large, and its flesh of a greyish colour; they fly
+                                 generally in great flocks, as the starlings are wont to do with us:
+                                 but the thing which renders these birds wonderful is, that they are
+                                 so fond of the water of a certain fountain in
+                                    <placeName>Corasson</placeName>, or
+                                    <placeName>Bactria</placeName>, that where-ever that water is
+                                 carried, they follow; on which account it is carefully preserved;
+                                 for where ever the locusts fall, the <orgName>Armenian
+                                    priests</orgName>, who are provided with this water, bring a
+                                 quanity of it, and place in jars, or pour it into little channels
+                                 in the fields, the next day whole troops of these birds arrive and
+                                 quickly deliver the people from the locusts. <bibl>Universal
+                                    History.</bibl>
+                              </p>
+                              <p>
+                                 <persName>Sir John Chardin</persName> has given us, the following
+                                 passage from an antient traveller, in relation to this bird. In
+                                    <placeName>Cyprus</placeName> about the time that the corn was
+                                 ripe for the sickle, the earth produced such a quantity of
+                                 cavalettes, or locusts, that they obscured sometimes the splendour
+                                 of the sun. Wherever these came, they burnt and eat up all; for
+                                 this there was no remedy, since, as fast as they were destroyed,
+                                 the earth produced more: <name type="divin">God</name>, however,
+                                 raised them up a means for their deliverance, which happened thus.
+                                 In <placeName>Persia</placeName>, near the <placeName ref="Cuerch">city of Cuerch</placeName> there is a fountain of water, which
+                                 has a wonderful property of destroying these insects; for a pitcher
+                                 full of this being carried in the open air, without passing through
+                                 house or vault, and being set on an high place, certain birds which
+                                 follow it, and fly and cry after the men who carry it from the
+                                 fountain, come to the place where it is fixed. These birds are red
+                                 and black, and fly in great flocks together, like starlings; the
+                                    <orgName>Turks</orgName> and <orgName>Persians</orgName> call
+                                 them <orgName>Musulmans</orgName>. These birds no sooner came to
+                                 Cyprus, but they destroyed the locusts with which the Island was
+                                 infested; but if the water be spilt or lost these creatures
+                                 immediately disappear; which accident fell out when the Turks took
+                                 this Island; for one of them going up into the steeple of
+                                 Famagusta, and finding there a pitcher of this water, he, fancying
+                                 that it contained gold or silver, or some precious thing, broke it,
+                                 and spilt what was therein; since which the Cypriots have been as
+                                 much tormented as ever by the locusts. </p>
+                              <p> On the confines of the <placeName>Medes</placeName> and of
+                                    <placeName>Armenia</placeName>, at certain times a great
+                                 quantity of Birds are seen who resemble our blackbirds, and they
+                                 have a property sufficiently curious to make me mention it. When
+                                 the corn in these parts begins to grow, it is astonishing to see
+                                 the number of Locusts with which all the fields are covered. The
+                                    <orgName>Armenians</orgName> have no other method of delivering
+                                 themselves from these insects, than by going in procession round
+                                 the fields and sprinkling them with a particular water which they
+                                 take care to preserve in their houses. For this water comes from a
+                                 great distance, they fetch it from a Well belonging to one of their
+                                    <rs type="building" subtype="temple">Convents</rs> near the
+                                 frontiers, and they say that the bodies of many <orgName>Christian
+                                    martyrs</orgName> were formerly thrown into this well. These
+                                 processions and the sprinkling continue three or four days, after
+                                 which the Birds that I have mentioned come in great flights, and
+                                 whether it be that they eat the locusts, or drive them away, in two
+                                 or three days the country is cleared of them.
+                                    <bibl>Tavernier.</bibl>
+                              </p>
+                              <p> At <placeName>Mosul</placeName> and at
+                                    <placeName>Haleb</placeName>, says Niebuhr, I heard much of the
+                                 Locust Bird, without seeing it. They there call it <hi rend="italic">Samarmar</hi>, or as others pronounce it, <hi rend="italic">Samarmog</hi>. It is said to be black, larger than
+                                 a sparrow, and no ways pleasant to the palate. I am assured that it
+                                 every day destroys an incredible number of Locusts; they pretend
+                                 nevertheless that the Locusts sometimes defend themselves, and
+                                 devour the Bird with its feathers, when they have overpowered it by
+                                 numbers. When the children in the frontier towns of
+                                    <placeName>Arabia</placeName> catch a live Locust, they place it
+                                 before them and cry <hi rend="italic">Samarmog</hi>! And because it
+                                 stoops down terrified at the noise, or at the motion of the child,
+                                 or clings more closely to its place, the children believe that it
+                                 fears the name of its enemy, that it hides itself, and attempts to
+                                 throw stones. The <hi rend="italic">Samarmog</hi> is not a native
+                                 of <placeName>Mosul</placeName> or <placeName>Haleb</placeName>,
+                                 but they go to seek it in <placeName>Khorasan</placeName> with much
+                                 ceremony. When the Locusts multiply very greatly, the government
+                                 sends persons worthy of trust to a spring near <placeName ref="Samarûn">the village of <hi rend="italic">Samarûn</hi>
+                              </placeName>, situated in a plain between four
+                                 mountains, by <placeName ref="Mesched">
+                                 <hi rend="italic">Mesched</hi>
+                              </placeName>, or <placeName ref="Musa_er_ridda">
+                                 <hi rend="italic">Musa er ridda</hi>
+                              </placeName>, in that
+                                 province of <placeName>Persia</placeName>. The deputies with the
+                                 ceremonies prescribed fill a chest with this water, and pitch the
+                                 chest so that the water may neither evaporate nor be spilt before
+                                 their return. From the spring to the Town whence they were sent,
+                                 the chest must always be between heaven and earth: they must
+                                 neither place it on the ground, nor under any roof, lest it should
+                                 lose all its virtue. <placeName>Mosul</placeName> being surrounded
+                                 with a wall, the water must not pass under the gate way, but it is
+                                 received over the wall, and the chest placed upon <rs type="building" subtype="temple">the Mosque <hi rend="italic">Nebbi Gurgis</hi>, a building which was formerly a church,
+                                    and which in preference to all the other buildings has had from
+                                    time immemorial the honour to possess this chest upon its
+                                    roof</rs>. When this precious water has been brought from
+                                    <placeName>Khorasan</placeName> with the requisite precautions,
+                                 the common <orgName>Mohammedans</orgName>,
+                                    <orgName>Christians</orgName> and <orgName>Jews</orgName> of
+                                    <placeName>Mosul</placeName> believe that the <hi rend="italic">Samarmog</hi> follows the water, and remains in the country as
+                                 long as there is a single drop left in the chest of <hi rend="italic">Nebbi-Gurgis</hi>. Seeing one day a large stork's
+                                 nest upon this vessel, I told a Christian of some eminence in the
+                                 town, how much I admired the quick smell of the <hi rend="italic">Samarmog</hi>, who perceived the smell of the water thro' such
+                                 a quantity of ordure, he did not answer me, but was very much
+                                 scandalized that the government should have permitted the stork to
+                                 make her nest upon so rare a treasure, and still more angry, that
+                                 for more than nine years, the government had not sent to procure
+                                 fresh water. <bibl>Niebuhr. Desc. de l'Arabie.</bibl>
+                              </p>
+                              <p>
+                                 <persName>Dr. Russell</persName> describes this bird as about the
+                                 size of a starling, the body of a flesh colour, the rest of its
+                                 plumage black, the bill and legs black also.</p>
+                           </note>
+                        
+                        <name type="divin">Allah</name> who decreed</l>
+                     <l rend="i0" n="1598">"Yon tribe the plague and punishment of man,</l>
+                     <l rend="i0" n="1599">"These also hath he doomed to meet their way:</l>
+                     <l rend="i4" n="1600">"Both passive instruments</l>
+                     <l rend="i4" n="1601">"Of his all-acting will,</l>
+                     <l rend="i0" n="1602">"Sole mover he, and only spring of all."</l>
+                  </lg>
+                  <lg xml:id="B3_lg183">
+                     <l rend="i0" n="1603">While thus he spake, <persName>Oneiza</persName>'s eye
+                        looks up</l>
+                     <l rend="i4" n="1604">Where one towards her flew,</l>
+                     <l rend="i0" n="1605">Satiate, for so it seemed, with sport and food.</l>
+                     <l rend="i4" n="1606">The Bird flew over her,</l>
+                     <l rend="i4" n="1607">And as he past above,</l>
+                     <l rend="i0" n="1608">From his relaxing grasp a Locust fell....</l>
+                     <l rend="i2" n="1609">It fell upon the Maiden's robe,</l>
+                     <l rend="i0" n="1610">And feebly there it stood, recovering slow.</l>
+                  </lg>
+                  <lg xml:id="B3_lg184">
+                     <l rend="i4" n="1611">The admiring girl surveyed</l>
+                     <l rend="i4" n="1612">His out-spread sails of green.</l>
+                     <l rend="i4" n="1613">His gauzy underwings,</l>
+                     <l rend="i0" n="1614">One closely to the grass green body furled,</l>
+                     <l rend="i0" n="1615">One ruffled in the fall, and half unclosed.</l>
+                     <l rend="i4" n="1616">She viewed his jet-orbed eyes</l>
+                     <l rend="i4" n="1617">His glossy gorget bright</l>
+                     <l rend="i4" n="1618">Green-glittering in the sun;</l>
+                     <l rend="i4" n="1619">His plumy pliant horns</l>
+                     <l rend="i4" n="1620">That, nearer as she gazed,</l>
+                     <l rend="i2" n="1621">Bent tremblingly before her breath.</l>
+                     <l rend="i2" n="1622">She viewed his yellow-circled front</l>
+                     <l rend="i4" n="1623">With lines mysterious veined;</l>
+                     <l rend="i2" n="1624">"And knowest thou what is written here,</l>
+                     <l rend="i4" n="1625">"My father?" said the Maid.</l>
+                     <l rend="i2" n="1626">"Look <persName>Thalaba</persName>! perchance these
+                        lines</l>
+                     <l rend="i2" n="1627">"Are in <rs type="script" subtype="eng">the letters of
+                              <rs type="art" subtype="gem">the Ring</rs>
+                        </rs>,</l>
+                     <l rend="i2" n="1628">
+                        <rs type="script" subtype="nature">"<name type="myth">Nature</name>'s own
+                           language written here."</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B3_lg185">
+                     <l rend="i2" n="1629">The youth bent down, and suddenly</l>
+                     <l rend="i4" n="1630">He started, and his heart</l>
+                     <l rend="i4" n="1631">Sprung, and his cheek grew red,</l>
+                     <l rend="i0" n="1632">For the mysterious
+                           <note type="author" anchored="true" xml:id="N_68">
+                              <p> The Locusts are remarkable for the hieroglyphic that they bear
+                                 upon the forehead, their colour is green throughout the whole body,
+                                 excepting a little yellow rim that surrounds their head, which is
+                                 lost at their eyes. This insect has two upper wings pretty solid:
+                                 they are green like the rest of the body, except that there is in
+                                 each a little white spot. The Locust keeps them extended like great
+                                 sails of a ship going before the wind, it has besides two other
+                                 wings underneath the former, and which resemble a light transparent
+                                 stuff pretty much like a cobweb, and which it makes use of in the
+                                 manner of smack sails that are along a vessel; but when the Locust
+                                 reposes herself she does like a vessel that lies at anchor, for she
+                                 keeps the second sails furled under the first. <bibl>Norden.</bibl>
+                              </p>
+                              <p> The <orgName>Mohammedans</orgName> believe some mysterious meaning
+                                 is contained in the lines upon the Locust's forehead. </p>
+                              <p> I compared the description in the Poem with a Locust, which was
+                                 caught in <placeName>Leicestershire</placeName>. It is remarkable
+                                 that a single insect should have found his way so far inland.</p>
+                           </note>
+                        
+                        <rs type="script" subtype="nature">lines were legible</rs>,</l>
+                     <l rend="i2" n="1633">
+                        <rs type="script" subtype="nature">
+                           <hi rend="smallcap">When the sun shall be
+                              darkened at noon</hi>
+                        </rs>,</l>
+                     <l rend="i4" n="1634">
+                        <rs type="script" subtype="nature">
+                           <hi rend="smallcap">Son of Hodeirah,
+                              depart.</hi>
+                        </rs>
+                     </l>
+                     <l rend="i0" n="1635">And <persName>Moath</persName> looked, and read the lines
+                        aloud;</l>
+                     <l rend="i2" n="1636">The Locust shook his wings and fled,</l>
+                     <l rend="i4" n="1637">And they were silent all.</l>
+                  </lg>
+                  <lg xml:id="B3_lg186">
+                     <l rend="i2" n="1638">Who then rejoiced but <persName>Thalaba</persName>?</l>
+                     <l rend="i0" n="1639">Who then was troubled but <rs type="person" ref="Oneiza">the Arabian Maid</rs>?</l>
+                     <l rend="i4" n="1640">And <persName>Moath</persName> sad of heart,</l>
+                     <l rend="i0" n="1641">Tho' with a grief supprest, beheld the youth</l>
+                     <l rend="i4" n="1642">Sharpen his arrows now,</l>
+                     <l rend="i4" n="1643">And now new-plume their shafts,</l>
+                     <l rend="i2" n="1644">Now to beguile impatient hope</l>
+                     <l rend="i4" n="1645">Feel every sharpened point.</l>
+                  </lg>
+                  <lg xml:id="B3_lg187">
+                     <l rend="i0" n="1646">"Why is that anxious look," Oneiza cried,</l>
+                     <l rend="i4" n="1647">"Still upwards cast at noon?</l>
+                     <l rend="i0" n="1648">"Is Thalaba aweary of our tent?"</l>
+                     <l rend="i2" n="1649">"I would be gone," the youth replied,</l>
+                     <l rend="i4" n="1650">"That I might do my task,</l>
+                     <l rend="i0" n="1651">"And full of glory to <rs type="building" subtype="tent">the tent</rs> return</l>
+                     <l rend="i4" n="1652">"Whence I should part no more."</l>
+                  </lg>
+                  <lg xml:id="B3_lg188">
+                     <l rend="i4" n="1653">But on the noontide sun,</l>
+                     <l rend="i0" n="1654">As anxious and as oft <persName>Oneiza</persName>'s
+                        eye</l>
+                     <l rend="i4" n="1655">Was upward glanced in fear.</l>
+                     <l rend="i0" n="1656">And now as <persName>Thalaba</persName> replied, her
+                        cheek</l>
+                     <l rend="i4" n="1657">Lost its fresh and lively hue,</l>
+                     <l rend="i4" n="1658">For in the Sun's bright edge</l>
+                     <l rend="i0" n="1659">She saw, or thought she saw, a little speck.</l>
+                     <l rend="i4" n="1660">
+                        <rs type="science" subtype="astro">
+                           <persName>The sage
+                              Astronomer</persName>
+                        </rs>
+                     </l>
+                     <l rend="i2" n="1661">Who with the love of science full</l>
+                     <l rend="i0" n="1662">Trembled that day at every passing cloud,</l>
+                     <l rend="i0" n="1663">He had not seen it, 'twas a speck so small.</l>
+                  </lg>
+                  <lg xml:id="B3_lg189">
+                     <l rend="i0" n="1664">Alas! <persName>Oneiza</persName> sees the spot
+                        increase!</l>
+                     <l rend="i4" n="1665">And lo! the ready Youth</l>
+                     <l rend="i0" n="1666">Over his shoulder the full quiver slings</l>
+                     <l rend="i4" n="1667">And grasps the slackened bow.</l>
+                     <l rend="i4" n="1668">It spreads, and spreads, and now</l>
+                     <l rend="i4" n="1669">Has shaddowed half the Sun,</l>
+                     <l rend="i4" n="1670">Whose crescent-pointed horns</l>
+                     <l rend="i4" n="1671">Now momently decrease.</l>
+                  </lg>
+                  <lg xml:id="B3_lg190">
+                     <l rend="i0" n="1672">The day grows dark, the Birds retire to rest;</l>
+                     <l rend="i4" n="1673">Forth from her shadowy haunt</l>
+                     <l rend="i0" n="1674">Flies the large-headed
+                           <note type="author" anchored="true" xml:id="N_69">
+                              <p> An <orgName>Arabian</orgName> expression from <bibl>the
+                                    Moallakat</bibl>. "She turns her right side, as if she were in
+                                 fear of some large-headed Screamer of the night." <bibl>Poem of
+                                    Antara.</bibl>
+                              </p>
+                           </note>
+                         Screamer of the night.</l>
+                     <l rend="i2" n="1675">
+                        <rs type="place" ref="Africa" ana="rel">Far off the affrighted
+                           African</rs>,</l>
+                     <l rend="i4" n="1676">Deeming his<name type="divin">God</name>deceased,</l>
+                     <l rend="i4" n="1677">Falls on his knees in prayer,</l>
+                     <l rend="i4" n="1678">And trembles as he sees</l>
+                     <l rend="i4" n="1679">The fierce Hyena's eyes</l>
+                     <l rend="i0" n="1680">Glare in the darkness of that dreadful noon.</l>
+                  </lg>
+                  <lg xml:id="B3_lg191">
+                     <l rend="i2" n="1681">Then <persName>Thalaba</persName> exclaimed,
+                        "Farewell,</l>
+                     <l rend="i0" n="1682">"My father! my <persName>Oneiza</persName>!" the <rs type="person" ref="Moath">Old Man</rs>
+                     </l>
+                     <l rend="i4" n="1683">Felt his throat swell with grief.</l>
+                     <l rend="i0" n="1684">"Where wilt thou go my Child?" he cried,</l>
+                     <l rend="i4" n="1685">"Wilt thou not wait a sign</l>
+                     <l rend="i4" n="1686">"To point thy destined way?"</l>
+                     <l rend="i0" n="1687">"<name type="divin">God</name> will conduct me!" said the
+                        noble youth,</l>
+                     <l rend="i4" n="1688">He said and from <rs type="building" subtype="tent">the
+                           Tent</rs>
+                     </l>
+                     <l rend="i0" n="1689">In the depth of the darkness departed.</l>
+                     <l rend="i4" n="1690">They heard his parting steps,</l>
+                     <l rend="i0" n="1691">The quiver rattling as he past away.</l>
+                  </lg>
+               </div>
+      </body>
+   </text>
+</TEI>

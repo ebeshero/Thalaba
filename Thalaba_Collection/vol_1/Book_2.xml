@@ -1,1 +1,1335 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt>Thalaba the Destroyer (1801), Volume 1: Book 2</titleStmt></fileDesc></teiHeader><text><front><head><bibl><title level="m">Thalaba the Destroyer</title><title level="a">, Volume 1: Book 2</title> () by <author>Robert Southey</author></bibl></head></front><body/></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801), Volume 1: Book 2</title>
+            <author>Robert Southey</author>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/>
+            </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title>
+               <title level="a">, Volume 1: Book 2</title> (<date>1801</date>) by <author>Robert Southey</author>
+            </bibl>
+         </head>
+      </front>
+      <body>
+         <div type="book" xml:id="Book_2">
+                  <head>THE SECOND BOOK.</head>
+                  <lg xml:id="B2_lg60">
+                     <l rend="i4" n="723">Not in <rs type="place" ref="desert" ana="hereNow">the desert</rs>
+                     </l>
+                     <l rend="i4" n="724">
+                        <persName ref="Thalaba">Son of Hodeirah</persName>
+                     </l>
+                     <l rend="i4" n="725">Wert thou abandoned!</l>
+                     <l rend="i4" n="726">
+                        <rs type="image" subtype="human">The coexistent fire,</rs>
+                     </l>
+                     <l rend="i0" n="727">That in <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel"> the Dens of Darkness </rs> burnt for thee,</l>
+                     <l rend="i4" n="728">Burns yet, and yet shall burn.</l>
+                  </lg>
+                  <lg xml:id="B2_lg61">
+                     <l rend="i2" n="729">In <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">the Domdaniel caverns </rs>
+                     </l>
+                     <l rend="i2" n="730">
+                        <rs type="metaplace" subtype="under" ref="Under_Ocean" ana="rel">Under the Roots of
+                           the Ocean</rs>, </l>
+                     <l rend="i4" n="731">Met <orgName ref="Dom">the Masters of the
+                        Spell</orgName>.</l>
+                     <l rend="i4" n="732">Before them in <geogFeat>the vault</geogFeat>,</l>
+                     <l rend="i0" n="733">Blazing unfuelled from <geogFeat>the floor of
+                           rock</geogFeat>,</l>
+                     <l rend="i4" n="734">
+                        <rs type="image" subtype="human">Ten magic flames arose</rs>.</l>
+                     <l rend="i2" n="735">
+                        <rs type="image" subtype="human">"Burn mystic fires!"</rs>
+                        <persName>Abdaldar</persName> cried,</l>
+                     <l rend="i0" n="736">"Burn whilst <orgName>
+                           <persName>Hodeirah</persName>'s dreaded race</orgName> exist.</l>
+                     <l rend="i4" n="737">
+                        <time>"This is the appointed hour,</time>
+                     </l>
+                     <l rend="i0" n="738">
+                        <time>"The hour that shall secure <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">these dens of night</rs>."</time>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg62">
+                     <l rend="i2" n="739">
+                        <rs type="image" subtype="human">"Dim they burn,"</rs> exclaimed
+                           <persName>Lobaba</persName>,</l>
+                     <l rend="i2" n="740">
+                        <rs type="image" subtype="human">"Dim they burn, and now they waver!</rs>
+                     </l>
+                     <l rend="i4" n="741">"<persName>Okba</persName> lifts the arm of death,</l>
+                     <l rend="i4" n="742">
+                        <rs type="image" subtype="human">"They waver,... they go out!</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg63">
+                     <l rend="i4" n="743">"Curse on <rs type="person" ref="Okba">his hasty
+                        hand</rs>!"</l>
+                     <l rend="i4" n="744">
+                        <persName>Khawla</persName> exclaimed in wrath,</l>
+                     <l rend="i4" n="745">
+                        <rs type="person" ref="Khawla">The woman-fiend</rs> exclaimed,</l>
+                     <l rend="i0" n="746">"Curse on his hasty hand, <rs type="person" ref="Okba">the
+                           fool</rs> hath failed!</l>
+                     <l rend="i4" n="747">
+                        <rs type="image" subtype="human">"Eight only are gone out."</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg64">
+                     <l rend="i0" n="748">
+                        <rs type="science" subtype="orac">A <name type="zomb">Teraph</name>
+                           
+                              <note type="author" anchored="true" xml:id="N_22">
+                                 <p>
+                                    <rs type="religion" subtype="idol">The manner how the <name type="zomb">Teraphim</name> were made is fondly conceited
+                                       thus among <orgName>the Rabbies</orgName>. They killed <rs type="person">a man that was a first born son</rs>, and
+                                       wrung off his head, and seasoned it with salt and spices, and
+                                          <rs type="script" subtype="eng">wrote upon a plate of gold
+                                          the name of an uncleane spirit</rs>, and put it under the
+                                       head upon a wall, and lighted candles before it and
+                                       worshipped it.</rs>
+                                    <bibl>
+                                       <author>Godwyn</author>'s Moses and Aaron.</bibl>
+                                 </p>
+                                 <p> In <bibl>
+                                       <author>
+                                       <hi rend="italic">Rabbi Eleazar</hi>
+                                    </author>
+                                    </bibl> it is said to be the head of <rs type="person">a
+                                       child</rs>.</p>
+                              </note>
+                            stood against <geogFeat>the cavern side</geogFeat>,</rs>
+                     </l>
+                     <l rend="i4" n="749">
+                        <rs type="science" subtype="orac">
+                           <rs type="person">A new-born infant</rs>'s head,</rs>
+                     </l>
+                     <l rend="i0" n="750">
+                        <rs type="science" subtype="orac">That <persName>Khawla</persName>
+                           <time>at his hour of birth</time> had seized</rs>
+                     </l>
+                     <l rend="i4" n="751">
+                        <rs type="science" subtype="orac">And from the shoulders wrung.</rs>
+                     </l>
+                     <l rend="i2" n="752">
+                        <rs type="science" subtype="orac">It stood upon a plate of gold,</rs>
+                     </l>
+                     <l rend="i0" n="753">
+                        <rs type="script" subtype="eng">
+                           <name type="divin">An unclean Spirit</name>'s name inscribed
+                           beneath.</rs>
+                     </l>
+                     <l rend="i4" n="754">
+                        <rs type="science" subtype="orac">The cheeks were deathy dark,</rs>
+                     </l>
+                     <l rend="i0" n="755">
+                        <rs type="science" subtype="orac">Dark the dead skin upon the hairless
+                           skull;</rs>
+                     </l>
+                     <l rend="i4" n="756">
+                        <rs type="science" subtype="orac">The lips were bluey pale;</rs>
+                     </l>
+                     <l rend="i4" n="757">
+                        <rs type="science" subtype="orac">Only the eyes had life,</rs>
+                     </l>
+                     <l rend="i4" n="758">
+                        <rs type="science" subtype="orac">They gleamed with demon light.</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg65">
+                     <l rend="i0" n="759">
+                        <rs type="science" subtype="orac">"Tell me!" quoth
+                              <persName>Khawla</persName>, "is <rs type="image" subtype="human">the
+                              Fire</rs> gone out</rs>
+                     </l>
+                     <l rend="i2" n="760">
+                        <rs type="science" subtype="orac">"That threats <orgName ref="Dom">the
+                              Masters of the Spell</orgName>?"</rs>
+                     </l>
+                     <l rend="i4" n="761">
+                        <rs type="science" subtype="orac">The dead lips moved and spake,</rs>
+                     </l>
+                     <l rend="i4" n="762">
+                        <rs type="science" subtype="orac">"<rs type="image" subtype="human">The
+                              Fire</rs> still burns that threats</rs>
+                     </l>
+                     <l rend="i4" n="763">
+                        <rs type="science" subtype="orac">"<orgName ref="Dom">The Masters of the
+                              Spell</orgName>."</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg66">
+                     <l rend="i2" n="764">"Curse on thee, <persName>Okba</persName>!"
+                           <persName>Khawla</persName> cried,</l>
+                     <l rend="i2" n="765">As to the den <persName ref="Okba">the Sorcerer</persName>
+                        came,</l>
+                     <l rend="i2" n="766">He bore the dagger in his hand</l>
+                     <l rend="i0" n="767">Hot from the murder of <orgName>
+                           <persName>Hodeirah</persName>'s race</orgName>.</l>
+                     <l rend="i2" n="768">
+                        <rs type="image" subtype="human">"Behold those unextinguished flames!</rs>
+                     </l>
+                     <l rend="i4" n="769">"<rs type="image" subtype="human">The fire still
+                           burns</rs> that threats</l>
+                     <l rend="i4" n="770">"<orgName ref="Dom">The Masters of the
+                        Spell</orgName>!</l>
+                     <l rend="i4" n="771">"<persName>Okba</persName>, wert thou weak of heart?</l>
+                     <l rend="i4" n="772">"<persName>Okba</persName>, wert thou blind of eye?</l>
+                     <l rend="i2" n="773">"Thy fate and ours were on the lot,</l>
+                     <l rend="i2" n="774">"And <rs type="science" subtype="astro">we believed the
+                           lying stars</rs>
+                     </l>
+                     <l rend="i0" n="775">"<rs type="science" subtype="astro">That said thy hand
+                           might seize the auspicious hour!</rs>
+                     </l>
+                     <l rend="i0" n="776">"Thou hast let slip <rs type="myth">the reins of <name type="myth">Destiny</name>
+                        </rs>,...</l>
+                     <l rend="i4" n="777">"Curse thee, curse thee, <persName>Okba</persName>!"</l>
+                  </lg>
+                  <lg xml:id="B2_lg67">
+                     <l rend="i4" n="778">
+                        <persName ref="Okba">The Murderer</persName> answering said,</l>
+                     <l rend="i2" n="779">"O <orgName ref="Dom">versed in all enchanted
+                           lore</orgName>,</l>
+                     <l rend="i2" n="780">"Thou better knowest <persName>Okba</persName>'s soul.</l>
+                     <l rend="i2" n="781">"Eight blows <rs type="person" ref="Okba">I</rs> struck,
+                        eight home-driven blows,</l>
+                     <l rend="i4" n="782">"Needed no second stroke</l>
+                     <l rend="i4" n="783">"From this envenomed blade.</l>
+                     <l rend="i0" n="784">"Ye frown at me as if the will had failed,</l>
+                     <l rend="i4" n="785">"As if ye did not know</l>
+                     <l rend="i0" n="786">"My double danger from <orgName>
+                           <persName>Hodeirah</persName>'s race</orgName>,</l>
+                     <l rend="i4" n="787">"The deeper hate I feel,</l>
+                     <l rend="i0" n="788">"The stronger motive that inspired my arm!</l>
+                     <l rend="i2" n="789">"Ye frown as if my hasty fault,</l>
+                     <l rend="i4" n="790">"My ill-directed blow</l>
+                     <l rend="i4" n="791">"Had spared the enemy,</l>
+                     <l rend="i2" n="792">"And not <rs type="science" subtype="astro">the stars that
+                           would not give</rs>,</l>
+                     <l rend="i4" n="793">"And not <rs type="science" subtype="orac">your feeble
+                           spells</rs>
+                     </l>
+                     <l rend="i4" n="794">"<rs type="science" subtype="orac">That could not force,
+                           the sign</rs>
+                     </l>
+                     <l rend="i4" n="795">"Which of the whole was he!</l>
+                     <l rend="i2" n="796">"Did ye not bid me strike them all?</l>
+                     <l rend="i0" n="797">"Said ye not root and branch should be destroyed?</l>
+                     <l rend="i2" n="798">"I heard <persName>Hodeirah</persName>'s dying groan,</l>
+                     <l rend="i2" n="799">"I heard <orgName>his Children</orgName>'s shriek of
+                        death,</l>
+                     <l rend="i2" n="800">"And sought to consummate the work,</l>
+
+                     <l rend="i2" n="801">"But o'er <rs type="person" ref="Zeinab Thalaba">the two
+                           remaining lives</rs>
+                     </l>
+                     <l rend="i2" n="802"> "<rs type="metaplace"
+                      subtype="barrier"
+                      ref="impenetrable_cloud"
+                      ana="hereNow">A cloud unpierceable</rs> had risen, </l>
+                     <l rend="i2" n="803"> "A cloud that mocked my searching eyes. </l>
+                     <l rend="i0" n="804"> "I would have probed it with the dagger-point, </l>
+                     <l rend="i4" n="805"> "The dagger was repelled, </l>
+
+                     <l rend="i4" n="806">"<name type="divin">A Voice</name> came forth and
+                        cried</l>
+                     <l rend="i0" n="807">"<persName ref="Okba">Son of Perdition</persName>, cease!
+                        thou canst not change</l>
+                     <l rend="i0" n="808">"<rs type="script" subtype="book">What in the Book of
+                           Destiny is written</rs>."</l>
+                  </lg>
+
+                  <lg xml:id="B2_lg68">
+                     <l rend="i2" n="809">
+                        <rs type="science" subtype="orac">
+                           <persName>Khawla</persName> to the <name type="zomb">Teraph</name>
+                           turned,</rs>
+                     </l>
+                     <l rend="i2" n="810">
+                        <rs type="science" subtype="orac">"Tell me where <persName>the
+                              Prophet</persName>'s hand</rs>
+                     </l>
+                     <l rend="i2" n="811">
+                        <rs type="science" subtype="orac">"Hides <rs type="person" ref="Thalaba">our
+                              destined enemy</rs>?"</rs>
+                     </l>
+                     <l rend="i2" n="812">
+                        <rs type="science" subtype="orac">
+                           <name type="zomb" ref="Teraph">The dead
+                              lips</name> spake again,</rs>
+                     </l>
+                     <l rend="i2" n="813">
+                        <rs type="science" subtype="orac">"<rs type="person" ref="Teraph">I</rs>
+                           view the seas, I view the land,</rs>
+                     </l>
+                     <l rend="i2" n="814">
+                        <rs type="science" subtype="orac">"I search <placeName ref="Ocean">the
+                              ocean</placeName> and <placeName ref="Earth_planet">the
+                              earth</placeName>!</rs>
+                     </l>
+
+                     <l rend="i2" n="815">
+                        <rs type="science" subtype="orac">"Not on <placeName>Ocean</placeName> is
+                           the Boy,</rs>
+                     </l>
+                     <l rend="i2" n="816">
+                        <rs type="science" subtype="orac">"Not on <placeName ref="Earth_planet">Earth</placeName> his steps are seen."</rs>
+                     </l>
+
+                  </lg>
+
+
+                  <lg xml:id="B2_lg69">
+                     <l rend="i0" n="817">"A mightier power than we," <persName>Lobaba</persName>
+                        cried,</l>
+                     <l rend="i4" n="818">"Protects <rs type="person" ref="Thalaba">our destined
+                           foe</rs>!</l>
+                     <l rend="i4" n="819">"Look! look! <rs type="image" subtype="human">one fire
+                           burns dim!</rs>
+                     </l>
+                     <l rend="i4" n="820">
+                        <rs type="image" subtype="human">"It quivers! it goes out!"</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg70">
+                     <l rend="i4" n="821">
+                        <rs type="image" subtype="human">It quivered, it was quenched.</rs>
+                     </l>
+                     <l rend="i4" n="822">
+                        <rs type="image" subtype="human">One flame alone was left,</rs>
+                     </l>
+                     <l rend="i0" n="823">
+                        <rs type="image" subtype="human">A pale blue flame that trembled on the
+                           earth,</rs>
+                     </l>
+                     <l rend="i0" n="824">
+                        <rs type="image" subtype="human">A hovering light upon whose shrinking
+                           edge</rs>
+                     </l>
+                     <l rend="i4" n="825">
+                        <rs type="image" subtype="human">The darkness seemed to press.</rs>
+                     </l>
+                     <l rend="i4" n="826">
+                        <rs type="image" subtype="human">Stronger it grew, and spread</rs>
+                     </l>
+                     <l rend="i4" n="827">
+                        <rs type="image" subtype="human">Its lucid swell around,</rs>
+                     </l>
+                     <l rend="i0" n="828">
+                        <rs type="image" subtype="human">Extending now <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">where all the ten had
+                           stood</rs>,</rs>
+                     </l>
+                     <l rend="i4" n="829">
+                        <rs type="image" subtype="human">With lustre more than all.</rs>
+                     </l>
+                     <l rend="i4" n="830">At that protentous sight,</l>
+                     <l rend="i2" n="831">The <orgName ref="Dom">children of Evil</orgName>
+                        trembled</l>
+                     <l rend="i4" n="832">And Terror smote their souls.</l>
+                     <l rend="i4" n="833">Over <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">the den</rs>
+                        <rs type="image" subtype="human">the fire</rs>
+                     </l>
+                     <l rend="i4" n="834">
+                        <rs type="image" subtype="human">Its fearful splendour cast,</rs>
+                     </l>
+                     <l rend="i0" n="835">
+                        <rs type="image" subtype="human">The broad base rolling up in wavy
+                           streams,</rs>
+                     </l>
+                     <l rend="i0" n="836">Bright as the summer lightning when it spreads</l>
+                     <l rend="i2" n="837">Its glory o'er the <time>midnight</time>
+                        <rs type="metaplace" subtype="celest" ref="sky" ana="ana">heaven</rs>.</l>
+                     <l rend="i4" n="838">The <rs type="science" subtype="orac">
+                           <name type="zomb">Teraphs</name> eyes</rs> were dimmed,</l>
+                     <l rend="i4" n="839">That like two twinkling stars</l>
+                     <l rend="i4" n="840">Shone in the darkness late.</l>
+                     <l rend="i2" n="841">
+                        <orgName ref="Dom">The Sorcerers</orgName> on each other gazed,</l>
+                     <l rend="i2" n="842">And every face all pale with fear,</l>
+                     <l rend="i2" n="843">And ghastly in that light was seen</l>
+                     <l rend="i0" n="844">Like a dead man's <rs type="metaplace" subtype="under" ref="Tombs" ana="ana">by the sepulchral lamp</rs>.</l>
+                  </lg>
+                  <lg xml:id="B2_lg71">
+                     <l rend="i0" n="845">Even <persName>Khawla</persName> fiercest of <orgName ref="Dom">the enchanter brood</orgName>
+                     </l>
+                     <l rend="i4" n="846">Not without effort drew</l>
+                     <l rend="i4" n="847">Her fear suspended breath.</l>
+                     <l rend="i4" n="848">Anon a deeper rage</l>
+                     <l rend="i4" n="849">Inflamed her reddening eye.</l>
+                     <l rend="i2" n="850">"Mighty is thy power, <persName>Mohammed</persName>!"</l>
+                     <l rend="i2" n="851">Loud in blasphemy she cried,</l>
+                     <l rend="i2" n="852">"But <name type="divin">Eblis</name>
+                        
+                           <note type="author" anchored="true" xml:id="N_23">
+                              <p>
+                                 <name type="divin">The Devil</name>, whom
+                                    <persName>Mohammed</persName> names <name type="divin">Eblis</name>, from his dispair, was once one of those
+                                    <orgName>Angels</orgName> who are nearest to <name type="divin">God</name>'s presence, called <persName ref="Eblis">Azazil</persName>; and fell (according to <rs type="script" subtype="holy">the doctrine of <title>the Koran</title>
+                              </rs>)
+                                 for refusing to pay homage to <persName>Adam</persName> at the
+                                 command of<name type="divin">God</name>. <bibl>Koran. Chap.</bibl>
+                                 2. 7. 15. </p>
+                              <p>
+                                 <name type="divin">God</name>created the body of
+                                    <persName>Adam</persName> of <hi rend="italic">Salsal</hi>, that
+                                 is of dry but unbaked clay; and left it forty nights, or according
+                                 to others, forty years, lying without a soul; and <name type="divin">the Devil</name> came to it, and kicked it, and it
+                                 sounded. And <name type="divin">God</name> breathed into it a soul
+                                 with his breath, sending it in at his eyes, and he himself saw his
+                                 nose still dead clay, and the soul running thro him, till it
+                                 reached his feet, when he stood upright. <bibl>Maracci.</bibl>
+                              </p>
+                              <p>
+                                 <rs type="art" subtype="illus">In <title>the Nuremberg
+                                       Chronicle</title> is a print of the creation of
+                                       <persName>Adam</persName>, the body is half made, growing out
+                                    of a heap of clay under <name type="divin">the Creator</name>'s
+                                    hands.</rs>
+                                 <rs type="art" subtype="illus">A still more absurd print represents
+                                    Eve half way out of his side.</rs>
+                              </p>
+                           </note>
+                         would not stoop to <orgName>man</orgName>
+                     </l>
+                     <l rend="i0" n="853">"When <persName ref="Adam">Man</persName> fair statured as
+                        the stately palm,</l>
+                     <l rend="i4" n="854">"From his <name type="divin">Creator</name>'s hand</l>
+                     <l rend="i4" n="855">"Was undefiled and pure.</l>
+                     <l rend="i0" n="856">"Thou art mighty, <persName ref="Mohammed">O Son of
+                              <persName>Abdallah</persName>
+                        </persName>!</l>
+                     <l rend="i2" n="857">"But who is he of woman born</l>
+                     <l rend="i0" n="858">"That shall vie with the might of <name type="divin">Eblis</name>?</l>
+                     <l rend="i0" n="859">"That shall rival <name type="divin" ref="Eblis">the
+                           Prince of the Morning</name>?"</l>
+                  </lg>
+                  <lg xml:id="B2_lg72">
+                     <l rend="i2" n="860">She said, and raised her skinny hand</l>
+                     <l rend="i2" n="861">As in defiance to high <rs type="metaplace" subtype="divin" ana="call">Heaven</rs>,</l>
+                     <l rend="i2" n="862">And stretched her long lean finger forth</l>
+                     <l rend="i2" n="863">
+                        <rs type="science" subtype="orac">And spake aloud the words of power.</rs>
+                     </l>
+                     <l rend="i4" n="864">
+                        <rs type="science" subtype="orac">
+                           <orgName>The Spirits</orgName> heard her call,</rs>
+                     </l>
+                     <l rend="i4" n="865">
+                        <rs type="science" subtype="orac">And lo! before her stands</rs>
+                     </l>
+                     <l rend="i4" n="866">
+                        <rs type="science" subtype="orac">Her <name type="divin">Demon
+                              Minister</name>.</rs>
+                     </l>
+                     <l rend="i4" n="867">
+                        <rs type="science" subtype="orac">"<name type="divin">Spirit</name>!" the
+                              <persName ref="Khawla">Enchantress</persName> cried,</rs>
+                     </l>
+                     <l rend="i0" n="868">
+                        <rs type="science" subtype="orac">"Where lives <persName ref="Thalaba">the
+                              Boy</persName> coeval with whose life</rs>
+                     </l>
+                     <l rend="i4" n="869">
+                        <rs type="science" subtype="orac">"Yon magic fire must burn?"</rs>
+                     </l>
+                     <l rend="i8" n="870">
+                        <rs type="science" subtype="orac">
+                           <name type="divin">DEMON</name>.</rs>
+                     </l>
+                     <l rend="i2" n="871">
+                        <rs type="science" subtype="orac">
+                           <persName ref="Khawla">Mistress of the mighty Spell</persName>,</rs>
+                     </l>
+                     <l rend="i2" n="872">
+                        <rs type="science" subtype="orac">Not on <placeName>Ocean</placeName>, not on <placeName ref="Earth_planet">Earth</placeName>
+                           .</rs>
+                     </l>
+                     <l rend="i4" n="873">
+                        <rs type="science" subtype="orac">Only eyes that view</rs>
+                     </l>
+                     <l rend="i4" n="874">
+                        <rs type="science" subtype="orac">
+                           <rs type="metaplace" subtype="divin" ref="throne_of_God">
+                              <name type="divin">Allah</name>'s glory throne</rs>,</rs>
+                     </l>
+                     <l rend="i4" n="875">
+                        <rs type="science" subtype="orac">See <rs type="metaplace"
+                         subtype="barrier"
+                         ref="Irem_removed"
+                         ana="hereNow">his hiding-place</rs>.</rs>
+                     </l>
+                     <l rend="i0" n="876">
+                        <rs type="science" subtype="orac">From some <name type="divin">believing
+                              Spirit</name>, ask and learn.</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg73">
+                     <l rend="i2" n="877">"Bring the dead <persName>Hodeirah</persName> here,"</l>
+                     <l rend="i2" n="878">
+                        <persName>Khawla</persName> cried, "and he shall tell."</l>
+                     <l rend="i0" n="879">The <persName>Demon</persName> heard her bidding, and was
+                        gone.</l>
+                     <l rend="i2" n="880">A moment passed, and at her feet</l>
+                     <l rend="i4" n="881">
+                        <name type="zomb">
+                           <persName>Hodeirah</persName>'s corpse</name> was laid.</l>
+                     <l rend="i0" n="882">His hand still held the sword he grasped in death,</l>
+                     <l rend="i0" n="883">The blood not yet had clotted on his wound.</l>
+                  </lg>
+                  <lg xml:id="B2_lg74">
+                     <l rend="i2" n="884">
+                        <persName ref="Khawla">The Sorceress</persName> looked and with a smile</l>
+                     <l rend="i2" n="885">That kindled to more fiendishness</l>
+                     <l rend="i4" n="886">Her hideous features, cried,</l>
+                     <l rend="i4" n="887">"Where <persName>Hodeirah</persName> is thy soul?</l>
+                     <l rend="i4" n="888">"Is it in the 
+                           <note type="author" anchored="true" xml:id="N_24">
+                              <p> These lines contain the various opinions of the
+                                    <orgName>Mohammedans</orgName> respecting the intermediate state
+                                 of the Blessed, till the Day of Judgment.</p>
+                           </note>
+                        Zemzem well?</l>
+                     <l rend="i4" n="889">"Is it in <rs type="metaplace" subtype="garden" ref="Eden" ana="rel">the Eden groves</rs>?</l>
+                     <l rend="i4" n="890">"Waits it for the judgement-blast</l>
+                     <l rend="i4" n="891">"In <rs type="myth">the trump of <name type="divin">Israfil</name>
+                        </rs>?</l>
+                     <l rend="i4" n="892">"Is it plumed with silver wings</l>
+                     <l rend="i4" n="893">"Underneath <rs type="metaplace" subtype="divin" ref="throne_of_God" ana="rel">the throne of <name type="divin">God</name>
+                        </rs>?</l>
+                     <l rend="i4" n="894">"Even if beneath his throne</l>
+                     <l rend="i4" n="895">"<persName>Hodeirah</persName>, thou shalt hear,</l>
+                     <l rend="i4" n="896">"Thou shalt obey my voice!"</l>
+                  </lg>
+
+                  <lg xml:id="B2_lg75">
+                     <l rend="i0" n="897">She said, and <rs type="science" subtype="orac">muttered
+                           charms</rs> that <rs type="metaplace" subtype="divin" ana="rel">Hell</rs> in
+                        fear</l>
+                     <l rend="i4" n="898">And <rs type="metaplace" subtype="divin" ana="rel">Heaven</rs> in
+                        horror heard.</l>
+                     <l rend="i4" n="899">
+                        <rs type="science" subtype="orac">Soon the stiff eye-balls
+                           rolled,</rs>
+                     </l>
+                     <l rend="i0" n="900">
+                        <rs type="science" subtype="orac">The muscles with
+                           convulsive motion shook,</rs>
+                     </l>
+                     <l rend="i0" n="901">
+                        <rs type="science" subtype="orac">The white lips
+                           quivered.</rs>
+                        <persName>Khawla</persName> saw, her soul</l>
+                     <l rend="i4" n="902">Exulted, and she cried,</l>
+                     <l rend="i4" n="903">"<persName ref="Mohammed">Prophet</persName>! behold my
+                        power!</l>
+                     <l rend="i4" n="904">"Not even death secures</l>
+                     <l rend="i4" n="905">"Thy slaves from <rs type="science" subtype="orac">
+                           <persName>Khawla</persName>'s Spell</rs>!</l>
+                     <l rend="i4" n="906">"Where <persName>Hodeirah</persName> is thy child?"</l>
+                  </lg>
+
+                  <lg xml:id="B2_lg76">
+                     <l rend="i2" n="907">
+                        <rs type="science" subtype="orac">
+                           <persName>Hodeirah</persName> groaned and closed his eyes,</rs>
+                     </l>
+                     <l rend="i0" n="908">As if in the night and the blindness of death</l>
+                     <l rend="i4" n="909">He would have hid himself.</l>
+                  </lg>
+                  <lg xml:id="B2_lg77">
+                     <l rend="i2" n="910">
+                        <rs type="science" subtype="orac">"Speak to my question!" she
+                           exclaimed,</rs>
+                     </l>
+                     <l rend="i0" n="911">
+                        <rs type="science" subtype="orac">"Or in that mangled body thou shall
+                           live</rs>
+                     </l>
+                     <l rend="i2" n="912">
+                        <rs type="science" subtype="orac">"<time>Ages of torture</time>! answer
+                           me!</rs>
+                     </l>
+                     <l rend="i4" n="913">
+                        <rs type="science" subtype="orac">"Where can we find <persName ref="Thalaba">the Boy</persName>?"</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg78">
+                     <l rend="i4" n="914">"<name type="divin">God</name>! God!
+                           <persName>Hodeirah</persName> cried,</l>
+                     <l rend="i4" n="915">"Release me from this life,</l>
+                     <l rend="i0" n="916">"From this intolerable agony!"</l>
+                  </lg>
+                  <lg xml:id="B2_lg79">
+                     <l rend="i2" n="917">
+                        <rs type="science" subtype="orac">"Speak!" cried <persName ref="Khawla">the
+                              Sorceress</persName>; and she snatched</rs>
+                     </l>
+                     <l rend="i4" n="918">
+                        <rs type="science" subtype="orac">A Viper from the floor,</rs>
+                     </l>
+                     <l rend="i0" n="919">
+                        <rs type="science" subtype="orac">And with the living reptile lashed
+                              <note type="author" anchored="true" xml:id="N_25">
+                                 <p> Excepting in this line I have avoided all resemblances to
+                                       <bibl>the powerful poetry of <author>Lucan</author>
+                                 </bibl>. </p>
+                                 <q>
+                                    <lg xml:lang="la">
+                                       <l rend="i0">Aspicit astantem projecti corporis umbram,</l>
+                                       <l rend="i0">Exanimes artus, invisaque claustra timentem</l>
+                                       <l rend="i0">Carceris antiqui, pavet ire in pectus
+                                          apertum,</l>
+                                       <l rend="i0">Visceraque, et ruptas letali vulnere fibras.</l>
+                                       <l rend="i0">Ah miser, extremum cui mortis munus iniquæ</l>
+                                       <l rend="i0">Eripitur, non posse mori! miratur Erichtho</l>
+                                       <l rend="i0">Has fatis licuisse moras, irataque morti</l>
+                                       <l rend="i0">Verberat immotum vivo serpente cadaver.</l>
+                                    </lg>
+                                    <lg xml:lang="la">
+                                       <l rend="i0">Protinus astrictus caluit cruor, atraque
+                                          fovit</l>
+                                       <l rend="i0">Vulnera, et in venas extremaque membra
+                                          cucurrit.</l>
+                                       <l rend="i0">Percussæ gelido trepidant sub pectore fibræ;</l>
+                                       <l rend="i0">Et nova desuetis subrepens vita medullis,</l>
+                                       <l rend="i0">Miscetur morti, tunc omnis palpitat artus;</l>
+                                       <l rend="i0">Tenduntur nervi; nec se tellure cadaver</l>
+                                       <l rend="i0">Paulatim per membra levat, terraque repulsum
+                                          est,</l>
+                                       <l rend="i0">Erectumque simul. Distento lumina rictu</l>
+                                       <l rend="i0">Nudantur. Nondum facies viventis in illo,</l>
+                                       <l rend="i0">Jam morientis erat; remanet pallorque
+                                          rigorque,</l>
+                                       <l rend="i0">Et stupet illatus mundo.</l>
+                                    </lg>
+                                    <bibl>
+                                       <author>Lucan.</author>
+                                    </bibl>
+                                 </q>
+                                 <p> A curious instance of French taste occurs in this part of <bibl>
+                                       <author>Brebeuf</author>'s translation</bibl>. The
+                                    re-animated corpse is made the corpse of
+                                       <persName>Burrhus</persName>, of whose wife <persName>Octavia
+                                       Sextus</persName> is enamoured. Octavia hears that her
+                                    husband has fallen in battle, she seeks his body, but in vain. A
+                                    light at length leads her to <rs type="science" subtype="orac">the scene of <persName>Erichtho</persName>'s incantations,
+                                       and she beholds Burrhus, to all appearance living. The witch
+                                       humanely allows them time for a long conversation, which is
+                                       very complimentary on the part of the husband.</rs>
+                                 </p>
+                                 <p>
+                                    <persName>Brebeuf</persName> was a man of genius. The <bibl>
+                                       <title>Pharsalia</title>
+                                    </bibl> is as well told in his version as it can be in the
+                                    detestable French heroic couplet, which epigrammatizes every
+                                    thing. He had courage enough, tho' a Frenchman, to admire
+                                       <persName>Lucan</persName>,—and yet could not translate him
+                                    without introducing a love-story.</p>
+                              </note>
+                            his neck.</rs>
+                     </l>
+                     <l rend="i4" n="939">Wreathed, round him with the blow,</l>
+                     <l rend="i2" n="940">The Reptile tighter drew her folds</l>
+                     <l rend="i4" n="941">And raised her wrathful head,</l>
+                     <l rend="i4" n="942">And fixed into his face</l>
+                     <l rend="i4" n="943">Her deadly teeth, and shed</l>
+                     <l rend="i4" n="944">Poison in every wound.</l>
+                     <l rend="i0" n="945">In vain! for <name type="divin">Allah</name> heard
+                           <persName>Hodeirah</persName>'s prayer,</l>
+                     <l rend="i4" n="946">And <persName>Khawla</persName> on a corpse</l>
+                     <l rend="i4" n="947">Had wrecked her baffled rage.</l>
+                     <l rend="i4" n="948">
+                        <rs type="image" subtype="human">The fated fire</rs> moved on</l>
+                     <l rend="i0" n="949">And round the Body wrapt its funeral flames.</l>
+                     <l rend="i0" n="950">The flesh and bones in that portentous pile</l>
+                     <l rend="i4" n="951">Consumed; the Sword alone,</l>
+                     <l rend="i4" n="952">Circled with fire was left.</l>
+                  </lg>
+                  <lg xml:id="B2_lg82">
+                     <l rend="i0" n="953">Where is <rs type="person" ref="Thalaba">the Boy</rs> for
+                        whose hand it is destined?</l>
+                     <l rend="i0" n="954">Where the Destroyer who one day shall wield</l>
+                     <l rend="i2" n="955">The Sword that is circled with fire?</l>
+                     <l rend="i4" n="956">
+                        <orgName>Race accursed</orgName>, try your charms!</l>
+                     <l rend="i4" n="957">
+                        <orgName ref="Dom">Masters of the mighty Spell</orgName>,</l>
+                     <l rend="i4" n="958">
+                        <rs type="science" subtype="orac">Mutter o'er your words of power!</rs>
+                     </l>
+                     <l rend="i2" n="959">
+                        <rs type="devastation">Ye can shatter the dwellings of man,</rs>
+                     </l>
+                     <l rend="i2" n="960">
+                        <rs type="science" subtype="phys">Ye can open <geogFeat>the womb of the
+                              rock</geogFeat>,</rs>
+                     </l>
+                     <l rend="i2" n="961">
+                        <rs type="science" subtype="phys">Ye can shake the foundations of
+                           earth,</rs>
+                     </l>
+                     <l rend="i4" n="962">But not <rs type="script" subtype="holy">the Word of <name type="divin">God</name>
+                        </rs>:</l>
+                     <l rend="i2" n="963">
+                        <rs type="script" subtype="holy">But not one letter can ye change</rs>
+                     </l>
+                     <l rend="i4" n="964">
+                        <rs type="script" subtype="holy">Of what <name type="divin">his Will</name>
+                           hath written!</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg83">
+                     <l rend="i4" n="965">Who shall seek thro' <placeName>Araby</placeName>
+                     </l>
+                     <l rend="i4" n="966">
+                        <persName ref="Thalaba">
+                           <persName>Hodeirah</persName>'s dreaded son</persName>?</l>
+                     <l rend="i2" n="967">
+                        <rs type="religion" subtype="idol">They mingle the Arrows
+                              <note type="author" anchored="true" xml:id="N_26">
+                                 <p> This was one of the superstitions of the <orgName>Pagan
+                                       Arabs</orgName> forbidden by
+                                    <persName>Mohammed</persName>.</p>
+                              </note>
+                            of Chance</rs>
+                     </l>
+                     <l rend="i2" n="968">The lot of <persName>Abdaldar</persName> is drawn.</l>
+                     <l rend="i2" n="969">
+                        <time>Thirteen moons must wax and wane</time>
+                     </l>
+                     <l rend="i2" n="970">Ere <persName ref="Abdaldar">the Sorcerer</persName> quit
+                        his quest.</l>
+                     <l rend="i2" n="971">He must visit <orgName>every tribe</orgName>
+                     </l>
+                     <l rend="i2" n="972">That roam <rs type="place" ref="desert" ana="rel">the desert
+                           wilderness</rs>,</l>
+                     <l rend="i2" n="973">Or dwell <geogFeat>beside perennial
+                        streams</geogFeat>;</l>
+                     <l rend="i0" n="974">Nor leave a solitary tent unsearched</l>
+                     <l rend="i4" n="975">Till he has found <persName ref="Thalaba">the
+                           Boy</persName>,</l>
+                     <l rend="i2" n="976">
+                        <persName ref="Thalaba">The hated Boy</persName> whose blood alone</l>
+                     <l rend="i4" n="977">Can quench that <rs type="image" subtype="human">dreaded
+                           fire</rs>.</l>
+                  </lg>
+                  <lg xml:id="B2_lg84">
+                     <l rend="i2" n="978">
+                        <rs type="art" subtype="gem">A crystal ring</rs>
+                        <persName>Abdaldar</persName> bore,</l>
+                     <l rend="i4" n="979">
+                        <rs type="earthworks" subtype="mine">The powerful gem
+                              <note type="author" anchored="true" xml:id="N_27">
+                                 <p> Some imagine that the crystal is snow turned to ice which has
+                                    been hardening thirty years, and is turned to a rock by age. <bibl>
+                                       <title>
+                                          <hi rend="italic">Mirror of Stones</hi>
+                                       </title>, <hi rend="italic">by</hi>
+                                       <author>
+                                          <hi rend="italic">Camillus Leonardus</hi>
+                                       </author>
+                                       <hi rend="italic">Physician of <persName>Pisaro</persName>,
+                                          dedicated to <persName>Cæsar Borgia</persName>
+                                       </hi>. </bibl>
+                                 </p>
+                                 <p> "In the cabinet of <persName>the Prince of
+                                          <placeName>Monaco</placeName>
+                                    </persName> among other rarities are two pieces of crystal each
+                                    larger than both hands clenched together. In the middle of one
+                                    is about a glass full of water, and in the other is some moss,
+                                    naturally enclosed there when the crystals congealed. These
+                                    pieces are very curious. <bibl>Tavernier.</bibl>
+                                 </p>
+                                 <p> Crystal, precious stones, every stone that has a regular
+                                    figure, and even flints in small masses and consisting of
+                                    concentric coats, whether found in the perpendicular fissures of
+                                    rocks, or elsewhere, are only exudations, or the concreting
+                                    juices of flint in large masses; they are, therefore, new and
+                                    spurious productions, the genuine <geogFeat>stalactites of flint
+                                       or of granite</geogFeat>. <bibl>Buffen.</bibl>
+                                 </p>
+                              </note>
+                            condensed</rs>
+                     </l>
+                     <l rend="i0" n="980">Primeval dews that upon <placeName ana="rel">Caucasus</placeName>
+                     </l>
+                     <l rend="i4" n="981">Felt the first winter's frost.</l>
+                     <l rend="i4" n="982">
+                        <geogFeat>Ripening there it lay beneath</geogFeat>
+                     </l>
+                     <l rend="i0" n="983">
+                        <geogFeat>Rock above rock, and mountain ice up-piled</geogFeat>
+                     </l>
+                     <l rend="i0" n="984">
+                        <geogFeat>On mountain</geogFeat>, till the incumbent mass assumed,</l>
+                     <l rend="i0" n="985">So huge its bulk, the <placeName>Ocean</placeName>'s azure
+                        hue.</l>
+                  </lg>
+
+                  <lg xml:id="B2_lg85">
+                     <l rend="i2" n="986">With this he sought <rs type="metaplace"
+                      subtype="barrier"
+                      ref="Domdaniel_Cave"
+                      ana="rel">the inner den</rs>
+                     </l>
+                     <l rend="i4" n="987">Where burnt <rs type="image" subtype="human">the eternal
+                           flame</rs>.</l>
+                     <l rend="i0" n="988">Like <geogFeat>waters gushing from some channelled
+                           rock</geogFeat>
+                     </l>
+                     <l rend="i0" n="989">Full thro' a narrow opening, <geogFeat>from a
+                           chasm</geogFeat>
+                     </l>
+                     <l rend="i4" n="990">
+                        <geogFeat>
+                           <rs type="image" subtype="human">The eternal flame</rs> streamed
+                           up</geogFeat>.</l>
+                     <l rend="i4" n="991">No eye beheld the fount</l>
+                     <l rend="i4" n="992">Of that <rs type="image" subtype="human">up-flowing
+                           flame</rs>,</l>
+                     <l rend="i0" n="993">That blazed self-nurtured, and for ever, there.</l>
+                     <l rend="i0" n="994">It was <name type="elemental">no mortal element</name>: <geogFeat>
+                           <placeName ana="rel">the Abyss</placeName>
+                        </geogFeat>
+                     </l>
+                     <l rend="i0" n="995">Supplied it, from the fountains at the first</l>
+                     <l rend="i0" n="996">Prepared. <geogFeat>In the heart of earth</geogFeat> it
+                        lives and glows</l>
+                     <l rend="i0" n="997">Her vital heat, <time>till at the day decreed</time>,</l>
+                     <l rend="i0" n="998">The voice of<name type="divin">God</name>shall let its
+                        billows loose,</l>
+                     <l rend="i0" n="999">To deluge o'er with no abating flood</l>
+                     <l rend="i4" n="1000">The consummated <placeName ref="the_world">World</placeName>;</l>
+                     <l rend="i2" n="1001">That thenceforth thro' the air must roll,</l>
+                     <l rend="i4" n="1002">
+                        <rs type="myth">
+                           <name type="elemental">The penal Orb of Fire</name>
+                        </rs>.</l>
+                  </lg>
+
+                  <lg xml:id="B2_lg86">
+                     <l rend="i2" n="1003">Unturbaned and unsandalled there,</l>
+                     <l rend="i2" n="1004">
+                        <persName>Abdaldar</persName> stood <rs type="metaplace" subtype="under" ref="Domdaniel_Cave" ana="rel">before the flame</rs>,</l>
+                     <l rend="i2" n="1005">And held <rs type="art" subtype="gem">the Ring</rs>
+                        beside, and spake</l>
+                     <l rend="i0" n="1006">
+                        <rs type="script" subtype="nature">The language that <name type="elemental">the Elements</name> obey.</rs>
+                     </l>
+                     <l rend="i0" n="1007">
+                        <rs type="science" subtype="electric">The <rs type="image" subtype="human">obedient flame</rs> detatched a portion forth,</rs>
+                     </l>
+                     <l rend="i0" n="1008">
+                        <rs type="science" subtype="electric">That, in the crystal entering, was
+                           condensed,</rs>
+                     </l>
+                     <l rend="i0" n="1009">
+                        <rs type="science" subtype="electric">Gem of the gem, its living Eye of
+                           fire.</rs>
+                     </l>
+                     <l rend="i4" n="1010">When the hand that wears the spell</l>
+                     <l rend="i4" n="1011">Shall touch <persName ref="Thalaba">the destined
+                           Boy</persName>,</l>
+                     <l rend="i4" n="1012">
+                        <rs type="science" subtype="electric">Then shall that Eye be quenched,</rs>
+                     </l>
+                     <l rend="i4" n="1013">
+                        <rs type="science" subtype="electric">And the freed <name type="elemental">Element</name>
+                        </rs>
+                     </l>
+                     <l rend="i0" n="1014">
+                        <rs type="science" subtype="electric">Fly to its sacred and remembered
+                              <geogFeat>Spring</geogFeat>.</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg87">
+                     <l rend="i2" n="1015">Now go thy way <persName>Abdaldar</persName>!</l>
+                     <l rend="i4" n="1016">Servant of <name type="divin">Eblis</name>,</l>
+                     <l rend="i4" n="1017">Over <placeName ana="rel">Arabia</placeName>
+                     </l>
+                     <l rend="i4" n="1018">Seek <persName ref="Thalaba">the
+                        Destroyer</persName>!</l>
+                     <l rend="i0" n="1019">Over <geogFeat>the sands of the scorching
+                              <placeName ana="rel">Tchama</placeName>
+                        </geogFeat>,</l>
+                     <l rend="i0" n="1020">Over <geogFeat>the waterless mountains of
+                              <placeName ana="rel">Naïd</placeName>
+                        </geogFeat>,</l>
+                     <l rend="i0" n="1021">In <placeName ana="rel">Arud</placeName> pursue him; and
+                           <placeName ana="rel">Yemen</placeName> the happy,</l>
+                     <l rend="i0" n="1022">And <placeName ana="rel">Hejaz</placeName>, the country beloved by
+                        believers.</l>
+                     <l rend="i4" n="1023">Over <placeName ana="rel">Arabia</placeName>
+                     </l>
+                     <l rend="i4" n="1024">Servant of <name type="divin">Eblis</name>,</l>
+                     <l rend="i4" n="1025">Seek <persName ref="Thalaba">the
+                        Destroyer</persName>.</l>
+                  </lg>
+                  <lg xml:id="B2_lg88">
+                     <l rend="i2" n="1026">From tribe to tribe, from town to town,</l>
+                     <l rend="i2" n="1027">From tent to tent, <persName>Abdaldar</persName>
+                        past.</l>
+                     <l rend="i0" n="1028">Him <time>every morn</time>
+                        <name type="divin">the all-beholding Eye</name>
+                     </l>
+                     <l rend="i0" n="1029">Saw from his couch, unhallowed by a prayer,</l>
+                     <l rend="i4" n="1030">Rise to the scent of blood,</l>
+                     <l rend="i4" n="1031">And <time>every night</time> lie down.</l>
+                     <l rend="i0" n="1032">That rankling hope within him, that by day</l>
+                     <l rend="i0" n="1033">Goaded his steps, <rs type="dream">still stinging him in
+                           sleep</rs>,</l>
+                     <l rend="i0" n="1034">
+                        <rs type="dream">And startling him with vain accomplishment</rs>
+                     </l>
+                     <l rend="i4" n="1035">
+                        <rs type="dream">From visions still the same.</rs>
+                     </l>
+                     <l rend="i4" n="1036">Many a time his wary hand</l>
+                     <l rend="i2" n="1037">
+                        <rs type="science" subtype="electric">To many a youth applied <rs type="art" subtype="gem">the Ring</rs>,</rs>
+                     </l>
+                     <l rend="i0" n="1038">And still the dagger in his mantle hid</l>
+                     <l rend="i4" n="1039">Was ready for the deed.</l>
+                  </lg>
+                  <lg xml:id="B2_lg89">
+                     <l rend="i2" n="1040">At length to the cords of a tent</l>
+                     <l rend="i2" n="1041">That were stretched <rs type="place" ref="Isle_of_Palms" ana="hereNow">by an Island of
+                           Palms</rs>
+                     </l>
+                     <l rend="i2" n="1042">
+                        <geogFeat>In the desolate sea of the sands</geogFeat>,</l>
+                     <l rend="i4" n="1043">The weary traveller came.</l>
+                     <l rend="i4" n="1044">Under a shapely palm,</l>
+                     <l rend="i0" n="1045">Herself as shapely, there <rs type="person" ref="Oneiza">a Damsel</rs> stood.</l>
+                     <l rend="i4" n="1046">She held her ready robe</l>
+                     <l rend="i4" n="1047">And looked towards <rs type="person" ref="Thalaba">a
+                           Boy</rs>,</l>
+                     <l rend="i4" n="1048">Who from the tree above</l>
+                     <l rend="i2" n="1049">With one hand clinging to its trunk,</l>
+                     <l rend="i0" n="1050">Cast with the other down the clustered dates.</l>
+                  </lg>
+                  <lg xml:id="B2_lg90">
+                     <l rend="i4" n="1051">
+                        <persName ref="Abdaldar">The Wizard</persName> approached the Tree,</l>
+                     <l rend="i0" n="1052">He leaned on his staff, like a way-faring man,</l>
+                     <l rend="i0" n="1053">And the sweat of his travel was seen on his brow.</l>
+                     <l rend="i4" n="1054">He asks for food, and lo!</l>
+                     <l rend="i0" n="1055">
+                        <rs type="person" ref="Oneiza">The Damsel</rs> proffers him her lap of
+                        dates.</l>
+                     <l rend="i0" n="1056">And <rs type="person" ref="Thalaba">the Stripling</rs>
+                        descends, and runs into the tent</l>
+                     <l rend="i0" n="1057">And brings him forth water, the draught of delight.</l>
+                  </lg>
+                  <lg xml:id="B2_lg91">
+                     <l rend="i2" n="1058">Anon <persName>the Master of the tent</persName>,</l>
+                     <l rend="i2" n="1059">
+                        <persName>The Father of the family</persName>
+                     </l>
+                     <l rend="i0" n="1060">Came forth, a man in years, of aspect mild.</l>
+                     <l rend="i2" n="1061">To <rs type="person" ref="Abdaldar">the stranger</rs>
+                        approaching he gave</l>
+                     <l rend="i2" n="1062">The friendly saluting of peace,</l>
+                     <l rend="i4" n="1063">And bade the skin be spread.</l>
+                     <l rend="i2" n="1064">Before the tent they spread the
+                           <note type="author" anchored="true" xml:id="N_28">
+                              <p> With <orgName>the Arabs</orgName> either a round skin is laid on
+                                 the ground for a small company, or large course woollen cloths for
+                                 a great number spread all over the room, and about ten dishes
+                                 repeated six or seven times over, laid round at a great feast, and
+                                 whole sheep and lambs boild and roasted in the middle. When one
+                                 company has done, another sits round, even to the meanest, till all
+                                 is consumed. And <rs type="person">an Arab Prince</rs> will often
+                                 dine in the street before his door and call to all that pass even
+                                 beggars, in the usual expression, <hi rend="italic">
+                                    <name type="divin">Bisimillah</name>
+                                 </hi>, that is, in the name of <name type="divin">God</name>; who
+                                 come and sit down and when they have done, give their <hi rend="italic">
+                                    <name type="divin">Hamdellilah</name>
+                                 </hi>, that is,<name type="divin">God</name>be praised, for
+                                    <orgName>the Arabs</orgName> who are great levellers, put every
+                                 body on a footing with them, and it is by such generosity and
+                                 hospitality that they maintain their interest. <bibl>
+                                    <author>Pococke</author>
+                                 </bibl>. </p>
+                           </note>
+                         skin,</l>
+                     <l rend="i4" n="1065">
+                        <geogFeat>Under a Tamarind's shade,</geogFeat>
+                     </l>
+                     <l rend="i4" n="1066">That bending forward, stretched</l>
+                     <l rend="i4" n="1067">Its boughs of beauty far.</l>
+                     <l rend="i4" n="1068">They brought the Traveller rice,</l>
+                     <l rend="i0" n="1069">With no false colours
+                           <note type="author" anchored="true" xml:id="N_29">
+                              <p> 'Tis the custom of <placeName>Persia</placeName> to begin their
+                                 feasts with fruits and preserves. We spent two hours in eating only
+                                 those and drinking beer, hydromel and aquavitæ. Then was brought up
+                                 the meat in great silver dishes, they were full of rice of divers
+                                 colours, and upon that, several sorts of meat boild and roasted, as
+                                 beef, mutton, tame fowl, wild ducks, fish and other things, all
+                                 very well ordered and very delicate. </p>
+                              <p>
+                                 <orgName>The Persians</orgName> use no knives at table, but the
+                                 Cooks send up the meat ready cut up into little bits, so that it
+                                 was no trouble to us to accustome ourselves to their manner of
+                                 eating. Rice serves them instead of bread. They take a mouthful of
+                                 it, with the two fore-fingers and the thumb, and so put it into
+                                 their mouths. Every table had a carver, whom they call Suffret-zi,
+                                 who takes the meat brought up in the great dishes, to put it into
+                                 lesser ones, which he fills with 3 or 4 sorts of meat, so as that
+                                 every dish may serve 2 or at most 3 persons. There was but little
+                                 drunk till towards the end of the repast, and then the cups went
+                                 about roundly, and the dinner was concluded with a vessel of
+                                 porcelane, full of a hot blackish kind of drink, which they call
+                                 Kahawa. <bibl>Ambassadors Travels.</bibl>
+                              </p>
+                              <p> They laid upon the floor of the Ambassadors room a fine silk
+                                 cloth, on which there set <rs type="wealth">one and 30 dishes of
+                                    silver</rs>, filled with several sorts of conserves, dry and
+                                 liquid, and raw fruits, as Melons, Citrons, Quinces, Pears, and
+                                 some others not known in <placeName>Europe</placeName>. Some time
+                                 after that cloth was taken away that another might be laid in the
+                                 room of it, and upon this was set rice of all sorts of colours and
+                                 all sorts of meat boyld and roasted in above <rs type="wealth">fifty dishes of the same metal</rs>. <bibl>Amb. Tra.</bibl>
+                              </p>
+                              <p> There is not any thing more ordinary in
+                                    <placeName>Persia</placeName> than rice soaked in water, they
+                                 call it Plau and eat of it at all their meals, and serve it up in
+                                 all their dishes. They sometimes put thereto a little of the juice
+                                 of pomegranates or cherries and saffron, insomuch that commonly you
+                                 have rice of several colours in the same dish. <bibl>Amb.
+                                    Tra.</bibl>
+                              </p>
+                           </note>
+                         tinged to tempt the eye,</l>
+                     <l rend="i2" n="1070">But white as the new-fallen snow,</l>
+                     <l rend="i2" n="1071">When never yet the sullying Sun</l>
+                     <l rend="i4" n="1072">Hath seen its purity,</l>
+                     <l rend="i0" n="1073">Nor the warm Zephyr touched and tainted it.</l>
+                     <l rend="i2" n="1074">The dates of the grove before their guest</l>
+                     <l rend="i2" n="1075">They laid, and the luscious fig,</l>
+                     <l rend="i4" n="1076">And water from the well.</l>
+                     <l rend="i2" n="1077">The Damsel from the Tamarind tree</l>
+                     <l rend="i4" n="1078">Had plucked its acid fruit</l>
+                     <l rend="i4" n="1079">And steeped it in water long;</l>
+                     <l rend="i2" n="1080">And whoso drank of the cooling
+                           <note type="author" anchored="true" xml:id="N_30">
+                              <p> The Tamarind is equally useful and agreable, it has a pulp of a
+                                 vineous taste, of which a wholesome refreshing liquor is prepared,
+                                 its shade shelters houses from the torrid heat of the sun, and its
+                                 fine figure greatly adorns the scenery of the country.
+                                    <bibl>Niebuhr.</bibl>
+                              </p>
+                           </note>
+                         draught</l>
+                     <l rend="i4" n="1081">He would not wish for wine.</l>
+                     <l rend="i2" n="1082">This to <rs type="person" subtype="Abdaldar">the
+                           guest</rs>
+                        <rs type="person" ref="Oneiza">the Damsel</rs> brought,</l>
+                     <l rend="i2" n="1083">And a modest pleasure kindled her cheek,</l>
+                     <l rend="i0" n="1084">When raising from the cup his moistened lips</l>
+                     <l rend="i0" n="1085">
+                        <persName ref="Abdaldar">The Stranger</persName> smiled, and praised, and
+                        drank again.</l>
+                  </lg>
+                  <lg xml:id="B2_lg92">
+                     <l rend="i4" n="1086">Whither is gone <rs type="person" ref="Thalaba">the
+                           Boy</rs>?</l>
+                     <l rend="i2" n="1087">He had pierced the Melon's pulp</l>
+                     <l rend="i4" n="1088">And closed with wax the wound,</l>
+                     <l rend="i2" n="1089">And he had duly gone at morn</l>
+                     <l rend="i4" n="1090">And watched its ripening rind,</l>
+                     <l rend="i2" n="1091">And now all joyfully he brings</l>
+                     <l rend="i4" n="1092">The treasure now matured.</l>
+                     <l rend="i0" n="1093">His dark eyes sparkle with a boy's delight.</l>
+                     <l rend="i0" n="1094">As he pours out its liquid
+                           <note type="author" anchored="true" xml:id="N_31">
+                              <p> Of pumpkins and melons several sorts grow naturally in the woods,
+                                 and serve for feeding Camels. But the proper melons are planted in
+                                 the fields, where a great variety of them is to be found, and in
+                                 such abundance, that <orgName>the Arabians</orgName> of all ranks
+                                 use them, for some part of the year, as their principal article of
+                                 food. They afford a very agreeable liquor. When its fruit is nearly
+                                 ripe, a hole is pierced into the pulp, this hole is then stopped
+                                 with wax, and the melon left upon the stalk. Within a few days the
+                                 pulp is in consequence of this process, converted into a delicious
+                                 liquor. <bibl>Niebuhr.</bibl>
+                              </p>
+                           </note>
+                         lusciousness</l>
+                     <l rend="i4" n="1095">And proffers to the guest.</l>
+                  </lg>
+                  <lg xml:id="B2_lg93">
+                     <l rend="i0" n="1096">
+                        <persName>Abdaldar</persName> ate, and he was satisfied:</l>
+                     <l rend="i4" n="1097">And now his tongue discoursed</l>
+                     <l rend="i4" n="1098"> Of regions far remote,</l>
+                     <l rend="i0" n="1099">As one whose busy feet had travelled long.</l>
+                     <l rend="i2" n="1100">The Father of the family,</l>
+                     <l rend="i2" n="1101">With a calm eye and quiet smile,</l>
+                     <l rend="i4" n="1102">Sate pleased to hearken him.</l>
+                     <l rend="i2" n="1103">
+                        <rs type="person" ref="Oneiza">The Damsel</rs> who removed the meal,</l>
+                     <l rend="i4" n="1104">She loitered on the way</l>
+                     <l rend="i4" n="1105">And listened with full 
+                           <note type="author" anchored="true" xml:id="N_32">
+                              <p> l'aspect imprévu de tant de Castillans, D'étonnement, d'effroi,
+                                 peint ses regards brillans; Ses mains du choix des fruits se
+                                 formant une etude, Demeurent un moment dans la même attitude. <bibl>
+                                    <author>Madame Boccage</author>. <title>La
+                                    Colombiade</title>.</bibl>
+                              </p>
+                           </note>
+                        hands</l>
+                     <l rend="i4" n="1106">A moment motionless.</l>
+                     <l rend="i4" n="1107">All eagerly <rs type="person" ref="Thalaba">the Boy</rs>
+                     </l>
+                     <l rend="i4" n="1108">Watches <persName ref="Abdaldar">the
+                        Traveller</persName>'s lips,</l>
+                     <l rend="i4" n="1109">And still the wily man</l>
+                     <l rend="i0" n="1110">With seemly kindness to <rs type="person" ref="Thalaba">the eager Boy</rs>
+                     </l>
+                     <l rend="i4" n="1111">Directs his winning tale.</l>
+                     <l rend="i2" n="1112">Ah, <rs type="person" ref="Abdaldar">cursed man!</rs> if
+                        this be he,</l>
+                     <l rend="i0" n="1113">If thou hast found the object of thy search,</l>
+                     <l rend="i4" n="1114">Thy hate, thy bloody aim,</l>
+                     <l rend="i0" n="1115">Into what deep damnation wilt thou plunge</l>
+                     <l rend="i4" n="1116">Thy miserable soul!</l>
+                     <l rend="i0" n="1117">Look! how his eye delighted watches thine!</l>
+                     <l rend="i4" n="1118">Look! how his open lips</l>
+                     <l rend="i4" n="1119">Gasp at the winning tale!</l>
+                     <l rend="i4" n="1120">And nearer now he comes</l>
+                     <l rend="i0" n="1121">To lose no word of that delightful talk.</l>
+                     <l rend="i4" n="1122">Then, as in familiar mood,</l>
+                     <l rend="i4" n="1123">Upon <persName ref="Thalaba">the Stripling</persName>'s
+                        arm</l>
+                     <l rend="i4" n="1124">
+                        <persName ref="Abdaldar">The Sorcerer</persName> laid his hand,</l>
+                     <l rend="i2" n="1125">
+                        <rs type="science" subtype="electric">And the fire of <rs type="art" subtype="gem">the Crystal</rs> fled.</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg94">
+                     <l rend="i4" n="1126">Whilst the sudden shoot of joy</l>
+                     <l rend="i4" n="1127">Made pale <persName>Abdaldar</persName>'s cheek,</l>
+                     <l rend="i4" n="1128">
+                        <persName>The Master</persName>'s voice was heard:</l>
+                     <l rend="i4" n="1129">"It is the hour
+                           <note type="author" anchored="true" xml:id="N_33">
+                              <p>
+                                 <time>
+                                    <orgName>The Arabians</orgName> divide their day into twenty
+                                    four hours, and reckon them from one setting sun to another. As
+                                    very few among them know what a watch is, and as they conceive,
+                                    but imperfectly the duration of an hour, they usually determine
+                                    time almost as when we say, it happened about noon, about
+                                    evening, &amp;c. The moment when the Sun disappears is called
+                                       <hi rend="italic">Maggrib</hi>, about two hours afterwards
+                                    they call it <hi rend="italic">El ascha</hi>; two hours later,
+                                       <hi rend="italic">El märfa</hi>; midnight <hi rend="italic">Nus el lejl</hi>: the dawn of morning <hi rend="italic">El
+                                       fadsjer</hi>: sun rise <hi rend="italic">Es subhh</hi>. They
+                                    eat about nine in the morning, and that meal is called <hi rend="italic">El ghadda</hi>; noon <hi rend="italic">El
+                                       duhhr</hi>; three hours after noon <hi rend="italic">El
+                                       asr</hi>. Of all these divisions of time only noon and
+                                    midnight are well ascertained; they both fall upon the twelfth
+                                    hour. The others are earlier or later as the days are short or
+                                    long. The five hours appointed for prayer are <hi rend="italic">Maggrib, Nus el lejl, El fedsjer, Duhhr</hi>, and <hi rend="italic">El asr</hi>.</time>
+                                 <bibl>Niebuhr. Desc. del Arabie.</bibl>
+                              </p>
+                           </note>
+                         of prayer,...</l>
+                     <l rend="i0" n="1130">
+                        <rs type="religion" subtype="Islam">"My children, let us purify
+                           ourselves</rs>
+                     </l>
+                     <l rend="i4" n="1131">
+                        <rs type="religion" subtype="Islam">"And praise <name type="divin">the Lord
+                              our God</name>!"</rs>
+                     </l>
+                     <l rend="i4" n="1132">
+                        <rs type="person" subtype="Thalaba">The Boy</rs> the water brought,</l>
+                     <l rend="i0" n="1133">
+                        <rs type="religion" subtype="Islam">After the law
+                              <note type="author" anchored="true" xml:id="N_34">
+                                 <p>
+                                    <rs type="religion" subtype="Islam">The use of the bath was
+                                       forbidden <orgName>the Moriscoes</orgName> in
+                                          <placeName>Spain</placeName>, as being an <hi rend="italic">anti-christian</hi> custom!</rs>
+                                    <rs type="religion" subtype="Cathol">I recollect no superstition
+                                       but the Catholic in which nastiness is accounted a virtue; as
+                                       if, says <persName>Jortin</persName>, piety and filth were
+                                       synonimous, and religion like the itch, could he caught by
+                                       wearing foul cloaths</rs>.</p>
+                              </note>
+                            they purified themselves,</rs>
+                     </l>
+                     <l rend="i0" n="1134">
+                        <rs type="religion" subtype="Islam">And bent their faces to the earth in
+                           prayer.</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B2_lg95">
+                     <l rend="i0" n="1135">All, save <persName>Abdaldar</persName>; over
+                           <persName>Thalaba</persName>
+                     </l>
+                     <l rend="i0" n="1136">He stands, and lifts the dagger to destroy.</l>
+                     <l rend="i2" n="1137">Before his lifted arm received</l>
+                     <l rend="i4" n="1138">Its impulse to descend,</l>
+                     <l rend="i4" n="1139">
+                        <name type="elemental" ref="Simoom">The Blast of the <rs type="place" ref="desert">Desert</rs>
+                        </name> came.</l>
+                     <l rend="i0" n="1140">Prostrate in prayer, <orgName>the pious family</orgName>
+                     </l>
+                     <l rend="i4" n="1141">Felt not <name type="elemental">the Simoom</name>
+                        
+                           <note type="author" anchored="true" xml:id="N_35">
+                              <p> The effects of the Simoom are instant suffocation to every living
+                                 creature that happens to be within the sphere of its activity, and
+                                 immediate putrefaction of the carcases of the dead. The Arabians
+                                 discern its approach by an unusual redness in the air, and they say
+                                 that they feel a smell of sulphur as it passes. The only means by
+                                 which any person can preserve himself from suffering by these
+                                 noxious blasts, is by throwing himself down with his face upon the
+                                 earth, till this whirlwind of poisonous exhalations has blown over,
+                                 which always moves at a certain height in the atmosphere. Instinct
+                                 even teaches the brutes to incline their heads to the ground on
+                                 these occasions. <bibl>Niebuhr.</bibl>
+                              </p>
+                              <p>
+                                 <orgName>The Arabs</orgName> of <rs type="place" ref="desert">the
+                                    desert</rs> call these winds <hi rend="italic">
+                                    <name type="elemental" ref="Simoom">Semoum</name>
+                                 </hi> or poison, and <orgName>the Turks</orgName>
+                                 <hi rend="italic">
+                                    <name type="elemental" ref="Simoom">Shamyela</name>
+                                 </hi>, or <name type="elemental" ref="Simoom">wind of
+                                       <placeName>Syria</placeName>
+                                 </name>, from which is formed the <hi rend="italic">
+                                    <name type="elemental">Samiel</name>
+                                 </hi>. </p>
+                              <p> Their heat is sometimes so excessive that it is difficult to form
+                                 any idea of its violence without having experienced it; but it may
+                                 be compared to the heat of a large oven at the moment of drawing
+                                 out the bread. When these winds begin to blow, the atmosphere
+                                 assumes an alarming aspect. The sky at other times so clear, in
+                                 this climate, becomes dark and heavy; the sun loses his splendour
+                                 and appears of a violet colour. The air is not cloudy, but grey and
+                                 thick, and is in fact filled with an extremely subtile dust, which
+                                 penetrates every where. This wind, always light and rapid, is not
+                                 at first remarkably hot, but it increases in heat in proportion as
+                                 it continues. All animated bodies soon discover it, by the change
+                                 it produces in them. The lungs which a too rarefied air no longer
+                                 expands, are contracted and become painful. Respiration is short
+                                 and difficult, the skin parched and dry, and the body consumed by
+                                 an internal heat. In vain is recourse had to large draughts of
+                                 water; nothing can restore perspiration. In vain is coolness sought
+                                 for; all bodies in which it is usual to find it, deceives the hand
+                                 that touches them. <rs type="science" subtype="phys">Marble, iron,
+                                    water, notwithstanding the sun no longer appears, are hot.</rs>
+                                 The streets are deserted, and the dead silence of night reigns
+                                 every where. <orgName>The inhabitants of houses and
+                                    villages</orgName> shut themselves up in their houses, and those
+                                 of <rs type="place" ref="desert">the desert</rs> in their tents, or
+                                 in <rs type="earthworks" subtype="mine">pits they dig in the
+                                    earth</rs>, where they wait the termination of this destructive
+                                 heat. It usually <time>lasts three days</time>, but if it exceeds
+                                 that time it becomes insupportable. Woe to <rs type="person">the
+                                    traveller</rs> whom this wind surprizes remote from shelter! he
+                                 must suffer all its dreadful consequences which sometimes are
+                                 mortal. The danger is most imminent when it blows in squalls, for
+                                 then the rapidity of the wind increases the heat to such degree as
+                                 to cause sudden death. This death is a real suffocation; the lungs
+                                 being empty, are convulsed, the circulation disordered, and the
+                                 whole mass of blood driven by the heart towards the head and
+                                 breast; whence that hæmorrhage at the nose and mouth which happens
+                                 after death. This wind is especially fatal to <orgName>persons of a
+                                    plethoric habit</orgName>, and those in whom fatigue has
+                                 destroyed the tone of the muscles and the vessels. The corpse
+                                 remains a long time warm, swells, turns blue and is easily
+                                 separated; all which are signs of that putrid fermentation which
+                                 takes place in animal bodies when the humours become stagnant.
+                                 These accidents are to be avoided by stopping the nose and mouth
+                                 with handkerchiefs; an efficacious method likewise is that
+                                 practised by the camels, who bury their noses in the sand and keep
+                                 them there till the squall is over. </p>
+                              <p> Another quality of this wind is its extreme aridity; which is
+                                 such, that water sprinkled on the floor evaporates in a few
+                                 minutes. By this extreme dryness it withers and strips all the
+                                 plants, and by exhaling too suddenly the emanations from animal
+                                 bodies, crisps the skin, closes the pores, and causes that feverish
+                                 heat which is the invariable effect of suppressed perspiration. <bibl>
+                                    <author>Volney</author>.</bibl>
+                              </p>
+                           </note>
+                         pass.</l>
+                     <l rend="i0" n="1142">They rose, and lo! <persName ref="Abdaldar">the
+                           Sorcerer</persName> lying dead,</l>
+                     <l rend="i0" n="1143">Holding the dagger in his blasted hand.</l>
+                  </lg>
+               </div>
+      </body>
+   </text>
+</TEI>
