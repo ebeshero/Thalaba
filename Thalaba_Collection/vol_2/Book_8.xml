@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801), Volume 2: Book 8</title>
+            <author>Robert Southey</author>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/>
+            </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title>
+               <title level="a">, Volume 2: Book 8</title> (<date>1801</date>) by <author>Robert Southey</author>
+            </bibl>
+         </head>
+      </front>
+      <body>
+         <div type="book" xml:id="Book_8">
+                  <head>THE EIGHTH BOOK.</head>
+                  <lg xml:id="B8_lg450">
+                     <l rend="i8" n="3812">
+                        <rs type="person">WOMAN</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg451">
+                     <l rend="i0" n="3813">Go not among the <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">Tombs</rs>, <rs type="person" ref="Moath">Old Man</rs>!</l>
+                     <l rend="i0" n="3814">There is <rs type="person" ref="Thalaba">a madman</rs>
+                        there.</l>
+                  </lg>
+                  <lg xml:id="B8_lg452">
+                     <l rend="i8" n="3815">
+                        <rs type="person" ref="Moath">OLD MAN</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg453">
+                     <l rend="i0" n="3816">Will he harm me if I go?</l>
+                  </lg>
+                  <lg xml:id="B8_lg454">
+                     <l rend="i8" n="3817">
+                        <rs type="person">WOMAN</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg455">
+                     <l rend="i0" n="3818">Not he, <rs type="person" ref="Thalaba">poor miserable
+                           man</rs>!</l>
+                     <l rend="i0" n="3819">But 'tis a wretched sight to see</l>
+                     <l rend="i0" n="3820">His utter wretchedness.</l>
+                     <l rend="i0" n="3821">For all day long he lies on <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">a grave</rs>,</l>
+                     <l rend="i0" n="3822">And never is he seen to weep,</l>
+                     <l rend="i0" n="3823">And never is he heard to groan.</l>
+                     <l rend="i0" n="3824">Nor ever at the hour of prayer</l>
+                     <l rend="i0" n="3825">Bends his knee, nor moves his lips.</l>
+                     <l rend="i0" n="3826">I have taken him food for charity</l>
+                     <l rend="i0" n="3827">And never a word he spake,</l>
+                     <l rend="i0" n="3828">But yet so ghastly he looked</l>
+                     <l rend="i0" n="3829">That I have awakened at night</l>
+                     <l rend="i0" n="3830">With the dream of his ghastly eyes.</l>
+                     <l rend="i0" n="3831">Now go not among <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the Tombs</rs>, <rs type="person" ref="Moath">Old
+                        Man</rs>!</l>
+                  </lg>
+                  <lg xml:id="B8_lg456">
+                     <l rend="i8" n="3832">
+                        <rs type="person" ref="Moath">OLD MAN</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg457">
+                     <l rend="i0" n="3833">Wherefore has the wrath of<name type="divin">God</name>
+                     </l>
+                     <l rend="i0" n="3834">So sorely stricken him?</l>
+                  </lg>
+                  <lg xml:id="B8_lg458">
+                     <l rend="i8" n="3835">
+                        <rs type="person">WOMAN</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg459">
+                     <l rend="i0" n="3836">He came <rs type="person" ref="Thalaba">a Stranger</rs>
+                        to the land,</l>
+                     <l rend="i0" n="3837">And did good service to <persName>the
+                        Sultan</persName>,</l>
+                     <l rend="i0" n="3838">And well his service was rewarded.</l>
+                     <l rend="i0" n="3839">
+                        <persName>The Sultan</persName> named him next himself,</l>
+                     <l rend="i0" n="3840">
+                        <rs type="building" subtype="palace">And gave a palace for his
+                        dwelling</rs>,</l>
+                     <l rend="i0" n="3841">And dowered <rs type="person" ref="Oneiza">his bride</rs>
+                        with rich domains.</l>
+                     <l rend="i0" n="3842">But <time>on his wedding night</time>
+                     </l>
+                     <l rend="i0" n="3843">There came the <name type="divin">Angel of
+                        Death</name>.</l>
+                     <l rend="i0" n="3844">Since that hour <rs type="person" ref="Thalaba">a man
+                           distracted</rs>
+                     </l>
+                     <l rend="i0" n="3845">Among <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the sepulchres</rs> he wanders.</l>
+                     <l rend="i0" n="3846">
+                        <persName>The Sultan</persName> when he heard the tale</l>
+                     <l rend="i0" n="3847">Said that for some untold crime</l>
+                     <l rend="i0" n="3848">
+                        <name type="divin">Judgement</name> thus had stricken him,</l>
+                     <l rend="i0" n="3849">And asking <name type="divin">Heaven</name>
+                        forgiveness</l>
+                     <l rend="i0" n="3850">That he had shewn him favour,</l>
+                     <l rend="i0" n="3851">Abandoned him to want.</l>
+                  </lg>
+                  <lg xml:id="B8_lg460">
+                     <l rend="i8" n="3852">
+                        <rs type="person" ref="Moath">OLD MAN</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg461">
+                     <l rend="i0" n="3853">
+                        <rs type="person" ref="Thalaba">A Stranger</rs> did you say?</l>
+                  </lg>
+                  <lg xml:id="B8_lg462">
+                     <l rend="i8" n="3854">
+                        <rs type="person">WOMAN</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg463">
+                     <l rend="i0" n="3855">
+                        <rs type="person" ref="Thalaba">An Arab born</rs>, like you.</l>
+                     <l rend="i0" n="3856">But go not among <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the
+                           Tombs</rs>,</l>
+                     <l rend="i0" n="3857">For the sight of his wretchedness</l>
+                     <l rend="i0" n="3858">Might make a hard heart ache!</l>
+                  </lg>
+                  <lg xml:id="B8_lg464">
+                     <l rend="i8" n="3859">
+                        <rs type="person" ref="Moath">OLD MAN</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg465">
+                     <l rend="i0" n="3860">Nay, nay, I never yet have shunned</l>
+                     <l rend="i0" n="3861">A countryman in distress:</l>
+                     <l rend="i0" n="3862">And the sound of <rs type="place" subtype="language">his
+                           dear native tongue</rs>
+                     </l>
+                     <l rend="i0" n="3863">
+                        <rs type="place" subtype="language">May be like the voice of a friend.</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B8_lg466">
+                     <l rend="i2" n="3864">Then to <rs type="metaplace" subtype="under" ref="Tombs">the Sepulchre</rs>
+                     </l>
+                     <l rend="i2" n="3865">The <rs type="person">Woman</rs> pointed out,</l>
+                     <l rend="i2" n="3866">Old <persName>Moath</persName> bent his way.</l>
+                     <l rend="i2" n="3867">
+                        <rs type="metaplace" subtype="under" ref="Tombs">By the tomb</rs> lay
+                           <persName>Thalaba</persName>,</l>
+                     <l rend="i2" n="3868">In the light of the setting eve.</l>
+                     <l rend="i2" n="3869">The sun, and the wind, and the rain</l>
+                     <l rend="i2" n="3870">Had rusted his raven locks,</l>
+                     <l rend="i2" n="3871">His checks were fallen in,</l>
+                     <l rend="i2" n="3872">His face bones prominent,</l>
+                     <l rend="i2" n="3873">By the tomb he lay along</l>
+                     <l rend="i2" n="3874">And his lean fingers played,</l>
+                     <l rend="i0" n="3875">Unwitting, with the grass that grew beside.</l>
+                  </lg>
+                  <lg xml:id="B8_lg467">
+                     <l rend="i4" n="3876">
+                        <rs type="person" ref="Moath">The Old man</rs> knew him not,</l>
+                     <l rend="i4" n="3877">And drawing near him cried</l>
+                     <l rend="i4" n="3878">"<rs type="person" ref="Thalaba">Countryman</rs>, peace
+                        be with thee!"</l>
+                     <l rend="i2" n="3879">
+                        <rs type="place" subtype="language">The sound of his dear native tongue</rs>
+                     </l>
+                     <l rend="i4" n="3880">Awakened <persName>Thalaba</persName>.</l>
+                     <l rend="i4" n="3881">He raised his countenance</l>
+                     <l rend="i4" n="3882">And saw <rs type="person" ref="Moath">the good Old
+                           Man</rs>,</l>
+                     <l rend="i0" n="3883">And he arose, and fell upon his neck,</l>
+                     <l rend="i4" n="3884">And groaned in bitterness.</l>
+                     <l rend="i4" n="3885">Then <persName>Moath</persName> knew the youth,</l>
+                     <l rend="i0" n="3886">And feared that he was childless, and he turned</l>
+                     <l rend="i2" n="3887">His eyes, and <rs type="person" ref="Oneiza">pointed to
+                              <rs type="metaplace" subtype="under" ref="Tombs">the
+                        tomb</rs>
+                        </rs>.</l>
+                     <l rend="i4" n="3888">"<rs type="person" ref="Moath">Old Man</rs>!" cried
+                           <persName>Thalaba</persName>,</l>
+                     <l rend="i4" n="3889">"Thy search is ended there!"</l>
+                  </lg>
+                  <lg xml:id="B8_lg468">
+                     <l rend="i4" n="3890">
+                        <rs type="person" ref="Moath">The father</rs>'s cheek grew white</l>
+                     <l rend="i0" n="3891">And his lip quivered with the misery;</l>
+                     <l rend="i0" n="3892">Howbeit, collecting with a painful voice</l>
+                     <l rend="i0" n="3893">He answered, "<name type="divin">God</name> is good! his
+                        will be done!"</l>
+                  </lg>
+                  <lg xml:id="B8_lg469">
+                     <l rend="i4" n="3894">The woe in which he spake,</l>
+                     <l rend="i0" n="3895">The resignation that inspired his speech,</l>
+                     <l rend="i4" n="3896">They softened Thalaba.</l>
+                     <l rend="i0" n="3897">"Thou hast a solace in thy grief," he cried,</l>
+                     <l rend="i4" n="3898">"A comforter within!</l>
+                     <l rend="i4" n="3899">"<persName>Moath</persName>! thou seest me here,</l>
+                     <l rend="i2" n="3900">"Delivered to <orgName>the Evil Powers</orgName>,</l>
+                     <l rend="i4" n="3901">"<rs type="person" ref="Thalaba">A God-abandoned
+                           wretch</rs>."</l>
+                  </lg>
+                  <lg xml:id="B8_lg470">
+                     <l rend="i0" n="3902">The <rs type="person" ref="Moath">Old Man</rs> looked at
+                        him incredulous.</l>
+                     <l rend="i4" n="3903">"Nightly," <rs type="person" ref="Thalaba">the youth</rs>
+                        pursued,</l>
+                     <l rend="i0" n="3904">"<rs type="person" ref="Oneiza">Thy daughter</rs> comes
+                        to drive me to despair.</l>
+                     <l rend="i4" n="3905">"<persName>Moath</persName> thou thinkest me mad,...</l>
+                     <l rend="i0" n="3906">
+                        <rs type="religion" subtype="Islam">"But when <persName>the Cryer</persName>
+                           
+                              <note type="author" anchored="true" xml:id="N_138">
+                                 <p> As <rs type="person" ref="Mohammed">the celestial Apostle</rs>,
+                                    at his retreat from <hi rend="italic">
+                                       <placeName>Medina</placeName>
+                                    </hi>, did not perform always the five canonical prayers at the
+                                    precise time, <orgName>his disciples</orgName>, who often
+                                    neglected to join with him in the <hi rend="italic">
+                                       <placeName>Namaz</placeName>
+                                    </hi>, assembled one day to fix upon some method of announcing
+                                    to <orgName>the public</orgName>
+                                    <time>those moments of the day and night when <rs type="person" ref="Mohammed">their master</rs> discharged this first of
+                                       religious duties</time>. Flags, bells, trumpets, and fire
+                                    were successively proposed as signals. None of these, however,
+                                    were admitted. The flags were rejected as unsuited to the
+                                    sanctity of the object; <rs type="religion" subtype="Christian">the bells, on account of their being used by
+                                          <orgName>Christians</orgName>
+                                    </rs>; <rs type="religion" subtype="Judaism">the trumpets, as
+                                       appropriated to the Hebrew worship</rs>; <rs type="religion" subtype="idol"> the fire, as having too near an analogy to
+                                       the religion of the <orgName>pyrolators</orgName>
+                                    </rs>. From this contrariety of opinions the disciples separated
+                                    without any determination. <rs type="dream">But one of them, <hi rend="italic">
+                                          <persName>Abdullah ibn Zeid Abderiyé</persName>
+                                       </hi>, saw <time>the night following</time>, in a dream,
+                                          <name type="divin">a celestial being clothed in
+                                          green</name>: he immediately requested his advice, with
+                                       the most zealous earnestness, respecting the object in
+                                       dispute. I am come to inform you, replied the heavenly
+                                       visitor, how to discharge this important duty of your
+                                       religion. <rs type="script" subtype="holy">He then ascended
+                                          to the roof of the house, and declared the <hi rend="italic">Ezann</hi> with a loud voice, and in the
+                                          same words which have been ever since used to declare
+                                             <time>the canonical periods</time>.</rs>
+                                    </rs> When he awoke, <hi rend="italic">Abdullah</hi> ran to
+                                    declare his vision to <persName ref="Mohammed">the
+                                       prophet</persName>, who loaded him with blessings, and
+                                    authorized that moment <hi rend="italic">
+                                       <persName>Bilal Habeschy</persName>
+                                    </hi>, another of his disciples, to discharge, on the top of his
+                                    house, that august office, by the title of <hi rend="italic">Muzzinn</hi>. </p>
+                                 <p>
+                                    <rs type="script" subtype="holy">These are the words of the
+                                       Ezann: <hi rend="italic">
+                                          <name type="divin">Most high God!</name> most high God!
+                                          most high God! I acknowledge that there is no other except
+                                          God; I acknowledge that there is no other except God! I
+                                          acknowledge that</hi>
+                                       <persName>Mohammed</persName>
+                                       <hi rend="italic">is the Prophet of God! come to prayer! come
+                                          to prayer! come to the temple of salvation! <name type="divin">Great God</name>! great God! there is no
+                                          God except<name type="divin">God</name>.</hi>
+                                    </rs>
+                                 </p>
+                                 <p>
+                                    <rs type="script" subtype="holy">This declaration must be the
+                                       same for <time>each of the five canonical periods</time>,
+                                       except that of <time>the morning</time>, when <persName>the
+                                             <hi rend="italic">Muezzinn</hi>
+                                       </persName> ought to add, after the words, <hi rend="italic">come to the temple of salvation</hi>, the following: <hi rend="italic">prayer is to be preferred to sleep, prayer
+                                          is to be preferred to sleep</hi>. </rs>
+                                 </p>
+                                 <p>
+                                    <rs type="script" subtype="holy">This addition was produced by
+                                       the zeal and piety of <hi rend="italic">
+                                          <persName>Bilal Habeschy</persName>
+                                       </hi>: as he announced one day the <hi rend="italic">Ezann</hi> of the dawn <rs type="place">in the prophet's
+                                          antichamber</rs>, <persName>Aische</persName> in a whisper
+                                       informed him, that <rs type="person" ref="Mohammed">the
+                                          celestial envoy</rs> was still asleep; this first of the
+                                          <hi rend="italic">Muezzinns</hi> then added these words,
+                                          <hi rend="italic">prayer is to be preferred to sleep</hi>:
+                                       when he awoke the prophet applauded him, and commanded <hi rend="italic">Bilal</hi> to insert them in all the morning
+                                          <hi rend="italic">Ezanns</hi>.</rs>
+                                 </p>
+                                 <p>
+                                    <rs type="script" subtype="holy">The words must be chanted, but
+                                       with deliberation and gravity, those particularly which
+                                       constitute the profession of the faith. <persName>The <hi rend="italic">Muezzinn</hi>
+                                       </persName> must pronounce them distinctly; he must pay more
+                                       attention to the articulation of the words than to the melody
+                                       of his voice; he must make proper intervals and pauses, and
+                                       not precipitate his words, but let them be clearly understood
+                                       by <orgName>the people</orgName>. He must be interrupted by
+                                       no other object whatever. During the whole <hi rend="italic">Ezann</hi> he must stand, with a finger in each ear, and
+                                       his face turned, as in prayer, towards the <hi rend="italic">Keabe</hi> of <hi rend="italic">
+                                       <placeName>Mecca</placeName>
+                                    </hi>. As he utters these
+                                       words, come to prayer, come to <rs type="building" subtype="temple">the temple of salvation</rs>, he must
+                                       turn his face to the right and left, because he is supposed
+                                       to address <rs type="place" ref="the_world">all the nations
+                                          of the world</rs>, <rs type="place" ref="Universe">the
+                                          whole expanded universe</rs>. At this time <rs type="script" subtype="holy">
+                                       <orgName>the
+                                             auditors</orgName> must recite with a low voice the <hi rend="italic">Tehhlil</hi>
+                                    </rs>. There is no strength,
+                                       there is no power, but what is in <name type="divin">God</name>, in that <name type="divin">supreme
+                                          Being</name>, in that <name type="divin">powerful
+                                          Being</name>.</rs>
+                                    <bibl>
+                                       <author>D'Ohsson</author>.</bibl>
+                                 </p>
+                              </note>
+                            from the Minaret</rs>
+                     </l>
+                     <l rend="i4" n="3907">"Proclaims <time>the midnight hour</time>,</l>
+                     <l rend="i4" n="3908">"Hast thou a heart to see <rs type="person" ref="Oneiza">her</rs>?"</l>
+                  </lg>
+                  <lg xml:id="B8_lg471">
+                     <l rend="i4" n="3909">In the
+                           <note type="author" anchored="true" xml:id="N_139">
+                              <p> In <placeName ref="Meidan">the Meidan, or Great Place of the
+                                       <placeName ref="Tauris">city of Tauris</placeName>
+                                 </placeName>, there are people appointed <time>every evening when
+                                    the sun sets</time>, and <time>every morning when he
+                                    rises</time>, to make <time>during half an hour</time>
+                                 <rs type="song">a terrible concert of trumpets and drums</rs>. They
+                                 are placed on one side of the Square, in a gallery somewhat
+                                 elevated; and the same practice is established in every city in
+                                    <placeName>Persia</placeName> . <bibl>Tavernier.</bibl>
+                              </p>
+                           </note>
+                        
+                        <placeName>Meidan</placeName> now</l>
+                     <l rend="i2" n="3910">The clang of clarions and of drums</l>
+                     <l rend="i2" n="3911">Accompanied <time>the Sun's descent</time>.</l>
+                     <l rend="i4" n="3912">
+                        <rs type="religion" subtype="Islam">"Dost thou not pray? <rs type="person" ref="Thalaba">my son</rs>!"</rs>
+                     </l>
+                     <l rend="i4" n="3913">Said <persName>Moath</persName>, as he saw</l>
+                     <l rend="i0" n="3914">The white flag waving on the neighbouring <rs type="building" subtype="temple">Mosque</rs>;</l>
+                     <l rend="i4" n="3915">Then <persName>Thalaba</persName>'s eye grew wild,</l>
+                     <l rend="i2" n="3916">"Pray!" echoed he, "I must not pray!"</l>
+                     <l rend="i4" n="3917">And the hollow groan he gave</l>
+                     <l rend="i4" n="3918">Went to the <rs type="person" ref="Moath">Old Man</rs>'s
+                        heart,</l>
+                     <l rend="i2" n="3919">
+                        <rs type="religion" subtype="Islam">And bowing down his face to earth,</rs>
+                     </l>
+                     <l rend="i0" n="3920">
+                        <rs type="religion" subtype="Islam">In fervent agony he called on<name type="divin">God</name>.</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B8_lg472">
+                     <l rend="i2" n="3921">
+                        <time>A night of darkness and of storms!</time>
+                     </l>
+                     <l rend="i2" n="3922">Into <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">the
+                           Chamber</rs>
+                           <note type="author" anchored="true" xml:id="N_140">
+                              <p>
+                                 <rs type="earthworks" subtype="grave">If we except a few persons,
+                                    who are buried within the precincts of some sanctuary, the rest
+                                    are carried out at a distance from their cities and villages,
+                                    where a great extent of ground is allotted for that
+                                 purpose</rs>. <orgName>Each family</orgName> hath a particular
+                                 portion of it, <rs type="metaplace" subtype="garden" ref="Greek_Tombs">walled in like a garden</rs>, where the bones
+                                 of <orgName>their ancestors</orgName> have remained undisturbed
+                                    <time>for many generations</time>. For in these enclosures
+                                    <note style="double" type="author" anchored="true" xml:id="NN_l"> These seem to be the same with the Περιϐολοι of the
+                                       Antients. Thus <bibl>
+                                          <author>Euripides</author>. <title>Troad</title>. l.
+                                          1141.</bibl>
+                                    </note>
+                                  the graves are all distinct and separate; having <rs type="building" subtype="monument">each of them <rs type="script" subtype="eng">a stone, placed upright, both at
+                                       the head and feet, inscribed with the name of the person who
+                                       lieth there interred</rs>; <rs type="earthworks" subtype="garden" ref="Greek_Tombs">whilst the intermediate
+                                       space is either planted with flowers, bordered round with
+                                       stone or paved all over with tiles</rs>.</rs>
+                                 <rs type="building" subtype="monument">The graves of the
+                                       <orgName>principal citizens</orgName> are further
+                                    distinguished by some square chambers or Cupolas
+                                       <note style="double" type="author" anchored="true" xml:id="NN_m"> Such places probably as these are to be
+                                          understood, <rs type="metaplace" subtype="under" ref="Tombs">when <name type="divin">the
+                                                Demoniack</name> is said to have <hi rend="italic">his dwelling among the tombs</hi>
+                                          </rs>.</note>
+                                     that are built over them.</rs>
+                              </p>
+                              <p>
+                                 <rs type="building" subtype="monument">Now as all these different
+                                    sorts of <rs type="metaplace" subtype="under" ref="Tombs">tombs
+                                       and sepulchres</rs>, with the very walls likewise of the
+                                    enclosures, are constantly kept clean, white-washed and
+                                    beautified, they continue, to this day, to be an excellent
+                                    comment upon that expression of <name type="divin">our
+                                       Saviour</name>'s, where he mentions the <hi rend="italic">garnishing of the sepulchres</hi>, and again where he
+                                    compares the <orgName>scribes, pharisees and
+                                       hypocrites</orgName>, to <hi rend="italic">whited sepulchres,
+                                       which indeed appear beautiful outward, but are within full of
+                                       dead men's bones and all uncleanness</hi>. For the space of
+                                    two or three months after any person is interred, <orgName>the
+                                       female relations</orgName> go once a week to weep over the
+                                    grave and perform their parentalia upon it.</rs>
+                                 <bibl>Shaw.</bibl>
+                              </p>
+                              <p> About a quarter of a mile from the town of
+                                    <placeName>Mylasa</placeName>, is <rs type="building" subtype="monument">a <rs type="metaplace" subtype="under" ref="Tombs">sepulchre</rs> of the species called by
+                                       <orgName>the antients</orgName>, <hi rend="italic">Distœya</hi> or <hi rend="italic">Double-roofed</hi>. It
+                                    consisted of two square rooms. In the lower, which has a door
+                                    way, were deposited the urns with the ashes of the deceased. In
+                                    the upper, <orgName>the relations and friends</orgName>
+                                    solemnized <time>the anniversary of the funeral</time>, and
+                                    performed <rs type="script" subtype="holy">stated rites</rs>. A
+                                    hole made through the floor was designed for pouring libations
+                                    of honey, milk, or wine, with which it was usual to gratify
+                                       <orgName>the manes or spirits</orgName>.</rs>
+                                 <bibl>Chandler's Travels in Asia Minor.</bibl>
+                              </p>
+                              <q>
+                                 <lg xml:lang="grc">
+                                    <l rend="i0"> Αλλ’ αντι ϰεδρȣ περιϐολων τελαινων </l>
+                                    <l rend="i0"> Εν τηδε θαψαι παιδα. </l>
+                                 </lg>
+                              </q>
+                           </note>
+                         of <rs type="metaplace" subtype="under" ref="Tombs">the Tomb</rs>
+                     </l>
+                     <l rend="i4" n="3925">
+                        <persName>Thalaba</persName> led the <rs type="person" ref="Moath">Old
+                           Man</rs>,</l>
+                     <l rend="i4" n="3926">To roof him from the rain.</l>
+                     <l rend="i4" n="3927">
+                        <time>A night of storms!</time> the wind</l>
+                     <l rend="i4" n="3928">Swept thro' the moonless sky</l>
+                     <l rend="i0" n="3929">And moaned <rs type="building" subtype="monument">among
+                              <rs type="metaplace" subtype="under" ref="Tombs">the pillared
+                              sepulchres</rs>
+                        </rs>.</l>
+                     <l rend="i2" n="3930">And in the pauses of its sweep</l>
+                     <l rend="i4" n="3931">They heard the heavy rain</l>
+                     <l rend="i2" n="3932">Beat on the monument above.</l>
+                     <l rend="i2" n="3933">In silence <rs type="metaplace" subtype="under" ref="Tombs">on <persName>Oneiza</persName>'s grave</rs>
+                     </l>
+                     <l rend="i2" n="3934">The <rs type="person" ref="Moath">Father</rs> and the <rs type="person" ref="Thalaba">Husband</rs> sate.</l>
+                  </lg>
+                  <lg xml:id="B8_lg474">
+                     <l rend="i2" n="3935">
+                        <persName>The Cryer from the Minaret</persName>
+                     </l>
+                     <l rend="i4" n="3936">Proclaimed <time>the midnight hour</time>;</l>
+                     <l rend="i4" n="3937">
+                        <time>"Now! now!"</time> cried <persName>Thalaba</persName>,</l>
+                     <l rend="i2" n="3938">
+                        <rs type="metaplace" subtype="barrier" ref="Tombs">And o'er <rs type="building" subtype="monument">the chamber of the tomb</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="3939">
+                        <rs type="metaplace" subtype="barrier" ref="Tombs">There spread a lurid
+                           gleam</rs>
+                     </l>
+                     <l rend="i0" n="3940"> Like the reflection of a sulphur fire, </l>
+                     <l rend="i4" n="3941">
+                        <rs type="metaplace" subtype="barrier" ref="Tombs">And in that hideous
+                           light</rs>
+                     </l>
+                     <l rend="i0" n="3942">
+                        <persName>Oneiza</persName> stood before them, it was She,</l>
+                     <l rend="i0" n="3943">Her very lineaments, and such as death</l>
+                     <l rend="i0" n="3944">Had changed them, livid cheeks, and lips of blue.</l>
+                     <l rend="i4" n="3945">But in her eyes there dwelt</l>
+                     <l rend="i4" n="3946">Brightness more terrible</l>
+                     <l rend="i2" n="3947">Than all the loathsomeness of death.</l>
+                     <l rend="i4" n="3948">"Still art thou living, <rs type="person" ref="Thalaba">wretch</rs>?"</l>
+                     <l rend="i0" n="3949">In hollow tones she cried to
+                        <persName>Thalaba</persName>,</l>
+                     <l rend="i2" n="3950">
+                        <rs type="metaplace" subtype="under" ref="Tombs">"And must I
+                              <time>nightly</time> leave my grave</rs>
+                     </l>
+                     <l rend="i4" n="3951">
+                        <rs type="metaplace" subtype="under" ref="Tombs">"To tell thee, still in
+                           vain,</rs>
+                     </l>
+                     <l rend="i4" n="3952">
+                        <rs type="metaplace" subtype="under" ref="Tombs">"<name type="divin">God</name> has abandoned thee?"</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B8_lg475">
+                     <l rend="i2" n="3953">"This is not she!" the <rs type="person" ref="Moath">Old
+                           Man</rs> exclaimed,</l>
+                     <l rend="i4" n="3954">"<name type="zomb">A Fiend</name>! a manifest Fiend!"</l>
+                     <l rend="i2" n="3955">And to <rs type="person" ref="Thalaba">the youth</rs> he
+                        held his lance,</l>
+                     <l rend="i4" n="3956">"Strike and deliver thyself!"</l>
+                     <l rend="i4" n="3957">"Strike <hi rend="smallcap">her</hi>!" cried
+                           <persName>Thalaba</persName>,</l>
+                     <l rend="i4" n="3958">And palsied of all powers</l>
+                     <l rend="i0" n="3959">Gazed fixedly upon the dreadful form.</l>
+                     <l rend="i2" n="3960">"Yea! strike her!" cried <name type="divin">a
+                           voice</name> whose tones</l>
+                     <l rend="i0" n="3961">Flowed with such sudden healing thro' his soul,</l>
+                     <l rend="i4" n="3962"> As when the desert shower </l>
+                     <l rend="i4" n="3963">
+                        <rs type="miracle">From death delivered him.</rs>
+                     </l>
+                     <l rend="i0" n="3964">But unobedient to that well-known voice</l>
+                     <l rend="i4" n="3965">His eye was seeking it,</l>
+                     <l rend="i4" n="3966">When <persName>Moath</persName> firm of heart,</l>
+                     <l rend="i0" n="3967">Performed the bidding; thro' <name type="zomb">the
+                           vampire</name>
+                        
+                           <note type="author" anchored="true" xml:id="N_141">
+                              <p> In the <hi rend="italic">Lettres Juives</hi> is the following
+                                 extract from the <hi rend="italic">Mercure Historique et
+                                    Politique</hi>. Octob. 1736. </p>
+                              <p> We have had <rs type="metaplace" subtype="under" ref="Vampire">in
+                                    this country a new scene of <name type="zomb">Vampirism</name>
+                                 </rs>, which is duly attested by two officers of the Tribunal of
+                                    <hi rend="italic">
+                                    <placeName>Belgrade</placeName>
+                                 </hi>, who took cognizance of the affair on the spot, and by an
+                                 officer in <orgName>his Imperial Majesty's troops at <hi rend="italic">
+                                       <placeName>Gradisch</placeName>
+                                    </hi>
+                                 </orgName> (<hi rend="italic">in <placeName>Sclavonia</placeName>
+                                 </hi>) who was an eye-witness of the proceedings. </p>
+                              <p>
+                                 <time>In the beginning of <hi rend="italic">September</hi>
+                                 </time> there died at the village of <hi rend="italic">
+                                    <placeName>Kisilova</placeName>
+                                 </hi>, three leagues from <hi rend="italic">
+                                    <placeName>Gradisch</placeName>
+                                 </hi>, <rs type="person">an old man of above threescore and
+                                    two</rs>: three days after he was buried he appeared <time>in
+                                    the night</time> to <rs type="person">his son</rs>, and desired
+                                 he would give him somewhat to eat, and then disappeared. <time>The
+                                    next day</time> the son told <orgName>his neighbours</orgName>
+                                 these particulars. That night <name type="zomb">the Father</name>
+                                 did not come, but <time>the next evening</time> he made him another
+                                 visit, and desired something to eat. It is not known whether his
+                                 son gave him any thing or not, but the next morning the young man
+                                 was found dead in his bed. The <persName>Magistrate or Bailiff of
+                                    the place</persName> had notice of this, as also that the same
+                                 day <orgName>five or six persons</orgName> fell sick in the
+                                 village, and died one after the other. He sent an exact account of
+                                 this to the <orgName>tribunal of <hi rend="italic">
+                                       <placeName>Belgrade</placeName>
+                                    </hi>
+                                 </orgName>, and thereupon <orgName>two commissioners</orgName> were
+                                 dispatched to the village attended by <persName>an
+                                    executioner</persName>, with instructions to examine closely
+                                 into the affair. <persName>An officer in the Imperial
+                                    service</persName>, from whom we have this relation, went also
+                                 from <hi rend="italic">
+                                    <placeName>Gradisch</placeName>
+                                 </hi>, in order to examine personally an affair of which he had
+                                 heard so much. They opened in the first place <rs type="metaplace" subtype="under" ref="Tombs">the graves of all who had been
+                                    buried <time>in six weeks</time>
+                                 </rs>. When they came to <rs type="metaplace" subtype="under" ref="Vampire">that of <name type="zomb">the old man</name>
+                              </rs>,
+                                 they found his eyes open, his colour fresh, his respiration quick
+                                 and strong, yet he appeared to be stiff and insensible. From these
+                                 signs they concluded him to be a notorious <hi rend="italic">
+                                    <name type="zomb">Vampire</name>
+                                 </hi>. The <persName>executioner</persName> thereupon, by the
+                                 command of <orgName>the commissioners</orgName>, struck a stake
+                                 thro' his heart; and when he had so done, they made a bonfire, and
+                                 therein consumed the carcase to ashes. There was no marks of <name type="zomb">Vampirism</name> found on his son, or on the bodies
+                                 of <orgName>the other persons who died so suddenly</orgName>. </p>
+                              <p> Thanks be to <name type="divin">God</name>, <orgName ref="English">we</orgName> are as far as any people can be from giving into
+                                 credulity, we acknowledge that all the lights of physick do not
+                                 enable us to give any account of this fact, nor do we pretend to
+                                 enter into its causes. However, we cannot avoid giving credit to a
+                                 matter of fact juridically attested by <orgName>competent and
+                                    unsuspected witnesses</orgName>, especially since it is far from
+                                 being the only one of the kind. We shall here annex an instance of
+                                 the same sort <time>in <date>1732</date>
+                                 </time>, already inserted in <bibl>the Gleaner, No. 18</bibl>. </p>
+                              <p> In a certain town of <hi rend="italic">
+                                    <placeName>Hungary</placeName>
+                                 </hi>, which is called in <lang>Latin</lang>
+                                 <hi rend="italic">
+                                    <placeName>Oppida Heidonum</placeName>
+                                 </hi>, on the other side <hi rend="italic">
+                                    <placeName>Tibiscus</placeName>
+                                 </hi>, vulgarly called the <hi rend="italic">
+                                    <placeName>Teysse</placeName>
+                                 </hi>; that is to say, <geogFeat>the river which washes the
+                                    celebrated territory of <hi rend="italic">
+                                       <placeName>Tokay</placeName>
+                                    </hi> as also a part of <hi rend="italic">
+                                       <placeName>Transilvania</placeName>
+                                    </hi>
+                                 </geogFeat>. The people known by the name of <hi rend="italic">
+                                    <orgName>Heydukes</orgName>
+                                 </hi> believe that certain dead persons, whom they call <name type="zomb">Vampires</name>, suck the blood of the living,
+                                 insomuch that these people appear like skeletons, while the dead
+                                 bodies of the suckers are so full of blood, that it runs out at all
+                                 the passages of their bodies, and even at their very pores. This
+                                 odd opinion of theirs they support by a multitude of facts attested
+                                 in such a manner, that they leave no room for doubt. We shall here
+                                 mention some of the most considerable. </p>
+                              <p> It is now about five years ago, that a certain <hi rend="italic">
+                                    <orgName>Heyduke</orgName>
+                                 </hi>, an inhabitant of the village of <hi rend="italic">
+                                 <placeName>Medreiga</placeName>
+                              </hi>, whose name was
+                                    <persName>Arnold Paul</persName>, was bruised to death by a
+                                 hay-cart, which ran over him. <time>Thirty days after his
+                                    death</time>, <orgName>no less than four persons</orgName> died
+                                 suddenly, in that manner, wherein, according to the tradition of
+                                 the country, those people generally die who are sucked by <name type="zomb">Vampires</name>. Upon this a story was called to
+                                 mind, that this <hi rend="italic">
+                                    <persName>Arnold Paul</persName>
+                                 </hi> had told in his life-time, viz: that at <hi rend="italic">
+                                    <placeName>Cossova</placeName>
+                                 </hi> on the Frontiers of the <hi rend="italic">Turkish
+                                       <placeName>Servia</placeName>
+                                 </hi> , he had been tormented by a <name type="zomb">Vampire</name>; (now the established opinion is that a person
+                                 sucked by a <name type="zomb">Vampire</name>, becomes a <name type="zomb">Vampire</name> himself, and sucks in his turn.) But
+                                 that <rs type="science" subtype="chem">he had found a way to rid
+                                    himself of this evil, by eating some of the earth out of <rs type="metaplace" subtype="under" ref="Vampire">
+                                       <rs type="earthworks" subtype="grave">the <name type="zomb">Vampire</name>'s grave</rs>
+                                    </rs>, and rubbing himself with his blood. This precaution
+                                    however did not hinder his becoming a <name type="zomb">Vampire</name>;</rs> insomuch that his body being taken up
+                                 forty days after his death, all the marks of a notorious <name type="zomb">Vampire</name> were found thereon. His complexion
+                                 was fresh, his hair, nails and beard were grown; he was full of
+                                 fluid blood, which ran from all parts of his body upon his shroud.
+                                 The <hi rend="italic">
+                                    <persName>Hadnagy</persName>
+                                 </hi> or <hi rend="italic">Bailiff</hi> of the place, who was a
+                                 person well acquainted with <name type="zomb">Vampirism</name>,
+                                 caused a sharp stake to be thrust, as the custom is, through the
+                                 heart of <hi rend="italic">
+                                    <persName>Arnold Paul</persName>
+                                 </hi>, and also quite through his body; whereupon he cried out
+                                 dreadfully as if he had been alive. This done, they cut off his
+                                 head, burnt his body, and threw the ashes thereof into <hi rend="italic">
+                                    <placeName>Saave</placeName>
+                                 </hi>. They took the same measures with the bodies of those persons
+                                 who had died of <name type="zomb">Vampirism</name>, for fear that
+                                 they should fall to sucking in their turns. </p>
+                              <p> All these prudent steps did not hinder the same mischief from
+                                 breaking out again about five years afterwards, when
+                                    <orgName>several people in the same village</orgName> died in a
+                                 very odd manner. In the space of <time>three months</time>,
+                                    <orgName>seventeen persons of all ages and sexes died of <name type="zomb">Vampirism</name>
+                                 </orgName>, some suddenly, and some after two or three days
+                                 suffering. Amongst others there was one <hi rend="italic">Stanoska</hi>, the daughter of a <hi rend="italic">
+                                    <orgName>Heyduke</orgName>
+                                 </hi> whose name was <hi rend="italic">
+                                    <persName>Jovitzo</persName>
+                                 </hi> who going to bed in perfect health, waked in the middle of
+                                 the night, and making a terrible outcry, affirmed that <rs type="person">the son of a certain <hi rend="italic">
+                                       <orgName>Heyduke</orgName>
+                                    </hi> whose name was <hi rend="italic">
+                                       <persName>Millo</persName>
+                                    </hi>
+                                 </rs>, and who had been dead about <time>three weeks</time>, had
+                                 attempted to strangle her in her sleep. She continued from that
+                                 time in a languishing condition, and in the space of three days
+                                 died. What this girl had said discovered <rs type="person">the son
+                                    of <hi rend="italic">
+                                       <persName>Millo</persName>
+                                    </hi>
+                                 </rs> to be a <name type="zomb">Vampire</name>. They took up the
+                                 body and found him so in effect. The principal persons of the
+                                 place, particularly <orgName>the Physician and Surgeons</orgName>,
+                                 began to examine very narrowly, how, in spite of all their
+                                 precautions, <name type="zomb">Vampirism</name> had again broke out
+                                 in so terrible a manner. After a strict inquisition, they found
+                                 that the deceased <hi rend="italic">
+                                    <persName>Arnold Paul</persName>
+                                 </hi> had not only sucked the four persons before mentioned, but
+                                 likewise several beasts, of whom the new <name type="zomb">Vampires</name> had eaten, particularly <rs type="person">the
+                                    son of <hi rend="italic">
+                                       <persName>Millo</persName>
+                                    </hi>
+                                 </rs>. Induced by these circumstances, they took a resolution, of
+                                 digging up the bodies of all persons who had died within a certain
+                                 time. They did so, and amongst forty bodies, there were found
+                                    <orgName>seventeen evidently <name type="zomb">Vampires</name>
+                                 </orgName>. <rs type="science" subtype="chem">Through the hearts of
+                                    these they drove stakes, cut off their heads, burnt the bodies,
+                                    and threw the ashes into the river</rs>. All the informations we
+                                 have been speaking of were taken in a legal way, and all the
+                                 executions were so performed, as appears by certificates drawn up
+                                 in full form, attested by several <orgName>officers in the
+                                    neighbouring garrisons</orgName>, by the <orgName>surgeons of
+                                    several Regiments</orgName>, and the principal inhabitants of
+                                 the place. The verbal process was sent towards <time>the latter end
+                                    of last <hi rend="italic">January</hi>
+                                 </time> to <orgName>the council of war at <hi rend="italic">
+                                       <placeName>Vienna</placeName>
+                                    </hi>
+                                 </orgName>, who thereupon established <rs type="science" subtype="diag">a special commission to examine into these
+                                    facts</rs>. Those just now mentioned were attested by the <hi rend="italic">
+                                    <persName>Hadnagi Barriarer</persName>
+                                 </hi>, the principal <hi rend="italic">
+                                    <orgName>Heyduke</orgName>
+                                 </hi> of the village, as also by <hi rend="italic">
+                                    <persName>Battuer</persName>
+                                 </hi>, first Lieutenant of <persName>Prince <hi rend="italic">Alexander</hi> of <hi rend="italic">
+                                       <placeName>Wirtemberg</placeName>
+                                    </hi>
+                                 </persName>, <hi rend="italic">
+                                    <persName>Flickstenger</persName>
+                                 </hi>, surgeon major of <orgName>the regiment of <hi rend="italic">
+                                       <placeName>Furstemberg</placeName>
+                                    </hi>
+                                 </orgName>, <orgName>three other surgeons of the same
+                                    regiment</orgName>, and several other persons. </p>
+                              <p> A similar superstition prevails in <placeName>Greece</placeName>.
+                                 The man whose story we are going to relate, was a <persName>Peasant
+                                    of <placeName>Mycone</placeName>
+                                 </persName>, naturally ill natured and quarrelsome, this is a
+                                 circumstance to be taken notice of in such cases. He was murdered
+                                 in the fields, nobody knew how, or by whom. Two days after his
+                                 being buried in a <rs type="building" subtype="temple">Chapel</rs>
+                                 in the town, it was noised about that he was seen to walk <time>in
+                                    the night</time> with great haste, that he tumbled about
+                                 people's goods, put out their lamps, griped them behind, and a
+                                 thousand other monkey tricks. At first the story was received with
+                                 laughter; but the thing was looked upon to be serious when
+                                    <orgName>the better sort of people</orgName> began to complain
+                                 of it; <rs type="religion" subtype="eastOrth">
+                                    <orgName>the Papas</orgName> themselves gave credit to the fact,
+                                    and no doubt had their reasons for so doing; masses must be
+                                    said, to be sure</rs>: but for all this, the
+                                    <persName>Peasant</persName> drove his old trade and heeded
+                                 nothing they could do. After divers meetings of the <orgName>chief
+                                    people of the city</orgName>, of <orgName>priests</orgName>, and
+                                    <orgName>monks</orgName>, it was gravely concluded, that 'twas
+                                 necessary in consequence of <rs type="religion" subtype="eastOrth">some musty ceremonial</rs> to wait till nine days after <rs type="earthworks" subtype="grave">the interment</rs> should be
+                                 expired. </p>
+                              <p>
+                                 <time>On the tenth day</time>
+                                 <rs type="script" subtype="holy">they said one <rs type="religion" subtype="eastOrth">mass</rs> in the <rs type="building" subtype="temple">chapel</rs> where the body was laid, in
+                                    order to drive out <name type="zomb">the Demon</name> which they
+                                    imagined was got into it</rs>. After mass they took up the body,
+                                 and got every thing ready <rs type="science" subtype="phys">for
+                                    pulling out its heart. The <persName>butcher</persName> of the
+                                    town, an old clumsy fellow, first opens the belly instead of the
+                                    breast, he groped a long while among the entrails, but could not
+                                    find what he looked for; at last somebody told him he should cut
+                                    up the Diaphragm. The heart was then pulled out, to the
+                                    admiration of all the <orgName>spectators</orgName>.</rs>
+                                 <time>In the mean time</time>
+                                 <rs type="science" subtype="chem">
+                                    <name type="zomb">the Corpse</name> stunk so abominably that
+                                    they were obliged to burn frankincense; but the smoke mixing
+                                    with the exhalations from the carcass increased the stink, and
+                                    began to muddle <orgName>the poor people</orgName>'s
+                                    pericranies.</rs>
+                                 <rs type="dream">Their imagination, struck with the spectacle
+                                    before them, grew full of visions. It came into their noddles,
+                                    that a thick smoke came out of the body; we durst not say 'twas
+                                    the smoke of the incense.</rs> They were incessantly bawling out
+                                    <name type="zomb">Vroucolacas</name> in the chapel and place
+                                 before it; this is the name they give to these pretended <name type="zomb">Redivivi</name>. The noise bellowed thro' the
+                                 streets, and it seemed to be a name invented on purpose to rend the
+                                 roof of the <rs type="building" subtype="temple">chapel</rs>.
+                                 Several there present averr'd that the wretches blood was extremely
+                                 red; the <persName>Butcher</persName> swore the body was still
+                                 warm, whence they concluded that <name type="zomb"> the
+                                    Deceas'd</name> was a very ill man for not being thoroughly
+                                 dead, or in plain terms for suffering himself to be re-animated by
+                                    <name type="divin">Old Nick</name>; which is the notion they
+                                 have of <name type="zomb">Vroucolacas</name>. They then roar'd out
+                                 that name in a stupendous manner. Just at this time came in
+                                    <orgName>a flock of people</orgName> loudly protesting they
+                                 plainly perceived the Body was not grown stiff when it was carried
+                                 from the fields to Church to be buried, and that consequently it
+                                 was a true <name type="zomb">Vroucolacas</name>; which word was
+                                 still the burden of the song. </p>
+                              <p> I don't doubt they would have sworn it did not stink, had not we
+                                 been there; so mazed were <orgName>the poor people</orgName> with
+                                 this disaster, and so infatuated with their <name type="zomb">notion of the Dead being re-animated</name>. As for us, who
+                                 were got as close to the corpse as we could, that
+                                    <orgName>we</orgName> might be more exact in our observations,
+                                 we were almost poisoned with the intolerable stink that issued from
+                                 it. When they asked us what we thought of this body, we told them
+                                 we believed it to be very thoroughly dead: but as we were willing
+                                 to cure, or at least not to exasperate their prejudiced
+                                 imaginations, we represented to them, that it was no wonder the
+                                    <persName>butcher</persName> should feel a little warmth when he
+                                 groped among Entrails that were then rotting, that it was no
+                                 extraordinary thing for it to emit fumes, since dung turned up will
+                                 do the same; that as for the pretended redness of the blood, it
+                                 still appeared by the butcher's hands to be nothing but a very
+                                 stinking nasty smear. </p>
+                              <p> After all our reasons they were of opinion it would be <rs type="science" subtype="chem">their wisest course to burn the
+                                    dead man's heart on the sea-shore</rs>: but this execution did
+                                 not make him a bit more tractable; he went on with his racket more
+                                 furiously than ever; he was accused of beating folks in the night,
+                                 breaking down doors, and even roofs of houses, clattering windows,
+                                 tearing clothes, emptying bottles and vessels. 'Twas <name type="zomb">the most thirsty Devil</name>! I believe he did not
+                                 spare any body but the <persName>Consul</persName> in whose house
+                                 we lodged. Nothing could be more miserable than the condition of
+                                    <geogFeat>this island</geogFeat>; <orgName>all the
+                                    inhabitants</orgName> seemed frighted out of their senses: the
+                                 wisest among them were stricken like the rest; <rs type="science" subtype="diag">'twas an epidemical disease of the brain, as
+                                    dangerous and infectious as the madness of dogs</rs>.
+                                    <orgName>Whole families</orgName> quitted their <rs type="building" subtype="house">houses</rs>, and brought their
+                                 tent beds from the farthest parts of the town into the public
+                                 place, there to spend <time>the night</time>. They were <time>every
+                                    instant</time> complaining of some new insult; nothing was to be
+                                 heard but sighs and groans <time>at the approach of night</time>:
+                                    <orgName>the better sort of people</orgName> retired into the
+                                 country. </p>
+                              <p> When the prepossession was so general, <orgName>we</orgName>
+                                 thought it our best way to hold our tongues. Had we opposed it, we
+                                 had not only been accounted <orgName>ridiculous
+                                    blockheads</orgName>, but <orgName>Atheists</orgName> and
+                                    <orgName>Infidels</orgName>, how was it possible to stand
+                                 against <rs type="science" subtype="diag">the madness of <orgName>a
+                                       whole people</orgName>
+                                 </rs>? Those that believed we doubted the truth of the fact, came
+                                 and upbraided us with our incredulity, and strove to prove that
+                                 there were such things as <name type="zomb">Vroucolacasses</name>,
+                                 by <rs type="script" subtype="book">citations</rs> out of <bibl>
+                                    <title>the Buckler of Faith</title>, written by <author>F.
+                                       Richard</author> a <orgName>Jesuit</orgName>
+                                    Missionary</bibl>. He was a <orgName>Latin</orgName>, say they,
+                                 and consequently you ought to give him credit. We should have got
+                                 nothing by denying the justness of the consequence: it was as good
+                                 as a Comedy to us every morning to hear the new follies committed
+                                 by <name type="zomb">this night bird</name>; they charged him with
+                                 being guilty of the most abominable sins. </p>
+                              <p>
+                                 <orgName>Some Citizens, that were most zealous for the good of
+                                       <orgName>the public</orgName>
+                                 </orgName>, fancied they had been deficient in the most material
+                                 part of the ceremony. <rs type="script" subtype="holy">They were of
+                                    opinion that they had been wrong in saying mass before they had
+                                    pulled out the wretches heart: had we taken this precaution,
+                                    quoth they, we had bit <name type="zomb">the Devil</name>as sure
+                                    as a gun; he would have been hanged before he would ever have
+                                    come there again: whereas saying mass first, <name type="zomb">the cunning Dog</name> fled for it awhile and came back
+                                    again when the danger was over.</rs>
+                              </p>
+                              <p> Notwithstanding these wise reflections, they remained in as much
+                                 perplexity as they were <time>the first day</time>: they meet
+                                    <time>night and morning</time>, they debate, <rs type="script" subtype="holy">they make professions three days and three
+                                    nights</rs>, <rs type="science" subtype="chem">they oblige
+                                       <orgName>the Papas</orgName> to fast; you might see them
+                                    running from house to house, holy-water-brush in hand sprinkling
+                                    it all about, and washing the doors with it; nay they poured it
+                                    into the mouth of the poor Vroucolacas</rs>. </p>
+                              <p> We so often repeated it to the <orgName>Magistrates</orgName> of
+                                 the town, that in <placeName ref="Christendom">Xtendom</placeName>
+                                 we should keep the strictest watch <time>a nights</time> upon such
+                                 an occasion, to observe what was done; that at last they caught
+                                    <orgName>a few vagabonds</orgName>, who undoubtedly had a hand
+                                 in these disorders: but either they were not the <orgName>chief
+                                    ringleaders</orgName>, or else they were released too soon.
+                                    <time>For two days afterwards</time>, to make themselves amends
+                                 for <time>the Lent</time> they had kept in <rs type="building" subtype="prison">prison</rs>, they fell foul again upon the wine
+                                 tubs of <orgName>those who were such fools as to leave their <rs type="building" subtype="house">houses</rs> empty <time>in
+                                       the night</time>
+                                 </orgName>: so that the people were forced to <rs type="script" subtype="holy">betake themselves again to their prayers</rs>. </p>
+                              <p> One day as they were hard at this work, <rs type="science" subtype="phys">after having stuck I know not how many naked
+                                    swords over <rs type="earthworks" subtype="grave">the grave</rs>
+                                    of this corpse, which they took up <time>three or four times a
+                                       day</time>
+                                 </rs>, for any man's whim; <persName>an Albaneze</persName> that
+                                 happened to be at <placeName>Mycone</placeName>, took upon him to
+                                 say with a voice of authority, that <rs type="science" subtype="phys">it was to the last degree ridiculous to make use
+                                    of the swords of <orgName>Xtians</orgName> in a case like this.
+                                    Can you not conceive, blind as ye are, says he, that the handles
+                                    of these swords being made like a cross, hinders <name type="zomb">the Devil</name>from coming out of the body? Why
+                                    do you not rather take the Turkish sabres?</rs> The advice of
+                                    <rs type="person">this learned man</rs> had no effect: the <name type="zomb">Vroucolacas</name> was incorrigible, and
+                                    <orgName>all the inhabitants</orgName> were in a strange
+                                 consternation; they knew not now what <name type="divin">Saint</name> to call upon, when of a sudden with one voice, as
+                                 if they had given each other the hint, they fell to bawling out all
+                                 thro' the city, that it was intolerable to wait any longer; that
+                                 the only way left was to burn the <name type="zomb">Vroucolacas</name> intire; that after so doing, let <name type="divin">the Devil</name>lurk in it if he could; that 'twas
+                                 better to have recourse to this extremity than to have
+                                    <geogFeat>the island</geogFeat> totally deserted, and indeed
+                                 whole families began to pack up, in order to retire to
+                                    <placeName>Syre</placeName> or <placeName>Tinos</placeName>. The
+                                    <orgName>magistrates</orgName> therefore ordered the <name type="zomb">Vroucolacas</name> to be carryed to the
+                                    <geogFeat>point of the island</geogFeat>
+                                 <placeName>St. George</placeName> , where <rs type="science" subtype="chem">they prepared a great pile with pitch and tar,
+                                    for fear the wood, as dry as it was, should not burn fast enough
+                                    of itself. What they had before left of this miserable carcass
+                                    was thrown into this fire and consumed presently: 'twas on
+                                       <date>the first of January, 1701</date>.
+                                       <orgName>We</orgName> saw the flame as we returned from
+                                       <placeName>Delos</placeName>; it might justly be called a
+                                    bonfire of joy, since after this no more complaints were heard
+                                    against the <name type="zomb">Vroucolacas</name>; they said that
+                                       <name type="zomb">the Devil</name>had now met with his
+                                    match</rs>, and <rs type="song">some ballads were made to turn
+                                    him into ridicule</rs>. <bibl>
+                                    <author>Tournefort</author>.</bibl>
+                              </p>
+                           </note>
+                         corpse</l>
+                     <l rend="i4" n="3968">He thrust his lance; it fell,</l>
+                     <l rend="i4" n="3969">And howling with the wound</l>
+                     <l rend="i4" n="3970">
+                        <name type="zomb">Its demon tenant</name> fled.</l>
+                     <l rend="i2" n="3971">A sapphire light fell on them,</l>
+                     <l rend="i0" n="3972">And garmented with glory, in their sight</l>
+                     <l rend="i4" n="3973">
+                        <persName>Oneiza's Spirit</persName> stood.</l>
+                  </lg>
+                  <lg xml:id="B8_lg476">
+                     <l rend="i4" n="3974">"O <persName>Thalaba</persName>!" she cried,</l>
+                     <l rend="i4" n="3975">"Abandon not thyself!</l>
+                     <l rend="i0" n="3976">"Wouldst thou for ever lose me?... go, fulfill</l>
+                     <l rend="i0" n="3977">"Thy quest, that in <rs type="metaplace" subtype="divin" ref="Heaven">the Bowers of Paradise</rs>
+                     </l>
+                     <l rend="i0" n="3978">"In vain I may not wait thee, O my <rs type="person" ref="Thalaba">Husband</rs>!"</l>
+                     <l rend="i4" n="3979">To <persName>Moath</persName> then <persName ref="Oneiza">the Spirit</persName>
+                     </l>
+                     <l rend="i0" n="3980">Turned the dark lustre of her Angel eyes,</l>
+                     <l rend="i4" n="3981">
+                        <rs type="science" subtype="orac">"Short is thy destined path,</rs>
+                     </l>
+                     <l rend="i0" n="3982">"O my dear <rs type="person" ref="Moath">father</rs>! to
+                        the <rs type="metaplace" subtype="divin" ref="Heaven">abode of
+                        bliss</rs>.</l>
+                     <l rend="i4" n="3983">"Return to <placeName>Araby</placeName>,</l>
+                     <l rend="i4" n="3984">"There with the thought of death.</l>
+                     <l rend="i4" n="3985">"Comfort thy lonely age,</l>
+                     <l rend="i2" n="3986">"And <name type="divin">Azrael the Deliverer</name>,
+                        soon</l>
+                     <l rend="i4" n="3987">"Shall visit thee in peace."</l>
+                  </lg>
+                  <lg xml:id="B8_lg477">
+                     <l rend="i4" n="3988">They stood with earnest eyes</l>
+                     <l rend="i2" n="3989">And arms out-reaching, when again</l>
+                     <l rend="i4" n="3990">The darkness closed around them.</l>
+                     <l rend="i2" n="3991">The soul of <persName>Thalaba</persName> revived;</l>
+                     <l rend="i2" n="3992">He from the floor the quiver took</l>
+                     <l rend="i2" n="3993">And as he bent the bow, exclaimed,</l>
+                     <l rend="i0" n="3994">"Was it <name type="divin">the over-ruling
+                           Providence</name>
+                     </l>
+                     <l rend="i0" n="3995">"That in the hour of frenzy led my hands</l>
+                     <l rend="i4" n="3996">"Instinctively to this?</l>
+                     <l rend="i0" n="3997">"<time>To-morrow</time>, and the sun shall brace anew</l>
+                     <l rend="i0" n="3998">"The slackened cord that now sounds loose and damp,</l>
+                     <l rend="i0" n="3999">"<time>To-morrow</time>, and its livelier tone will
+                        sing</l>
+                     <l rend="i0" n="4000">"In tort vibration to the arrow's flight.</l>
+                     <l rend="i0" n="4001">"<rs type="person" ref="Thalaba">I</rs> ... but I also,
+                        with recovered health</l>
+                     <l rend="i4" n="4002">"Of heart, shall do my duty.</l>
+                     <l rend="i0" n="4003">"<rs type="person" ref="Moath">My Father</rs>! here I
+                        leave thee then!" he cried,</l>
+                     <l rend="i4" n="4004">"And not to meet again</l>
+                     <l rend="i2" n="4005">"Till at <rs type="metaplace" subtype="divin" ref="Heaven">the gate of Paradise</rs>
+                     </l>
+                     <l rend="i0" n="4006">"The eternal union of our joys commence.</l>
+                     <l rend="i0" n="4007">"We parted last in darkness!"... and <rs type="person" ref="Thalaba">the youth</rs>
+                     </l>
+                     <l rend="i4" n="4008">Thought with what other hopes,</l>
+                     <l rend="i4" n="4009">But now his heart was calm,</l>
+                     <l rend="i0" n="4010">For on his soul a heavenly hope had dawned.</l>
+                     <l rend="i0" n="4011">The <rs type="person" ref="Moath">Old Man</rs> answered
+                        nothing, but he held</l>
+                     <l rend="i4" n="4012">His garment and to the door</l>
+                     <l rend="i2" n="4013">Of the <rs type="metaplace" subtype="under" ref="Tombs" ana="hereNow">Tomb Chamber</rs>
+                        followed him.</l>
+                     <l rend="i2" n="4014">The rain had ceased, the sky was wild</l>
+                     <l rend="i2" n="4015">Its black clouds broken by the storm.</l>
+                     <l rend="i2" n="4016">And lo! it chanced that in the chasm</l>
+                     <l rend="i4" n="4017">
+                        <rs type="science" subtype="astro">Of Heaven between, a star,</rs>
+                     </l>
+                     <l rend="i0" n="4018">
+                        <rs type="science" subtype="astro">Leaving along its path continuous
+                           light,</rs>
+                     </l>
+                     <!--2015-02-03 ebb: REMARKED with @ana to here, books 1 through 7 complete, just started book 8. -->
+                     <l rend="i0" n="4019">
+                        <rs type="science" subtype="astro">Shot eastward. "See my guide!" quoth
+                           Thalaba,</rs>
+                     </l>
+                     <l rend="i4" n="4020">And turning, he received</l>
+                     <l rend="i4" n="4021">Old <persName>Moath</persName>'s last embrace,</l>
+                     <l rend="i2" n="4022">And his last blessing.</l>
+                     <l rend="i10" n="4023">It was <time>eve</time>,</l>
+                     <l rend="i0" n="4024">When <persName>an old Dervise</persName>, sitting in the
+                        sun</l>
+                     <l rend="i0" n="4025">At his cell door, invited for the night</l>
+                     <l rend="i4" n="4026">
+                        <rs type="person" ref="Thalaba">The traveller</rs>; in the sun</l>
+                     <l rend="i4" n="4027">He spread the plain repast</l>
+                     <l rend="i0" n="4028">Rice and fresh grapes, and at their feet there flowed</l>
+                     <l rend="i4" n="4029">
+                        <geogFeat>The brook</geogFeat> of which they drank.</l>
+                  </lg>
+                  <lg xml:id="B8_lg478">
+                     <l rend="i4" n="4030">So as they sate at meal,</l>
+                     <l rend="i2" n="4031">
+                        <rs type="song">With song, with music, and with dance,</rs>
+                     </l>
+                     <l rend="i4" n="4032">A <orgName>wedding train</orgName> went by;</l>
+                     <l rend="i2" n="4033">The veiled bride, the female slaves,</l>
+                     <l rend="i2" n="4034">The torches of festivity,</l>
+                     <l rend="i2" n="4035">And trump and timbrel merriment</l>
+                     <l rend="i4" n="4036">Accompanied their way.</l>
+                     <l rend="i4" n="4037">The good <persName>old Dervise</persName> gave</l>
+                     <l rend="i4" n="4038">A blessing as they past.</l>
+                     <l rend="i4" n="4039">But <persName>Thalaba</persName> looked on,</l>
+                     <l rend="i0" n="4040">And breathed a low, deep groan, and hid his face.</l>
+                     <l rend="i0" n="4041">The <persName>Dervise</persName> had known sorrow; and he
+                        felt</l>
+                     <l rend="i4" n="4042">Compassion; and his words</l>
+                     <l rend="i2" n="4043">Of pity and of piety</l>
+                     <l rend="i4" n="4044">Opened <rs type="person" ref="Thalaba">the young
+                        man</rs>'s heart</l>
+                     <l rend="i4" n="4045">And he told all his tale.</l>
+                  </lg>
+                  <lg xml:id="B8_lg479">
+                     <l rend="i0" n="4046">"Repine not, <rs type="person" ref="Thalaba">O my
+                           Son</rs>!" the <rs type="person" ref="Dervise">Old Man</rs> replied,</l>
+                     <l rend="i4" n="4047">"That <name type="divin">Heaven</name> has chastened
+                        thee.</l>
+                     <l rend="i0" n="4048">
+                        <rs type="science" subtype="botany">"Behold this vine,
+                              <note type="author" anchored="true" xml:id="N_142">
+                                 <p> In these lines I have versified a passage in <bibl>
+                                       <persName>Bishop Taylor</persName>'s Sermons</bibl>, altering
+                                    as little as possible, his unimproveable language. </p>
+                                 <p> "For so have I known a luxuriant Vine swell into irregular
+                                    twigs and bold excrescencies, and spend itself in leaves and
+                                    little rings, and afford but trifling clusters to the
+                                    wine-press, and a faint return to his heart which longed to be
+                                    refreshed with a full vintage: but when the <name type="divin">Lord of the vine</name> had caused the dressers to cut the
+                                    wilder plant and made it bleed, it grew temperate in its vain
+                                    expence of useless leaves, and knotted into fair and juicy
+                                    branches, and made accounts of that loss of blood by the return
+                                    of fruit."</p>
+                              </note>
+                            I found it a wild tree</rs>
+                     </l>
+                     <l rend="i2" n="4049">
+                        <rs type="science" subtype="botany">"Whose wanton strength had swoln
+                           into</rs>
+                     </l>
+                     <l rend="i0" n="4050">
+                        <rs type="science" subtype="botany">"Irregular twigs, and bold
+                           excrescencies,</rs>
+                     </l>
+                     <l rend="i0" n="4051">
+                        <rs type="science" subtype="botany">"And spent itself in leaves and little
+                           rings,</rs>
+                     </l>
+                     <l rend="i0" n="4052">
+                        <rs type="science" subtype="botany">"In the vain flourish of its
+                           outwardness</rs>
+                     </l>
+                     <l rend="i4" n="4053">
+                        <rs type="science" subtype="botany">"Wasting the sap and strength</rs>
+                     </l>
+                     <l rend="i4" n="4054">
+                        <rs type="science" subtype="botany">"That should have given forth
+                           fruit.</rs>
+                     </l>
+                     <l rend="i4" n="4055">
+                        <rs type="science" subtype="botany">"But when I pruned the Tree,</rs>
+                     </l>
+                     <l rend="i0" n="4056">
+                        <rs type="science" subtype="botany">"Then it grew temperate in its vain
+                           expence</rs>
+                     </l>
+                     <l rend="i0" n="4057">
+                        <rs type="science" subtype="botany">"Of useless leaves, and knotted, as thou
+                           seest,</rs>
+                     </l>
+                     <l rend="i0" n="4058">
+                        <rs type="science" subtype="botany">"Into these full, clear, clusters, to
+                           repay</rs>
+                     </l>
+                     <l rend="i2" n="4059">
+                        <rs type="science" subtype="botany">"The hand whose foresight wounded
+                           it.</rs>
+                     </l>
+                     <l rend="i4" n="4060">"Repine not, <rs type="person" ref="Thalaba">O my
+                           Son</rs>!</l>
+                     <l rend="i0" n="4061">"In wisdom and in mercy <name type="divin">Heaven</name>
+                        inflicts,</l>
+                     <l rend="i0" n="4062">"Like <rs type="person">a wise Leech</rs>, its painful
+                        remedies."</l>
+                  </lg>
+                  <lg xml:id="B8_lg480">
+                     <l rend="i0" n="4063">Then pausing, "whither goest thou now?" he asked.</l>
+                     <l rend="i2" n="4064">"I know not," answered <persName>Thalaba</persName>,</l>
+                     <l rend="i2" n="4065">"Straight on, with <name type="myth">Destiny</name> my
+                        guide."</l>
+                     <l rend="i0" n="4066">Quoth the <rs type="person" ref="Dervise">Old Man</rs>,
+                        "I will not blame thy trust,</l>
+                     <l rend="i4" n="4067">"And yet methinks thy feet</l>
+                     <l rend="i4" n="4068">"Should tread with certainty.</l>
+                     <l rend="i0" n="4069">"In <placeName>Kaf</placeName> the <name type="myth">Simorg</name> hath his dwelling place,</l>
+                     <l rend="i0" n="4070">"<name type="myth" ref="Simorg">The all-knowing Bird of
+                           Ages</name>, who hath seen</l>
+                     <l rend="i0" n="4071">"<placeName ref="the_world">The World</placeName>, with
+                           <orgName>all her children</orgName>, thrice destroyed.</l>
+                     <l rend="i4" n="4072"> "Long is the thither path, </l>
+                     <l rend="i0" n="4073">"And difficult the way, of danger full;</l>
+                     <l rend="i4" n="4074">"But <name type="myth" subtype="Simorg">his unerring
+                           voice</name>
+                     </l>
+                     <l rend="i0" n="4075">"Could point to certain end thy weary search."</l>
+                  </lg>
+                  <lg xml:id="B8_lg481">
+                     <l rend="i4" n="4076">Easy assent <rs type="person" ref="Thalaba">the
+                           youth</rs>
+                     </l>
+                     <l rend="i0" n="4077">Gave to the words of wisdom; and behold</l>
+                     <l rend="i0" n="4078">At dawn, <rs type="person" ref="Thalaba">the
+                           adventurer</rs> on his way to <placeName>Kaf</placeName>.</l>
+                     <l rend="i2" n="4079">And he has travelled <time>many a day</time>
+                     </l>
+                     <l rend="i2" n="4080">And many a <geogFeat>river</geogFeat> swum over,</l>
+                     <l rend="i2" n="4081">And many a <geogFeat>mountain ridge</geogFeat> has
+                        crost</l>
+                     <l rend="i2" n="4082">And many a <geogFeat>measureless plain</geogFeat>,</l>
+                     <l rend="i2" n="4083">And now <geogFeat>amid the wilds</geogFeat> advanced,</l>
+                     <l rend="i4" n="4084">
+                        <time>Long is it since his eyes</time>
+                     </l>
+                     <l rend="i4" n="4085">
+                        <time>Have seen the trace of man.</time>
+                     </l>
+                  </lg>
+
+                  <lg xml:id="B8_lg482">
+                     <l rend="i2" n="4086">Cold! cold! 'tis <rs type="place" ref="polar">a chilly
+                           clime</rs>
+                     </l>
+                     <l rend="i2" n="4087">That the toil of <rs type="person" ref="Thalaba">the
+                           youth</rs> has reached,</l>
+                     <l rend="i2" n="4088">And he is aweary now,</l>
+                     <l rend="i2" n="4089">And faint for the lack of food.</l>
+                     <l rend="i2" n="4090">Cold! cold! there is <rs type="metaplace" subtype="celest" ref="sky">no Sun in heaven</rs>
+                     </l>
+                     <l rend="i2" n="4091">But a heavy and uniform cloud</l>
+                     <l rend="i2" n="4092">And the snows begin to fall.</l>
+                     <l rend="i0" n="4093">Dost thou wish for thy deserts, <persName ref="Thalaba">O
+                           Son of <persName>Hodeirah</persName>
+                        </persName>?</l>
+                     <l rend="i2" n="4094">Dost thou long for the gales of
+                           <placeName>Arabia</placeName>?</l>
+                     <l rend="i2" n="4095">Cold! cold! his blood flows languid,</l>
+                     <l rend="i2" n="4096">His hands are red, his lips are blue,</l>
+                     <l rend="i2" n="4097">His feet are sore with the frost.</l>
+                     <l rend="i2" n="4098">Cheer thee! cheer thee! <persName>Thalaba</persName>!</l>
+                     <l rend="i4" n="4099">A little yet bear up!</l>
+                  </lg>
+
+
+                  <lg xml:id="B8_lg483">
+                     <l rend="i2" n="4100">
+                        <rs type="place" ref="polar">All waste!</rs> no sign of
+                        life</l>
+                     <l rend="i2" n="4101">But the track of the wolf and the bear!</l>
+                     <l rend="i2" n="4102">No sound but the wild, wild wind</l>
+                     <l rend="i2" n="4103">
+                        <rs type="place" ref="polar">And the snow crunching under his feet!</rs>
+                     </l>
+                     <l rend="i2" n="4104">
+                        <time>Night is come; no moon, no stars,</time>
+                     </l>
+                     <l rend="i2" n="4105">Only the light of the snow!</l>
+                     <l rend="i2" n="4106">But behold <settlement>a fire in <geogFeat>the cave of
+                              the hill</geogFeat>
+                        </settlement>
+                     </l>
+                     <l rend="i2" n="4107">
+                        <settlement>A heart-reviving fire;</settlement>
+                     </l>
+                     <l rend="i2" n="4108">And thither with strength renewed</l>
+                     <l rend="i2" n="4109">
+                        <persName>Thalaba</persName> presses on.</l>
+                  </lg>
+
+                  <lg xml:id="B8_lg484">
+                     <l rend="i2" n="4110">He found <rs type="person" ref="Maimuna">a Woman in the
+                           cave</rs>,</l>
+                     <l rend="i2" n="4111">
+                        <rs type="person" ref="Maimuna">A solitary Woman</rs>,</l>
+                     <l rend="i2" n="4112">
+                        <rs type="art" subtype="fiber">Who by the fire was spinning</rs>
+                     </l>
+                     <l rend="i2" n="4113">And <rs type="song">singing as <rs type="art" subtype="fiber">she spun</rs>
+                        </rs>.</l>
+                     <l rend="i2" n="4114">The pine boughs they blazed chearfully</l>
+                     <l rend="i2" n="4115">And her face was bright with the flame.</l>
+                     <l rend="i2" n="4116">
+                        <rs type="person" ref="Maimuna">Her face was as a Damsel's face</rs>
+                     </l>
+                     <l rend="i2" n="4117">
+                        <rs type="person" ref="Maimuna">And yet her hair was grey.</rs>
+                     </l>
+                     <l rend="i2" n="4118">She bade him welcome with a smile</l>
+                     <l rend="i2" n="4119">
+                        <rs type="art" subtype="fiber">And still continued spinning</rs>
+                     </l>
+                     <l rend="i2" n="4120">And <rs type="song">singing as <rs type="art" subtype="fiber">she spun</rs>
+                        </rs>.</l>
+                     <l rend="i2" n="4121">
+                        <rs type="art" subtype="fiber">The thread the Woman drew</rs>
+                     </l>
+                     <l rend="i2" n="4122">
+                        <rs type="art" subtype="fiber">Was finer than the silkworm's,</rs>
+                     </l>
+                     <l rend="i2" n="4123">
+                        <rs type="art" subtype="fiber">Was finer than the gossamer.</rs>
+                     </l>
+                     <l rend="i2" n="4124">
+                        <rs type="song">The song she sung was low and sweet</rs>
+                     </l>
+                     <l rend="i2" n="4125">And <persName>Thalaba</persName> knew not the words.</l>
+                  </lg>
+                  <lg xml:id="B8_lg485">
+                     <l rend="i2" n="4126">He laid his bow before the hearth,</l>
+                     <l rend="i2" n="4127">For the string was frozen stiff.</l>
+                     <l rend="i2" n="4128">He took the quiver from his neck,</l>
+                     <l rend="i2" n="4129">For the arrow plumes were iced.</l>
+                     <l rend="i2" n="4130">Then as the chearful fire</l>
+                     <l rend="i2" n="4131">Revived his languid limbs,</l>
+                     <l rend="i2" n="4132">
+                        <rs type="person" ref="Thalaba">The adventurer</rs> asked for food.</l>
+                     <l rend="i2" n="4133">
+                        <rs type="person" ref="Maimuna">The Woman</rs> answered him,</l>
+                     <l rend="i2" n="4134">
+                        <rs type="song">And still her speech was song,</rs>
+                     </l>
+                     <l rend="i0" n="4135">
+                        <rs type="song">"The <persName>She Bear</persName> she dwells near to
+                           me,</rs>
+                     </l>
+                     <l rend="i0" n="4136">
+                        <rs type="song">"And she hath <orgName>cubs, one, two and
+                           three</orgName>.</rs>
+                     </l>
+                     <l rend="i0" n="4137">
+                        <rs type="song">"<rs type="hunt">She hunts the deer</rs> and brings him
+                           here,</rs>
+                     </l>
+                     <l rend="i0" n="4138">
+                        <rs type="song">"And then with <rs type="person" ref="SheBear">her</rs> I
+                           make good cheer,</rs>
+                     </l>
+                     <l rend="i4" n="4139">
+                        <rs type="song">"And she to <rs type="hunt">the chase</rs> is gone</rs>
+                     </l>
+                     <l rend="i4" n="4140">
+                        <rs type="song">"And she will be here anon."</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B8_lg486">
+                     <l rend="i2" n="4141">
+                        <rs type="person" ref="Maimuna">She</rs> ceased from <rs type="art" subtype="fiber">her work</rs> as she spake,</l>
+                     <l rend="i2" n="4142">And when she had answered him,</l>
+                     <l rend="i2" n="4143">
+                        <rs type="art" subtype="fiber">Again her fingers twirled the thread</rs>
+                     </l>
+                     <l rend="i2" n="4144">And again <rs type="person" ref="Maimuna">the Woman</rs>
+                        began</l>
+                     <l rend="i2" n="4145">
+                        <rs type="song">In low, sweet, tones to sing</rs>
+                     </l>
+                     <l rend="i2" n="4146">
+                        <rs type="song">The unintelligible song</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg487">
+                     <l rend="i2" n="4147">
+                        <rs type="art" subtype="fiber">The thread she spun it gleamed like gold</rs>
+                     </l>
+                     <l rend="i2" n="4148">In the light of the odorous fire,</l>
+                     <l rend="i2" n="4149">
+                        <rs type="art" subtype="fiber">And yet so wonderous thin,</rs>
+                     </l>
+                     <l rend="i2" n="4150">
+                        <rs type="art" subtype="fiber">That save when the light shone on it</rs>
+                     </l>
+                     <l rend="i2" n="4151">
+                        <rs type="art" subtype="fiber">It could not be seen by the eye.</rs>
+                     </l>
+                     <l rend="i2" n="4152">
+                        <rs type="person" ref="Thalaba">The youth</rs> sate watching it,</l>
+                     <l rend="i2" n="4153">And she beheld his wonder.</l>
+                     <l rend="i2" n="4154">And then again she spake to him</l>
+                     <l rend="i2" n="4155">
+                        <rs type="song">And still her speech was song,</rs>
+                     </l>
+                     <l rend="i0" n="4156">
+                        <rs type="song">
+                           <rs type="art" subtype="fiber">"Now twine it round thy hands <rs type="person" ref="Maimuna">I</rs> say,</rs>
+                        </rs>
+                     </l>
+                     <l rend="i0" n="4157">
+                        <rs type="song">
+                           <rs type="art" subtype="fiber">"Now twine it round thy hands I pray,</rs>
+                        </rs>
+                     </l>
+                     <l rend="i0" n="4158">
+                        <rs type="song">
+                           <rs type="art" subtype="fiber">"My thread is small, my thread is
+                              fine,</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="4159">
+                        <rs type="song">"But he must be</rs>
+                     </l>
+                     <l rend="i4" n="4160">
+                        <rs type="song">"A stronger than <rs type="person" ref="Thalaba">thee</rs>,</rs>
+                     </l>
+                     <l rend="i0" n="4161">
+                        <rs type="song">
+                           <rs type="art" subtype="fiber">"Who can break this thread of mine!"</rs>
+                        </rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B8_lg488">
+                     <l rend="i2" n="4162">
+                        <rs type="person" ref="Maimuna">And up she raised her bright blue eyes</rs>
+                     </l>
+                     <l rend="i2" n="4163">
+                        <rs type="person" ref="Maimuna">And sweetly she smiled</rs> on him,</l>
+                     <l rend="i2" n="4164">And <rs type="person" ref="Thalaba">he conceived no
+                           ill</rs>.</l>
+                     <l rend="i2" n="4165">
+                        <rs type="art" subtype="fiber">And round and round his right hand,</rs>
+                     </l>
+                     <l rend="i2" n="4166">
+                        <rs type="art" subtype="fiber">And round and round his left,</rs>
+                     </l>
+                     <l rend="i2" n="4167">
+                        <rs type="art" subtype="fiber">He wound the thread so fine.</rs>
+                     </l>
+                     <l rend="i2" n="4168">And then again <rs type="person" ref="Maimuna">the
+                           Woman</rs> spake,</l>
+                     <l rend="i2" n="4169">
+                        <rs type="song">And still her speech was song,</rs>
+                     </l>
+                     <l rend="i2" n="4170">
+                        <rs type="art" subtype="fiber">"Now thy strength, <persName ref="Thalaba">O
+                              Stranger</persName>, strain,</rs>
+                     </l>
+                     <l rend="i2" n="4171">
+                        <rs type="art" subtype="fiber">"Now then break the slender chain."</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B8_lg489">
+                     <l rend="i2" n="4172">
+                        <rs type="art" subtype="fiber">
+                           <persName>Thalaba</persName> strove, but the thread</rs>
+                     </l>
+                     <l rend="i2" n="4173">
+                        <rs type="art" subtype="fiber">Was woven by magic hands,</rs>
+                     </l>
+                     <l rend="i2" n="4174">And in his cheek the flush of shame</l>
+                     <l rend="i2" n="4175">Arose, commixt with fear.</l>
+                     <l rend="i2" n="4176">She beheld and laughed at him,</l>
+                     <l rend="i2" n="4177">
+                        <rs type="song">And then again she sung,</rs>
+                     </l>
+                     <l rend="i0" n="4178">
+                        <rs type="song">
+                           <rs type="art" subtype="fiber">"My thread is small, my thread is
+                              fine,</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="4179">
+                        <rs type="song">"But he must be</rs>
+                     </l>
+                     <l rend="i4" n="4180">
+                        <rs type="song">"A stronger than thee</rs>
+                     </l>
+                     <l rend="i0" n="4181">
+                        <rs type="song">
+                           <rs type="art" subtype="fiber">"Who can break this thread of mine."</rs>
+                        </rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B8_lg490">
+                     <l rend="i2" n="4182">
+                        <rs type="person" ref="Maimuna">And up she raised her bright blue eyes</rs>
+                     </l>
+                     <l rend="i2" n="4183">
+                        <rs type="person" ref="Maimuna">And fiercely she smiled</rs> on him,</l>
+                     <l rend="i0" n="4184">
+                        <rs type="song">"I thank thee, I thank thee, <persName ref="Thalaba">
+                              <persName>Hodeirah</persName>'s Son</persName>!</rs>
+                     </l>
+                     <l rend="i0" n="4185">
+                        <rs type="song">"I thank thee for doing what can't be undone,</rs>
+                     </l>
+                     <l rend="i0" n="4186">
+                        <rs type="song">
+                           <rs type="art" subtype="fiber">"For binding thyself in the chain I have
+                              spun!"</rs>
+                        </rs>
+                     </l>
+                     <l rend="i2" n="4187">
+                        <rs type="science" subtype="orac">Then from his head she wrenched</rs>
+                     </l>
+                     <l rend="i2" n="4188">
+                        <rs type="science" subtype="orac">A lock of his raven hair,</rs>
+                     </l>
+                     <l rend="i2" n="4189">
+                        <rs type="science" subtype="orac">And cast it in the fire</rs>
+                     </l>
+                     <l rend="i2" n="4190">
+                        <rs type="science" subtype="orac">And cried aloud as it burnt,</rs>
+                     </l>
+                     <l rend="i0" n="4191">
+                        <rs type="song">"<rs type="person" ref="Khawla">Sister</rs>! Sister! hear my
+                           voice!</rs>
+                     </l>
+                     <l rend="i0" n="4192">
+                        <rs type="song">"<rs type="person" ref="Khawla">Sister</rs>! Sister! come
+                           and rejoice,</rs>
+                     </l>
+                     <l rend="i4" n="4193">
+                        <rs type="song">
+                           <rs type="art" subtype="fiber">"The web is spun,</rs>
+                        </rs>
+                     </l>
+                     <l rend="i4" n="4194">
+                        <rs type="song">"The prize is won,</rs>
+                     </l>
+                     <l rend="i4" n="4195">
+                        <rs type="song">"The work is done,</rs>
+                     </l>
+                     <l rend="i0" n="4196">
+                        <rs type="song">"For I have made captive <persName ref="Thalaba">
+                              <persName>Hoderiah</persName>'s Son</persName>."</rs>
+                     </l>
+                  </lg>
+                  <lg xml:id="B8_lg491">
+                     <l rend="i4" n="4197">Borne in her <rs type="machine">magic car</rs>
+                     </l>
+                     <l rend="i4" n="4198">The <rs type="person" ref="Khawla">Sister Sorceress</rs>
+                        came,</l>
+                     <l rend="i0" n="4199">
+                        <persName>Khawla</persName>, the fiercest of the Sorcerer brood.</l>
+                     <l rend="i4" n="4200">She gazed upon <rs type="person" ref="Thalaba">the
+                           youth</rs>,</l>
+                     <l rend="i2" n="4201">
+                        <rs type="art" subtype="fiber">She bade him break the slender thread,</rs>
+                     </l>
+                     <l rend="i4" n="4202">She laughed aloud for scorn,</l>
+                     <l rend="i4" n="4203">She clapt her hands for joy.</l>
+                  </lg>
+                  <lg xml:id="B8_lg492">
+                     <l rend="i2" n="4204">The <persName>She Bear</persName> from the <rs type="hunt">chase</rs> came in,</l>
+                     <l rend="i2" n="4205">
+                        <rs type="hunt">She bore the prey in her bloody mouth,</rs>
+                     </l>
+                     <l rend="i0" n="4206">She laid it at <persName>Maimuna</persName>'s feet,</l>
+                     <l rend="i0" n="4207">And she looked up with wistful eyes</l>
+                     <l rend="i2" n="4208">As if to ask her share.</l>
+                     <l rend="i2" n="4209">"There! there!" quoth <persName>Maimuna</persName>
+                     </l>
+                     <l rend="i0" n="4210">And pointing to the <rs type="person" ref="Thalaba">prisoner youth</rs>
+                     </l>
+                     <l rend="i2" n="4211">She spurned him with her foot,</l>
+                     <l rend="i2" n="4212">And bade her make her meal.</l>
+                     <l rend="i0" n="4213">But soon their mockery failed them</l>
+                     <l rend="i0" n="4214">And anger and shame arose,</l>
+                     <l rend="i0" n="4215">For the <persName>She Bear</persName> fawned on
+                           <persName>Thalaba</persName>
+                     </l>
+                     <l rend="i0" n="4216">And quietly licked his hand.</l>
+                  </lg>
+                  <lg xml:id="B8_lg493">
+                     <l rend="i0" n="4217">The <rs type="person" ref="Maimuna">grey haired
+                           Sorceress</rs> stamped the ground</l>
+                     <l rend="i2" n="4218">
+                        <rs type="science" subtype="orac">And called <name type="divin">a
+                              Spirit</name> up,</rs>
+                     </l>
+                     <l rend="i0" n="4219">"Shall we bear <persName ref="Thalaba">the
+                           Enemy</persName>
+                     </l>
+                     <l rend="i0" n="4220">"To <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">the dungeon dens below</rs>?"</l>
+                  </lg>
+                  <lg xml:id="B8_lg494">
+                     <l rend="i8" n="4221">
+                        <name type="divin">SPIRIT</name>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg495">
+                     <l rend="i0" n="4222">Woe! woe! to <orgName>our Empire</orgName> woe!</l>
+                     <l rend="i0" n="4223">If ever <rs type="person" ref="Thalaba">he</rs> tread <rs type="metaplace" subtype="under" ref="Domdaniel_Cave">the caverns
+                           below</rs>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg496">
+                     <l rend="i8" n="4224">
+                        <persName>MAIMUNA</persName>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg497">
+                     <l rend="i0" n="4225">Shall we leave him fettered here</l>
+                     <l rend="i0" n="4226">With hunger and cold to die?</l>
+                  </lg>
+                  <lg xml:id="B8_lg498">
+                     <l rend="i8" n="4227">
+                        <name type="divin">SPIRIT</name>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg499">
+                     <l rend="i0" n="4228">Away from <rs type="building" subtype="house">thy lonely
+                           dwelling</rs> fly!</l>
+                     <l rend="i0" n="4229">Here I see a danger nigh</l>
+                     <l rend="i0" n="4230">That he should live and thou shouldst die.</l>
+                  </lg>
+                  <lg xml:id="B8_lg500">
+                     <l rend="i8" n="4231">
+                        <persName>MAIMUNA</persName>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg501">
+                     <l rend="i0" n="4232">Whither must we bear the foe?</l>
+                  </lg>
+                  <lg xml:id="B8_lg502">
+                     <l rend="i8" n="4233">
+                        <name type="divin">SPIRIT</name>.</l>
+                  </lg>
+                  <lg xml:id="B8_lg503">
+                     <l rend="i0" n="4234">To <rs type="metaplace" subtype="barrier" ref="Mohareb_Island">
+                           <persName>Mohareb</persName>'s <geogFeat>island</geogFeat>
+                        </rs> go,</l>
+                     <l rend="i0" n="4235">There shalt thou secure the foe,</l>
+                     <l rend="i0" n="4236">There prevent thy future woe.</l>
+                  </lg>
+                  <lg xml:id="B8_lg504">
+                     <l rend="i2" n="4237">Then in <rs type="machine">the Car</rs> they threw</l>
+                     <l rend="i2" n="4238">The fettered <persName>Thalaba</persName>,</l>
+                     <l rend="i2" n="4239">And took their seats, and set</l>
+                     <l rend="i2" n="4240">Their feet upon his neck,</l>
+                     <l rend="i2" n="4241">
+                        <persName>Maimuna</persName> held the reins</l>
+                     <l rend="i2" n="4242">And <persName>Khawla</persName> shook the scourge</l>
+                     <l rend="i2" n="4243">And away!
+                           <note type="author" anchored="true" xml:id="N_143">
+                              <p> My readers will recollect <bibl>the Lenora</bibl>. The unwilling
+                                 resemblance has been forced upon me by the subject. I could not
+                                 turn aside from the road because <persName>Burger</persName> had
+                                 travelled it before. <rs type="song" subtype="English">The "Old
+                                    Woman of Berkely"</rs> has been foolishly called an imitation of
+                                 that inimitable Ballad: the likeness is of the same kind as
+                                    <bibl><!--Are these place names or balladeers, or ballads?-->between
+                                    Macedon and Monmouth</bibl> . Both are Ballads, and there is a
+                                 Horse in both.</p>
+                           </note>
+                         away! away!</l>
+                     <l rend="i2" n="4244">
+                        <rs type="machine">They were no steeds of mortal race</rs>
+                     </l>
+                     <l rend="i4" n="4245">
+                        <rs type="machine">That drew the magic car</rs>
+                     </l>
+                     <l rend="i2" n="4246">
+                        <rs type="machine">With the swiftness of feet and of wings.</rs>
+                     </l>
+                     <l rend="i2" n="4247">
+                        <rs type="place" ref="polar">The snow-dust rises behind them,</rs>
+                     </l>
+                     <l rend="i2" n="4248">
+                        <rs type="place" ref="polar">The <geogFeat>ice-rocks</geogFeat> splinters
+                           fly,</rs>
+                     </l>
+                     <l rend="i2" n="4249">And hark! in <geogFeat>the valley</geogFeat> below</l>
+                     <l rend="i2" n="4250">The sound of their <rs type="machine">chariot wheels</rs>
+                     </l>
+                     <l rend="i2" n="4251">And they are far <geogFeat>over the
+                        mountains</geogFeat>.</l>
+                     <l rend="i4" n="4252">Away! away! away!</l>
+                     <l rend="i4" n="4253">
+                        <orgName>The Demons of the air</orgName>
+                     </l>
+                     <l rend="i2" n="4254">Shout their joy as <orgName ref="Khawla Maimuna">the
+                           Sisters</orgName> pass,</l>
+                     <l rend="i0" n="4255">
+                        <orgName>The Ghosts of the Wicked</orgName> that wander by night</l>
+                     <l rend="i2" n="4256">Flit over the <rs type="machine">magic car</rs>.</l>
+                     <l rend="i4" n="4257">Away! away! away!</l>
+                     <l rend="i4" n="4258">Over the <geogFeat>hills</geogFeat> and the
+                           <geogFeat>plains</geogFeat>
+                     </l>
+                     <l rend="i4" n="4259">Over the <geogFeat>rivers</geogFeat> and
+                           <geogFeat>rocks</geogFeat>,</l>
+                     <l rend="i4" n="4260">Over the <geogFeat>sands of the shore</geogFeat>;</l>
+                     <l rend="i4" n="4261">
+                        <geogFeat>The waves of <placeName ref="Ocean">ocean</placeName>
+                           heave</geogFeat>
+                     </l>
+                     <l rend="i4" n="4262">
+                        <rs type="machine">Under the magic steeds,</rs>
+                     </l>
+                     <l rend="i2" n="4263">
+                        <rs type="machine">With unwet hoofs they trample the deep</rs>
+                     </l>
+                     <l rend="i2" n="4264">And now they reach <rs type="metaplace" subtype="barrier" ref="Mohareb_Island">the Island <geogFeat>coast</geogFeat>
+                        </rs>,</l>
+                     <l rend="i0" n="4265">And away to <settlement type="city">the city</settlement>
+                        the <persName ref="Mohareb">Monarch</persName>'s abode.</l>
+                     <l rend="i4" n="4266">Open fly <settlement type="city">the city
+                           gates</settlement>,</l>
+                     <l rend="i4" n="4267">Open fly <rs type="building" subtype="palace">the iron
+                           doors</rs>
+                     </l>
+                     <l rend="i4" n="4268">
+                        <rs type="building" subtype="palace">The doors of the palace court.</rs>
+                     </l>
+                     <l rend="i4" n="4269">Then stopt the <rs type="machine">charmed car</rs>.</l>
+                     <l rend="i2" n="4270">The <persName ref="Mohareb">Monarch</persName> heard the
+                           <rs type="machine">chariot wheels</rs>
+                     </l>
+                     <l rend="i4" n="4271">And forth he came to greet</l>
+                     <l rend="i4" n="4272">
+                        <rs type="person" ref="Khawla">The Mistress whom he served</rs>.</l>
+                     <l rend="i4" n="4273">He knew <rs type="person" ref="Thalaba">the captive
+                           youth</rs>,</l>
+                     <l rend="i4" n="4274">And <persName>Thalaba</persName> beheld</l>
+                     <l rend="i0" n="4275">
+                        <persName>Mohareb</persName> in
+                           <note type="author" anchored="true" xml:id="N_144">
+                              <p> How came <persName>Mohareb</persName> to be Sultan of this <rs type="metaplace" subtype="barrier" ref="Mohareb_Island">Island</rs>? Every one who has read <bibl>Don Quixote</bibl>
+                                 knows that there are always <geogFeat>Islands</geogFeat> to be had
+                                 by <orgName>Adventurers</orgName>. He killed <persName>the former
+                                    Sultan</persName> and reigned in his stead. What could not <rs type="person">a Domdanielite</rs> perform? The narration would
+                                 have interrupted the flow of the main story.</p>
+                           </note>
+                         the robes of royalty,</l>
+                     <l rend="i4" n="4276">Whom erst <rs type="person" subtype="Thalaba">his
+                           arm</rs> had thrust</l>
+                     <l rend="i4" n="4277">
+                        <rs type="metaplace" subtype="under" ref="bitumen_pit">Down the <rs type="earthworks" subtype="mine">bitumen pit</rs>
+                        </rs>.</l>
+                  </lg>
+               </div>
+      </body>
+   </text>
+</TEI>

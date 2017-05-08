@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../SchematronThalaba.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thalaba the Destroyer (1801), Volume 2: Book 11</title>
+            <author>Robert Southey</author>
+            <editor xml:id="ebb">Elisa E. Beshero-Bondar</editor>
+            <sponsor>
+               <orgName>Center for the Digital Text</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>TEI P5 encoding by</resp>
+               <persName>Elisa Beshero-Bondar</persName>
+
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>digital edition in TEI, date: 18 Sept. 2014. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Center for the Digital Text at the University of Pittsburgh at
+               Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2013</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text is based on the Project Gutenberg eBook of <bibl>
+                  <title>Thalaba the Destroyer</title> by <author>Robert Southey</author>
+                  <pubPlace>London</pubPlace>
+                  <publisher>PRINTED FOR T. N. LONGMAN AND O. REES</publisher>
+                  <pubPlace>PATERNOSTER-ROW, London</pubPlace>
+                  <publisher>BY BIGGS AND COTTLE</publisher>
+                  <pubPlace>Bristol</pubPlace>,<date>1801</date>. </bibl> Release
+               date: <date/> [Ebook #39804] Public domain in the USA. <ref target="http://www.gutenberg.org/files/39804/39804-h/39804-h.htm"/>
+            </p>
+            <p>This eBook is for the use of anyone anywhere at no cost and with almost no
+               restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+               of the Project Gutenberg License included with this eBook or online at
+               www.gutenberg.org/license</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded with careful attention to the semantic association of text and paratext structures. Southey's paratext notes are encoded as hierarchical descendants of the line-group or other portion of Southey's main text on the spot where they are signalled. This is not only conformant with TEI standard practice but also is designed to help investigate semantic interlinkage of text and paratext in this heavily annotated epic poem. Encoding of proper names, especially places, people, and collectives is designed to trace associations made between text and paratext. References to places in the main text are encoded to determine whether they are mentioned literally, as places visited by the characters in the poem, or imagined referentially by analogy.</p>
+            <p>This edition does not, however, attempt to reproduce the title page or page layout of the 1801 edition. Instead, the TEI is prepared to be the basis of a digital edition optimized for viewing text and paratext in association on a computer screen. This encoding responds to the print edition's layout of footnotes positioned beneath the main text, and is intended to assist experimental screen layouts that preserve this association of text and paratext.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2017-05-07" resp="#ebb">Revised this header to include a proper revisionDesc changelog. Edited file to represent Center for the Digital Text as sponsoring organization. Added a front element to move prefatory material inside in the single-file edition to improve TEI conformance. Also prepared the original single-file edition to be transformed into a collection of smaller files for ease of processing. Added @xml:ids to number the volume divs.</change>
+         <change when="2016" resp="#ebb">Added attributes to distinguish between analogous places and literal physical movement of characters, and wrote Schemtaron rules to control this.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <bibl>
+               <title level="m">Thalaba the Destroyer</title>
+               <title level="a">, Volume 2: Book 11</title> (<date>1801</date>) by <author>Robert Southey</author>
+            </bibl>
+         </head>
+      </front>
+      <body>
+         <div type="book" xml:id="Book_11">
+                  <head>THE ELEVENTH BOOK.</head>
+                  <lg xml:id="B11_lg660">
+                     <l rend="i2" n="5477">O fool to think thy human hand</l>
+                     <l rend="i0" n="5478">Could check the chariot-wheels of Destiny</l>
+                     <l rend="i0" n="5479">To dream of weakness in the all-knowing Mind</l>
+                     <l rend="i4" n="5480">That his decrees should change!</l>
+                     <l rend="i2" n="5481">To hope that the united Powers</l>
+                     <l rend="i4" n="5482">Of <placeName ref="Earth_planet">Earth</placeName>, and
+                           <rs type="metaplace" subtype="celest" ref="sky">Air</rs>, and <rs type="metaplace" subtype="divin">Hell</rs>,</l>
+                     <l rend="i0" n="5483">Might blot one letter from the Book of Fate,</l>
+                     <l rend="i0" n="5484">Might break one link of the eternal chain!</l>
+                     <l rend="i0" n="5485">Thou miserable, wicked, poor old man,</l>
+                     <l rend="i0" n="5486">Fall now upon the body of thy child,</l>
+                     <l rend="i0" n="5487">Beat now thy breast, and pluck the bleeding hairs</l>
+                     <l rend="i4" n="5488">From thy grey beard, and lay</l>
+                     <l rend="i0" n="5489">Thine ineffectual hand to close her wound.</l>
+                     <l rend="i4" n="5490">And call on <rs type="metaplace" subtype="divin">Hell</rs> to aid,</l>
+                     <l rend="i4" n="5491">And call on <rs type="metaplace" subtype="divin">Heaven</rs> to send</l>
+                     <l rend="i4" n="5492">Its merciful thunderbolt!</l>
+                  </lg>
+                  <lg xml:id="B11_lg661">
+                     <l rend="i2" n="5493">The young Arabian silently</l>
+                     <l rend="i4" n="5494">Beheld his frantic grief.</l>
+                     <l rend="i2" n="5495">The presence of the hated youth</l>
+                     <l rend="i4" n="5496">To raging anguish stung</l>
+                     <l rend="i4" n="5497">The wretched Sorcerer.</l>
+                     <l rend="i0" n="5498">"Aye! look and triumph!" he exclaimed,</l>
+                     <l rend="i2" n="5499">"This is the justice of thy God!</l>
+                     <l rend="i2" n="5500">"A righteous<name type="divin">God</name>is he, to
+                        let</l>
+                     <l rend="i0" n="5501">"His vengeance fall upon the innocent head!</l>
+                     <l rend="i4" n="5502">"Curse thee, curse thee, Thalaba!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg662">
+                     <l rend="i4" n="5503">All feelings of revenge</l>
+                     <l rend="i4" n="5504">Had left Hodeirah's son.</l>
+                     <l rend="i2" n="5505">Pitying and silently he heard</l>
+                     <l rend="i0" n="5506">The victim of his own iniquities,</l>
+                     <l rend="i4" n="5507">Not with the busy hand</l>
+                     <l rend="i0" n="5508">Of Consolation, fretting the sore wound</l>
+                     <l rend="i4" n="5509">He could not hope to heal.</l>
+                  </lg>
+                  <lg xml:id="B11_lg663">
+                     <l rend="i0" n="5510">So as the Servant of the Prophet stood,</l>
+                     <l rend="i2" n="5511">With sudden motion the night air</l>
+                     <l rend="i2" n="5512">Gently fanned his cheek.</l>
+                     <l rend="i4" n="5513">'Twas a Green Bird whose wings</l>
+                     <l rend="i4" n="5514">Had waved the quiet air.</l>
+                     <l rend="i4" n="5515">On the hand of Thalaba</l>
+                     <l rend="i4" n="5516">The Green Bird perched, and turned</l>
+                     <l rend="i2" n="5517">A mild eye up, as if to win</l>
+                     <l rend="i4" n="5518">The Adventurer's confidence.</l>
+                     <l rend="i2" n="5519">Then springing on flew forward,</l>
+                     <l rend="i4" n="5520">And now again returns</l>
+                     <l rend="i4" n="5521">To court him to the way;</l>
+                     <l rend="i4" n="5522">And now his hand perceives</l>
+                     <l rend="i0" n="5523">Her rosy feet press firmer, as she leaps</l>
+                     <l rend="i4" n="5524">Upon the wing again.</l>
+                  </lg>
+                  <lg xml:id="B11_lg664">
+                     <l rend="i4" n="5525">Obedient to the call,</l>
+                     <l rend="i0" n="5526">By the pale moonlight Thalaba pursued</l>
+                     <l rend="i4" n="5527">O'er trackless snows his way;</l>
+                     <l rend="i0" n="5528">Unknowing he what blessed messenger</l>
+                     <l rend="i4" n="5529">Had come to guide his steps,</l>
+                     <l rend="i0" n="5530">That Laila's Spirit went before his path.</l>
+                     <l rend="i0" n="5531">Brought up in darkness and the child of sin,</l>
+                     <l rend="i0" n="5532">Yet as the meed of spotless innocence,</l>
+                     <l rend="i0" n="5533">Just <rs type="metaplace" subtype="divin">Heaven</rs>
+                        permitted her by one good deed</l>
+                     <l rend="i0" n="5534">To work her own redemption, after death;</l>
+                     <l rend="i4" n="5535">So till the judgement day</l>
+                     <l rend="i4" n="5536">She might abide in bliss,</l>
+                     <l rend="i0" n="5537">Green
+                           <note type="author" anchored="true" xml:id="N_173">
+                              <p> The Souls of the Blessed are supposed by some of the Mohammedans
+                                 to animate green Birds in <rs type="metaplace" subtype="garden" ref="Paradise">the Groves of Paradise</rs>. Was this opinion
+                                 invented to conciliate the Pagan Arabs, who believed, that of the
+                                 Blood near the dead person's brain was formed a Bird named Hamah,
+                                 which once in a hundred years visited <rs type="metaplace" subtype="under" ref="Tombs">the sepulchre</rs>? </p>
+                              <p> To this there is an allusion in the Moallakat. "Then I knew with
+                                 certainty, that, in so fierce a contest with them, many a heavy
+                                 blow would make the Perched Birds of the Brain fly quickly from
+                                 every Skull." <bibl>Poem of Antara.</bibl>
+                              </p>
+                              <p> In the Bahar-Danush, Parrots are called the green-vested
+                                 resemblers of <rs type="metaplace" subtype="divin">Heaven</rs>'s
+                                 dwellers. The following passages in the same work may perhaps
+                                 allude to the same superstition, or perhaps are merely
+                                 metaphorical, in the usual stile of its true Oriental bombast.
+                                    <q>"The Bird of Understanding fled from the nest of my
+                                    brain."</q>
+                                 <q>"My joints and members seemed as if they would separate from
+                                    each other, and the Bird of Life would quit the nest of my
+                                    Body."</q>
+                                 <q>"The Bird of my Soul became a captive in the net of her glossy
+                                    ringlets."</q>
+                              </p>
+                              <p> I remember in a European Magazine two similar lines by the Author
+                                 of the <bibl>
+                                    <title>Lives of the Admirals</title>
+                                 </bibl>. </p>
+                              <q>
+                                 <lg>
+                                    <l rend="i0">
+                                       <hi rend="italic">My beating Bosom is a well-wrought
+                                          cage,</hi>
+                                    </l>
+                                    <l rend="i0">
+                                       <hi rend="italic">Whence that sweet Gold-finch Hope shall
+                                          ne'er elope!</hi>
+                                    </l>
+                                 </lg>
+                              </q>
+                              <p>
+                                 <rs type="metaplace" subtype="under">The Grave of Francisco
+                                    Jorge</rs>, the Maronite Martyr, was visited by two strange
+                                 Birds of unusual size. No one knew whence they came. They emblemed,
+                                 says Vasconcellos, the purity and the indefatigable activity of his
+                                 soul. </p>
+                              <p> The inhabitants of <placeName>Otaheite</placeName> have assigned a
+                                 less respectable part of the Body, as the Seat of the Soul. </p>
+                              <p> The disembowelling of the body there, is always performed in great
+                                 secrecy, and with much religious superstition. The bowels are, by
+                                 these people, considered as the immediate organs of sensation,
+                                 where the first impressions are received, and by which all the
+                                 operations of the mind are carried on: it is therefore natural to
+                                 conclude, that they may esteem, and venerate the intestines, as
+                                 bearing the greatest affinity to the immortal part. I have
+                                 frequently held conversations on this subject, with a view to
+                                 convince them, that all intellectual operations were carried on in
+                                 the head; at which they would generally smile, and intimate, that
+                                 they had frequently seen men recover whose skulls had been
+                                 fractured, and whose heads had otherways been much injured; but
+                                 that, in all cases in which the intestines had been wounded, the
+                                 persons on a certainty died. Other arguments they would also
+                                 advance in favour of their belief; such as the effect of fear, and
+                                 other passions, which caused great agitation and uneasiness, and
+                                 would sometimes produce sickness at the stomach, which they
+                                 attributed intirely to the action of the bowels.
+                                    <bibl>Vancouver.</bibl>
+                              </p>
+                           </note>
+                         warbler of the <rs type="metaplace" subtype="garden" ref="Paradise">Bowers of Paradise</rs>.</l>
+                  </lg>
+                  <lg xml:id="B11_lg666">
+                     <l rend="i4" n="5540">The morning sun came forth,</l>
+                     <l rend="i4" n="5541">Wakening no eye to life</l>
+                     <l rend="i4" n="5542">In this wide solitude;</l>
+                     <l rend="i0" n="5543">His radiance with a saffron hue, like heat,</l>
+                     <l rend="i4" n="5544">Suffused the desert snow.</l>
+                     <l rend="i2" n="5545">The Green Bird guided Thalaba,</l>
+                     <l rend="i0" n="5546">Now oaring with slow wing her upward way,</l>
+                     <l rend="i2" n="5547">Descending now in slant descent</l>
+                     <l rend="i2" n="5548">On out-spread pinions motionless,</l>
+                     <l rend="i0" n="5549">Floating now with rise and fall alternate,</l>
+                     <l rend="i2" n="5550">As if the billows of the air</l>
+                     <l rend="i2" n="5551">Heaved her with their sink and swell.</l>
+                  </lg>
+                  <lg xml:id="B11_lg667">
+                     <l rend="i4" n="5552">And when, beneath the noon,</l>
+                     <l rend="i2" n="5553">The icey glitter of the snow</l>
+                     <l rend="i4" n="5554">Dazzled his aching sight,</l>
+                     <l rend="i0" n="5555">Then on his arm alighted the Green Bird</l>
+                     <l rend="i4" n="5556">And spread before his eyes</l>
+                     <l rend="i2" n="5557">Her plumage of refreshing hue.</l>
+                     <l rend="i2" n="5558">Evening came on; the glowing clouds</l>
+                     <l rend="i0" n="5559">Tinged with a purple ray <rs type="place" ref="mountain-unidentified">the mountain ridge</rs>
+                     </l>
+                     <l rend="i2" n="5560">That lay before the Traveller.</l>
+                     <l rend="i4" n="5561">Ah! whither art thou gone,</l>
+                     <l rend="i0" n="5562">Guide and companion of the youth, whose eye</l>
+                     <l rend="i2" n="5563">Has lost thee in the depth of Heaven?</l>
+                     <l rend="i4" n="5564">Why hast thou left alone</l>
+                     <l rend="i0" n="5565">The weary wanderer in the wilderness?</l>
+                     <l rend="i2" n="5566">And now the western clouds grow pale</l>
+                     <l rend="i0" n="5567">And Night descends upon his solitude.</l>
+                  </lg>
+                  <lg xml:id="B11_lg668">
+                     <l rend="i4" n="5568">The Arabian youth knelt down,</l>
+                     <l rend="i2" n="5569">And bowed his forehead to the ground</l>
+                     <l rend="i4" n="5570">And made his evening prayer.</l>
+                     <l rend="i0" n="5571">When he arose the stars were bright in heaven,</l>
+                     <l rend="i2" n="5572">The sky was blue, and the cold Moon</l>
+                     <l rend="i4" n="5573">Shone over the cold snow.</l>
+                     <l rend="i4" n="5574">A speck in the air!</l>
+                     <l rend="i2" n="5575">Is it his guide that approaches?</l>
+                     <l rend="i2" n="5576">For it moves with the motion of life!</l>
+                     <l rend="i0" n="5577">Lo! she returns and scatters from her pinions</l>
+                     <l rend="i0" n="5578">Odours diviner than the gales of morning</l>
+                     <l rend="i4" n="5579">Waft from <placeName>Sabea</placeName>.</l>
+                  </lg>
+                  <lg xml:id="B11_lg669">
+                     <l rend="i2" n="5580">Hovering before the youth she hung,</l>
+                     <l rend="i0" n="5581">Till from her rosy feet that at his touch</l>
+                     <l rend="i4" n="5582">Uncurled their grasp, he took</l>
+                     <l rend="i4" n="5583">The fruitful bough they bore.</l>
+                     <l rend="i2" n="5584">He took and tasted, a new life</l>
+                     <l rend="i2" n="5585">Flowed thro' his renovated frame;</l>
+                     <l rend="i2" n="5586">His limbs that late were sore and stiff</l>
+                     <l rend="i2" n="5587">Felt all the freshness of repose,</l>
+                     <l rend="i4" n="5588">His dizzy brain was calmed.</l>
+                     <l rend="i2" n="5589">The heavy aching of his lids</l>
+                     <l rend="i4" n="5590">At once was taken off,</l>
+                     <l rend="i0" n="5591">For Laila from the <rs type="metaplace" subtype="garden" ref="Paradise">Bowers of Paradise</rs>
+                     </l>
+                     <l rend="i4" n="5592">Had borne the healing
+                           <note type="author" anchored="true" xml:id="N_174">
+                              <p> When Hosein the son of Ali was sick of a grievous disorder, he
+                                 longed for a pomegranate, tho' that fruit was not then in season.
+                                 Ali went out, and diligently enquiring found a single one in the
+                                 possession of a Jew. As he returned with it, a sick man met him and
+                                 begged half the pomegranate, saying it would restore his health.
+                                 Ali gave him half, and when he had eaten it, the man requested he
+                                 would give him the other half, the sooner to complete his recovery.
+                                 Ali benignantly complied, returned to his son and told him what had
+                                 happened, and Hosein approved what his father had done. </p>
+                              <p> Immediately behold a miracle! as they were talking together the
+                                 door was gently knocked at. He ordered the woman servant to go
+                                 there, and she found a man, of all men the most beautiful, who had
+                                 a plate in his hand covered with green silk, in which were ten
+                                 pomegranates. The woman was astonished at the beauty of the man and
+                                 of the pomegranates, and she took one of them and hid it, and
+                                 carried the other nine to Aly, who kissed the present. When he had
+                                 counted them he found that one was wanting, and said so to the
+                                 servant, she confessed that she had taken it on account of its
+                                 excellence, and Ali gave her her liberty. The Pomegranates were
+                                 from <rs type="metaplace" subtype="divin">Paradise</rs>, Hosein was
+                                 cured of his disease only by their odour, and rose up immediately,
+                                 recovered, and in full strength. <bibl>Maracci.</bibl>
+                              </p>
+                              <p> I suspect, says Maracci, that this is a true miracle wrought by
+                                 some Christian Saint, and falsely attributed to Ali. However this
+                                 may be, it does not appear absurd that<name type="divin">God</name>should by some especial favour reward an act of
+                                 remarkable charity even in an Infidel, as he has sometimes by a
+                                 striking chastisement punished enormous crimes. But the assertion
+                                 that the Pomegranates were sent from <rs type="metaplace" subtype="divin">Paradise</rs>, exposes the fable. </p>
+                              <p> Maracci after detailing and ridiculing the Mohammedan miracles,
+                                 contrasts with them in an appendix a few of the real and permanent
+                                 miracles of Christianity which are proved by the testimony of
+                                    <placeName ref="the_world">the whole world</placeName>. He
+                                 selects five as examples. 1. The Chapel of Loretto, brought by
+                                 angels from <placeName>Nazareth</placeName> to
+                                    <placeName>Illyricum</placeName>, and from Illyricum to
+                                    <placeName>Italy</placeName>; faithful messengers having been
+                                 sent to both places, and finding in both its old foundations, in
+                                 dimensions and materials, exactly corresponding. </p>
+                              <p> 2. The cross of St. Thomas in <placeName>Urbe
+                                    Malipuritana</placeName> (Masulipatan) in the <placeName ref="East_Indies">E. Indies</placeName>. A Bramin, as the Saint
+                                 was extended upon his cross in prayer, slew him. On the anniversary
+                                 of his martyrdom, during the celebration of Mass, the cross
+                                 gradually becomes luminous, till it shines one white glory. At
+                                 elevating the host it resumes its natural colour, and sweats blood
+                                 profusely, in which the faithful dip their clothes, by which many
+                                 miracles are wrought. </p>
+                              <p> 3. <hi rend="italic">Certissimum quia evidentissimum</hi>—at <hi rend="italic">Barii</hi> (Bari on the Adriatic) in Apulia a
+                                 liquor flows from the bones of St. Nicholas, they call it St.
+                                 Nicholas's manna, which being preserved in bottles never corrupts
+                                 or breeds worms—except the possessor be corrupt himself—and daily
+                                 it works miracles. </p>
+                              <p> 4. At Tolentinum (Tolentino in the Marche of Anconia) the arms of
+                                 St. Nicholas swell with blood, and pour out copious streams—when
+                                 any great calamity impends over Christendom. </p>
+                              <p> 5. The blood of St. Jaunarius at Naples. </p>
+                              <p> These, says Maracci, are <hi rend="italic">miracula
+                                    perseverantia</hi>, permanent miracles—and it cannot be said as
+                                 of the Mohammedan ones, that they are tricks of <name type="divin">the Devil</name>.</p>
+                           </note>
+                         fruit.</l>
+                  </lg>
+                  <lg xml:id="B11_lg670">
+                     <l rend="i4" n="5593">So up the mountain steep</l>
+                     <l rend="i4" n="5594">With untired foot he past,</l>
+                     <l rend="i4" n="5595">The Green Bird guiding him</l>
+                     <l rend="i4" n="5596">Mid crags, and ice, and rocks,</l>
+                     <l rend="i0" n="5597">A difficult way, winding the long ascent.</l>
+                     <l rend="i0" n="5598">How then the heart of Thalaba rejoiced</l>
+                     <l rend="i2" n="5599">When bosomed in the mountain depths,</l>
+                     <l rend="i0" n="5600">A sheltered Valley opened on his view!</l>
+                     <l rend="i4" n="5601">It was the Simorg's vale,</l>
+                     <l rend="i2" n="5602">The dwelling of the ancient Bird.</l>
+                  </lg>
+                  <lg xml:id="B11_lg671">
+                     <l rend="i4" n="5603">On a green and mossy bank.</l>
+                     <l rend="i4" n="5604">Beside a rivulet</l>
+                     <l rend="i4" n="5605">The Bird of Ages stood.</l>
+                     <l rend="i0" n="5606">No sound intruded on his solitude,</l>
+                     <l rend="i2" n="5607">Only the rivulet was heard</l>
+                     <l rend="i4" n="5608">Whose everlasting flow</l>
+                     <l rend="i2" n="5609">From the birth-day of <placeName ref="the_world">the
+                           world</placeName> had made</l>
+                     <l rend="i2" n="5610">The same unvaried murmuring.</l>
+                     <l rend="i4" n="5611">Here dwelt the all-knowing Bird</l>
+                     <l rend="i4" n="5612">In deep tranquillity,</l>
+                     <l rend="i4" n="5613">His eyelids ever closed</l>
+                     <l rend="i0" n="5614">In full enjoyment of profound repose.</l>
+                  </lg>
+                  <lg xml:id="B11_lg672">
+                     <l rend="i2" n="5615">Reverently the youth approached</l>
+                     <l rend="i4" n="5616">That old and only
+                           <note type="author" anchored="true" xml:id="N_175">
+                              <p> In the Bahar-Danush the Simorg is mentioned as a genus—not an
+                                 individual, this is heresy,—the unity of the Simorg being expressed
+                                 in all the books of canonical Romance. </p>
+                              <p> The Simorg is a monstrous Bird like a Griffin; in <hi rend="italic">the History of Caherman</hi>, he is made to say,
+                                 That he had existed through all the revolutions of ages and of
+                                 created things, which passed before the time of Adam. These created
+                                 things were reasonable beings, but had not human shape. They were
+                                 governed by the various Solomons mentioned in the note Vol. I. Page
+                                 214.</p>
+                           </note>
+                         Bird,</l>
+                     <l rend="i2" n="5617">And crossed his arms upon his breast,</l>
+                     <l rend="i4" n="5618">And bowed his head and spake.</l>
+                     <l rend="i4" n="5619">"Earliest of existing things,</l>
+                     <l rend="i4" n="5620">"Earliest thou, and wisest thou,</l>
+                     <l rend="i4" n="5621">"Guide me, guide me, on my way!</l>
+                     <l rend="i4" n="5622">"I am bound to seek the caverns</l>
+                     <l rend="i4" n="5623">"<rs type="metaplace" subtype="under" ref="Under_Ocean">Underneath the roots of Ocean</rs>
+                     </l>
+                     <l rend="i4" n="5624">"Where the Sorcerer brood are nurst.</l>
+                     <l rend="i4" n="5625">"Thou the eldest, thou the wisest,</l>
+                     <l rend="i4" n="5626">"Guide me, guide me, on my way!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg673">
+                     <l rend="i2" n="5627">The ancient Simorg on the youth</l>
+                     <l rend="i4" n="5628">Unclosed his thoughtful eyes,</l>
+                     <l rend="i4" n="5629">And answered to his prayer.</l>
+                     <l rend="i2" n="5630">"Northward by the stream proceed,</l>
+                     <l rend="i2" n="5631">"In the fountain of the rock</l>
+                     <l rend="i2" n="5632">"Wash away thy worldly stains,</l>
+                     <l rend="i2" n="5633">"Kneel thou there, and seek the Lord</l>
+                     <l rend="i2" n="5634">"And fortify thy soul with prayer.</l>
+                     <l rend="i2" n="5635">"Thus prepared ascend the Sledge,</l>
+                     <l rend="i2" n="5636">"Be bold, be wary, seek and find!</l>
+                     <l rend="i4" n="5637">"<name type="divin">God</name> hath appointed all."</l>
+                     <l rend="i0" n="5638">The ancient Simorg then let fall his lids</l>
+                     <l rend="i4" n="5639">Returning to repose.</l>
+                  </lg>
+                  <lg xml:id="B11_lg674">
+                     <l rend="i2" n="5640">Northward along the rivulet</l>
+                     <l rend="i4" n="5641">The adventurer went his way,</l>
+                     <l rend="i0" n="5642">Tracing its waters upward to their source.</l>
+                     <l rend="i4" n="5643">Green Bird of <rs type="metaplace" subtype="garden">Paradise</rs>
+                     </l>
+                     <l rend="i4" n="5644">Thou hast not left the youth;...</l>
+                     <l rend="i4" n="5645">With slow associate flight</l>
+                     <l rend="i4" n="5646">She companies his way,</l>
+                     <l rend="i0" n="5647">And now they reach the fountain of the rock.</l>
+                  </lg>
+                  <lg xml:id="B11_lg675">
+                     <l rend="i4" n="5648">There in the cold clear well</l>
+                     <l rend="i0" n="5649">Thalaba washed away his earthly stains,</l>
+                     <l rend="i2" n="5650">And bowed his face before the Lord,</l>
+                     <l rend="i2" n="5651">And fortified his soul with prayer.</l>
+                     <l rend="i4" n="5652">The while upon the rock</l>
+                     <l rend="i4" n="5653">Stood the celestial Bird,</l>
+                     <l rend="i0" n="5654">And pondering all the perils he must pass,</l>
+                     <l rend="i2" n="5655">With a mild melancholy eye</l>
+                     <l rend="i4" n="5656">Beheld the youth beloved.</l>
+                  </lg>
+                  <lg xml:id="B11_lg676">
+                     <l rend="i0" n="5657">And lo! beneath yon lonely pine, the sledge....</l>
+                     <l rend="i2" n="5658">And there they stand the harnessed Dogs,</l>
+                     <l rend="i2" n="5659">Their wide eyes watching for the youth,</l>
+                     <l rend="i0" n="5660">Their ears erected turned towards his way.</l>
+                     <l rend="i2" n="5661">They were lean as lean might be,</l>
+                     <l rend="i2" n="5662">Their furrowed ribs rose prominent,</l>
+                     <l rend="i2" n="5663">And they were black from head to foot,</l>
+                     <l rend="i2" n="5664">Save a white line on every breast</l>
+                     <l rend="i4" n="5665">Curved like the crescent moon.</l>
+                     <l rend="i2" n="5666">And he is seated in the sledge,</l>
+                     <l rend="i2" n="5667">His arms are folded on his breast,</l>
+                     <l rend="i4" n="5668">The bird is on his knees;</l>
+                     <l rend="i2" n="5669">There is fear in the eyes of the Dogs,</l>
+                     <l rend="i2" n="5670">There is fear in their pitiful moan,</l>
+                     <l rend="i4" n="5671">And now they turn their heads,</l>
+                     <l rend="i4" n="5672">And seeing him there, Away!</l>
+                  </lg>
+                  <lg xml:id="B11_lg677">
+                     <l rend="i2" n="5673">The Youth with the start of their speed</l>
+                     <l rend="i2" n="5674">Falls back to the bar of the sledge,</l>
+                     <l rend="i0" n="5675">His hair floats straight in the stream of the wind</l>
+                     <l rend="i2" n="5676">Like the weeds in the running brook.</l>
+                     <l rend="i2" n="5677">They wind with speed the upward way,</l>
+                     <l rend="i2" n="5678">An icey path thro' rocks of ice,</l>
+                     <l rend="i2" n="5679">His eye is at the summit now,</l>
+                     <l rend="i2" n="5680">And thus far all is dangerless,</l>
+                     <l rend="i4" n="5681">And now upon the height</l>
+                     <l rend="i4" n="5682">The black Dogs pause and pant,</l>
+                     <l rend="i2" n="5683">They turn their eyes to Thalaba</l>
+                     <l rend="i4" n="5684">As if to plead for pity,</l>
+                     <l rend="i4" n="5685">They moan and moan with fear.</l>
+                  </lg>
+                  <lg xml:id="B11_lg678">
+                     <l rend="i4" n="5686">Once more away! and now</l>
+                     <l rend="i4" n="5687">The long descent is seen,</l>
+                     <l rend="i4" n="5688">A long, long, narrow path.</l>
+                     <l rend="i2" n="5689">Ice-rocks aright and hills of snow,</l>
+                     <l rend="i2" n="5690">Aleft the giddy precipice.</l>
+                     <l rend="i2" n="5691">Be firm, be firm, O Thalaba!</l>
+                     <l rend="i4" n="5692">One motion now, one bend,</l>
+                     <l rend="i4" n="5693">And on the crags below</l>
+                     <l rend="i0" n="5694">Thy shattered flesh will harden in the frost.</l>
+                     <l rend="i2" n="5695">Why howl the Dogs so mournfully?</l>
+                     <l rend="i2" n="5696">And wherefore does the blood flow fast</l>
+                     <l rend="i2" n="5697">All purple o'er their sable hair?</l>
+                     <l rend="i2" n="5698">His arms are folded on his breast,</l>
+                     <l rend="i4" n="5699">Nor scourge nor goad has he,</l>
+                     <l rend="i4" n="5700">No hand appears to strike,</l>
+                     <l rend="i4" n="5701">No sounding lash is heard:</l>
+                     <l rend="i2" n="5702">But piteously they moan and moan</l>
+                     <l rend="i4" n="5703">And track their way with blood.</l>
+                  </lg>
+                  <lg xml:id="B11_lg679">
+                     <l rend="i4" n="5704">And lo! on yonder height</l>
+                     <l rend="i4" n="5705">A giant Fiend aloft</l>
+                     <l rend="i0" n="5706">Waits to thrust down the tottering Avalanche!</l>
+                     <l rend="i2" n="5707">If Thalaba looks back he dies,</l>
+                     <l rend="i2" n="5708">The motion of fear is death.</l>
+                     <l rend="i2" n="5709">On ... on ... with swift and steady pace</l>
+                     <l rend="i4" n="5710">Adown that dreadful way!</l>
+                     <l rend="i2" n="5711">The youth is firm, the Dogs are fleet,</l>
+                     <l rend="i4" n="5712">The Sledge goes rapidly,</l>
+                     <l rend="i2" n="5713">The thunder of the avalanche</l>
+                     <l rend="i4" n="5714">Re-echoes far behind.</l>
+                     <l rend="i2" n="5715">On ... on ... with swift and steady pace</l>
+                     <l rend="i4" n="5716">Adown that dreadful way!</l>
+                     <l rend="i2" n="5717">The Dogs are fleet, the way is steep</l>
+                     <l rend="i4" n="5718">The Sledge goes rapidly,</l>
+                     <l rend="i4" n="5719">They reach the plain below.</l>
+                  </lg>
+                  <lg xml:id="B11_lg680">
+                     <l rend="i2" n="5720">A wide, wide plain, all desolate,</l>
+                     <l rend="i4" n="5721">Nor tree, nor bush, nor herb!</l>
+                     <l rend="i2" n="5722">On go the Dogs with rapid step,</l>
+                     <l rend="i2" n="5723">The Sledge slides after rapidly,</l>
+                     <l rend="i4" n="5724">And now the Sun went down.</l>
+                     <l rend="i2" n="5725">They stopt and looked at Thalaba,</l>
+                     <l rend="i4" n="5726">The Youth performed his prayer;</l>
+                     <l rend="i2" n="5727">They knelt beside him as he prayed</l>
+                     <l rend="i4" n="5728">They turned their heads to
+                        <placeName>Mecca</placeName>
+                     </l>
+                     <l rend="i4" n="5729">And tears ran down their cheeks.</l>
+                     <l rend="i2" n="5730">Then down they laid them in the snow</l>
+                     <l rend="i4" n="5731">As close as they could lie,</l>
+                     <l rend="i4" n="5732">They laid them down and slept.</l>
+                     <l rend="i4" n="5733">And backward in the sledge</l>
+                     <l rend="i4" n="5734">The Adventurer laid him down,</l>
+                     <l rend="i2" n="5735">There peacefully slept Thalaba,</l>
+                     <l rend="i2" n="5736">And the Green Bird of <rs type="metaplace" subtype="garden">Paradise</rs>
+                     </l>
+                     <l rend="i4" n="5737">Lay in his bosom warm.</l>
+                  </lg>
+                  <lg xml:id="B11_lg681">
+                     <l rend="i2" n="5738">The Dogs awoke him at the dawn,</l>
+                     <l rend="i4" n="5739">They knelt and wept again;</l>
+                     <l rend="i2" n="5740">Then rapidly they journeyed on,</l>
+                     <l rend="i2" n="5741">And still the plain was desolate,</l>
+                     <l rend="i4" n="5742">Nor tree, nor bush, nor herb!</l>
+                     <l rend="i2" n="5743">And ever at the hour of prayer</l>
+                     <l rend="i4" n="5744">They stopt, and knelt, and wept;</l>
+                     <l rend="i2" n="5745">And still that green and graceful Bird</l>
+                     <l rend="i2" n="5746">Was as a friend to him by day,</l>
+                     <l rend="i2" n="5747">And ever when at night he slept</l>
+                     <l rend="i4" n="5748">Lay in his bosom warm.</l>
+                     <l rend="i2" n="5749">In that most utter solitude</l>
+                     <l rend="i4" n="5750">It cheered his heart to hear</l>
+                     <l rend="i4" n="5751">Her soft and soothing voice;</l>
+                     <l rend="i4" n="5752">Her voice was soft and sweet,</l>
+                     <l rend="i2" n="5753">It swelled not with the blackbird's thrill,</l>
+                     <l rend="i0" n="5754">Nor warbled rich like the dear bird, that holds</l>
+                     <l rend="i4" n="5755">The solitary man</l>
+                     <l rend="i0" n="5756">A loiterer in his thoughtful walk at eve;</l>
+                     <l rend="i2" n="5757">But if no overflowing joy</l>
+                     <l rend="i2" n="5758">Spake in its tones of tenderness</l>
+                     <l rend="i4" n="5759">They soothed the softened soul.</l>
+                     <l rend="i2" n="5760">Her bill was not the beak of blood;</l>
+                     <l rend="i0" n="5761">There was a human meaning in her eye,</l>
+                     <l rend="i0" n="5762">Its mild affection fixed on Thalaba</l>
+                     <l rend="i4" n="5763">Woke wonder while he gazed</l>
+                     <l rend="i0" n="5764">And made her dearer for the mystery.</l>
+                  </lg>
+                  <lg xml:id="B11_lg682">
+                     <l rend="i2" n="5765">Oh joy! the signs of life appear,</l>
+                     <l rend="i4" n="5766">The first and single Fir</l>
+                     <l rend="i0" n="5767">That on the limits of <placeName ref="the_world">the
+                           living world</placeName>
+                     </l>
+                     <l rend="i4" n="5768">Strikes in the ice its roots.</l>
+                     <l rend="i2" n="5769">Another, and another now;</l>
+                     <l rend="i2" n="5770">And now the Larch that flings its arms</l>
+                     <l rend="i2" n="5771">Down arching like the falling wave;</l>
+                     <l rend="i2" n="5772">And now the Aspin's scattered leaves</l>
+                     <l rend="i2" n="5773">Grey glitter on the moveless twig;</l>
+                     <l rend="i2" n="5774">The Poplar's varying verdure now,</l>
+                     <l rend="i2" n="5775">And now the Birch so beautiful,</l>
+                     <l rend="i4" n="5776">Light as a Lady's plumes.</l>
+                     <l rend="i2" n="5777">Oh joy! the signs of life! the Deer</l>
+                     <l rend="i2" n="5778">Hath left his slot beside the way;</l>
+                     <l rend="i2" n="5779">The little Ermine now is seen</l>
+                     <l rend="i4" n="5780">White wanderer of the snow;</l>
+                     <l rend="i2" n="5781">And now from yonder pines they hear</l>
+                     <l rend="i2" n="5782">The clatter of the Grouse's wings:</l>
+                     <l rend="i2" n="5783">And now the snowy Owl pursues</l>
+                     <l rend="i2" n="5784">The Traveller's sledge in hope of food;</l>
+                     <l rend="i2" n="5785">And hark! the rosy-breasted bird</l>
+                     <l rend="i4" n="5786">The Throstle of sweet song!</l>
+                     <l rend="i2" n="5787">Joy! joy! the winter-wilds are left!</l>
+                     <l rend="i2" n="5788">Green bushes now and greener grass,</l>
+                     <l rend="i2" n="5789">Red thickets here all berry-bright,</l>
+                     <l rend="i4" n="5790">And here the lovely flowers!</l>
+                  </lg>
+                  <lg xml:id="B11_lg683">
+                     <l rend="i0" n="5791">When the last morning of their way arrived,</l>
+                     <l rend="i4" n="5792">After the early prayer,</l>
+                     <l rend="i2" n="5793">The Green Bird fixed on Thalaba</l>
+                     <l rend="i2" n="5794">A sad and supplicating eye,</l>
+                     <l rend="i2" n="5795">And with a human voice she spake,</l>
+                     <l rend="i2" n="5796">"Servant of God, I leave thee now.</l>
+                     <l rend="i2" n="5797">"If rightly I have guided thee,</l>
+                     <l rend="i4" n="5798">"Give me the boon I beg!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg684">
+                     <l rend="i2" n="5799">"O gentle Bird," quoth Thalaba,</l>
+                     <l rend="i0" n="5800">"Guide and companion of my dangerous way,</l>
+                     <l rend="i0" n="5801">"Friend and sole solace of my solitude,</l>
+                     <l rend="i0" n="5802">"How can I pay thee benefits like these!</l>
+                     <l rend="i2" n="5803">"Ask what thou wilt that I can give,</l>
+                     <l rend="i2" n="5804">"O gentle Bird, the poor return</l>
+                     <l rend="i4" n="5805">"Will leave me debtor still!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg685">
+                     <l rend="i2" n="5806">"Son of Hodeirah!" she replied,</l>
+                     <l rend="i0" n="5807">"When thou shalt see an Old Man crushed beneath</l>
+                     <l rend="i0" n="5808">"The burthen of his earthly punishment,</l>
+                     <l rend="i4" n="5809">"Forgive him, Thalaba!</l>
+                     <l rend="i0" n="5810">"Yea, send a prayer to<name type="divin">God</name>on his
+                        behalf!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg686">
+                     <l rend="i0" n="5811">A flush o'erspread the young Destroyer's cheek,</l>
+                     <l rend="i2" n="5812">He turned his eye towards the Bird</l>
+                     <l rend="i0" n="5813">As if in half repentance; for he thought</l>
+                     <l rend="i0" n="5814">Of Okba; and his Father's dying groan</l>
+                     <l rend="i0" n="5815">Came on his memory. The celestial Bird</l>
+                     <l rend="i4" n="5816">Saw and renewed her speech.</l>
+                     <l rend="i0" n="5817">"O Thalaba, if she who in thine arms</l>
+                     <l rend="i0" n="5818">"Received the dagger-blow and died for thee,</l>
+                     <l rend="i0" n="5819">"Deserve one kind remembrance ... save, O save</l>
+                     <l rend="i0" n="5820">"The Father that she loved from endless death!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg687">
+                     <l rend="i0" n="5821">"Laila! and is it thou?" the youth replied:</l>
+                     <l rend="i0" n="5822">"What is there that I durst refuse to thee?</l>
+                     <l rend="i0" n="5823">"This is no time to harbour in my heart</l>
+                     <l rend="i0" n="5824">"One evil thought ... here I put off revenge,</l>
+                     <l rend="i0" n="5825">"The last rebellious feeling ... be it so!</l>
+                     <l rend="i0" n="5826">"<name type="divin">God</name> grant to me the pardon
+                        that I need</l>
+                     <l rend="i4" n="5827">"As I do pardon him!</l>
+                     <l rend="i2" n="5828">"But who am I that I should save</l>
+                     <l rend="i4" n="5829">"The sinful soul alive?"</l>
+                  </lg>
+                  <lg xml:id="B11_lg688">
+                     <l rend="i0" n="5830">"Enough!" said Laila. "When the hour shall come</l>
+                     <l rend="i2" n="5831">"Remember me! my task is done.</l>
+                     <l rend="i2" n="5832">"We meet again in <rs type="metaplace" subtype="divin">Paradise</rs>!"</l>
+                     <l rend="i0" n="5833">She said and shook her wings, and up she soared</l>
+                     <l rend="i0" n="5834">With arrow-swiftness thro' the heights of Heaven.</l>
+                  </lg>
+                  <lg xml:id="B11_lg689">
+                     <l rend="i2" n="5835">His aching eye pursued her path,</l>
+                     <l rend="i2" n="5836">When starting onward went the Dogs,</l>
+                     <l rend="i2" n="5837">More rapidly they hurried on</l>
+                     <l rend="i4" n="5838">In hope of near repose.</l>
+                     <l rend="i2" n="5839">It was the early morning yet</l>
+                     <l rend="i2" n="5840">When by the well-head of a brook</l>
+                     <l rend="i4" n="5841">They stopt, their journey done.</l>
+                     <l rend="i2" n="5842">The spring was clear, the water deep,</l>
+                     <l rend="i2" n="5843">A venturous man were he and rash</l>
+                     <l rend="i4" n="5844">That should have probed its depths,</l>
+                     <l rend="i2" n="5845">For all its loosened bed below</l>
+                     <l rend="i4" n="5846">Heaved strangely up and down,</l>
+                     <l rend="i2" n="5847">And to and fro, from side to side</l>
+                     <l rend="i4" n="5848">It heaved, and waved, and tossed,</l>
+                     <l rend="i4" n="5849">And yet the depths were clear,</l>
+                     <l rend="i2" n="5850">And yet no ripple wrinkled o'er</l>
+                     <l rend="i4" n="5851">The face of that fair Well.</l>
+                  </lg>
+                  <lg xml:id="B11_lg690">
+                     <l rend="i2" n="5852">And on that Well so strange and fair</l>
+                     <l rend="i4" n="5853">A little boat there lay,</l>
+                     <l rend="i2" n="5854">Without on oar, without a sail,</l>
+                     <l rend="i2" n="5855">One only seat it had, one seat</l>
+                     <l rend="i2" n="5856">As if for only Thalaba.</l>
+                     <l rend="i2" n="5857">And at the helm a Damsel stood</l>
+                     <l rend="i2" n="5858">A Damsel bright and bold of eye,</l>
+                     <l rend="i2" n="5859">Yet did a maiden modesty</l>
+                     <l rend="i4" n="5860">Adorn her fearless brow.</l>
+                     <l rend="i2" n="5861">She seemed sorrowful, but sure</l>
+                     <l rend="i4" n="5862">More beautiful for sorrow.</l>
+                     <l rend="i2" n="5863">To her the Dogs looked wistful up,</l>
+                     <l rend="i4" n="5864">And then their tongues were loosed,</l>
+                     <l rend="i2" n="5865">"Have we done well, O Mistress dear!</l>
+                     <l rend="i4" n="5866">"And shall our sufferings end?"</l>
+                  </lg>
+                  <lg xml:id="B11_lg691">
+                     <l rend="i2" n="5867">The gentle Damsel made reply,</l>
+                     <l rend="i2" n="5868">"Poor Servants of the<name type="divin">God</name>I
+                        serve,</l>
+                     <l rend="i2" n="5869">"When all this witchery is destroyed</l>
+                     <l rend="i4" n="5870">"Your woes will end with mine.</l>
+                     <l rend="i2" n="5871">"A hope, alas! how long unknown!</l>
+                     <l rend="i4" n="5872">"This new adventurer gives:</l>
+                     <l rend="i2" n="5873">"Now<name type="divin">God</name>forbid that he, like
+                        you,</l>
+                     <l rend="i4" n="5874">"Should perish for his fears!</l>
+                     <l rend="i2" n="5875">"Poor Servants of the<name type="divin">God</name>I
+                        serve</l>
+                     <l rend="i4" n="5876">"Wait ye the event in peace."</l>
+                     <l rend="i0" n="5877">A deep and total slumber as she spake</l>
+                     <l rend="i0" n="5878">Seized them. Sleep on, poor sufferers! be at rest!</l>
+                     <l rend="i0" n="5879">Ye wake no more to anguish. Ye have borne</l>
+                     <l rend="i0" n="5880">The Chosen, the Destroyer! soon his hand</l>
+                     <l rend="i4" n="5881">Shall strike the efficient blow,</l>
+                     <l rend="i0" n="5882">Soon shaking off your penal forms shall ye</l>
+                     <l rend="i0" n="5883">With songs of joy amid the Eden groves</l>
+                     <l rend="i4" n="5884">Hymn the Deliverer's praise!</l>
+                  </lg>
+                  <lg xml:id="B11_lg692">
+                     <l rend="i0" n="5885">Then did the Damsel say to Thalaba,</l>
+                     <l rend="i2" n="5886">"The morn is young, the Sun is fair</l>
+                     <l rend="i2" n="5887">"And pleasantly thro' pleasant banks</l>
+                     <l rend="i4" n="5888">"The quiet brook flows on....</l>
+                     <l rend="i4" n="5889">"Wilt thou embark with me?</l>
+                     <l rend="i2" n="5890">"Thou knowest not the water's way,</l>
+                     <l rend="i2" n="5891">"Think Stranger well! and night must come,...</l>
+                     <l rend="i4" n="5892">"Wilt thou embark with me?</l>
+                     <l rend="i2" n="5893">"Thro' fearful perils thou must pass,...</l>
+                     <l rend="i2" n="5894">"Stranger, the oppressed ask thine aid!</l>
+                     <l rend="i4" n="5895">"Thou wilt embark with me!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg693">
+                     <l rend="i2" n="5896">She smiled in tears upon the youth,...</l>
+                     <l rend="i2" n="5897">What heart were his who could gainsay</l>
+                     <l rend="i4" n="5898">That melancholy smile?</l>
+                     <l rend="i2" n="5899">"Sail on, sail on," quoth Thalaba,</l>
+                     <l rend="i4" n="5900">"Sail on, in <name type="divin">Allah</name>'s name!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg694">
+                     <l rend="i2" n="5901">He sate him on the single seat,</l>
+                     <l rend="i4" n="5902">The little boat moved on.</l>
+                     <l rend="i2" n="5903">Thro' pleasant banks the quiet brook</l>
+                     <l rend="i4" n="5904">Went winding pleasantly;</l>
+                     <l rend="i2" n="5905">By fragrant fir groves now it past,</l>
+                     <l rend="i4" n="5906">And now thro' alder-shores,</l>
+                     <l rend="i2" n="5907">Thro' green and fertile meadows now</l>
+                     <l rend="i4" n="5908">It silently ran by.</l>
+                     <l rend="i2" n="5909">The flag-flower blossomed on its side,</l>
+                     <l rend="i4" n="5910">The willow tresses waved,</l>
+                     <l rend="i2" n="5911">The flowing current furrowed round</l>
+                     <l rend="i2" n="5912">The water-lilly's floating leaf,</l>
+                     <l rend="i2" n="5913">The fly of green and gauzy wing</l>
+                     <l rend="i4" n="5914">Fell sporting down its course.</l>
+                     <l rend="i2" n="5915">And grateful to the voyager</l>
+                     <l rend="i2" n="5916">The freshness of the running stream,</l>
+                     <l rend="i4" n="5917">The murmur round the prow.</l>
+                     <l rend="i2" n="5918">The little boat falls rapidly</l>
+                     <l rend="i4" n="5919">Adown the rapid brook.</l>
+                  </lg>
+                  <lg xml:id="B11_lg695">
+                     <l rend="i2" n="5920">But many a silent spring meantime,</l>
+                     <l rend="i4" n="5921">And many a rivulet</l>
+                     <l rend="i4" n="5922">Had swoln the growing brook,</l>
+                     <l rend="i2" n="5923">And when the southern Sun began</l>
+                     <l rend="i2" n="5924">To wind the downward way of heaven,</l>
+                     <l rend="i2" n="5925">It ran a river deep and wide</l>
+                     <l rend="i4" n="5926">Thro' banks that widened still.</l>
+                     <l rend="i2" n="5927">Then once again the Damsel spake,</l>
+                     <l rend="i2" n="5928">"The stream is strong, the river broad,</l>
+                     <l rend="i4" n="5929">"Wilt thou go on with me?</l>
+                     <l rend="i2" n="5930">"The day is fair but night must come....</l>
+                     <l rend="i4" n="5931">"Wilt thou go on with me?</l>
+                     <l rend="i2" n="5932">"Far far away the mourner's eye</l>
+                     <l rend="i2" n="5933">"Is watching; for our little boat....</l>
+                     <l rend="i4" n="5934">"Thou wilt go on with me!"</l>
+                     <l rend="i2" n="5935">"Sail on, sail on," quoth Thalaba,</l>
+                     <l rend="i4" n="5936">"Sail on, in <name type="divin">Allah</name>'s name!"</l>
+                     <l rend="i2" n="5937">The little boat falls rapidly</l>
+                     <l rend="i4" n="5938">Adown the river-stream.</l>
+                  </lg>
+                  <lg xml:id="B11_lg696">
+                     <l rend="i2" n="5939">A broader and a broader stream.</l>
+                     <l rend="i4" n="5940">That rocked the little boat!</l>
+                     <l rend="i2" n="5941">The Cormorant stands upon its shoals,</l>
+                     <l rend="i4" n="5942">His black and dripping wings</l>
+                     <l rend="i4" n="5943">Half opened to the wind.</l>
+                     <l rend="i2" n="5944">The Sun goes down, the crescent Moon</l>
+                     <l rend="i2" n="5945">Is brightening in the firmament;</l>
+                     <l rend="i4" n="5946">And what is yonder roar</l>
+                     <l rend="i2" n="5947">That sinking now and swelling now,</l>
+                     <l rend="i4" n="5948">But roaring, roaring still,</l>
+                     <l rend="i4" n="5949">Still louder, louder, grows?</l>
+                     <l rend="i2" n="5950">The little boat falls rapidly</l>
+                     <l rend="i4" n="5951">Adown the rapid tide,</l>
+                     <l rend="i4" n="5952">The Moon is bright above,</l>
+                     <l rend="i0" n="5953">And the wide <placeName ref="Ocean">Ocean</placeName>
+                        opens on their way!</l>
+                  </lg>
+                  <lg xml:id="B11_lg697">
+                     <l rend="i2" n="5954">Then did the Damsel speak again</l>
+                     <l rend="i4" n="5955">"Wilt thou go on with me?</l>
+                     <l rend="i2" n="5956">"The Moon is bright, the sea is calm</l>
+                     <l rend="i2" n="5957">"And I know well the <placeName ref="Ocean">ocean-paths</placeName>;...</l>
+                     <l rend="i4" n="5958">"Wilt thou go on with me?</l>
+                     <l rend="i2" n="5959">"Deliverer! yes! thou dost not fear!</l>
+                     <l rend="i4" n="5960">"Thou wilt go on with me!"</l>
+                     <l rend="i2" n="5961">"Sail on, sail on!" quoth Thalaba</l>
+                     <l rend="i4" n="5962">"Sail on, in <name type="divin">Allah</name>'s name!"</l>
+                  </lg>
+                  <lg xml:id="B11_lg698">
+                     <l rend="i2" n="5963">The Moon is bright, the sea is calm,</l>
+                     <l rend="i2" n="5964">The little boat rides rapidly</l>
+                     <l rend="i4" n="5965">Across <placeName ref="Ocean">the ocean
+                        waves</placeName>;</l>
+                     <l rend="i2" n="5966">The line of moonlight on the deep</l>
+                     <l rend="i2" n="5967">Still follows as they voyage on;</l>
+                     <l rend="i4" n="5968">The winds are motionless;</l>
+                     <l rend="i2" n="5969">The gentle waters gently part</l>
+                     <l rend="i4" n="5970">In murmurs round the prow.</l>
+                     <l rend="i2" n="5971">He looks above, he looks around,</l>
+                     <l rend="i2" n="5972">The boundless heaven, the boundless sea,</l>
+                     <l rend="i2" n="5973">The crescent moon, the little boat,</l>
+                     <l rend="i4" n="5974">Nought else above, below.</l>
+                  </lg>
+                  <lg xml:id="B11_lg699">
+                     <l rend="i2" n="5975">The Moon is sunk, a dusky grey</l>
+                     <l rend="i4" n="5976">Spreads o'er the Eastern sky,</l>
+                     <l rend="i4" n="5977">The Stars grow pale and paler;</l>
+                     <l rend="i2" n="5978">Oh beautiful! the godlike Sun</l>
+                     <l rend="i4" n="5979">Is rising o'er the sea!</l>
+                     <l rend="i2" n="5980">Without an oar, without a sail</l>
+                     <l rend="i2" n="5981">The little boat rides rapidly;...</l>
+                     <l rend="i2" n="5982">Is that a cloud that skirts the sea?</l>
+                     <l rend="i4" n="5983">There is no cloud in heaven!</l>
+                     <l rend="i2" n="5984">And nearer now, and darker now....</l>
+                     <l rend="i4" n="5985">It is ... it is ... the Land!</l>
+                     <l rend="i2" n="5986">For yonder are the rocks that rise</l>
+                     <l rend="i4" n="5987">Dark in the reddening morn,</l>
+                     <l rend="i2" n="5988">For loud around their hollow base</l>
+                     <l rend="i4" n="5989">The surges rage and roar.</l>
+                  </lg>
+                  <lg xml:id="B11_lg700">
+                     <l rend="i2" n="5990">The little boat rides rapidly,</l>
+                     <l rend="i2" n="5991">And now with shorter toss it heaves</l>
+                     <l rend="i4" n="5992">Upon the heavier swell;</l>
+                     <l rend="i4" n="5993">And now so near they see</l>
+                     <l rend="i2" n="5994">The shelves and shadows of the cliff,</l>
+                     <l rend="i4" n="5995">And the low-lurking rocks</l>
+                     <l rend="i2" n="5996">O'er whose black summits hidden-half</l>
+                     <l rend="i4" n="5997">The shivering billows burst.</l>
+                     <l rend="i0" n="5998">And nearer now they feel the breaker's spray.</l>
+                     <l rend="i0" n="5999">Then spake the Damsel, "yonder is our path</l>
+                     <l rend="i4" n="6000">"Beneath the cavern arch.</l>
+                     <l rend="i0" n="6001">"Now is the ebb, and till the <rs type="place" ref="Ocean">ocean-flow</rs>
+                     </l>
+                     <l rend="i2" n="6002">"We cannot over-ride the rocks.</l>
+                     <l rend="i4" n="6003">"Go thou and on the shore</l>
+                     <l rend="i0" n="6004">"Perform thy last ablutions, and with prayer</l>
+                     <l rend="i0" n="6005">"Strengthen thy heart.... I too have need to pray."</l>
+                  </lg>
+                  <lg xml:id="B11_lg701">
+                     <l rend="i2" n="6006">She held the helm with steady hand</l>
+                     <l rend="i4" n="6007">Amid the stronger waves,</l>
+                     <l rend="i4" n="6008">Thro' surge and surf she drove,</l>
+                     <l rend="i4" n="6009">The adventurer leapt to land.</l>
+                  </lg>
+               </div>
+      </body>
+   </text>
+</TEI>
